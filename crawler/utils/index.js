@@ -1,4 +1,5 @@
 import fs from 'fs'
+import path from 'path'
 import colors from 'colors'
 
 function getSeasonInfo($, selector) {
@@ -40,7 +41,8 @@ function formatEp(ep) {
 }
 
 function convertToJson(animes) {
-  const dir = 'datas/season.json'
+  // eslint-disable-next-line no-undef
+  const dir = path.resolve(__dirname, '../../datas/season.json')
   const json = JSON.stringify(animes, null, 2)
 
   try {
