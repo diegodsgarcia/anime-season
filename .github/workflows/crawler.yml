@@ -27,4 +27,11 @@ jobs:
       - run: cd api && npm install && npm start
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: EndBug/add-and-commit@v4
+        with:
+          add: 'data'  
+          author_name: Diego Garcia
+          author_email: diego.ds.garcia@gmail.com
+          force: false
+          message: 'update seasons'
         
