@@ -24,12 +24,12 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-      - run: cd api && npm install && npm start
+      - run: cd api && npm ci && npm start
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: EndBug/add-and-commit@v4
         with:
-          add: 'data'  
+          add: 'api/datas'  
           author_name: Diego Garcia
           author_email: diego.ds.garcia@gmail.com
           force: false
