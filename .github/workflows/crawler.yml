@@ -24,9 +24,7 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-      - run: cd api
-      - run: npm ci
-      - run: npm start
+      - run: cd api && npm install && npm start
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
