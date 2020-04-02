@@ -15,12 +15,17 @@ function getSeasonImage($) {
 
 
 function getSeasonsGenres($) {
-  return $('.seasonal-anime .genres-inner').map(function () {
+  const list = []
+  $('.seasonal-anime .genres-inner').each(function (i) {
 
-    return $(this).find('.genre').map((i, el) => {
+    const genres = $(this).find('.genre').map((j, el) => {
       return $(el).text().trim()
     }).get()
-  }).get()
+
+    list[i] = genres
+  })
+
+  return list
 }
 
 function formatEp(ep) {
