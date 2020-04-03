@@ -1,6 +1,12 @@
 import fs from 'fs'
 import path from 'path'
 import colors from 'colors'
+import { format } from 'date-fns'
+
+function getSeason($) {
+  const [season, year] = $('.navi-seasonal li a.on').text().trim().split(' ')
+  return { season, year }
+}
 
 function getSeasonInfo($, selector) {
   return $(`.seasonal-anime ${selector}`).map(function () {
@@ -29,6 +35,12 @@ function getSeasonsGenres($) {
   return list
 }
 
+function getCategory($) {
+  return $('.seasonal-anime').map(function () {
+    return $(this.parent).find('.anime-header').text().trim()
+  }).get()
+}
+
 function formatEp(ep) {
   const [number] = ep.split(' ')
   const result = Number(number)
@@ -54,4 +66,8 @@ function convertToJson(animes) {
   }
 }
 
-export { getSeasonInfo, getSeasonImage, getSeasonsGenres, formatEp, convertToJson }
+function getDateNow() {
+  return format(new Date(), 'yyyy-MM-dd')
+}
+
+export { getSeason, getSeasonInfo, getSeasonImage, getSeasonsGenres, getCategory, formatEp, convertToJson, getDateNow }

@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "crawler",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -11,6 +11,7 @@
     "axios": "^0.19.2",
     "cheerio": "^1.0.0-rc.3",
     "colors": "^1.4.0",
+    "date-fns": "^2.11.1",
     "express": "^4.17.1"
   },
   "devDependencies": {
