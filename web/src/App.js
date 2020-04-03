@@ -8,22 +8,26 @@ import List from './components/list'
 
 function App() {
   const [animes, setAnimes] = useState([])
+  const [info, setInfo] = useState(null)
 
   useEffect(() => {
-    getAnimesSeason().then(setAnimes)
+    getAnimesSeason().then(({ animes, season, year }) => {
+      setAnimes(animes)
+      setInfo({ season, year })
+    })
   }, [])
 
   return (
-    <>
+    <div className={info?.season.toLowerCase()}>
       <Global />
       <Header>
-        Spring 2020
+        {info ? `${info.season} -${info.year}` : ''}
       </Header>
 
       <Container>
         <List animes={animes} />
       </Container>
-    </>
+    </div>
   );
 }
 

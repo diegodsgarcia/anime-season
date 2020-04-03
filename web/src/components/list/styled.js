@@ -40,8 +40,8 @@ const Genres = styled.div`
 
   span {
     margin: 5px;
-    background-color: #000;
-    color: #fff;
+    background-color: var(--primary);
+    color: var(--contrast);
     padding: 5px 10px;
   }
 `

@@ -17,6 +17,27 @@ const Global = createGlobalStyle`
     font-family: 'Roboto', sans-serif;
     font-size: 1rem;
   }
+
+  :root {
+    --primary: transparent;
+    --contrast: #fff;
+  }
+
+  .winter {
+    --primary: #2a326f
+  }
+
+  .spring {
+    --primary: #ff006a
+  }
+
+  .summer {
+    --primary: #ff9800
+  }
+
+  .fall {
+    --primary: #4caf50
+  }
 `
 
 export default Global
