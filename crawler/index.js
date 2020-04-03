@@ -27,7 +27,7 @@ function formatSeasonAnimes($) {
   const categories = getCategory($)
 
   const result = {
-    season,
+    ...season,
     lastUpdate: getDateNow(),
     animes: titles.map((title, i) => ({
       title,
