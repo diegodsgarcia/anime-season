@@ -15,7 +15,7 @@ const List = ({ animes }) => (
         <S.Date>{date}</S.Date>
         <span>{producer}</span>
         <span>{eps}</span>
-        <S.Genres>{genres.map(genre => <span>{genre}</span>)}</S.Genres>
+        <S.Genres>{genres.map((genre, i) => <span key={i}>{genre}</span>)}</S.Genres>
       </S.Item>
     ))}
   </S.Container>
