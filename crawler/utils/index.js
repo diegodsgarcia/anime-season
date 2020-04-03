@@ -10,7 +10,7 @@ function getSeasonInfo($, selector) {
 
 function getSeasonImage($) {
   return $(`.seasonal-anime .image img`).map(function () {
-    return $(this).attr('src')
+    return $(this).attr('src') || $(this).attr('data-src')
   }).get()
 }
 
