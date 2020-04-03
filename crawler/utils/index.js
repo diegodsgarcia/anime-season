@@ -10,7 +10,7 @@ function getSeasonInfo($, selector) {
 
 function getSeasonImage($) {
   return $(`.seasonal-anime .image img`).map(function () {
-    return $(this).attr('data-src')
+    return $(this).attr('src')
   }).get()
 }
 
@@ -42,7 +42,7 @@ function formatEp(ep) {
 
 function convertToJson(animes) {
   // eslint-disable-next-line no-undef
-  const dir = path.resolve(__dirname, '../../datas/season.json')
+  const dir = path.resolve(__dirname, '../../web/datas/season.json')
   const json = JSON.stringify(animes, null, 2)
 
   try {
