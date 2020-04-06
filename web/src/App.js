@@ -7,6 +7,7 @@ import Global from './styled/global'
 import Header from './components/header'
 import Container from './components/container'
 import List from './components/list'
+import Info from './components/info'
 
 function App() {
   const [animes, setAnimes] = useState([])
@@ -29,6 +30,8 @@ function App() {
       <Container>
         <List list={animes} />
       </Container>
+
+      <Info />
     </div>
   );
 }

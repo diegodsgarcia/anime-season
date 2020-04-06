@@ -15,9 +15,9 @@ const List = ({ list }) => (
               <figure>
                 <img src={imageUrl} alt={title} />
               </figure>
-              <div className="info">{date}</div>
-              <div className="info">Producer - {producer}</div>
-              {eps && <div className="info">Ep - {eps}</div>}
+              <div className="info"><strong>Date</strong> {date}</div>
+              <div className="info"><strong>Producer </strong> {producer}</div>
+              {eps && <div className="info"><strong>Total eps.</strong>  {eps}</div>}
               <div className="info">{description}</div>
               <S.Genres>{genres.map((genre, i) => <span key={i}>{genre}</span>)}</S.Genres>
             </S.Item>
