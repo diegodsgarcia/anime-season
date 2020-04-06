@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-04-03",
+  "lastUpdate": "2020-04-06",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -36,22 +36,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
-      "description": "Second part of Sword Art Online: Alicization - War of Underworld.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1438/105106.jpg",
-      "date": "Apr 26, 2020, 00:00 (JST)",
-      "producer": "A-1 Pictures",
-      "eps": 11,
-      "genres": [
-        "Action",
-        "Game",
-        "Adventure",
-        "Romance",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Kami no Tou",
       "description": "Tower of God centers around a boy called Twenty-Fifth Bam, who has spent most of his life trapped beneath a vast and mysterious Tower, with only his close friend, Rachel, to keep him company. When Rachel enters the Tower, Bam manages to open the door into it as well, and faces challenges at each floor of this tower as he tries to find his closest companion.\n\n(Source: Wikipedia)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
@@ -63,6 +47,22 @@
         "Adventure",
         "Mystery",
         "Drama",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
+      "description": "Second part of Sword Art Online: Alicization - War of Underworld.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1438/105106.jpg",
+      "date": "Apr 26, 2020, 00:00 (JST)",
+      "producer": "A-1 Pictures",
+      "eps": 11,
+      "genres": [
+        "Action",
+        "Game",
+        "Adventure",
+        "Romance",
         "Fantasy"
       ],
       "category": "TV (New)"
@@ -187,6 +187,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "Hachi-nan tte, Sore wa Nai deshou!",
+      "description": "Shingo Ichinomiya, a 25-year-old man working at a firm company, while thinking of tomorrow's busy working day, goes to sleep. However, when he woke up, he found himself in a room unknown to him and realized that he is inside a 6-years-old body, taking over his body and mind. He soon learns from the memories of the boy that the boy was born as the youngest child of a poor noble family living in a back country. Having no administrative skill, he can't do anything to manage the vast land his family has. Fortunately, he is blessed with a very rare talent, the talent of magic. Unfortunately, while his talent could bring prosperity to his family, in his situation it only brought disaster. This is the story of the boy, Wendelin Von Benno Baumeister, opening his own path in a harsh world.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1146/106370.jpg",
+      "date": "Apr 2, 2020, 21:00 (JST)",
+      "producer": "Shin-Ei Animation, SynergySP",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Appare-Ranman!",
       "description": "During the back-end of the 19th century, the genius but socially awkward engineer Sorano Appare and the wise yet cowardly samurai Isshiki Kosame find themselves drifting in the sea between Japan and America. With no money, the duo decide to enter the Trans-America Wild Race to win the prize money so they can get home. The two encounter rivals, bandits, and challenges in the wilderness as they race through America, from the starting line in Los Angeles to the finish line in New York, in the steam-powered car they built.\n\n(Source: MAL News)\n\nEpisodes 1 and 2 were streamed in advance on March 21, 2020 on Docomo Anime Store. Regular broadcasting began on April 10, 2020.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1710/106614.jpg",
@@ -200,15 +213,18 @@
       "category": "TV (New)"
     },
     {
-      "title": "Hachi-nan tte, Sore wa Nai deshou!",
-      "description": "Shingo Ichinomiya, a 25-year-old man working at a firm company, while thinking of tomorrow's busy working day, goes to sleep. However, when he woke up, he found himself in a room unknown to him and realized that he is inside a 6-years-old body, taking over his body and mind. He soon learns from the memories of the boy that the boy was born as the youngest child of a poor noble family living in a back country. Having no administrative skill, he can't do anything to manage the vast land his family has. Fortunately, he is blessed with a very rare talent, the talent of magic. Unfortunately, while his talent could bring prosperity to his family, in his situation it only brought disaster. This is the story of the boy, Wendelin Von Benno Baumeister, opening his own path in a harsh world.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1146/106370.jpg",
-      "date": "Apr 2, 2020, 21:00 (JST)",
-      "producer": "Shin-Ei Animation, SynergySP",
-      "eps": 12,
+      "title": "Arte",
+      "description": "Arte was born into an aristocratic family in Florence during the 16th century Renaissance era. Being female, it was unheard of for one to become an artist. Driven by her love of art, Arte is willing to cast aside her aristocratic lifestyle to become an artist.\n\n(Source: Antisense Scanlations)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1922/105936.jpg",
+      "date": "Apr 4, 2020, 22:00 (JST)",
+      "producer": "Seven Arcs",
+      "eps": null,
       "genres": [
-        "Action",
-        "Fantasy"
+        "Slice of Life",
+        "Historical",
+        "Drama",
+        "Romance",
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -224,6 +240,19 @@
         "Sci-Fi",
         "Drama",
         "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Listeners",
+      "description": "Set in a world where the concept of music ceases to exist. The story begins when a boy encounters Myuu, a mysterious girl who possesses an audio input jack in her body. The two intermingle with the history of rock music and embark on an unforgettable journey.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1589/106391.jpg",
+      "date": "Apr 4, 2020, 01:55 (JST)",
+      "producer": "MAPPA",
+      "eps": 12,
+      "genres": [
+        "Sci-Fi",
+        "Music"
       ],
       "category": "TV (New)"
     },
@@ -257,44 +286,17 @@
       "category": "TV (New)"
     },
     {
-      "title": "Arte",
-      "description": "Arte was born into an aristocratic family in Florence during the 16th century Renaissance era. Being female, it was unheard of for one to become an artist. Driven by her love of art, Arte is willing to cast aside her aristocratic lifestyle to become an artist.\n\n(Source: Antisense Scanlations)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1922/105936.jpg",
-      "date": "Apr 4, 2020, 22:00 (JST)",
-      "producer": "Seven Arcs",
+      "title": "Nami yo Kiitekure",
+      "description": "The stage is Sapporo, Hokkaido. One night, our heroine, Minare Koda, spills her heartbroken woes to a radio station worker she meets while out drinking one night. The next day, she hears a recording of her pitiful grumbling being played live over the air. Minare storms into the station in a rage, only to then be duped by the station director into doing an impromptu talk show explaining her harsh dialogue. With just one recording, the many eccentric facets of Minare's life begin to pull every which direction as she falls ever deeper into the world of radio. \n\n(Source: Kodansha Comics)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1615/105582.jpg",
+      "date": "Apr 4, 2020, 02:25 (JST)",
+      "producer": "Sunrise",
       "eps": null,
       "genres": [
-        "Slice of Life",
-        "Historical",
+        "Comedy",
         "Drama",
         "Romance",
         "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Listeners",
-      "description": "Set in a world where the concept of music ceases to exist. The story begins when a boy encounters Myuu, a mysterious girl who possesses an audio input jack in her body. The two intermingle with the history of rock music and embark on an unforgettable journey.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1589/106391.jpg",
-      "date": "Apr 4, 2020, 01:55 (JST)",
-      "producer": "MAPPA",
-      "eps": 12,
-      "genres": [
-        "Sci-Fi",
-        "Music"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Tamayomi",
-      "description": "In her Junior High years, the pitcher Yomi Takeda was not able to get very far in a cross-school baseball tournament. Since the catcher on her team wasn't at her level, she couldn't use her signature move, the \"Magic Throw,\" and eventually regretted not being able to use it. After Junior High, she decided to stop playing baseball and went to Shin Koshigaya High School, a school without a baseball club.\n \nThere, she found her long lost childhood friend, Tamaki Yamazaki, who used to play catchball with her when they were kids. Tamaki also played baseball during her Junior High years as a catcher, and could even catch Yomi's \"Magic Throw!\"\n \nTheir promise with each other during their childhood could now be fulfilled! Walking together on the road of baseball once again...\n \nThe story of the girls who love baseball will begin!\n \n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1881/106156.jpg",
-      "date": "Apr 1, 2020, 22:00 (JST)",
-      "producer": "Studio A-CAT",
-      "eps": null,
-      "genres": [
-        "Sports",
-        "School"
       ],
       "category": "TV (New)"
     },
@@ -315,15 +317,15 @@
       "category": "TV (New)"
     },
     {
-      "title": "Jashin-chan Dropkick'",
-      "description": "Second season of Jashin-chan Dropkick.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1360/106360.jpg",
-      "date": "Apr 6, 2020, 22:30 (JST)",
-      "producer": "Nomad",
+      "title": "Tamayomi",
+      "description": "In her Junior High years, the pitcher Yomi Takeda was not able to get very far in a cross-school baseball tournament. Since the catcher on her team wasn't at her level, she couldn't use her signature move, the \"Magic Throw,\" and eventually regretted not being able to use it. After Junior High, she decided to stop playing baseball and went to Shin Koshigaya High School, a school without a baseball club.\n \nThere, she found her long lost childhood friend, Tamaki Yamazaki, who used to play catchball with her when they were kids. Tamaki also played baseball during her Junior High years as a catcher, and could even catch Yomi's \"Magic Throw!\"\n \nTheir promise with each other during their childhood could now be fulfilled! Walking together on the road of baseball once again...\n \nThe story of the girls who love baseball will begin!\n \n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1881/106156.jpg",
+      "date": "Apr 1, 2020, 22:00 (JST)",
+      "producer": "Studio A-CAT",
       "eps": null,
       "genres": [
-        "Comedy",
-        "Supernatural"
+        "Sports",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -343,17 +345,15 @@
       "category": "TV (New)"
     },
     {
-      "title": "Nami yo Kiitekure",
-      "description": "The stage is Sapporo, Hokkaido. One night, our heroine, Minare Koda, spills her heartbroken woes to a radio station worker she meets while out drinking one night. The next day, she hears a recording of her pitiful grumbling being played live over the air. Minare storms into the station in a rage, only to then be duped by the station director into doing an impromptu talk show explaining her harsh dialogue. With just one recording, the many eccentric facets of Minare's life begin to pull every which direction as she falls ever deeper into the world of radio. \n\n(Source: Kodansha Comics)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1615/105582.jpg",
-      "date": "Apr 3, 2020, 02:25 (JST)",
-      "producer": "Sunrise",
+      "title": "Jashin-chan Dropkick'",
+      "description": "Second season of Jashin-chan Dropkick.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1360/106360.jpg",
+      "date": "Apr 6, 2020, 22:30 (JST)",
+      "producer": "Nomad",
       "eps": null,
       "genres": [
         "Comedy",
-        "Drama",
-        "Romance",
-        "Seinen"
+        "Supernatural"
       ],
       "category": "TV (New)"
     },
@@ -373,6 +373,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Bungou to Alchemist: Shinpan no Haguruma",
+      "description": "You are in a world where you can meet famous Japanese historical writers. With a party composed of other writers, you delve into tainted books to purify them, unlock secrets, and gain new allies.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1642/106316.jpg",
+      "date": "Apr 4, 2020, 01:23 (JST)",
+      "producer": "OLM",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Princess Connect! Re:Dive",
       "description": "The protagonist wakes up with no memories in an unfamiliar location. The protagonist then meets girls and comes closer to uncovering a hidden mystery.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/106070.jpg",
@@ -383,6 +397,20 @@
         "Action",
         "Adventure",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Gal to Kyouryuu",
+      "description": "One day, Kaede, a gyaru, picks up a dinosaur and begins living with it. The short comedy depicts their daily lives together as the dinosaur consumes human food, watches TV, and enjoys fashionable things. Thus begins the story of a gal and a dinosaur cohabiting that transcends time.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1428/102874.jpg",
+      "date": "Apr 5, 2020, 01:00 (JST)",
+      "producer": "Kamikaze Douga, Space Neko Company",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -430,30 +458,14 @@
       "category": "TV (New)"
     },
     {
-      "title": "Gal to Kyouryuu",
-      "description": "One day, Kaede, a gyaru, picks up a dinosaur and begins living with it. The short comedy depicts their daily lives together as the dinosaur consumes human food, watches TV, and enjoys fashionable things. Thus begins the story of a gal and a dinosaur cohabiting that transcends time.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1428/102874.jpg",
-      "date": "Apr 5, 2020, 01:00 (JST)",
-      "producer": "Kamikaze Douga, Space Neko Company",
-      "eps": null,
+      "title": "IDOLiSH7: Second Beat!",
+      "description": "Second season of IDOLiSH7.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1962/106361.jpg",
+      "date": "Apr 5, 2020, 22:30 (JST)",
+      "producer": "TROYCA",
+      "eps": 15,
       "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Bungou to Alchemist: Shinpan no Haguruma",
-      "description": "You are in a world where you can meet famous Japanese historical writers. With a party composed of other writers, you delve into tainted books to purify them, unlock secrets, and gain new allies.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1642/106316.jpg",
-      "date": "Apr 4, 2020, 01:23 (JST)",
-      "producer": "OLM",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
+        "Music"
       ],
       "category": "TV (New)"
     },
@@ -615,6 +627,18 @@
       "category": "TV (New)"
     },
     {
+      "title": "Asatir: Mirai no Mukashi Banashi",
+      "description": "In 2050 Riyadh, elder Asma's richly captivating storytelling transports her cherished grandchildren to fabled times where they learn that modern-day dilemmas are no match for the trials, tribulations and words of wisdom passed from generation to generation through their fascinating folktales.\n\n(Source: Sentai Filmworks)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1365/106794.jpg",
+      "date": "Apr 4, 2020, 08:00 (JST)",
+      "producer": "Toei Animation",
+      "eps": 13,
+      "genres": [
+        "Adventure"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Gal-gaku.: Hijiri Girls Square Gakuin",
       "description": "The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/106284.jpg",
@@ -628,6 +652,22 @@
       "category": "TV (New)"
     },
     {
+      "title": "Kiratto Pri☆chan Season 3",
+      "description": "Third season of Kiratto Pri☆chan.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/105552.jpg",
+      "date": "Apr 5, 2020, 10:00 (JST)",
+      "producer": "Tatsunoko Production",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Slice of Life",
+        "Comedy",
+        "Magic",
+        "Shoujo"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Micchiri Wanko! Animation",
       "description": "Spin-off of Micchiri Neko.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1793/106522.jpg",
@@ -637,22 +677,6 @@
       "genres": [
         "Comedy",
         "Kids"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Kiratto Pri☆chan Season 3",
-      "description": "Third season of Kiratto Pri☆chan.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/105552.jpg",
-      "date": "Apr ??, 2020, 10:00 (JST)",
-      "producer": "Tatsunoko Production",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Slice of Life",
-        "Comedy",
-        "Magic",
-        "Shoujo"
       ],
       "category": "TV (New)"
     },
@@ -724,19 +748,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Hakushon Daimaou 2020",
-      "description": "50 years have passed since the events of the original Hakushon Daimaou series. Akubi is training to become queen when she meets Kantarou Yodama, the grandson of the genie bottle's original owner, Kan-chan. Together, Akubi and Kantarou take on many jobs in the human world and learn the importance of having a dream.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1621/105178.jpg",
-      "date": "Apr 11, 2020, 17:30 (JST)",
-      "producer": "Nippon Animation, Tatsunoko Production",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Duel Masters King",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1117/106742.jpg",
@@ -748,6 +759,19 @@
         "Adventure",
         "Comedy",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Hakushon Daimaou 2020",
+      "description": "50 years have passed since the events of the original Hakushon Daimaou series. Akubi is training to become queen when she meets Kantarou Yodama, the grandson of the genie bottle's original owner, Kan-chan. Together, Akubi and Kantarou take on many jobs in the human world and learn the importance of having a dream.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1621/105178.jpg",
+      "date": "Apr 11, 2020, 17:30 (JST)",
+      "producer": "Nippon Animation, Tatsunoko Production",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -999,18 +1023,6 @@
       "genres": [
         "Comedy",
         "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "IDOLiSH7: Second Beat!",
-      "description": "Second season of IDOLiSH7.\n\nThe first episode received a special screening at \"Idolish 7 Fan Thanksgiving Day vol.5\" on December 14, 2019 and it was distributed on various streaming websites on January 7, 2020. The regular TV broadcast began in April 5, 2020. (Source: AniDB)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1962/106361.jpg",
-      "date": "Jan 7, 2020, 22:30 (JST)",
-      "producer": "TROYCA",
-      "eps": 15,
-      "genres": [
-        "Music"
       ],
       "category": "TV (Continuing)"
     },
@@ -1530,19 +1542,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Oidon to",
-      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
-      "date": "Dec 2, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Sports",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Fuwafuwa Hour: Pui Pui & Muu Muu",
       "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
@@ -1552,6 +1551,19 @@
       "genres": [
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Oidon to",
+      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
+      "date": "Dec 2, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Sports",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1785,6 +1797,19 @@
       "category": "ONA"
     },
     {
+      "title": "Ma La Nu Pei",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/106704.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Mashin Eiyuuden Wataru: Nana Tamashii no Ryuujinmaru",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1324/103548.jpg",
@@ -1798,19 +1823,6 @@
         "Comedy",
         "Mecha",
         "Shounen"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Ma La Nu Pei",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/106704.jpg",
-      "date": "Apr 7, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Romance"
       ],
       "category": "ONA"
     },
@@ -1870,11 +1882,11 @@
       "category": "OVA"
     },
     {
-      "title": "Gishi wa Yan Mama Junyuu Chuu",
+      "title": "Kyonyuu Princess Saimin",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/105977.jpg",
-      "date": "Jun 5, 2020",
-      "producer": "T-Rex",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1216/105653.jpg",
+      "date": "Apr 3, 2020",
+      "producer": "-",
       "eps": 2,
       "genres": [
         "Hentai"
@@ -1882,11 +1894,11 @@
       "category": "OVA"
     },
     {
-      "title": "Kyonyuu Princess Saimin",
+      "title": "Gishi wa Yan Mama Junyuu Chuu",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1216/105653.jpg",
-      "date": "Apr 3, 2020",
-      "producer": "-",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/105977.jpg",
+      "date": "Jun 5, 2020",
+      "producer": "T-Rex",
       "eps": 2,
       "genres": [
         "Hentai"
@@ -2090,23 +2102,6 @@
       "category": "Movie"
     },
     {
-      "title": "Detective Conan Movie 24: Hiiro no Dangan",
-      "description": "24th Detective Conan Movie.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1865/105413.jpg",
-      "date": "Apr 17, 2020",
-      "producer": "TMS Entertainment",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Mystery",
-        "Comedy",
-        "Police",
-        "Drama",
-        "Shounen"
-      ],
-      "category": "Movie"
-    },
-    {
       "title": "Dounika Naru Hibi",
       "description": "A collection of short stories that take a refreshing and humorous look at the sexual relationships between young people in Japan.\n\n(Source: Kotonoha)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1924/106583.jpg",
@@ -2147,19 +2142,6 @@
         "Fantasy",
         "Magic",
         "Shoujo"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Crayon Shin-chan Movie 28: Gekitotsu! Rakugaki Kingdom to Hobo Yonin no Yuusha",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1659/104900.jpg",
-      "date": "Apr 24, 2020",
-      "producer": "Shin-Ei Animation",
-      "eps": 1,
-      "genres": [
-        "Comedy",
-        "Seinen"
       ],
       "category": "Movie"
     },
