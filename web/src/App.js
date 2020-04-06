@@ -20,7 +20,7 @@ function App() {
   return (
     <div className={info?.season.toLowerCase()}>
       <Global />
-      <Header>
+      <Header season={info?.season}>
         {info ? `${info.season} -${info.year}` : ''}
       </Header>
 
