@@ -32,11 +32,11 @@ const Global = createGlobalStyle`
   }
 
   .summer {
-    --primary: #ff9800
+    --primary: #4caf50 
   }
 
   .fall {
-    --primary: #4caf50
+    --primary: #ff9800
   }
 `
 
