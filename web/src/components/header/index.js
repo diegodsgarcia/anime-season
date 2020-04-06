@@ -23,10 +23,10 @@ function checkIconSeason(season) {
 
 const Header = ({ season, children }) => (
   <S.Container>
-    <S.Title>{children}</S.Title>
     <S.Icon>
       {checkIconSeason(season)}
     </S.Icon>
+    <S.Title>{children}</S.Title>
   </S.Container>
 )
 
