@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react'
+
 import { getAnimesSeason } from './service/api'
+import { listAnimes } from './utils'
 
 import Global from './styled/global'
 import Header from './components/header'
@@ -12,7 +14,7 @@ function App() {
 
   useEffect(() => {
     getAnimesSeason().then(({ animes, season, year }) => {
-      setAnimes(animes)
+      setAnimes(listAnimes(animes))
       setInfo({ season, year })
     })
   }, [])
@@ -25,7 +27,7 @@ function App() {
       </Header>
 
       <Container>
-        <List animes={animes} />
+        <List list={animes} />
       </Container>
     </div>
   );

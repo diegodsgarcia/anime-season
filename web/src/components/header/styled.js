@@ -4,7 +4,6 @@ const Container = styled.header`
 display: flex;
 align-items: center;
 justify-content: center;
-padding: 20px 0;
 color: var(--contrast);
 font-weight: 700;
 background-color: var(--primary);

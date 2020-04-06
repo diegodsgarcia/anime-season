@@ -1,10 +1,23 @@
 import styled from 'styled-components'
 
 const Container = styled.main`
+  margin: 20px 0;
+`
+
+const Header = styled.h3`
+  text-align: center;
+  font-size: 1.4rem;
+  margin: 20px 0;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #b1b1b1;
+`
+
+const List = styled.div``
+
+const Items = styled.div`
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   grid-gap: 20px;
-  margin: 20px 0;
 `
 
 const Item = styled.div`
@@ -18,19 +31,15 @@ const Item = styled.div`
     margin: 10px auto;
   }
 
+  .info {
+    margin: 10px 0;
+  }
+
 `
 
 const Title = styled.h3`
   text-align: center;
   font-size: 1.2rem;
-`
-
-const Description = styled.div`
-
-`
-
-const Date = styled.div`
-  margin: 10px 0;
 `
 
 const Genres = styled.div`
@@ -46,4 +55,4 @@ const Genres = styled.div`
   }
 `
 
-export { Container, Item, Title, Date, Description, Genres }
+export { Container, Header, List, Items, Item, Title, Genres }
