@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="web/public/logo.svg">
+  <img src="web/public/logo.svg"  width="90px">
 </p>
 
 <h1 align="center">Anime Season</h1>
