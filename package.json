@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "doc": "npx insomnia-documenter --config ./insomnia.json --logo ./web/public/logo90x90.png --output doc"
+    "doc": "npx insomnia-documenter --config ./insomnia.json --logo ./web/public/logo90.png --output doc"
   }
 }
