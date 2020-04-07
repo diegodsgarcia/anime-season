@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import ReactDOM from 'react-dom'
+
 import * as S from './styled'
 
 import { Github } from '@styled-icons/icomoon/Github'
@@ -10,7 +11,7 @@ function Info() {
 
   function renderAbout() {
     return ReactDOM.createPortal(
-      <S.Overlay onClick={(e) => setOpen(false)}>
+      <S.Overlay onClick={(e) => setOpen(false)} className={isOpen ? '--open' : '--closed'}>
         <S.Container onClick={(e => { e.stopPropagation(); })}>
           <h2>About more</h2>
           <p>
@@ -34,7 +35,7 @@ function Info() {
   return (
     <>
       <S.ButtonInfo onClick={() => setOpen(true)} />
-      {isOpen && renderAbout()}
+      {renderAbout()}
     </>
   )
 }

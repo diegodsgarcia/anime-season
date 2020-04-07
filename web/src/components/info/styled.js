@@ -11,6 +11,17 @@ const Overlay = styled.div`
   top: 0;
   left: 0;
   background-color: #000000b5;
+  transition: opacity 0.3s, visibility 0.3s;
+
+  &.--closed {
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  &.--open {
+    opacity: 1;
+    visibility: visible;
+  }
 `
 
 const Container = styled.div`
@@ -25,6 +36,10 @@ const Container = styled.div`
 
   a {
     color: #2196f3;
+  }
+
+  @media (max-width: 560px) {
+    margin: 0 20px;
   }
 `
 
