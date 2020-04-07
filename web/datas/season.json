@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-04-06",
+  "lastUpdate": "2020-04-07",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -23,7 +23,7 @@
       "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
       "description": "Third season of Yahari Ore no Seishun Love Comedy wa Machigatteiru..",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1910/106073.jpg",
-      "date": "Apr 10, 2020, 01:58 (JST)",
+      "date": "??? ??, ????, 01:58 (JST)",
       "producer": "feel.",
       "eps": null,
       "genres": [
@@ -252,7 +252,8 @@
       "eps": 12,
       "genres": [
         "Sci-Fi",
-        "Music"
+        "Music",
+        "Mecha"
       ],
       "category": "TV (New)"
     },
@@ -317,19 +318,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Tamayomi",
-      "description": "In her Junior High years, the pitcher Yomi Takeda was not able to get very far in a cross-school baseball tournament. Since the catcher on her team wasn't at her level, she couldn't use her signature move, the \"Magic Throw,\" and eventually regretted not being able to use it. After Junior High, she decided to stop playing baseball and went to Shin Koshigaya High School, a school without a baseball club.\n \nThere, she found her long lost childhood friend, Tamaki Yamazaki, who used to play catchball with her when they were kids. Tamaki also played baseball during her Junior High years as a catcher, and could even catch Yomi's \"Magic Throw!\"\n \nTheir promise with each other during their childhood could now be fulfilled! Walking together on the road of baseball once again...\n \nThe story of the girls who love baseball will begin!\n \n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1881/106156.jpg",
-      "date": "Apr 1, 2020, 22:00 (JST)",
-      "producer": "Studio A-CAT",
-      "eps": null,
-      "genres": [
-        "Sports",
-        "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Shironeko Project: Zero Chronicle",
       "description": "In a world consisting of numerous isles, a young hero from the Astora Isle encounters the adventurer Kyle and follows him on an expedition on the isle. They meet a mysterious girl named Iris and a talking white cat, and together they make their way to the isle's ruins, where they find a flying island. Kyle becomes consumed by darkness there, and the party resolves to travel to the ends of the world on the flying island in order to find the seven \"Great Runes,\" following Kyle's words before he disappeared.\n\n(Source: Wikipedia)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1494/105719.jpg",
@@ -345,15 +333,29 @@
       "category": "TV (New)"
     },
     {
-      "title": "Jashin-chan Dropkick'",
-      "description": "Second season of Jashin-chan Dropkick.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1360/106360.jpg",
-      "date": "Apr 6, 2020, 22:30 (JST)",
-      "producer": "Nomad",
+      "title": "Tamayomi",
+      "description": "In her Junior High years, the pitcher Yomi Takeda was not able to get very far in a cross-school baseball tournament. Since the catcher on her team wasn't at her level, she couldn't use her signature move, the \"Magic Throw,\" and eventually regretted not being able to use it. After Junior High, she decided to stop playing baseball and went to Shin Koshigaya High School, a school without a baseball club.\n \nThere, she found her long lost childhood friend, Tamaki Yamazaki, who used to play catchball with her when they were kids. Tamaki also played baseball during her Junior High years as a catcher, and could even catch Yomi's \"Magic Throw!\"\n \nTheir promise with each other during their childhood could now be fulfilled! Walking together on the road of baseball once again...\n \nThe story of the girls who love baseball will begin!\n \n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1881/106156.jpg",
+      "date": "Apr 1, 2020, 22:00 (JST)",
+      "producer": "Studio A-CAT",
       "eps": null,
       "genres": [
-        "Comedy",
-        "Supernatural"
+        "Sports",
+        "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Princess Connect! Re:Dive",
+      "description": "The protagonist wakes up with no memories in an unfamiliar location. The protagonist then meets girls and comes closer to uncovering a hidden mystery.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/106070.jpg",
+      "date": "Apr 7, 2020, 00:30 (JST)",
+      "producer": "CygamesPictures",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -378,20 +380,6 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1642/106316.jpg",
       "date": "Apr 4, 2020, 01:23 (JST)",
       "producer": "OLM",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Princess Connect! Re:Dive",
-      "description": "The protagonist wakes up with no memories in an unfamiliar location. The protagonist then meets girls and comes closer to uncovering a hidden mystery.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/106070.jpg",
-      "date": "Apr 7, 2020, 00:30 (JST)",
-      "producer": "CygamesPictures",
       "eps": null,
       "genres": [
         "Action",
@@ -426,6 +414,20 @@
         "Game",
         "Fantasy",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Shachou, Battle no Jikan Desu!",
+      "description": "Shachou, Battle no Jikan Desu! is based on a strategy role-playing game of the same name, set in an alternative world where the player acts as the \"president\" to recruit and train adventurers. The adventurers are then dispatched into dungeons to fight monsters and recover loot.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1044/106309.jpg",
+      "date": "Apr 5, 2020, 23:30 (JST)",
+      "producer": "C2C",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -466,20 +468,6 @@
       "eps": 15,
       "genres": [
         "Music"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Shachou, Battle no Jikan Desu!",
-      "description": "Shachou, Battle no Jikan Desu! is based on a strategy role-playing game of the same name, set in an alternative world where the player acts as the \"president\" to recruit and train adventurers. The adventurers are then dispatched into dungeons to fight monsters and recover loot.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1044/106309.jpg",
-      "date": "Apr 5, 2020, 23:30 (JST)",
-      "producer": "C2C",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -599,6 +587,18 @@
       "category": "TV (New)"
     },
     {
+      "title": "Asatir: Mirai no Mukashi Banashi",
+      "description": "In 2050 Riyadh, elder Asma's richly captivating storytelling transports her cherished grandchildren to fabled times where they learn that modern-day dilemmas are no match for the trials, tribulations and words of wisdom passed from generation to generation through their fascinating folktales.\n\n(Source: Sentai Filmworks)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1365/106794.jpg",
+      "date": "Apr 4, 2020, 08:00 (JST)",
+      "producer": "Toei Animation",
+      "eps": 13,
+      "genres": [
+        "Adventure"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Cardfight!! Vanguard Gaiden: If",
       "description": "The series will explore an alternate universe to the main series, and will focus on Kouji Ibuki, an antagonist in the Cardfight!! Vanguard Movie: Neon Messiah, and Suiko Tatsunagi.\n\n(Source: ANN, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1992/106795.jpg",
@@ -623,18 +623,6 @@
       "genres": [
         "Music",
         "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Asatir: Mirai no Mukashi Banashi",
-      "description": "In 2050 Riyadh, elder Asma's richly captivating storytelling transports her cherished grandchildren to fabled times where they learn that modern-day dilemmas are no match for the trials, tribulations and words of wisdom passed from generation to generation through their fascinating folktales.\n\n(Source: Sentai Filmworks)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1365/106794.jpg",
-      "date": "Apr 4, 2020, 08:00 (JST)",
-      "producer": "Toei Animation",
-      "eps": 13,
-      "genres": [
-        "Adventure"
       ],
       "category": "TV (New)"
     },
@@ -722,19 +710,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
-      "description": "Third season of TV Yarou Nanaana.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1201/106347.jpg",
-      "date": "Apr 16, 2020, 19:53 (JST)",
-      "producer": "Studio Crocodile",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Anoyo no Subete wa, Obake-gumi!",
       "description": "The gag anime takes place at a school for youkai and other supernatural beings. A vampire named Rakuru transfers to the school from the West, and she tries to change the school as the class representative.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106451.jpg",
@@ -744,6 +719,19 @@
       "genres": [
         "Comedy",
         "Supernatural"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
+      "description": "Third season of TV Yarou Nanaana.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1201/106347.jpg",
+      "date": "Apr 16, 2020, 19:53 (JST)",
+      "producer": "Studio Crocodile",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -1356,6 +1344,20 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Bakugan: Armored Alliance",
+      "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
+      "date": "Feb 16, 2020",
+      "producer": "TMS Entertainment",
+      "eps": 52,
+      "genres": [
+        "Action",
+        "Game",
+        "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Go! Go! Atom",
       "description": "The eco-systems of planet Earth are endangered. Lucky for us, a super-powered robot boy is flying to rescue! astro in on a mission to help anyone anywhere in the world with a problem involving natural phenomena. Go little Astro Boy! GO! \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/102904.jpg",
@@ -1369,20 +1371,6 @@
         "Kids",
         "Mecha",
         "Sci-Fi"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Bakugan: Armored Alliance",
-      "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
-      "date": "Feb 16, 2020",
-      "producer": "TMS Entertainment",
-      "eps": 52,
-      "genres": [
-        "Action",
-        "Game",
-        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1677,6 +1665,19 @@
         "Action",
         "Martial Arts",
         "Shounen"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Jashin-chan Dropkick'",
+      "description": "Second season of Jashin-chan Dropkick.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1360/106360.jpg",
+      "date": "Apr 6, 2020",
+      "producer": "Nomad",
+      "eps": 11,
+      "genres": [
+        "Comedy",
+        "Supernatural"
       ],
       "category": "ONA"
     },
@@ -2012,20 +2013,6 @@
         "Action",
         "Sci-Fi",
         "Mecha"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Violet Evergarden Movie",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1225/106549.jpg",
-      "date": "Apr 24, 2020",
-      "producer": "Kyoto Animation",
-      "eps": 1,
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Slice of Life"
       ],
       "category": "Movie"
     },
