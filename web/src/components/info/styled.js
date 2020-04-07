@@ -30,7 +30,7 @@ const Container = styled.div`
   max-width: 500px;
   text-align: center;
 
-  h2 {
+  h2, p {
     margin: 20px 0;
   }
 
