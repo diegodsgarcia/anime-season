@@ -19,6 +19,9 @@ function Info() {
             started by the developer <a href="https://github.com/diegodsgarcia/" target="_blank" rel="noopener noreferrer">diegodsgarcia</a>,
             you can see more and contribute below
           </p>
+          <p>
+            You can see more about the <a href="https://anime-season-doc.netlify.com/">API here</a>
+          </p>
           <S.SocialLinks>
             <a href="https://github.com/diegodsgarcia/anime-season" target="_blank" rel="noopener noreferrer">
               <Github />

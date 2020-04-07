@@ -10,7 +10,7 @@ That's a simple project web to can see the Animes of Season
 
 You can see a simple example [here](https://anime-season.now.sh/)
 
-## API
+## [API](https://anime-season-doc.netlify.com/)
 
 You can use the [**public API**](https://anime-season.now.sh/api/season) too in your aplication
 
