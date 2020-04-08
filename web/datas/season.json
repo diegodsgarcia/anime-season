@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-04-07",
+  "lastUpdate": "2020-04-08",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -16,22 +16,6 @@
         "Romance",
         "School",
         "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
-      "description": "Third season of Yahari Ore no Seishun Love Comedy wa Machigatteiru..",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1910/106073.jpg",
-      "date": "??? ??, ????, 01:58 (JST)",
-      "producer": "feel.",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Drama",
-        "Romance",
-        "School"
       ],
       "category": "TV (New)"
     },
@@ -129,20 +113,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Kakushigoto (TV)",
-      "description": "\"We will open the curtain back in time, to the story of one lone manga creator.\"\n\nThis story is about Gotou Kakushi, an artist who draws a somewhat vulgar manga, and tries to hide it for the sake of his daughter, Hime. A father-daughter tale of love and laughter. \n\n(Source: MU, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1476/106372.jpg",
-      "date": "Apr 2, 2020, 23:30 (JST)",
-      "producer": "Ajia-Do",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Yesterday wo Utatte",
       "description": "After college, Rikuo Uozumi, a boy without much ambition in life, takes on a job at a convenience store. The days pass by uneventfully for Rikuo until he meets his former girlfriend and classmate, but especially thanks to the unusual Haru Nonaka, and her pet raven...\n \n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1986/105547.jpg",
@@ -154,6 +124,20 @@
         "Drama",
         "Romance",
         "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Kakushigoto (TV)",
+      "description": "\"We will open the curtain back in time, to the story of one lone manga creator.\"\n\nThis story is about Gotou Kakushi, an artist who draws a somewhat vulgar manga, and tries to hide it for the sake of his daughter, Hime. A father-daughter tale of love and laughter. \n\n(Source: MU, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1476/106372.jpg",
+      "date": "Apr 2, 2020, 23:30 (JST)",
+      "producer": "Ajia-Do",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -224,21 +208,6 @@
         "Historical",
         "Drama",
         "Romance",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "No Guns Life 2nd Season",
-      "description": "Second half of No Guns Life.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/106613.jpg",
-      "date": "Apr 10, 2020, 01:28 (JST)",
-      "producer": "Madhouse",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Drama",
         "Seinen"
       ],
       "category": "TV (New)"
@@ -333,19 +302,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Tamayomi",
-      "description": "In her Junior High years, the pitcher Yomi Takeda was not able to get very far in a cross-school baseball tournament. Since the catcher on her team wasn't at her level, she couldn't use her signature move, the \"Magic Throw,\" and eventually regretted not being able to use it. After Junior High, she decided to stop playing baseball and went to Shin Koshigaya High School, a school without a baseball club.\n \nThere, she found her long lost childhood friend, Tamaki Yamazaki, who used to play catchball with her when they were kids. Tamaki also played baseball during her Junior High years as a catcher, and could even catch Yomi's \"Magic Throw!\"\n \nTheir promise with each other during their childhood could now be fulfilled! Walking together on the road of baseball once again...\n \nThe story of the girls who love baseball will begin!\n \n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1881/106156.jpg",
-      "date": "Apr 1, 2020, 22:00 (JST)",
-      "producer": "Studio A-CAT",
-      "eps": null,
-      "genres": [
-        "Sports",
-        "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Princess Connect! Re:Dive",
       "description": "The protagonist wakes up with no memories in an unfamiliar location. The protagonist then meets girls and comes closer to uncovering a hidden mystery.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/106070.jpg",
@@ -356,6 +312,19 @@
         "Action",
         "Adventure",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Tamayomi",
+      "description": "In her Junior High years, the pitcher Yomi Takeda was not able to get very far in a cross-school baseball tournament. Since the catcher on her team wasn't at her level, she couldn't use her signature move, the \"Magic Throw,\" and eventually regretted not being able to use it. After Junior High, she decided to stop playing baseball and went to Shin Koshigaya High School, a school without a baseball club.\n \nThere, she found her long lost childhood friend, Tamaki Yamazaki, who used to play catchball with her when they were kids. Tamaki also played baseball during her Junior High years as a catcher, and could even catch Yomi's \"Magic Throw!\"\n \nTheir promise with each other during their childhood could now be fulfilled! Walking together on the road of baseball once again...\n \nThe story of the girls who love baseball will begin!\n \n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1881/106156.jpg",
+      "date": "Apr 1, 2020, 22:00 (JST)",
+      "producer": "Studio A-CAT",
+      "eps": null,
+      "genres": [
+        "Sports",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -389,6 +358,21 @@
       "category": "TV (New)"
     },
     {
+      "title": "Houkago Teibou Nisshi",
+      "description": "First year student Hina Tsurugi prefers to do indoor activities such as crafting. Having recently moved to a seaside town, she runs into an older schoolmate, Kuroiwa, who invites her to join the \"Teibou\" club and start fishing! Surrounded by eccentric club members, how will Hina's high school life turn out? \n\n(Source: MU, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106362.jpg",
+      "date": "Apr 7, 2020, 22:00 (JST)",
+      "producer": "Doga Kobo",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "School",
+        "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Gal to Kyouryuu",
       "description": "One day, Kaede, a gyaru, picks up a dinosaur and begins living with it. The short comedy depicts their daily lives together as the dinosaur consumes human food, watches TV, and enjoys fashionable things. Thus begins the story of a gal and a dinosaur cohabiting that transcends time.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1428/102874.jpg",
@@ -399,21 +383,6 @@
         "Slice of Life",
         "Comedy",
         "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Yu☆Gi☆Oh!: Sevens",
-      "description": "A new television anime series for the 20th anniversary of the anime franchise.\n\n(Source: AniDB)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1442/104959.jpg",
-      "date": "Apr 4, 2020, 07:30 (JST)",
-      "producer": "Bridge",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Game",
-        "Fantasy",
-        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -432,17 +401,17 @@
       "category": "TV (New)"
     },
     {
-      "title": "Houkago Teibou Nisshi",
-      "description": "First year student Hina Tsurugi prefers to do indoor activities such as crafting. Having recently moved to a seaside town, she runs into an older schoolmate, Kuroiwa, who invites her to join the \"Teibou\" club and start fishing! Surrounded by eccentric club members, how will Hina's high school life turn out? \n\n(Source: MU, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106362.jpg",
-      "date": "Apr 7, 2020, 22:00 (JST)",
-      "producer": "Doga Kobo",
+      "title": "Yu☆Gi☆Oh!: Sevens",
+      "description": "A new television anime series for the 20th anniversary of the anime franchise.\n\n(Source: AniDB)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1442/104959.jpg",
+      "date": "Apr 4, 2020, 07:30 (JST)",
+      "producer": "Bridge",
       "eps": null,
       "genres": [
-        "Slice of Life",
-        "Comedy",
-        "School",
-        "Seinen"
+        "Action",
+        "Game",
+        "Fantasy",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -515,6 +484,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "Shadowverse (TV)",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1541/103429.jpg",
+      "date": "Apr 7, 2020, 17:55 (JST)",
+      "producer": "Zexcs",
+      "eps": null,
+      "genres": [
+        "Fantasy",
+        "Game"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Argonavis from BanG Dream!",
       "description": "Ren Nanahoshi is a lonely college student who isn't good at communicating with others. He remembers the thrill of watching a live band perform when he was young, and spent most of his days searching for his own identity. One day, while singing karaoke alone, two boys named Yuuto and Wataru discover Ren's singing ability. The two agree: \"This is fate. Let's start a band!\" Ren promptly runs away, but fate indeed steps in, and their journey begins.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1367/104178.jpg",
@@ -539,19 +521,6 @@
         "Historical",
         "Sports",
         "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Shadowverse (TV)",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1541/103429.jpg",
-      "date": "Apr 7, 2020, 17:55 (JST)",
-      "producer": "Zexcs",
-      "eps": null,
-      "genres": [
-        "Fantasy",
-        "Game"
       ],
       "category": "TV (New)"
     },
@@ -599,6 +568,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "BanG Dream! Garupa☆Pico: Oomori",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/106709.jpg",
+      "date": "May 7, 2020",
+      "producer": "SANZIGEN",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Cardfight!! Vanguard Gaiden: If",
       "description": "The series will explore an alternate universe to the main series, and will focus on Kouji Ibuki, an antagonist in the Cardfight!! Vanguard Movie: Neon Messiah, and Suiko Tatsunagi.\n\n(Source: ANN, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1992/106795.jpg",
@@ -610,19 +592,6 @@
         "Game",
         "Adventure",
         "Demons"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "BanG Dream! Garupa☆Pico: Oomori",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/106709.jpg",
-      "date": "May 7, 2020",
-      "producer": "SANZIGEN",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -963,12 +932,12 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "BanG Dream! 3rd Season",
-      "description": "As the all-girl band Poppin’Party continues to rise in fame, they find a poster for an event at the legendary Nippon Budoukan. Now determined to participate in the \"BanG Dream,\" Kasumi Toyama and the other members of Poppin’Party aim to reach new heights and prove their worth by performing on that renowned stage.\n\nMeanwhile, rival band RAISE A SUILEN dreams of changing the world with \"the strongest music,\" but finds itself in dire straits without a guitarist. Though dozens of potential candidates audition for the role, band leader CHU² believes them to be amateurs and unsuitable for the band. However, there may be one guitarist that lives up to CHU²’s high standards.\n\nBanG Dream! 3rd Season features multiple all-girl bands, including Poppin’Party, Afterglow, Pastel*Palettes, Roselia, Hello Happy World!, and now RAISE A SUILEN, as they work to astound fans throughout Japan with their spectacular performances. As the BanG Dream competition draws near, the band members are prepared to captivate audiences with their heartfelt music!\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1985/104767.jpg",
-      "date": "Jan 23, 2020, 23:00 (JST)",
-      "producer": "SANZIGEN",
-      "eps": 13,
+      "title": "A3! Season Spring & Summer",
+      "description": "\"Director! Please help us bloom!\"\n\nIn Tokyo, there is a place called Velude Way. It is a district notorious for its performers and theatrical groups. Izumi Tachibana, who was previously a stage actress, arrives with a letter that reads, \"Full of debt! Zero customers! Only one actor!\" It describes the current state of the once-popular theater group Mankai Company. Her task is to rebuild the company to its former glory as the new owner and chief director.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1421/105605.jpg",
+      "date": "Jan 14, 2020, 00:00 (JST)",
+      "producer": "P.A. Works, Studio 3Hz",
+      "eps": null,
       "genres": [
         "Music"
       ],
@@ -986,18 +955,6 @@
         "Comedy",
         "Kids",
         "Shounen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "A3! Season Spring & Summer",
-      "description": "\"Director! Please help us bloom!\"\n\nIn Tokyo, there is a place called Velude Way. It is a district notorious for its performers and theatrical groups. Izumi Tachibana, who was previously a stage actress, arrives with a letter that reads, \"Full of debt! Zero customers! Only one actor!\" It describes the current state of the once-popular theater group Mankai Company. Her task is to rebuild the company to its former glory as the new owner and chief director.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1421/105605.jpg",
-      "date": "Jan 14, 2020, 00:00 (JST)",
-      "producer": "P.A. Works, Studio 3Hz",
-      "eps": null,
-      "genres": [
-        "Music"
       ],
       "category": "TV (Continuing)"
     },
@@ -1329,6 +1286,20 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Bakugan: Armored Alliance",
+      "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
+      "date": "Feb 16, 2020",
+      "producer": "TMS Entertainment",
+      "eps": 52,
+      "genres": [
+        "Action",
+        "Game",
+        "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Aware! Meisaku-kun",
       "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
@@ -1340,20 +1311,6 @@
         "Parody",
         "Kids",
         "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Bakugan: Armored Alliance",
-      "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
-      "date": "Feb 16, 2020",
-      "producer": "TMS Entertainment",
-      "eps": 52,
-      "genres": [
-        "Action",
-        "Game",
-        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1504,20 +1461,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Otoppe",
-      "description": "The series follows a young girl named Shina who hopes to become the world's best DJ, and is interested in new sounds. Shina explores a mysterious world filled with Otoppe, strange creatures capable of unique sounds.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
-      "date": "Apr 3, 2017, 08:40 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Konigiri-kun",
       "description": "A stop-motion anime using bentou ingredients as the characters.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
@@ -1530,13 +1473,14 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Fuwafuwa Hour: Pui Pui & Muu Muu",
-      "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
-      "date": "Jul 12, 2017",
+      "title": "Otoppe",
+      "description": "The series follows a young girl named Shina who hopes to become the world's best DJ, and is interested in new sounds. Shina explores a mysterious world filled with Otoppe, strange creatures capable of unique sounds.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
+      "date": "Apr 3, 2017, 08:40 (JST)",
       "producer": "-",
       "eps": null,
       "genres": [
+        "Music",
         "Kids",
         "Fantasy"
       ],
@@ -1552,6 +1496,19 @@
       "genres": [
         "Sports",
         "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Fuwafuwa Hour: Pui Pui & Muu Muu",
+      "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
+      "date": "Jul 12, 2017",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids",
+        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -2013,21 +1970,6 @@
         "Action",
         "Sci-Fi",
         "Mecha"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Fate/stay night Movie: Heaven's Feel - III. Spring Song",
-      "description": "Final of three movies in an adaption of the third route of Fate/stay night.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1400/104685.jpg",
-      "date": "Apr 25, 2020",
-      "producer": "ufotable",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Supernatural",
-        "Magic",
-        "Fantasy"
       ],
       "category": "Movie"
     },
