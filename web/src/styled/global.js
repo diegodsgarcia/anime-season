@@ -19,7 +19,7 @@ const Global = createGlobalStyle`
   }
 
   :root {
-    --primary: transparent;
+    --primary: #000;
     --contrast: #fff;
   }
 
