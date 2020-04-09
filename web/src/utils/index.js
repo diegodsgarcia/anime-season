@@ -1,14 +1,13 @@
+const CATEGORIES = {
+  TvNew: 'TV (New)',
+  TvContinuing: 'TV (Continuing)',
+  ONA: 'ONA',
+  OVA: 'OVA',
+  Movie: 'Movie',
+  Special: 'Special'
+}
 
 function listAnimes(animes) {
-  const CATEGORIES = {
-    TvNew: 'TV (New)',
-    TvContinuing: 'TV (Continuing)',
-    ONA: 'ONA',
-    OVA: 'OVA',
-    Movie: 'Movie',
-    Special: 'Special'
-  }
-
   return [
     {
       category: CATEGORIES.TvNew,
@@ -37,4 +36,16 @@ function listAnimes(animes) {
   ]
 }
 
-export { listAnimes }
+function filterAnimesByCategory(animeList, category) {
+  const animes = animeList.filter(anime => anime.category === category)
+  return [{ category, animes }]
+}
+
+function getSelectCategories() {
+  const values = Object.keys(CATEGORIES)
+  const labels = Object.values(CATEGORIES)
+
+  return [{ label: 'All', value: 'All' }, ...values.map((value, i) => ({ label: labels[i], value }))]
+}
+
+export { listAnimes, filterAnimesByCategory, getSelectCategories }

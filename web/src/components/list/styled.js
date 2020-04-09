@@ -1,7 +1,6 @@
 import styled from 'styled-components'
 
 const Container = styled.main`
-  margin: 20px 0;
 `
 
 const Header = styled.h3`
