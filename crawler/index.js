@@ -1,18 +1,24 @@
-import cheerio from 'cheerio'
-import axios from 'axios'
 
 import { getSeason, getSeasonInfo, getSeasonImage, getSeasonsGenres, getCategory, formatEp, convertToJson, getDateNow } from './utils'
+import { listSeason } from './service/api'
 
-const BASE_URL = 'https://myanimelist.net/anime/season'
+init()
 
-request()
+async function init() {
+  const seasons = {
+    now: 'season',
+    winter: 'winter',
+    spring: 'spring',
+    summer: 'summer',
+    fall: 'fall',
+  }
 
-async function request() {
-  const { data } = await axios(BASE_URL)
-  const $ = cheerio.load(data)
-
-  const result = formatSeasonAnimes($)
-  convertToJson(result)
+  for (let prop in seasons) {
+    const route = seasons[prop] === seasons.now ? '' : seasons[prop]
+    const season = await listSeason(route)
+    const seasonResult = formatSeasonAnimes(season)
+    convertToJson(seasonResult, seasons[prop])
+  }
 }
 
 function formatSeasonAnimes($) {

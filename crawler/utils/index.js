@@ -52,14 +52,14 @@ function formatEp(ep) {
   }
 }
 
-function convertToJson(animes) {
+function convertToJson(animes, fileName) {
   // eslint-disable-next-line no-undef
-  const dir = path.resolve(__dirname, '../../web/datas/season.json')
+  const dir = path.resolve(__dirname, `../../web/datas/${fileName}.json`)
   const json = JSON.stringify(animes, null, 2)
 
   try {
     const file = fs.writeFileSync(dir, json, 'utf8')
-    console.log(colors.green('Season generated with success! 👌'))
+    console.log(colors.green(`${fileName} generated with success! 👌`))
     return file
   } catch (error) {
     console.log(error)
