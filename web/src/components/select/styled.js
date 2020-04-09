@@ -5,6 +5,7 @@ const Container = styled.div`
   align-items: center;
   position: relative;
   height: 30px;
+  margin: 10px 0;
 `
 
 const Placeholder = styled.span`
@@ -20,6 +21,7 @@ const Placeholder = styled.span`
 
 const Label = styled.label`
   display: flex;
+  min-width: 80px;
   align-items: center;
   height: 100%;
 `

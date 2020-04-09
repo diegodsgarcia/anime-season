@@ -48,4 +48,25 @@ function getSelectCategories() {
   return [{ label: 'All', value: 'All' }, ...values.map((value, i) => ({ label: labels[i], value }))]
 }
 
-export { listAnimes, filterAnimesByCategory, getSelectCategories }
+function getSelectSeasons() {
+  return [
+    {
+      label: 'Winter',
+      value: 'winter',
+    },
+    {
+      label: 'Spring',
+      value: 'spring',
+    },
+    {
+      label: 'Summer',
+      value: 'summer',
+    },
+    {
+      label: 'Fall',
+      value: 'fall',
+    },
+  ]
+}
+
+export { listAnimes, filterAnimesByCategory, getSelectCategories, getSelectSeasons }
