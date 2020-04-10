@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-04-09",
+  "lastUpdate": "2020-04-10",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -576,7 +576,9 @@
       "producer": "LIDENFILMS",
       "eps": null,
       "genres": [
-        "Game"
+        "Game",
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -1336,21 +1338,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Aware! Meisaku-kun",
-      "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
-      "date": "Apr 8, 2016, 18:20 (JST)",
-      "producer": "Pie in the sky",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Parody",
-        "Kids",
-        "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Go! Go! Atom",
       "description": "The eco-systems of planet Earth are endangered. Lucky for us, a super-powered robot boy is flying to rescue! astro in on a mission to help anyone anywhere in the world with a problem involving natural phenomena. Go little Astro Boy! GO! \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/102904.jpg",
@@ -1364,6 +1351,21 @@
         "Kids",
         "Mecha",
         "Sci-Fi"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Aware! Meisaku-kun",
+      "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
+      "date": "Apr 8, 2016, 18:20 (JST)",
+      "producer": "Pie in the sky",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Parody",
+        "Kids",
+        "School"
       ],
       "category": "TV (Continuing)"
     },
@@ -1705,7 +1707,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1925/105508.jpg",
       "date": "Jan 18, 2020",
       "producer": "Haoliners Animation League",
-      "eps": 16,
+      "eps": 15,
       "genres": [
         "Adventure",
         "Slice of Life",
@@ -1810,20 +1812,6 @@
       "category": "ONA"
     },
     {
-      "title": "Mobile Suit Gundam G40",
-      "description": "U.C. 0079 - A squadron of Zakus from the Principality of Zeon invades a neutral space colony. Amuro Ray reluctantly pilots the Gundam G40 prototype mobile suit to combat the threat, as well as Zeon ace pilot Char Aznable and his custom red Zaku II.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1770/105718.jpg",
-      "date": "Jan 1, 2020",
-      "producer": "Bandai Spirits, Sunrise",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Mecha"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Zenonzard The Animation",
       "description": "Hinaria is unemployed, gaming every day. One day she decides to hack the servers belonging to the Beholder Group for some money, and she stumbles across a carefully secured record of two witches, Alice and Rimel. The two women wished to coexist with mankind, and the history they experienced is connected to the modern ZENONZARD.\n\n(Source: Official Site)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1035/106164.jpg",
@@ -1834,6 +1822,20 @@
         "Action",
         "Game",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Mobile Suit Gundam G40",
+      "description": "U.C. 0079 - A squadron of Zakus from the Principality of Zeon invades a neutral space colony. Amuro Ray reluctantly pilots the Gundam G40 prototype mobile suit to combat the threat, as well as Zeon ace pilot Char Aznable and his custom red Zaku II.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1770/105718.jpg",
+      "date": "Jan 1, 2020",
+      "producer": "Bandai Spirits, Sunrise",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Mecha"
       ],
       "category": "ONA"
     },
@@ -1984,16 +1986,16 @@
       "category": "ONA"
     },
     {
-      "title": "Dream",
-      "description": "The short follows the dream of a young boy in which strange whale teleports him to a fantasy land where a happy cat named Pero (modeled after the character in the Nagagutsu wo Haita Neko anime that serves as Toei Animation's mascot) appears.\n\nThe piece is entirely dialogueless.\n\n(Source: ANN edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1227/105610.jpg",
-      "date": "Jan 24, 2020",
-      "producer": "Toei Animation",
+      "title": "Pianoman",
+      "description": "The still, white space expands as far as the eye can see. A man who's lost his memory awakens. An enormous door stands before him, and there's an old temple in the distance. The building seems to be calling to him, and the man approaches it. There's an old piano there. The moment he touches it, horrifying memories return to him. Who is this man, really? And what is the truth of this space...?\n\n(Source: YouTube)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1181/105817.jpg",
+      "date": "Jan 17, 2020",
+      "producer": "Echoes",
       "eps": 1,
       "genres": [
-        "Adventure",
         "Music",
-        "Kids",
+        "Demons",
+        "Psychological",
         "Fantasy"
       ],
       "category": "ONA"
@@ -2011,16 +2013,16 @@
       "category": "ONA"
     },
     {
-      "title": "Pianoman",
-      "description": "The still, white space expands as far as the eye can see. A man who's lost his memory awakens. An enormous door stands before him, and there's an old temple in the distance. The building seems to be calling to him, and the man approaches it. There's an old piano there. The moment he touches it, horrifying memories return to him. Who is this man, really? And what is the truth of this space...?\n\n(Source: YouTube)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1181/105817.jpg",
-      "date": "Jan 17, 2020",
-      "producer": "Echoes",
+      "title": "Dream",
+      "description": "The short follows the dream of a young boy in which strange whale teleports him to a fantasy land where a happy cat named Pero (modeled after the character in the Nagagutsu wo Haita Neko anime that serves as Toei Animation's mascot) appears.\n\nThe piece is entirely dialogueless.\n\n(Source: ANN edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1227/105610.jpg",
+      "date": "Jan 24, 2020",
+      "producer": "Toei Animation",
       "eps": 1,
       "genres": [
+        "Adventure",
         "Music",
-        "Demons",
-        "Psychological",
+        "Kids",
         "Fantasy"
       ],
       "category": "ONA"

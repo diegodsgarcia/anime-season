@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-04-09",
+  "lastUpdate": "2020-04-10",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -213,20 +213,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Listeners",
-      "description": "Set in a world where the concept of music ceases to exist. The story begins when a boy encounters Myuu, a mysterious girl who possesses an audio input jack in her body. The two intermingle with the history of rock music and embark on an unforgettable journey.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1589/106391.jpg",
-      "date": "Apr 4, 2020, 01:55 (JST)",
-      "producer": "MAPPA",
-      "eps": 12,
-      "genres": [
-        "Sci-Fi",
-        "Music",
-        "Mecha"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Fugou Keiji: Balance:Unlimited",
       "description": "Daisuke Kanbe, a detective with extraordinary assets, is assigned to the Modern Crime Prevention Headquarters, where only those who have caused problems for the Metropolitan Police Department are sent. There, Daisuke is partnered with Haru Katou. Haru is repulsed by Daisuke's material ways, believing that money isn't everything. Challenging mysteries unfold in front of the two detectives, and they must work together to solve them.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1066/106556.jpg",
@@ -235,6 +221,21 @@
       "eps": null,
       "genres": [
         "Mystery"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Listeners",
+      "description": "Set in a world where the concept of music ceases to exist. The story begins when a boy encounters Myuu, a mysterious girl who possesses an audio input jack in her body. The two intermingle with the history of rock music and embark on an unforgettable journey.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1589/106391.jpg",
+      "date": "Apr 4, 2020, 01:55 (JST)",
+      "producer": "MAPPA",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Music",
+        "Mecha"
       ],
       "category": "TV (New)"
     },
@@ -329,21 +330,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Kingdom 3rd Season",
-      "description": "Third season of Kingdom.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1332/106392.jpg",
-      "date": "Apr 6, 2020, 00:15 (JST)",
-      "producer": "Studio Signpost",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Military",
-        "Historical",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Houkago Teibou Nisshi",
       "description": "First year student Hina Tsurugi prefers to do indoor activities such as crafting. Having recently moved to a seaside town, she runs into an older schoolmate, Kuroiwa, who invites her to join the \"Teibou\" club and start fishing! Surrounded by eccentric club members, how will Hina's high school life turn out? \n\n(Source: MU, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106362.jpg",
@@ -354,6 +340,21 @@
         "Slice of Life",
         "Comedy",
         "School",
+        "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Kingdom 3rd Season",
+      "description": "Third season of Kingdom.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1332/106392.jpg",
+      "date": "Apr 6, 2020, 00:15 (JST)",
+      "producer": "Studio Signpost",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Military",
+        "Historical",
         "Seinen"
       ],
       "category": "TV (New)"
@@ -625,19 +626,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Micchiri Wanko! Animation",
-      "description": "Spin-off of Micchiri Neko.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1793/106522.jpg",
-      "date": "Apr 1, 2020, 07:30 (JST)",
-      "producer": "Charaction",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Tomica Kizuna Gattai: Earth Granner",
       "description": "The anime centers on the battles between the mysterious alien enemy Dark Spinner and the secret defense unit Earth Granner over Earth Energy, the energy generated from the Earth's rotation. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1597/105401.jpg",
@@ -649,6 +637,19 @@
         "Sci-Fi",
         "Adventure",
         "Mecha"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Micchiri Wanko! Animation",
+      "description": "Spin-off of Micchiri Neko.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1793/106522.jpg",
+      "date": "Apr 1, 2020, 07:30 (JST)",
+      "producer": "Charaction",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (New)"
     },
@@ -784,6 +785,19 @@
       "eps": null,
       "genres": [
         "Comedy",
+        "Kids"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Bite-Choicar",
+      "description": "Chashin was selected by the legendary choicar \"Stormbone,\" as the strongest racer, and will showcase a new concept of bite racing.\n\nBite racing is a new racing game that never hits a rail with two cars chasing in a match. The bite-free rail running on the track creates a more realistic racing experience. Various types of super cars such as speed type, balance type, and power type create unique racing on 3 types of tracks (crash track, line track, outdoor race).\n\n(Source: enewstoday.co.kr)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1656/106927.jpg",
+      "date": "Apr 18, 2020, 07:15 (JST)",
+      "producer": "-",
+      "eps": 26,
+      "genres": [
+        "Cars",
         "Kids"
       ],
       "category": "TV (New)"
@@ -1060,7 +1074,9 @@
       "producer": "LIDENFILMS",
       "eps": null,
       "genres": [
-        "Game"
+        "Game",
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1300,21 +1316,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Aware! Meisaku-kun",
-      "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
-      "date": "Apr 8, 2016, 18:20 (JST)",
-      "producer": "Pie in the sky",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Parody",
-        "Kids",
-        "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Go! Go! Atom",
       "description": "The eco-systems of planet Earth are endangered. Lucky for us, a super-powered robot boy is flying to rescue! astro in on a mission to help anyone anywhere in the world with a problem involving natural phenomena. Go little Astro Boy! GO! \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/102904.jpg",
@@ -1328,6 +1329,21 @@
         "Kids",
         "Mecha",
         "Sci-Fi"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Aware! Meisaku-kun",
+      "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
+      "date": "Apr 8, 2016, 18:20 (JST)",
+      "producer": "Pie in the sky",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Parody",
+        "Kids",
+        "School"
       ],
       "category": "TV (Continuing)"
     },
@@ -1644,7 +1660,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1356/103619.jpg",
       "date": "Apr 2, 2020",
       "producer": "Production I.G",
-      "eps": null,
+      "eps": 1,
       "genres": [
         "Action",
         "Fantasy"
@@ -1727,19 +1743,6 @@
       "category": "ONA"
     },
     {
-      "title": "Wo Kai Dongwuyuan Naxie Nian",
-      "description": "Duan Jiaze inherited a private zoo and was forced to sign a contract after his graduation. And from that day onwards the first ever age classified Luya zoo appeared, those aged under 21 are prohibited to enter.\n\n(Source: Twitter User Xiyoumiyu)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1771/106652.jpg",
-      "date": "Apr 5, 2020",
-      "producer": "Haoliners Animation League",
-      "eps": 13,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Bai Yao Pu",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1162/105824.jpg",
@@ -1751,6 +1754,19 @@
         "Fantasy",
         "Mystery",
         "Supernatural"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Wo Kai Dongwuyuan Naxie Nian",
+      "description": "Duan Jiaze inherited a private zoo and was forced to sign a contract after his graduation. And from that day onwards the first ever age classified Luya zoo appeared, those aged under 21 are prohibited to enter.\n\n(Source: Twitter User Xiyoumiyu)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1771/106652.jpg",
+      "date": "Apr 5, 2020",
+      "producer": "Haoliners Animation League",
+      "eps": 13,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -1785,6 +1801,19 @@
       "category": "ONA"
     },
     {
+      "title": "Wang Gu Shenhua Zhi Tian Xuan Zhe",
+      "description": "In the year 2115 of the Fortress, Wei Qin, commander of the border troops, went to the Fortress to participate in the selection of the elected official and to secretly investigate those responsible for the Border incident.  At the same time, the No. 1 public enemy, Yuan Yi, launched a major revolt.  As the plot progresses, all parties are involved in this quest.  How is Wei Qin going to sort out the true from the false and bring the truth out?\n\n(Source: Exodus Chaos)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1915/106921.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Cinderella Girls Gekijou: Extra Stage",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/106098.jpg",
@@ -1794,6 +1823,20 @@
       "genres": [
         "Comedy",
         "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Puso Ni Comi: Okawari",
+      "description": "A second season of Puso Ni Comi, once again following the in-game avatars of the cast.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1466/106923.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Game",
+        "Comedy",
+        "Parody"
       ],
       "category": "ONA"
     },
