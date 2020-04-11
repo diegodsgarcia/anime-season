@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-04-10",
+  "lastUpdate": "2020-04-11",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -1518,6 +1518,16 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Chuldong! Super Wings 3",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1328/101000.jpg",
+      "date": "Sep 1, 2018",
+      "producer": "-",
+      "eps": null,
+      "genres": [],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Beads no Mori no Rabi",
       "description": "A stop-motion anime using beaded characters. Here a magician rabbits solve problems by using magic.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/6/86113.jpg",
@@ -1528,16 +1538,6 @@
         "Kids",
         "Magic"
       ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Chuldong! Super Wings 3",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1328/101000.jpg",
-      "date": "Sep 1, 2018",
-      "producer": "-",
-      "eps": null,
-      "genres": [],
       "category": "TV (Continuing)"
     },
     {
@@ -1812,20 +1812,6 @@
       "category": "ONA"
     },
     {
-      "title": "Zenonzard The Animation",
-      "description": "Hinaria is unemployed, gaming every day. One day she decides to hack the servers belonging to the Beholder Group for some money, and she stumbles across a carefully secured record of two witches, Alice and Rimel. The two women wished to coexist with mankind, and the history they experienced is connected to the modern ZENONZARD.\n\n(Source: Official Site)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1035/106164.jpg",
-      "date": "Jan 31, 2020",
-      "producer": "8bit",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Game",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Mobile Suit Gundam G40",
       "description": "U.C. 0079 - A squadron of Zakus from the Principality of Zeon invades a neutral space colony. Amuro Ray reluctantly pilots the Gundam G40 prototype mobile suit to combat the threat, as well as Zeon ace pilot Char Aznable and his custom red Zaku II.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1770/105718.jpg",
@@ -1836,6 +1822,20 @@
         "Action",
         "Sci-Fi",
         "Mecha"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Zenonzard The Animation",
+      "description": "Hinaria is unemployed, gaming every day. One day she decides to hack the servers belonging to the Beholder Group for some money, and she stumbles across a carefully secured record of two witches, Alice and Rimel. The two women wished to coexist with mankind, and the history they experienced is connected to the modern ZENONZARD.\n\n(Source: Official Site)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1035/106164.jpg",
+      "date": "Jan 31, 2020",
+      "producer": "8bit",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Game",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -1914,6 +1914,18 @@
       "category": "ONA"
     },
     {
+      "title": "Samurai to Shougun",
+      "description": "In this animated short titled \"Samurai & Shogun,\" Rick and Morty fight off a group of vengeful ninja Ricks who insist he kidnapped Morty. Fans are taken on a trippy ride throughout the almost six-minute clip, complete with colorful graphics that don't disappoint as the duo defend their lives in this parallel universe.\n\n(Source: Mashable India)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1807/106773.jpg",
+      "date": "Mar 29, 2020",
+      "producer": "Studio Deen",
+      "eps": 1,
+      "genres": [
+        "Action"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Xue Ying Ling Zhu 2nd Season",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1520/105226.jpg",
@@ -1927,18 +1939,6 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Samurai to Shougun",
-      "description": "In this animated short titled \"Samurai & Shogun,\" Rick and Morty fight off a group of vengeful ninja Ricks who insist he kidnapped Morty. Fans are taken on a trippy ride throughout the almost six-minute clip, complete with colorful graphics that don't disappoint as the duo defend their lives in this parallel universe.\n\n(Source: Mashable India)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1807/106773.jpg",
-      "date": "Mar 29, 2020",
-      "producer": "Studio Deen",
-      "eps": 1,
-      "genres": [
-        "Action"
       ],
       "category": "ONA"
     },

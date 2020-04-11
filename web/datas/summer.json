@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-04-10",
+  "lastUpdate": "2020-04-11",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -14,6 +14,22 @@
         "Psychological",
         "Drama",
         "Thriller",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
+      "description": "Second part of Sword Art Online: Alicization - War of Underworld.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1438/105106.jpg",
+      "date": "Jul ??, 2020",
+      "producer": "A-1 Pictures",
+      "eps": 11,
+      "genres": [
+        "Action",
+        "Game",
+        "Adventure",
+        "Romance",
         "Fantasy"
       ],
       "category": "TV (New)"
@@ -403,6 +419,19 @@
         "Supernatural"
       ],
       "category": "TV (New)"
+    },
+    {
+      "title": "Planetarian: Snow Globe",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1320/106943.jpg",
+      "date": "Sep ??, 2020",
+      "producer": "Okuruto Noboru",
+      "eps": 1,
+      "genres": [
+        "Sci-Fi",
+        "Drama"
+      ],
+      "category": "OVA"
     },
     {
       "title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram",
