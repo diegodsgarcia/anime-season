@@ -27,7 +27,7 @@ function App() {
       setInfo({ season, year })
       setCategories(getSelectCategories())
       setSeasons(getSelectSeasons())
-      setSeasonSelected({ label: season, option: season.toLowerCase() })
+      setSeasonSelected({ label: season, value: season.toLowerCase() })
       setLoad(true)
     })
   }, [])
