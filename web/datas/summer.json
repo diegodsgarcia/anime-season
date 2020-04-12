@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-04-11",
+  "lastUpdate": "2020-04-12",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -65,6 +65,22 @@
       "category": "TV (New)"
     },
     {
+      "title": "Haikyuu!!: To the Top 2nd Season",
+      "description": "Second half of Haikyuu!!: To the Top.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1453/106768.jpg",
+      "date": "Jul ??, 2020",
+      "producer": "Production I.G",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Sports",
+        "Drama",
+        "School",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Mahouka Koukou no Rettousei: Raihousha-hen",
       "description": "Shiba Miyuki's classmate Kitayama Shizuku is on her way to study abroad. For magicians, this is normally impossible, since allowing the genes of someone who can use magic outside their home country's borders is tantamount to giving up national secrets. But it's allowed to happen in one case-exchange programs. And that's how Angelina Kudou Shields has arrived in Japan from the USNA to study at First High.\n\nAround the time Lina arrived in Japan magicians began getting attacked by a mysterious being who leaves his victims drained of blood. Will Tatsuya be able to discover the identity of the \"Vampire\"?\n\n(Source: Mahouka Wikia, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1788/106668.jpg",
@@ -78,22 +94,6 @@
         "School",
         "Sci-Fi",
         "Supernatural"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Haikyuu!!: To the Top 2nd Season",
-      "description": "Second half of Haikyuu!!: To the Top.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1453/106768.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "Production I.G",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "Sports",
-        "Drama",
-        "School",
-        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -262,21 +262,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Ex-Arm",
-      "description": "2014: Akira Natsume seems to almost have a phobia of electrical devices while also being very good at diagnosing them. He resolves to change himself for the better and get a girlfriend like his older brother did. ...But then Akira suddenly dies in an accident. 16 years later a special policewoman and her android partner retrieve and activate a highly advanced AI and superweapon called EX-ARM and put it into full control of their ship as a last resort. Turns out the AI is actually just Akira's brain!\n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1056/106584.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Ecchi",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Gibiate",
       "description": "In 2030, Japan. A virus has infected humans throughout the world. Infected people turn into different forms of monsters based on their ages, sexes, and races. The virus is named \"Gibia\"—after being rich in variety like gibia.\n\nJust then, a pair of samurai and ninja appeared in such a blighted wasteland of Japan. They both traveled from the early Edo period, fighting together with help from a doctor who tries to find cure for Gibia. Facing ceaseless attacks from Gibias and outlaws that attack travelers for food, they start the dangerous journey with enemies all around.\n\n(Source: Official Website)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/101974.jpg",
@@ -293,11 +278,26 @@
       "category": "TV (New)"
     },
     {
-      "title": "Tsukiuta. The Animation 2",
-      "description": "Second season of Tsukiuta. The Animation.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1149/104209.jpg",
+      "title": "Ex-Arm",
+      "description": "2014: Akira Natsume seems to almost have a phobia of electrical devices while also being very good at diagnosing them. He resolves to change himself for the better and get a girlfriend like his older brother did. ...But then Akira suddenly dies in an accident. 16 years later a special policewoman and her android partner retrieve and activate a highly advanced AI and superweapon called EX-ARM and put it into full control of their ship as a last resort. Turns out the AI is actually just Akira's brain!\n\n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1056/106584.jpg",
       "date": "Jul ??, 2020",
-      "producer": "Children's Playground Entertainment",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Ecchi",
+        "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima",
+      "description": "In a world where women now dominate the government, the creation and use of weapons is strictly forbidden. However, by no means has conflict been brought to an end; instead of weapons, war is waged through words. With the power of the \"Hypnosis Mic,\" lyrics can affect one's opponent in various ways and cause real damage. Those in the divisions outside the women-only Chuou Ward thus use it for fierce rap battles as their weapon in the constant clash for territory. \n\n(Source: Tokyo Otaku Mode)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1677/106540.jpg",
+      "date": "Jul ??, 2020",
+      "producer": "A-1 Pictures",
       "eps": null,
       "genres": [
         "Music"
@@ -318,11 +318,24 @@
       "category": "TV (New)"
     },
     {
-      "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima",
-      "description": "In a world where women now dominate the government, the creation and use of weapons is strictly forbidden. However, by no means has conflict been brought to an end; instead of weapons, war is waged through words. With the power of the \"Hypnosis Mic,\" lyrics can affect one's opponent in various ways and cause real damage. Those in the divisions outside the women-only Chuou Ward thus use it for fierce rap battles as their weapon in the constant clash for territory. \n\n(Source: Tokyo Otaku Mode)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1677/106540.jpg",
+      "title": "Ochikobore Fruit Tart",
+      "description": "Fourth dormitory of the Rat Production (commonly known as Nezumi-sou)—the place where dropout idol girls live: the former child actor Sekino Roko, musician Nukui Hayu, and model Maehara Nina. Sakura Ino, who always dreamed of becoming an idol, moves in. At the same time, the decision is made to demolish the dormitory. Due to the project launched by the manager Kajino Hoho, \"Ochikobore Fruit Tart,\" occupants of the dormitory form a new idol group called \"Fruit Tart\" and start their activities in order to repay a one hundred million yen debt. \n\n(Source: MU, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1511/104769.jpg",
       "date": "Jul ??, 2020",
-      "producer": "A-1 Pictures",
+      "producer": "feel.",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Tsukiuta. The Animation 2",
+      "description": "Second season of Tsukiuta. The Animation.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1149/104209.jpg",
+      "date": "Jul ??, 2020",
+      "producer": "Children's Playground Entertainment",
       "eps": null,
       "genres": [
         "Music"
@@ -340,15 +353,16 @@
       "category": "TV (New)"
     },
     {
-      "title": "Ochikobore Fruit Tart",
-      "description": "Fourth dormitory of the Rat Production (commonly known as Nezumi-sou)—the place where dropout idol girls live: the former child actor Sekino Roko, musician Nukui Hayu, and model Maehara Nina. Sakura Ino, who always dreamed of becoming an idol, moves in. At the same time, the decision is made to demolish the dormitory. Due to the project launched by the manager Kajino Hoho, \"Ochikobore Fruit Tart,\" occupants of the dormitory form a new idol group called \"Fruit Tart\" and start their activities in order to repay a one hundred million yen debt. \n\n(Source: MU, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1511/104769.jpg",
+      "title": "Ikebukuro West Gate Park",
+      "description": "Living in an area known for its juvenile crime, 21-year-old Makoto is a friend of King, the leader of a youth gang called the G-Boys, though he himself does not want to join as a member. Known for his cool head and ability to get things done, Makoto becomes a key trouble-shooter for the gang by diffusing tense situations and keeping his friends out of harm's way. However, the death of his girlfriend and an escalating turf war with a rival gang threaten to be more than Makoto can handle.\n\n(Source: AsianWiki)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1143/106670.jpg",
       "date": "Jul ??, 2020",
-      "producer": "feel.",
+      "producer": "Doga Kobo",
       "eps": null,
       "genres": [
-        "Music",
-        "Slice of Life"
+        "Mystery",
+        "Drama",
+        "Romance"
       ],
       "category": "TV (New)"
     },
@@ -362,20 +376,6 @@
       "genres": [
         "Slice of Life",
         "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Ikebukuro West Gate Park",
-      "description": "Living in an area known for its juvenile crime, 21-year-old Makoto is a friend of King, the leader of a youth gang called the G-Boys, though he himself does not want to join as a member. Known for his cool head and ability to get things done, Makoto becomes a key trouble-shooter for the gang by diffusing tense situations and keeping his friends out of harm's way. However, the death of his girlfriend and an escalating turf war with a rival gang threaten to be more than Makoto can handle.\n\n(Source: AsianWiki)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1143/106670.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "Doga Kobo",
-      "eps": null,
-      "genres": [
-        "Mystery",
-        "Drama",
-        "Romance"
       ],
       "category": "TV (New)"
     },
@@ -500,9 +500,9 @@
       "producer": "Studio Hibari",
       "eps": 1,
       "genres": [
-        "Slice of Life",
         "Romance",
-        "Shounen Ai"
+        "Shounen Ai",
+        "Slice of Life"
       ],
       "category": "Movie"
     },
@@ -524,6 +524,20 @@
       "category": "Movie"
     },
     {
+      "title": "Shika no Ou",
+      "description": "Van is the head of a group of soldiers who expected to die fighting for their lands against a large empire looking to incorporate their home into its kingdom. Instead of dying, however, Van is taken as a slave and thrown into a salt mine. One night, a pack of strange dogs attacks the salt mine, and a mysterious illness breaks out. During the attack, Van takes the opportunity to escape, and he meets a young girl. Elsewhere, rumor is spreading that only immigrants are coming down with this mysterious illness. The medical scientist Hossal risks his life to search for a cure. Doctors also study a father and child who seem to have survived the illness. The novels tell the interconnecting stories and bonds of those who fight against a cruel fate.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1863/105366.jpg",
+      "date": "Sep 18, 2020",
+      "producer": "Production I.G",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "Movie"
+    },
+    {
       "title": "Mobile Suit Gundam: Hathaway's Flash",
       "description": "In Hathaway's Flash Hathaway Noa, still haunted by his past actions (not to mention the spirit of deceased Newtype Quess Paraya), joins a terrorist organization called Mafty and adopts the false name \"Mafty Navue Erin.\" The organization Mafty is fighting a terrorist campaign against the Earth Federation government, and they are eventually able to acquire the incredibly powerful prototype Ξ Gundam, which Hathaway becomes the pilot of. Using the Ξ Gundam Mafty attempts to attack a meeting of high-ranking Federation cabinet members in Adelaide, Australia to force them to vote down a provision which would strengthen the Federations already considerable powers.\n \nAs a point to note, this novel focuses on a version of events chronicled in creator Yoshiyuki Tomino's novelized form of Char's Counterattack, rather than his animated movie version, and as such, several discrepancies can be found between the animated work and this novel, making it more of a semi-canonical UC storyline, rather than 100% official canon.\n \n(Source: Wikipedia)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1074/106582.jpg",
@@ -537,20 +551,6 @@
         "Space",
         "Drama",
         "Mecha"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Shika no Ou",
-      "description": "Van is the head of a group of soldiers who expected to die fighting for their lands against a large empire looking to incorporate their home into its kingdom. Instead of dying, however, Van is taken as a slave and thrown into a salt mine. One night, a pack of strange dogs attacks the salt mine, and a mysterious illness breaks out. During the attack, Van takes the opportunity to escape, and he meets a young girl. Elsewhere, rumor is spreading that only immigrants are coming down with this mysterious illness. The medical scientist Hossal risks his life to search for a cure. Doctors also study a father and child who seem to have survived the illness. The novels tell the interconnecting stories and bonds of those who fight against a cruel fate.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1863/105366.jpg",
-      "date": "Sep 18, 2020",
-      "producer": "Production I.G",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
       ],
       "category": "Movie"
     },

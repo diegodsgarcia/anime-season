@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-04-11",
+  "lastUpdate": "2020-04-12",
   "animes": [
     {
       "title": "Yakusoku no Neverland 2nd Season",
@@ -83,6 +83,23 @@
       "category": "TV (New)"
     },
     {
+      "title": "Nanatsu no Taizai: Fundo no Shinpan",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "date": "Oct ??, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Supernatural",
+        "Magic",
+        "Fantasy",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Golden Kamuy 3rd Season",
       "description": "Third season of Golden Kamuy.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1510/101944.jpg",
@@ -112,21 +129,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Vlad Love",
-      "description": "Mitsugu Bamba is a high school girl who finds meaning in donating blood. She frequently visits a blood bank to donate blood, despite being harshly treated by the nurse. One day, she encounters a beautiful girl who looks like she's from overseas at the blood bank. The pale girl looks like she's about to faint any minute, but then, she starts destroying the blood bank. The girl loses consciousness and Mitsugu takes her home... \n\n(Source: Official Website)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1664/106310.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Drive, Production I.G",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "Supernatural",
-        "Vampire",
-        "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Fumetsu no Anata e",
       "description": "It, a mysterious immortal being, is sent to the Earth with no emotions nor identity. However, It is able to take the shape of those around that have a strong impetus.\n \nAt first, It is a sphere. Then, It imitates the form of a rock. As the temperature drops and snow falls atop the moss, It inherits the moss. When an injured, lone wolf comes limping by and lays down to die, It takes on the form of the animal. Finally, It gains consciousness and begins to traverse the empty tundra until It meets a boy.\n \nThe boy lives alone in a ghost town, which the adults abandoned long ago in search of the paradise said to exist far beyond the endless sea of white tundra. However, their efforts were for naught, and now the boy is in a critical state.\n \nAcquiring the form of the boy, It sets off on a never-ending journey, in search of new experiences, places, and people.\n \n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/105306.jpg",
@@ -138,6 +140,21 @@
         "Supernatural",
         "Drama",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Vlad Love",
+      "description": "Mitsugu Bamba is a high school girl who finds meaning in donating blood. She frequently visits a blood bank to donate blood, despite being harshly treated by the nurse. One day, she encounters a beautiful girl who looks like she's from overseas at the blood bank. The pale girl looks like she's about to faint any minute, but then, she starts destroying the blood bank. The girl loses consciousness and Mitsugu takes her home... \n\n(Source: Official Website)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1664/106310.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Drive, Production I.G",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Supernatural",
+        "Vampire",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -241,21 +258,20 @@
       "category": "TV (New)"
     },
     {
-      "title": "Nanatsu no Taizai: Fundo no Shinpan",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "date": "Oct ??, 2020",
-      "producer": "-",
-      "eps": null,
+      "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+      "description": "The movie adaptation of the Infinity Train arc.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1704/106947.jpg",
+      "date": "Oct 16, 2020",
+      "producer": "ufotable",
+      "eps": 1,
       "genres": [
         "Action",
-        "Adventure",
+        "Historical",
+        "Demons",
         "Supernatural",
-        "Magic",
-        "Fantasy",
         "Shounen"
       ],
-      "category": "TV (New)"
+      "category": "Movie"
     },
     {
       "title": "Entotsu Machi no Poupelle",

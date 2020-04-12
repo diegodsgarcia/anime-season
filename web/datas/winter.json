@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-04-11",
+  "lastUpdate": "2020-04-12",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -126,21 +126,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Plunderer",
-      "description": "In a post-apocalyptic world dominated by the so-called \"Numbers,\" each human will have their identity branded with their own \"Count,\" which could define any number related to their life. May it be one's walked distance or amount of compliments given to them by others, this Count could lead them to the abyss when it has dropped to zero.\n\nIn the year 305 of the Alcian calendar, Hina has inherited a mission from her Mother, whose Count has depreciated to zero, to search for the Legendary Red Baron. In her adventure, she meets a half-masked swordsman named Licht who tries to hide his identity, as he is known as a degenerate for having an incredibly low Count.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1534/104784.jpg",
-      "date": "Jan 9, 2020, 01:05 (JST)",
-      "producer": "GEEKTOYS",
-      "eps": 24,
-      "genres": [
-        "Action",
-        "Ecchi",
-        "Fantasy",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Id:Invaded",
       "description": "The Mizuhanome System is a highly-advanced development that allows humans to enter one of the most intriguing places in existence—the mind of a criminal. Appearing as a bizarre mess of thoughts, an id well is the manifestation of a murderer's unconscious mind. Kura, a specialized police squad, is tasked with analyzing these complex psychological planes to track down the culprits. Brilliant detective Sakaido assists the police by investigating the id wells and piecing together the countless clues scattered within.\n\nHowever, there is a rule regarding those who enter the id wells: you are only permitted to dive into one if you have killed someone yourself. Such is the case for former detective Akihito Narihisago, Sakaido's real-world counterpart. Two years ago, his daughter was brutally murdered by a serial killer, driving Narihisago to seek his revenge.\n\nDespite finding himself on the other side of the law, Narihisago nevertheless continues to assist the police. While his detective skills continue to prove useful toward the investigations, Narihisago discovers he may not have everything figured out—especially regarding those he despises most, serial killers.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1889/105337.jpg",
@@ -152,6 +137,21 @@
         "Mystery",
         "Police",
         "Psychological"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Plunderer",
+      "description": "In a post-apocalyptic world dominated by the so-called \"Numbers,\" each human will have their identity branded with their own \"Count,\" which could define any number related to their life. May it be one's walked distance or amount of compliments given to them by others, this Count could lead them to the abyss when it has dropped to zero.\n\nIn the year 305 of the Alcian calendar, Hina has inherited a mission from her Mother, whose Count has depreciated to zero, to search for the Legendary Red Baron. In her adventure, she meets a half-masked swordsman named Licht who tries to hide his identity, as he is known as a degenerate for having an incredibly low Count.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1534/104784.jpg",
+      "date": "Jan 9, 2020, 01:05 (JST)",
+      "producer": "GEEKTOYS",
+      "eps": 24,
+      "genres": [
+        "Action",
+        "Ecchi",
+        "Fantasy",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
