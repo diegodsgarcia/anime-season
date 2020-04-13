@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-04-12",
+  "lastUpdate": "2020-04-13",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -181,9 +181,9 @@
     },
     {
       "title": "Appare-Ranman!",
-      "description": "During the back-end of the 19th century, the genius but socially awkward engineer Sorano Appare and the wise yet cowardly samurai Isshiki Kosame find themselves drifting in the sea between Japan and America. With no money, the duo decide to enter the Trans-America Wild Race to win the prize money so they can get home. The two encounter rivals, bandits, and challenges in the wilderness as they race through America, from the starting line in Los Angeles to the finish line in New York, in the steam-powered car they built.\n\n(Source: MAL News)\n\nEpisodes 1 and 2 were streamed in advance on March 21, 2020 on Docomo Anime Store. Regular broadcasting began on April 10, 2020.",
+      "description": "During the back-end of the 19th century, the genius but socially awkward engineer Sorano Appare and the wise yet cowardly samurai Isshiki Kosame find themselves drifting in the sea between Japan and America. With no money, the duo decide to enter the Trans-America Wild Race to win the prize money so they can get home. The two encounter rivals, bandits, and challenges in the wilderness as they race through America, from the starting line in Los Angeles to the finish line in New York, in the steam-powered car they built.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1710/106614.jpg",
-      "date": "Mar 21, 2020, 21:30 (JST)",
+      "date": "Apr 10, 2020, 21:30 (JST)",
       "producer": "P.A. Works",
       "eps": null,
       "genres": [
@@ -1711,6 +1711,19 @@
       "category": "ONA"
     },
     {
+      "title": "Wo Kai Dongwuyuan Naxie Nian",
+      "description": "Duan Jiaze inherited a private zoo and was forced to sign a contract after his graduation. And from that day onwards the first ever age classified Luya zoo appeared, those aged under 21 are prohibited to enter.\n\n(Source: Twitter User Xiyoumiyu)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1771/106652.jpg",
+      "date": "Apr 5, 2020",
+      "producer": "Haoliners Animation League",
+      "eps": 13,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Bai Yao Pu",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1162/105824.jpg",
@@ -1722,19 +1735,6 @@
         "Fantasy",
         "Mystery",
         "Supernatural"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Wo Kai Dongwuyuan Naxie Nian",
-      "description": "Duan Jiaze inherited a private zoo and was forced to sign a contract after his graduation. And from that day onwards the first ever age classified Luya zoo appeared, those aged under 21 are prohibited to enter.\n\n(Source: Twitter User Xiyoumiyu)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1771/106652.jpg",
-      "date": "Apr 5, 2020",
-      "producer": "Haoliners Animation League",
-      "eps": 13,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
       ],
       "category": "ONA"
     },

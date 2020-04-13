@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-04-12",
+  "lastUpdate": "2020-04-13",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -1621,19 +1621,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Kaijuu Step Wandabada",
-      "description": "Anime based on the picture book Kaijuu Step, which features monsters from Ultraman series",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1132/102644.jpg",
-      "date": "Sep 27, 2019",
-      "producer": "Usagi Ou",
-      "eps": 26,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Egg Car",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
@@ -1645,6 +1632,19 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Kaijuu Step Wandabada",
+      "description": "Anime based on the picture book Kaijuu Step, which features monsters from Ultraman series",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1132/102644.jpg",
+      "date": "Sep 27, 2019",
+      "producer": "Usagi Ou",
+      "eps": 26,
+      "genres": [
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1812,20 +1812,6 @@
       "category": "ONA"
     },
     {
-      "title": "Mobile Suit Gundam G40",
-      "description": "U.C. 0079 - A squadron of Zakus from the Principality of Zeon invades a neutral space colony. Amuro Ray reluctantly pilots the Gundam G40 prototype mobile suit to combat the threat, as well as Zeon ace pilot Char Aznable and his custom red Zaku II.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1770/105718.jpg",
-      "date": "Jan 1, 2020",
-      "producer": "Bandai Spirits, Sunrise",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Mecha"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Zenonzard The Animation",
       "description": "Hinaria is unemployed, gaming every day. One day she decides to hack the servers belonging to the Beholder Group for some money, and she stumbles across a carefully secured record of two witches, Alice and Rimel. The two women wished to coexist with mankind, and the history they experienced is connected to the modern ZENONZARD.\n\n(Source: Official Site)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1035/106164.jpg",
@@ -1836,6 +1822,20 @@
         "Action",
         "Game",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Mobile Suit Gundam G40",
+      "description": "U.C. 0079 - A squadron of Zakus from the Principality of Zeon invades a neutral space colony. Amuro Ray reluctantly pilots the Gundam G40 prototype mobile suit to combat the threat, as well as Zeon ace pilot Char Aznable and his custom red Zaku II.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1770/105718.jpg",
+      "date": "Jan 1, 2020",
+      "producer": "Bandai Spirits, Sunrise",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Mecha"
       ],
       "category": "ONA"
     },
@@ -1878,18 +1878,6 @@
       "category": "ONA"
     },
     {
-      "title": "Microphone Soul Spinners: Kotodama Shoujo",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/102079.jpg",
-      "date": "Jan 11, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Music"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Fukai ni Nemuru Oujo no Abaddon The Animation",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1124/105798.jpg",
@@ -1898,6 +1886,18 @@
       "eps": null,
       "genres": [
         "Hentai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Microphone Soul Spinners: Kotodama Shoujo",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/102079.jpg",
+      "date": "Jan 11, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Music"
       ],
       "category": "ONA"
     },
@@ -2055,19 +2055,6 @@
       "category": "ONA"
     },
     {
-      "title": "Kore ga Masakano Are Deshita: Wakamono no Shoushisha Higai",
-      "description": "The adult age in japan will be reduced from 20 years of age to 18 years of age in April 2022. Some teenagers may suffer from poor financial decisions as they legally can enter contracts. If they need help, they can call 188 (Consumer Hotline). This hotline was launched in July 1, 2015 by the Department of Consumer Affairs and is run by local governments.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/106483.jpg",
-      "date": "Mar 12, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Drama",
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Man with a Mission The Animation",
       "description": "Short 3DCG anime for Japanese band MAN WITH A MISSION.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1378/106615.jpg",
@@ -2077,6 +2064,19 @@
       "genres": [
         "Music",
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Kore ga Masakano Are Deshita: Wakamono no Shoushisha Higai",
+      "description": "The adult age in japan will be reduced from 20 years of age to 18 years of age in April 2022. Some teenagers may suffer from poor financial decisions as they legally can enter contracts. If they need help, they can call 188 (Consumer Hotline). This hotline was launched in July 1, 2015 by the Department of Consumer Affairs and is run by local governments.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/106483.jpg",
+      "date": "Mar 12, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Drama",
+        "Slice of Life"
       ],
       "category": "ONA"
     },
