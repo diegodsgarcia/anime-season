@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-04-13",
+  "lastUpdate": "2020-04-14",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -589,6 +589,18 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1892/105979.jpg",
       "date": "Aug 26, 2020",
       "producer": "A-1 Pictures",
+      "eps": 1,
+      "genres": [
+        "Music"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "ARP Backstage Pass Special",
+      "description": "Unaired episode included with volume 4 of the Bluray/DVD.",
+      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "date": "Aug 26, 2020",
+      "producer": "Dynamo Pictures",
       "eps": 1,
       "genres": [
         "Music"

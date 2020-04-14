@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-04-13",
+  "lastUpdate": "2020-04-14",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -67,8 +67,8 @@
     },
     {
       "title": "BNA",
-      "description": "An original anime by Studio Trigger, BNA is set in a 21st century in which the existence of humanoid animals has been revealed to the world after living in the darkness for centuries. One day, a high school student named Michiru suddenly turns into a tanuki person. After going to live in Anima City, where she meets wolf Ogami Shiro, she goes on to investigate why she became an animal and gets mixed up in even stranger events in the process.\n\n(Source: Tokyo Otaku Mode)\n\nEpisodes 1 to 6 were streamed in advance on March 21, 2020 on Netflix. Regular broadcasting began April 9, 2020.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1887/106421.jpg",
+      "description": "Throughout history, humans have been at odds with Beastmen—a species capable of changing shape due to their genetic \"Beast Factor.\" Because of this conflict, Beastmen have been forced into hiding. Anima City serves as a safe haven for these oppressed individuals to live free from human interference.\n\nDuring a festival celebrating the town's 10th anniversary, Michiru Kagemori, a human who suddenly turned into a tanuki, finds that Anima City is a far cry from paradise. After witnessing an explosion in the square, she is confronted by Shirou Ogami, a seemingly indestructible wolf and sworn protector of all Beastmen. As they pursue the criminals behind the bombing, the two discover that Michiru is anything but an ordinary Beastman, and look to investigate her mysterious past and uncanny abilities. Could she turn out to be the missing link between Humans and Beastmen?\n\n[Written by MAL Rewrite]\n\nEpisodes 1 to 6 were streamed in advance on March 21, 2020 on Netflix. Regular broadcasting began April 9, 2020.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/106986.jpg",
       "date": "Mar 21, 2020, 00:55 (JST)",
       "producer": "Trigger",
       "eps": null,
@@ -272,6 +272,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Princess Connect! Re:Dive",
+      "description": "The protagonist wakes up with no memories in an unfamiliar location. The protagonist then meets girls and comes closer to uncovering a hidden mystery.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/106070.jpg",
+      "date": "Apr 7, 2020, 00:30 (JST)",
+      "producer": "CygamesPictures",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Shironeko Project: Zero Chronicle",
       "description": "In a world consisting of numerous isles, a young hero from the Astora Isle encounters the adventurer Kyle and follows him on an expedition on the isle. They meet a mysterious girl named Iris and a talking white cat, and together they make their way to the isle's ruins, where they find a flying island. Kyle becomes consumed by darkness there, and the party resolves to travel to the ends of the world on the flying island in order to find the seven \"Great Runes,\" following Kyle's words before he disappeared.\n\n(Source: Wikipedia)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1494/105719.jpg",
@@ -283,20 +297,6 @@
         "Adventure",
         "Fantasy",
         "Magic"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Princess Connect! Re:Dive",
-      "description": "The protagonist wakes up with no memories in an unfamiliar location. The protagonist then meets girls and comes closer to uncovering a hidden mystery.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/106070.jpg",
-      "date": "Apr 7, 2020, 00:30 (JST)",
-      "producer": "CygamesPictures",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -386,6 +386,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "Kitsutsuki Tanteidokoro",
+      "description": "A ghost was seen on the 12th floor of the Asakusa Juunikai building. A newspaper article featuring the sighting brought together Takuboku Ishikawa, who runs a private detective agency to support his family, and his assistant Kyosuke Kindaichi to solve the case.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/105873.jpg",
+      "date": "Apr 13, 2020, 23:00 (JST)",
+      "producer": "LIDENFILMS",
+      "eps": null,
+      "genres": [
+        "Mystery",
+        "Historical"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Yu☆Gi☆Oh!: Sevens",
       "description": "A new television anime series for the 20th anniversary of the anime franchise.\n\n(Source: AniDB)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1148/106883.jpg",
@@ -397,19 +410,6 @@
         "Game",
         "Fantasy",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Kitsutsuki Tanteidokoro",
-      "description": "A ghost was seen on the 12th floor of the Asakusa Juunikai building. A newspaper article featuring the sighting brought together Takuboku Ishikawa, who runs a private detective agency to support his family, and his assistant Kyosuke Kindaichi to solve the case.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/105873.jpg",
-      "date": "Apr 13, 2020, 23:00 (JST)",
-      "producer": "LIDENFILMS",
-      "eps": null,
-      "genres": [
-        "Mystery",
-        "Historical"
       ],
       "category": "TV (New)"
     },
@@ -569,7 +569,7 @@
       "title": "Cardfight!! Vanguard Gaiden: If",
       "description": "The series will explore an alternate universe to the main series, and will focus on Kouji Ibuki, an antagonist in the Cardfight!! Vanguard Movie: Neon Messiah, and Suiko Tatsunagi.\n\n(Source: ANN, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1992/106795.jpg",
-      "date": "Apr 25, 2020, 08:00 (JST)",
+      "date": "May ??, 2020, 08:00 (JST)",
       "producer": "-",
       "eps": null,
       "genres": [
@@ -663,6 +663,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
+      "description": "Third season of TV Yarou Nanaana.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1201/106347.jpg",
+      "date": "Apr 16, 2020, 19:53 (JST)",
+      "producer": "Studio Crocodile",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Motto! Majime ni Fumajime Kaiketsu Zorori",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1401/106017.jpg",
@@ -673,19 +686,6 @@
         "Adventure",
         "Comedy",
         "Kids"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
-      "description": "Third season of TV Yarou Nanaana.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1201/106347.jpg",
-      "date": "Apr 16, 2020, 19:53 (JST)",
-      "producer": "Studio Crocodile",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -854,7 +854,7 @@
     },
     {
       "title": "Plunderer",
-      "description": "In a post-apocalyptic world dominated by the so-called \"Numbers,\" each human will have their identity branded with their own \"Count,\" which could define any number related to their life. May it be one's walked distance or amount of compliments given to them by others, this Count could lead them to the abyss when it has dropped to zero.\n\nIn the year 305 of the Alcian calendar, Hina has inherited a mission from her Mother, whose Count has depreciated to zero, to search for the Legendary Red Baron. In her adventure, she meets a half-masked swordsman named Licht who tries to hide his identity, as he is known as a degenerate for having an incredibly low Count.\n\n(Source: MAL News)",
+      "description": "Alcia is a world governed by \"Count\": numbers engraved on a person's body, representing any number related to their life. These Counts determine a person's social status and power in Alcia. If a Count reaches zero, the person is sent to the Abyss, a place rumored to be worse than death.\n\nHina, a traveler whose Count is based on the distance she traveled, witnessed her mother get dragged down into the Abyss. Determined to fulfill her mother's last wishes, she sets off on a journey in search of the legendary Aces—heroes of the war that happened three hundred years ago, bearing a white star next to their Count.\n\nWhile wandering around, Hina encounters Licht Bach, a mysterious masked man with negative Count, and Nana, the owner of a tavern. In the midst of having a good time, Hina is tricked into a battle with a military soldier. However, despite his negative count, Licht rescues Hina and reveals that he has another count, one with a white star, one of a legendary Ace.\n\nPlunderer follows the journey of Hina and other inhabitants of Alcia as they discover the truth about their world, the Abyss, and the legendary Aces.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1534/104784.jpg",
       "date": "Jan 9, 2020, 01:05 (JST)",
       "producer": "GEEKTOYS",
@@ -1825,20 +1825,6 @@
       "category": "ONA"
     },
     {
-      "title": "Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set",
-      "description": "The original video anime episode will serve as the final chapter to the television series, focusing on the rivalry between the \"background character\" Amatsuyu Kisaragi (Jouro) and Yasuo Hazuki (Hose), \"the protagonist.\"\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1155/106799.jpg",
-      "date": "May 23, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "School"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Strike the Blood IV",
       "description": "Fourth season of Strike the Blood.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1792/104833.jpg",
@@ -1997,22 +1983,6 @@
         "Action",
         "Sci-Fi",
         "Mecha"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Given Movie",
-      "description": "",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1706/106042.jpg",
-      "date": "May 16, 2020",
-      "producer": "Lerche",
-      "eps": 1,
-      "genres": [
-        "Music",
-        "Slice of Life",
-        "Drama",
-        "Romance",
-        "Shounen Ai"
       ],
       "category": "Movie"
     },
@@ -2199,6 +2169,19 @@
       "genres": [
         "Comedy",
         "Supernatural"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "number24 Recap",
+      "description": "Recap of the first ten episodes of number24 series.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1220/106820.jpg",
+      "date": "Apr 1, 2020",
+      "producer": "PRA",
+      "eps": 1,
+      "genres": [
+        "Sports",
+        "School"
       ],
       "category": "Special"
     }
