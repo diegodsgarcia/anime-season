@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-04-14",
+  "lastUpdate": "2020-04-15",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -419,6 +419,20 @@
         "Supernatural"
       ],
       "category": "TV (New)"
+    },
+    {
+      "title": "Kabukichou Sherlock OVA",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "date": "Aug 26, 2020",
+      "producer": "-",
+      "eps": 6,
+      "genres": [
+        "Mystery",
+        "Comedy",
+        "Drama"
+      ],
+      "category": "OVA"
     },
     {
       "title": "Planetarian: Snow Globe",

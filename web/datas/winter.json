@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-04-14",
+  "lastUpdate": "2020-04-15",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -2055,19 +2055,6 @@
       "category": "ONA"
     },
     {
-      "title": "Man with a Mission The Animation",
-      "description": "Short 3DCG anime for Japanese band MAN WITH A MISSION.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1378/106615.jpg",
-      "date": "Mar 16, 2020",
-      "producer": "-",
-      "eps": 6,
-      "genres": [
-        "Music",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Kore ga Masakano Are Deshita: Wakamono no Shoushisha Higai",
       "description": "The adult age in japan will be reduced from 20 years of age to 18 years of age in April 2022. Some teenagers may suffer from poor financial decisions as they legally can enter contracts. If they need help, they can call 188 (Consumer Hotline). This hotline was launched in July 1, 2015 by the Department of Consumer Affairs and is run by local governments.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/106483.jpg",
@@ -2077,6 +2064,19 @@
       "genres": [
         "Drama",
         "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Man with a Mission The Animation",
+      "description": "Short 3DCG anime for Japanese band MAN WITH A MISSION.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1378/106615.jpg",
+      "date": "Mar 16, 2020",
+      "producer": "-",
+      "eps": 6,
+      "genres": [
+        "Music",
+        "Comedy"
       ],
       "category": "ONA"
     },

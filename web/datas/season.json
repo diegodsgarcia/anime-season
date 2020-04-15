@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-04-14",
+  "lastUpdate": "2020-04-15",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -9,7 +9,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1764/106659.jpg",
       "date": "Apr 11, 2020, 23:30 (JST)",
       "producer": "A-1 Pictures",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Comedy",
         "Psychological",
@@ -25,7 +25,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
       "date": "Apr 2, 2020, 00:30 (JST)",
       "producer": "Telecom Animation Film",
-      "eps": null,
+      "eps": 13,
       "genres": [
         "Action",
         "Adventure",
@@ -67,9 +67,9 @@
     },
     {
       "title": "BNA",
-      "description": "Throughout history, humans have been at odds with Beastmen—a species capable of changing shape due to their genetic \"Beast Factor.\" Because of this conflict, Beastmen have been forced into hiding. Anima City serves as a safe haven for these oppressed individuals to live free from human interference.\n\nDuring a festival celebrating the town's 10th anniversary, Michiru Kagemori, a human who suddenly turned into a tanuki, finds that Anima City is a far cry from paradise. After witnessing an explosion in the square, she is confronted by Shirou Ogami, a seemingly indestructible wolf and sworn protector of all Beastmen. As they pursue the criminals behind the bombing, the two discover that Michiru is anything but an ordinary Beastman, and look to investigate her mysterious past and uncanny abilities. Could she turn out to be the missing link between Humans and Beastmen?\n\n[Written by MAL Rewrite]\n\nEpisodes 1 to 6 were streamed in advance on March 21, 2020 on Netflix. Regular broadcasting began April 9, 2020.",
+      "description": "Throughout history, humans have been at odds with Beastmen—a species capable of changing shape due to their genetic \"Beast Factor.\" Because of this conflict, Beastmen have been forced into hiding. Anima City serves as a safe haven for these oppressed individuals to live free from human interference.\n\nDuring a festival celebrating the town's 10th anniversary, Michiru Kagemori, a human who suddenly turned into a tanuki, finds that Anima City is a far cry from paradise. After witnessing an explosion in the square, she is confronted by Shirou Ogami, a seemingly indestructible wolf and sworn protector of all Beastmen. As they pursue the criminals behind the bombing, the two discover that Michiru is anything but an ordinary Beastman, and look to investigate her mysterious past and uncanny abilities. Could she turn out to be the missing link between Humans and Beastmen?\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/106986.jpg",
-      "date": "Mar 21, 2020, 00:55 (JST)",
+      "date": "Apr 9, 2020, 00:55 (JST)",
       "producer": "Trigger",
       "eps": null,
       "genres": [
@@ -117,7 +117,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1476/106372.jpg",
       "date": "Apr 2, 2020, 23:30 (JST)",
       "producer": "Ajia-Do",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Slice of Life",
         "Comedy",
@@ -131,12 +131,12 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1315/106420.jpg",
       "date": "Apr 5, 2020, 01:30 (JST)",
       "producer": "Silver Link.",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Comedy",
         "Drama",
-        "Fantasy",
         "Romance",
+        "Fantasy",
         "School"
       ],
       "category": "TV (New)"
@@ -147,7 +147,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1066/106556.jpg",
       "date": "Apr 10, 2020, 00:55 (JST)",
       "producer": "CloverWorks",
-      "eps": null,
+      "eps": 11,
       "genres": [
         "Mystery"
       ],
@@ -198,7 +198,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1284/106945.jpg",
       "date": "Apr 4, 2020, 22:00 (JST)",
       "producer": "Seven Arcs",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Slice of Life",
         "Historical",
@@ -229,7 +229,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1615/105582.jpg",
       "date": "Apr 4, 2020, 02:25 (JST)",
       "producer": "Sunrise",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Comedy",
         "Drama",
@@ -306,7 +306,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1881/106156.jpg",
       "date": "Apr 1, 2020, 22:00 (JST)",
       "producer": "Studio A-CAT",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Sports",
         "School"
@@ -319,7 +319,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106362.jpg",
       "date": "Apr 7, 2020, 22:00 (JST)",
       "producer": "Doga Kobo",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Slice of Life",
         "Comedy",
@@ -363,7 +363,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1332/106887.jpg",
       "date": "Apr 5, 2020, 01:00 (JST)",
       "producer": "Kamikaze Douga, Space Neko Company",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Slice of Life",
         "Comedy",
@@ -1781,7 +1781,7 @@
       "category": "ONA"
     },
     {
-      "title": "Mashin Eiyuuden Wataru: Nana Tamashii no Ryuujinmaru",
+      "title": "Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1324/103548.jpg",
       "date": "Apr 10, 2020",
@@ -1997,33 +1997,6 @@
         "Drama",
         "Magic",
         "Romance"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Omoi, Omoware, Furi, Furare",
-      "description": "Yuna and Akari are two high school girls with very different views on love: Yuna dreams about romance through rose-coloured glasses, while Akari is down-to-earth and practical. Meanwhile, high school boys Kazuomi and Rio also have different views on love: Kazuomi is an airhead who can't grasp the concept of love, while Rio grabs onto any confession as an opportunity—so long as the girl looks cute. Will these four classmates end up leading a youthful romance that meets their expectations?\n \n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1975/106423.jpg",
-      "date": "May 29, 2020",
-      "producer": "A-1 Pictures",
-      "eps": 1,
-      "genres": [
-        "Drama",
-        "Romance",
-        "School",
-        "Shoujo"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Cider no You ni Kotoba ga Wakiagaru",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1619/106307.jpg",
-      "date": "May 15, 2020",
-      "producer": "Signal.MD, Sublimation",
-      "eps": 1,
-      "genres": [
-        "Music"
       ],
       "category": "Movie"
     },
