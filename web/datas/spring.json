@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-04-15",
+  "lastUpdate": "2020-04-16",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -239,6 +239,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Princess Connect! Re:Dive",
+      "description": "The protagonist wakes up with no memories in an unfamiliar location. The protagonist then meets girls and comes closer to uncovering a hidden mystery.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/106070.jpg",
+      "date": "Apr 7, 2020, 00:30 (JST)",
+      "producer": "CygamesPictures",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Tsugu Tsugumomo",
       "description": "Second season of Tsugumomo.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1997/106184.jpg",
@@ -267,20 +281,6 @@
         "Adventure",
         "Comedy",
         "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Princess Connect! Re:Dive",
-      "description": "The protagonist wakes up with no memories in an unfamiliar location. The protagonist then meets girls and comes closer to uncovering a hidden mystery.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/106070.jpg",
-      "date": "Apr 7, 2020, 00:30 (JST)",
-      "producer": "CygamesPictures",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
         "Fantasy"
       ],
       "category": "TV (New)"
@@ -584,7 +584,7 @@
       "title": "Gal-gaku.: Hijiri Girls Square Gakuin",
       "description": "The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/106284.jpg",
-      "date": "Apr 6, 2020, 19:05 (JST)",
+      "date": "Apr 6, 2020, 07:05 (JST)",
       "producer": "OLM, Wit Studio",
       "eps": null,
       "genres": [
@@ -1435,16 +1435,6 @@
         "Adventure",
         "Kids"
       ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Chuldong! Super Wings 3",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1328/101000.jpg",
-      "date": "Sep 1, 2018",
-      "producer": "-",
-      "eps": null,
-      "genres": [],
       "category": "TV (Continuing)"
     },
     {

@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-04-15",
+  "lastUpdate": "2020-04-16",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -1518,16 +1518,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Chuldong! Super Wings 3",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1328/101000.jpg",
-      "date": "Sep 1, 2018",
-      "producer": "-",
-      "eps": null,
-      "genres": [],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Beads no Mori no Rabi",
       "description": "A stop-motion anime using beaded characters. Here a magician rabbits solve problems by using magic.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/6/86113.jpg",
@@ -1914,14 +1904,17 @@
       "category": "ONA"
     },
     {
-      "title": "Samurai to Shougun",
-      "description": "In this animated short titled \"Samurai & Shogun,\" Rick and Morty fight off a group of vengeful ninja Ricks who insist he kidnapped Morty. Fans are taken on a trippy ride throughout the almost six-minute clip, complete with colorful graphics that don't disappoint as the duo defend their lives in this parallel universe.\n\n(Source: Mashable India)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1807/106773.jpg",
-      "date": "Mar 29, 2020",
-      "producer": "Studio Deen",
-      "eps": 1,
+      "title": "Aikatsu on Parade! (ONA)",
+      "description": "\"Dream School Grand Prix\" to decide the No.1 idol school among five schools representing the Aikatsu world will be held! In this competition where top idols representing each school compete on stage, Dream Academy's new idol Noel Otoshiro is selected as one of them?! For each idol's dream, a new story starts running into the shining future! \n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1704/106781.jpg",
+      "date": "Mar 28, 2020",
+      "producer": "Bandai Namco Pictures",
+      "eps": null,
       "genres": [
-        "Action"
+        "Music",
+        "Slice of Life",
+        "School",
+        "Shoujo"
       ],
       "category": "ONA"
     },
@@ -1939,21 +1932,6 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Aikatsu on Parade! (ONA)",
-      "description": "\"Dream School Grand Prix\" to decide the No.1 idol school among five schools representing the Aikatsu world will be held! In this competition where top idols representing each school compete on stage, Dream Academy's new idol Noel Otoshiro is selected as one of them?! For each idol's dream, a new story starts running into the shining future! \n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1704/106781.jpg",
-      "date": "Mar 28, 2020",
-      "producer": "Bandai Namco Pictures",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Slice of Life",
-        "School",
-        "Shoujo"
       ],
       "category": "ONA"
     },
@@ -2613,21 +2591,21 @@
       "category": "Movie"
     },
     {
-      "title": "Rebecca",
-      "description": "Rebecca is a 10-year-old cheerful and energetic girl who is the second of seven children. She lives in a rural town in Maine in the United States at the end of the 19th century. After her father dies, her family descends into poverty, and Rebecca unwillingly goes to live with her aunts Miranda and Jane. Rebecca loves her kind aunt Jane dearly, but her aunt Miranda is naggy and strict.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1190/106238.jpg",
-      "date": "Mar 14, 2020",
-      "producer": "Vega Entertainment",
-      "eps": 1,
-      "genres": [],
-      "category": "Movie"
-    },
-    {
       "title": "Ometeotl Hero",
       "description": "In the year 22XX, due to the drastic decrease in the human population, the government starts accepting races from other allied planets. As a result of genetic mixing, new species are born with special powers. A young man named Yuuki learns on his 18th birthday that while his father is a member of the \"hero\" tribe, his mother is a member of a tribe of beings who can manipulate plants who were supposedly wiped out due to the accelerated mechanization of the planet. As a result, Yuuki holds powers of both tribes, but he questions which side he should help with his powers.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1129/106226.jpg",
       "date": "Mar 14, 2020",
       "producer": "SPEED",
+      "eps": 1,
+      "genres": [],
+      "category": "Movie"
+    },
+    {
+      "title": "Rebecca",
+      "description": "Rebecca is a 10-year-old cheerful and energetic girl who is the second of seven children. She lives in a rural town in Maine in the United States at the end of the 19th century. After her father dies, her family descends into poverty, and Rebecca unwillingly goes to live with her aunts Miranda and Jane. Rebecca loves her kind aunt Jane dearly, but her aunt Miranda is naggy and strict.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1190/106238.jpg",
+      "date": "Mar 14, 2020",
+      "producer": "Vega Entertainment",
       "eps": 1,
       "genres": [],
       "category": "Movie"
