@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-04-16",
+  "lastUpdate": "2020-04-17",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -102,7 +102,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1986/105547.jpg",
       "date": "Apr 5, 2020, 01:30 (JST)",
       "producer": "Doga Kobo",
-      "eps": 12,
+      "eps": 18,
       "genres": [
         "Slice of Life",
         "Drama",
@@ -224,6 +224,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Princess Connect! Re:Dive",
+      "description": "The protagonist wakes up with no memories in an unfamiliar location. The protagonist then meets girls and comes closer to uncovering a hidden mystery.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/106070.jpg",
+      "date": "Apr 7, 2020, 00:30 (JST)",
+      "producer": "CygamesPictures",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Nami yo Kiitekure",
       "description": "The stage is Sapporo, Hokkaido. One night, our heroine, Minare Koda, spills her heartbroken woes to a radio station worker she meets while out drinking one night. The next day, she hears a recording of her pitiful grumbling being played live over the air. Minare storms into the station in a rage, only to then be duped by the station director into doing an impromptu talk show explaining her harsh dialogue. With just one recording, the many eccentric facets of Minare's life begin to pull every which direction as she falls ever deeper into the world of radio. \n\n(Source: Kodansha Comics)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1615/105582.jpg",
@@ -235,20 +249,6 @@
         "Drama",
         "Romance",
         "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Princess Connect! Re:Dive",
-      "description": "The protagonist wakes up with no memories in an unfamiliar location. The protagonist then meets girls and comes closer to uncovering a hidden mystery.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/106070.jpg",
-      "date": "Apr 7, 2020, 00:30 (JST)",
-      "producer": "CygamesPictures",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -1250,19 +1250,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "B Rappers Street",
-      "description": "A multimedia project collaboration between Shogakukan, Sony Interactive Entertainment, Sony Music Entertainment, and Sony Music Communications, and features a theme of rap and hip-hop.\n\nThe story follows Yo!Hey, a boy who raps to the beat of his farts. \n\nThe anime will air withing the Ota-Suta (\"Good Morning Star\") children's television program and the manga counterpart will be published in March.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1126/99095.jpg",
-      "date": "Apr 11, 2019, 07:05 (JST)",
-      "producer": "Pie in the sky",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Bakugan: Armored Alliance",
       "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
@@ -1273,6 +1260,19 @@
         "Action",
         "Game",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "B Rappers Street",
+      "description": "A multimedia project collaboration between Shogakukan, Sony Interactive Entertainment, Sony Music Entertainment, and Sony Music Communications, and features a theme of rap and hip-hop.\n\nThe story follows Yo!Hey, a boy who raps to the beat of his farts. \n\nThe anime will air withing the Ota-Suta (\"Good Morning Star\") children's television program and the manga counterpart will be published in March.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1126/99095.jpg",
+      "date": "Apr 11, 2019, 07:05 (JST)",
+      "producer": "Pie in the sky",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },

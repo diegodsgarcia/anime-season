@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-04-16",
+  "lastUpdate": "2020-04-17",
   "animes": [
     {
       "title": "Yakusoku no Neverland 2nd Season",
@@ -296,6 +296,21 @@
       "eps": 1,
       "genres": [
         "Yaoi"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Aria",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1752/107019.jpg",
+      "date": "Dec ??, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Sci-Fi",
+        "Slice of Life",
+        "Fantasy",
+        "Shounen"
       ],
       "category": "Movie"
     }

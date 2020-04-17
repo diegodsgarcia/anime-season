@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-04-16",
+  "lastUpdate": "2020-04-17",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -1424,6 +1424,18 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Taeko no Nichijou",
+      "description": "A short anime about Taeko Shinbou who is an office worker that is patient with everything and greets everything that comes her way with cheer. An announcement was made that a \"regular person\" from Kantou will voice Taeko rather than an industry professional.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1583/103149.jpg",
+      "date": "Oct 6, 2019, 01:00 (JST)",
+      "producer": "-",
+      "eps": 26,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Shimajirou no Wow!",
       "description": "Fourth season of the Shimajirou children's television series.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/50737.jpg",
@@ -1436,18 +1448,6 @@
         "Fantasy",
         "Kids",
         "Magic"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Taeko no Nichijou",
-      "description": "A short anime about Taeko Shinbou who is an office worker that is patient with everything and greets everything that comes her way with cheer. An announcement was made that a \"regular person\" from Kantou will voice Taeko rather than an industry professional.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1583/103149.jpg",
-      "date": "Oct 6, 2019, 01:00 (JST)",
-      "producer": "-",
-      "eps": 26,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "TV (Continuing)"
     },
@@ -2033,19 +2033,6 @@
       "category": "ONA"
     },
     {
-      "title": "Kore ga Masakano Are Deshita: Wakamono no Shoushisha Higai",
-      "description": "The adult age in japan will be reduced from 20 years of age to 18 years of age in April 2022. Some teenagers may suffer from poor financial decisions as they legally can enter contracts. If they need help, they can call 188 (Consumer Hotline). This hotline was launched in July 1, 2015 by the Department of Consumer Affairs and is run by local governments.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/106483.jpg",
-      "date": "Mar 12, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Drama",
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Man with a Mission The Animation",
       "description": "Short 3DCG anime for Japanese band MAN WITH A MISSION.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1378/106615.jpg",
@@ -2055,6 +2042,19 @@
       "genres": [
         "Music",
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Kore ga Masakano Are Deshita: Wakamono no Shoushisha Higai",
+      "description": "The adult age in japan will be reduced from 20 years of age to 18 years of age in April 2022. Some teenagers may suffer from poor financial decisions as they legally can enter contracts. If they need help, they can call 188 (Consumer Hotline). This hotline was launched in July 1, 2015 by the Department of Consumer Affairs and is run by local governments.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/106483.jpg",
+      "date": "Mar 12, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Drama",
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2097,6 +2097,19 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Hataraku Saibou Black",
+      "description": "A special animated commercial first released on Twitter to promote the manga. It was then released on Kodansha's official YouTube channel on January 15.\n\nSet inside an unhealthy body, Hataraku Saibou Black features the anthropomorphized cells of the human immune system as they attempt to keep their ailing world alive.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1914/106749.jpg",
+      "date": "Jan 4, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Seinen"
       ],
       "category": "ONA"
     },
