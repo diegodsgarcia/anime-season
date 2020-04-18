@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-04-17",
+  "lastUpdate": "2020-04-18",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -80,6 +80,21 @@
       "category": "TV (New)"
     },
     {
+      "title": "Yesterday wo Utatte",
+      "description": "After college, Rikuo Uozumi, a boy without much ambition in life, takes on a job at a convenience store. The days pass by uneventfully for Rikuo until he meets his former girlfriend and classmate, but especially thanks to the unusual Haru Nonaka, and her pet raven...\n \n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1986/105547.jpg",
+      "date": "Apr 5, 2020, 01:30 (JST)",
+      "producer": "Doga Kobo",
+      "eps": 18,
+      "genres": [
+        "Slice of Life",
+        "Drama",
+        "Romance",
+        "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Fruits Basket 2nd Season",
       "description": "It’s been almost a year since Tooru started living at Shigure’s house! Though she now has a deeper relationship with each of the Soumas, not just Yuki and Kyou, she is concerned about their sinister curse’s true nature. The right path to choose, predetermined destiny… what emotions will arise in Yuki, Kyou and Tooru in the face of the Eternal Banquet? What will be their resolve?\n\n(Source: Funimation, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1486/106692.jpg",
@@ -93,21 +108,6 @@
         "Drama",
         "Romance",
         "Shoujo"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Yesterday wo Utatte",
-      "description": "After college, Rikuo Uozumi, a boy without much ambition in life, takes on a job at a convenience store. The days pass by uneventfully for Rikuo until he meets his former girlfriend and classmate, but especially thanks to the unusual Haru Nonaka, and her pet raven...\n \n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1986/105547.jpg",
-      "date": "Apr 5, 2020, 01:30 (JST)",
-      "producer": "Doga Kobo",
-      "eps": 18,
-      "genres": [
-        "Slice of Life",
-        "Drama",
-        "Romance",
-        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -149,7 +149,9 @@
       "producer": "CloverWorks",
       "eps": 11,
       "genres": [
-        "Mystery"
+        "Mystery",
+        "Comedy",
+        "Police"
       ],
       "category": "TV (New)"
     },
@@ -650,19 +652,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Anoyo no Subete wa, Obake-gumi!",
-      "description": "The gag anime takes place at a school for youkai and other supernatural beings. A vampire named Rakuru transfers to the school from the West, and she tries to change the school as the class representative.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106451.jpg",
-      "date": "Apr 7, 2020",
-      "producer": "-",
-      "eps": 13,
-      "genres": [
-        "Comedy",
-        "Supernatural"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
       "description": "Third season of TV Yarou Nanaana.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1201/106347.jpg",
@@ -672,6 +661,19 @@
       "genres": [
         "Adventure",
         "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Anoyo no Subete wa, Obake-gumi!",
+      "description": "The gag anime takes place at a school for youkai and other supernatural beings. A vampire named Rakuru transfers to the school from the West, and she tries to change the school as the class representative.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106451.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "-",
+      "eps": 13,
+      "genres": [
+        "Comedy",
+        "Supernatural"
       ],
       "category": "TV (New)"
     },
@@ -1961,20 +1963,6 @@
         "Hentai"
       ],
       "category": "OVA"
-    },
-    {
-      "title": "Evangelion: 3.0+1.0",
-      "description": "The fourth and final movie of the Evangelion rebuild movie series.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1300/102108.jpg",
-      "date": "Jun 27, 2020",
-      "producer": "Khara",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Mecha"
-      ],
-      "category": "Movie"
     },
     {
       "title": "Nakitai Watashi wa Neko wo Kaburu",
