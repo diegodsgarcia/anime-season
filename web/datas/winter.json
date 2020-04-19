@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-04-18",
+  "lastUpdate": "2020-04-19",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -1424,18 +1424,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Taeko no Nichijou",
-      "description": "A short anime about Taeko Shinbou who is an office worker that is patient with everything and greets everything that comes her way with cheer. An announcement was made that a \"regular person\" from Kantou will voice Taeko rather than an industry professional.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1583/103149.jpg",
-      "date": "Oct 6, 2019, 01:00 (JST)",
-      "producer": "-",
-      "eps": 26,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Shimajirou no Wow!",
       "description": "Fourth season of the Shimajirou children's television series.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/50737.jpg",
@@ -1448,6 +1436,18 @@
         "Fantasy",
         "Kids",
         "Magic"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Taeko no Nichijou",
+      "description": "A short anime about Taeko Shinbou who is an office worker that is patient with everything and greets everything that comes her way with cheer. An announcement was made that a \"regular person\" from Kantou will voice Taeko rather than an industry professional.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1583/103149.jpg",
+      "date": "Oct 6, 2019, 01:00 (JST)",
+      "producer": "-",
+      "eps": 26,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "TV (Continuing)"
     },
