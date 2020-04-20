@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-04-19",
+  "lastUpdate": "2020-04-20",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -66,20 +66,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "BNA",
-      "description": "Throughout history, humans have been at odds with Beastmen—a species capable of changing shape due to their genetic \"Beast Factor.\" Because of this conflict, Beastmen have been forced into hiding. Anima City serves as a safe haven for these oppressed individuals to live free from human interference.\n\nDuring a festival celebrating the town's 10th anniversary, Michiru Kagemori, a human who suddenly turned into a tanuki, finds that Anima City is a far cry from paradise. After witnessing an explosion in the square, she is confronted by Shirou Ogami, a seemingly indestructible wolf and sworn protector of all Beastmen. As they pursue the criminals behind the bombing, the two discover that Michiru is anything but an ordinary Beastman, and look to investigate her mysterious past and uncanny abilities. Could she turn out to be the missing link between Humans and Beastmen?\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/106986.jpg",
-      "date": "Apr 9, 2020, 00:55 (JST)",
-      "producer": "Trigger",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Super Power",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Yesterday wo Utatte",
       "description": "After college, Rikuo Uozumi, a boy without much ambition in life, takes on a job at a convenience store. The days pass by uneventfully for Rikuo until he meets his former girlfriend and classmate, but especially thanks to the unusual Haru Nonaka, and her pet raven...\n \n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1986/105547.jpg",
@@ -91,6 +77,20 @@
         "Drama",
         "Romance",
         "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "BNA",
+      "description": "Throughout history, humans have been at odds with Beastmen—a species capable of changing shape due to their genetic \"Beast Factor.\" Because of this conflict, Beastmen have been forced into hiding. Anima City serves as a safe haven for these oppressed individuals to live free from human interference.\n\nDuring a festival celebrating the town's 10th anniversary, Michiru Kagemori, a human who suddenly turned into a tanuki, finds that Anima City is a far cry from paradise. After witnessing an explosion in the square, she is confronted by Shirou Ogami, a seemingly indestructible wolf and sworn protector of all Beastmen. As they pursue the criminals behind the bombing, the two discover that Michiru is anything but an ordinary Beastman, and look to investigate her mysterious past and uncanny abilities. Could she turn out to be the missing link between Humans and Beastmen?\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/106986.jpg",
+      "date": "Apr 9, 2020, 00:55 (JST)",
+      "producer": "Trigger",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Super Power",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -169,19 +169,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season",
-      "description": "Second half of Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1757/105931.jpg",
-      "date": "Apr 5, 2020, 02:10 (JST)",
-      "producer": "Ajia-Do",
-      "eps": 12,
-      "genres": [
-        "Fantasy",
-        "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Appare-Ranman!",
       "description": "During the back-end of the 19th century, the genius but socially awkward engineer Sorano Appare and the wise yet cowardly samurai Isshiki Kosame find themselves drifting in the sea between Japan and America. With no money, the duo decide to enter the Trans-America Wild Race to win the prize money so they can get home. The two encounter rivals, bandits, and challenges in the wilderness as they race through America, from the starting line in Los Angeles to the finish line in New York, in the steam-powered car they built.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1710/106614.jpg",
@@ -191,6 +178,19 @@
       "genres": [
         "Comedy",
         "Historical"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season",
+      "description": "Second half of Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1757/105931.jpg",
+      "date": "Apr 5, 2020, 02:10 (JST)",
+      "producer": "Ajia-Do",
+      "eps": 12,
+      "genres": [
+        "Fantasy",
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -255,6 +255,22 @@
       "category": "TV (New)"
     },
     {
+      "title": "Digimon Adventure:",
+      "description": "The new anime will take place in 2020 and will feature an all-new story centering on Taichi Yagami when he is in his fifth year in elementary school. His partner is Agumon. The story begins in Tokyo when a large-scale network malfunction occurs. Taichi is preparing for his weekend summer camping trip when the incident happens. Taichi's mother and his younger sister Hikari get stuck on a train that won't stop moving, and Taichi heads to Shibuya in order to help them. However, on his way there, he encounters a strange phenomenon and sweeps him up into the Digital World along with the other DigiDestined.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1745/105558.jpg",
+      "date": "Apr 5, 2020, 09:00 (JST)",
+      "producer": "Toei Animation",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Kids",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Tsugu Tsugumomo",
       "description": "Second season of Tsugumomo.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1997/106184.jpg",
@@ -268,22 +284,6 @@
         "Ecchi",
         "School",
         "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Digimon Adventure:",
-      "description": "The new anime will take place in 2020 and will feature an all-new story centering on Taichi Yagami when he is in his fifth year in elementary school. His partner is Agumon. The story begins in Tokyo when a large-scale network malfunction occurs. Taichi is preparing for his weekend summer camping trip when the incident happens. Taichi's mother and his younger sister Hikari get stuck on a train that won't stop moving, and Taichi heads to Shibuya in order to help them. However, on his way there, he encounters a strange phenomenon and sweeps him up into the Digital World along with the other DigiDestined.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1745/105558.jpg",
-      "date": "Apr 5, 2020, 09:00 (JST)",
-      "producer": "Toei Animation",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Kids",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -926,8 +926,8 @@
         "Action",
         "Adventure",
         "Comedy",
-        "Fantasy",
-        "Kids"
+        "Kids",
+        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1346,6 +1346,18 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Marumaru Manul",
+      "description": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
+      "date": "Jan 6, 2020, 00:30 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Shimajirou no Wow!",
       "description": "Fourth season of the Shimajirou children's television series.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/50737.jpg",
@@ -1358,18 +1370,6 @@
         "Fantasy",
         "Kids",
         "Magic"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Marumaru Manul",
-      "description": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
-      "date": "Jan 6, 2020, 00:30 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1773,6 +1773,20 @@
       "category": "ONA"
     },
     {
+      "title": "Puso Ni Comi: Okawari",
+      "description": "A second season of Puso Ni Comi, once again following the in-game avatars of the cast.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1466/106923.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Game",
+        "Comedy",
+        "Parody"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1324/103548.jpg",
@@ -1786,20 +1800,6 @@
         "Comedy",
         "Mecha",
         "Shounen"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Puso Ni Comi: Okawari",
-      "description": "A second season of Puso Ni Comi, once again following the in-game avatars of the cast.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1466/106923.jpg",
-      "date": "Apr 7, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Game",
-        "Comedy",
-        "Parody"
       ],
       "category": "ONA"
     },
