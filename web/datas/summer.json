@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-04-20",
+  "lastUpdate": "2020-04-21",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -583,6 +583,22 @@
         "Shounen"
       ],
       "category": "Movie"
+    },
+    {
+      "title": "Sword Art Online: Alicization - War of Underworld Recap",
+      "description": "Recap of Sword Art Online: Alicization - War of Underworld.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1946/106255.jpg",
+      "date": "Jul ??, 2020",
+      "producer": "A-1 Pictures",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Game",
+        "Adventure",
+        "Romance",
+        "Fantasy"
+      ],
+      "category": "Special"
     },
     {
       "title": "Murenase! Seton Gakuen Special",
