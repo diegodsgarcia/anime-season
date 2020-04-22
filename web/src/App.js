@@ -52,7 +52,7 @@ function App() {
       <div className={info?.season.toLowerCase()}>
         <Global />
         <Header season={info?.season}>
-          {info ? `${info.season} -${info.year}` : ''}
+          {info ? `${info.season} - ${info.year}` : ''}
         </Header>
 
         <Container>
