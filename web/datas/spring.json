@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-04-21",
+  "lastUpdate": "2020-04-22",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -255,6 +255,21 @@
       "category": "TV (New)"
     },
     {
+      "title": "Shironeko Project: Zero Chronicle",
+      "description": "In a world consisting of numerous isles, a young hero from the Astora Isle encounters the adventurer Kyle and follows him on an expedition on the isle. They meet a mysterious girl named Iris and a talking white cat, and together they make their way to the isle's ruins, where they find a flying island. Kyle becomes consumed by darkness there, and the party resolves to travel to the ends of the world on the flying island in order to find the seven \"Great Runes,\" following Kyle's words before he disappeared.\n\n(Source: Wikipedia)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1494/105719.jpg",
+      "date": "Apr 6, 2020, 22:00 (JST)",
+      "producer": "Project No.9",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Magic"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Digimon Adventure:",
       "description": "The new anime will take place in 2020 and will feature an all-new story centering on Taichi Yagami when he is in his fifth year in elementary school. His partner is Agumon. The story begins in Tokyo when a large-scale network malfunction occurs. Taichi is preparing for his weekend summer camping trip when the incident happens. Taichi's mother and his younger sister Hikari get stuck on a train that won't stop moving, and Taichi heads to Shibuya in order to help them. However, on his way there, he encounters a strange phenomenon and sweeps him up into the Digital World along with the other DigiDestined.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1745/105558.jpg",
@@ -284,21 +299,6 @@
         "Ecchi",
         "School",
         "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Shironeko Project: Zero Chronicle",
-      "description": "In a world consisting of numerous isles, a young hero from the Astora Isle encounters the adventurer Kyle and follows him on an expedition on the isle. They meet a mysterious girl named Iris and a talking white cat, and together they make their way to the isle's ruins, where they find a flying island. Kyle becomes consumed by darkness there, and the party resolves to travel to the ends of the world on the flying island in order to find the seven \"Great Runes,\" following Kyle's words before he disappeared.\n\n(Source: Wikipedia)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1494/105719.jpg",
-      "date": "Apr 6, 2020, 22:00 (JST)",
-      "producer": "Project No.9",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Magic"
       ],
       "category": "TV (New)"
     },
@@ -776,19 +776,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Bite-Choicar",
-      "description": "Chashin was selected by the legendary choicar \"Stormbone,\" as the strongest racer, and will showcase a new concept of bite racing.\n\nBite racing is a new racing game that never hits a rail with two cars chasing in a match. The bite-free rail running on the track creates a more realistic racing experience. Various types of super cars such as speed type, balance type, and power type create unique racing on 3 types of tracks (crash track, line track, outdoor race).\n\n(Source: enewstoday.co.kr)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1656/106927.jpg",
-      "date": "Apr 18, 2020, 07:15 (JST)",
-      "producer": "-",
-      "eps": 26,
-      "genres": [
-        "Cars",
-        "Kids"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Zo Zo Zo Zombie-kun (TV)",
       "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
@@ -797,6 +784,19 @@
       "eps": 100,
       "genres": [
         "Comedy",
+        "Kids"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Bite-Choicar",
+      "description": "Chashin was selected by the legendary choicar \"Stormbone,\" as the strongest racer, and will showcase a new concept of bite racing.\n\nBite racing is a new racing game that never hits a rail with two cars chasing in a match. The bite-free rail running on the track creates a more realistic racing experience. Various types of super cars such as speed type, balance type, and power type create unique racing on 3 types of tracks (crash track, line track, outdoor race).\n\n(Source: enewstoday.co.kr)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1656/106927.jpg",
+      "date": "Apr 18, 2020, 07:15 (JST)",
+      "producer": "-",
+      "eps": 26,
+      "genres": [
+        "Cars",
         "Kids"
       ],
       "category": "TV (New)"
@@ -1760,19 +1760,6 @@
       "category": "ONA"
     },
     {
-      "title": "Cinderella Girls Gekijou: Extra Stage",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/106098.jpg",
-      "date": "Apr ??, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Ma La Nu Pei",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/106704.jpg",
@@ -1782,6 +1769,19 @@
       "genres": [
         "Comedy",
         "Romance"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Cinderella Girls Gekijou: Extra Stage",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/106098.jpg",
+      "date": "Apr ??, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Slice of Life"
       ],
       "category": "ONA"
     },
