@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-04-22",
+  "lastUpdate": "2020-04-23",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -580,6 +580,20 @@
         "Comedy",
         "Kids",
         "Sci-Fi",
+        "Shounen"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Jintai no Survival!",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1424/107104.jpg",
+      "date": "Jul 31, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Comedy",
         "Shounen"
       ],
       "category": "Movie"
