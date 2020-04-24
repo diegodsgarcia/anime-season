@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-04-23",
+  "lastUpdate": "2020-04-24",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -1600,20 +1600,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Baki 2nd Season",
-      "description": "Second season of Baki.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1446/106491.jpg",
-      "date": "Jun 4, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Martial Arts",
-        "Shounen"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Koukaku Kidoutai: SAC_2045",
       "description": "In the year 2045, after an economic disaster known as the Synchronized Global Default, rapid developments in AI propelled the world to enter a state of “Sustainable War”. However, the public is not aware of the threat that AI has towards the human race.\n\nFull-body cyborg Major Motoko Kusanagi and her second-in-command Batou are former members of Public Security Section 9, who are now hired mercenaries traveling hot devastated American west coast. This land is full of opportunity for the major and her team, they utilize their enhanced cyberbrains and combat skills from their time working in Section 9. However, things get complicated with the emergence of “post humans,” who have extreme intelligence and physical powers. The members of Section 9 comeback together again in order to face this new threat.\n\n(Source: Official Website)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1213/106702.jpg",
@@ -1627,6 +1613,20 @@
         "Police",
         "Mecha",
         "Seinen"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Baki 2nd Season",
+      "description": "Second season of Baki.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1446/106491.jpg",
+      "date": "Jun 4, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Martial Arts",
+        "Shounen"
       ],
       "category": "ONA"
     },
@@ -1921,7 +1921,7 @@
       "title": "Hajimete no Hitozuma",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1210/105663.jpg",
-      "date": "Apr 3, 2020",
+      "date": "May 22, 2020",
       "producer": "-",
       "eps": null,
       "genres": [
@@ -1942,11 +1942,11 @@
       "category": "OVA"
     },
     {
-      "title": "Sotsugyou ** Densha",
+      "title": "Shihai no Kyoudan",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1882/105980.jpg",
-      "date": "Apr 24, 2020",
-      "producer": "-",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1239/106367.jpg",
+      "date": "May 29, 2020",
+      "producer": "PoRO",
       "eps": null,
       "genres": [
         "Hentai"
@@ -1954,11 +1954,11 @@
       "category": "OVA"
     },
     {
-      "title": "Shihai no Kyoudan",
+      "title": "Sotsugyou ** Densha",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1239/106367.jpg",
-      "date": "May 29, 2020",
-      "producer": "PoRO",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1882/105980.jpg",
+      "date": "Apr 24, 2020",
+      "producer": "-",
       "eps": null,
       "genres": [
         "Hentai"

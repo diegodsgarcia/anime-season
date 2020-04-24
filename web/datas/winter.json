@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-04-23",
+  "lastUpdate": "2020-04-24",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -1880,18 +1880,6 @@
       "category": "ONA"
     },
     {
-      "title": "Microphone Soul Spinners: Kotodama Shoujo",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/102079.jpg",
-      "date": "Jan 11, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Music"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Niplheim no Karyuudo",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1409/105799.jpg",
@@ -1900,6 +1888,18 @@
       "eps": null,
       "genres": [
         "Hentai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Microphone Soul Spinners: Kotodama Shoujo",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/102079.jpg",
+      "date": "Jan 11, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Music"
       ],
       "category": "ONA"
     },
@@ -2047,19 +2047,6 @@
       "category": "ONA"
     },
     {
-      "title": "Kore ga Masakano Are Deshita: Wakamono no Shoushisha Higai",
-      "description": "The adult age in japan will be reduced from 20 years of age to 18 years of age in April 2022. Some teenagers may suffer from poor financial decisions as they legally can enter contracts. If they need help, they can call 188 (Consumer Hotline). This hotline was launched in July 1, 2015 by the Department of Consumer Affairs and is run by local governments.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/106483.jpg",
-      "date": "Mar 12, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Drama",
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Man with a Mission The Animation",
       "description": "Short 3DCG anime for Japanese band MAN WITH A MISSION.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1378/106615.jpg",
@@ -2069,6 +2056,19 @@
       "genres": [
         "Music",
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Kore ga Masakano Are Deshita: Wakamono no Shoushisha Higai",
+      "description": "The adult age in japan will be reduced from 20 years of age to 18 years of age in April 2022. Some teenagers may suffer from poor financial decisions as they legally can enter contracts. If they need help, they can call 188 (Consumer Hotline). This hotline was launched in July 1, 2015 by the Department of Consumer Affairs and is run by local governments.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/106483.jpg",
+      "date": "Mar 12, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Drama",
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2789,19 +2789,6 @@
       "category": "Special"
     },
     {
-      "title": "Wena Wrist",
-      "description": "Sony unveiled its new \"wena wrist\" smartwatch's \"kawamori Edition\" with Macross anime director and mechanical designer Shoji Kawamori, and naturally, it comes complete with an anime ad. \n\nThe aircraft shown in the video closely evokes the forward-swept-wing YF-19/VF-19 variable fighter designs first seen in Macross Plus and Macross 7, but appears to also draw inspiration from real-life fighter craft, with canards common in European fighters, and an air intake similar to the F-16. The iconic motif of hands in the shape of a fighter also first appeared in Macross Plus.\n\nKawamori designed the case that will ship alongside the Wena Wrist product. The watch itself is a mechanical design, evoking pilot watch-style elements. The dial's design evokes the attitude indicator/artificial horizon seen on fighter instrument panels, with one side being an open-heart design showing the mechanical movement. The 12:00 position is indicated by a white arrow, common to many pilot watches. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1044/105740.jpg",
-      "date": "Jan 28, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Military",
-        "Music"
-      ],
-      "category": "Special"
-    },
-    {
       "title": "Urashimasakatasen no Nichijou Special",
       "description": "Unaired episode of Urashimasakatasen no Nichijou included in the DVD release.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1109/105001.jpg",
@@ -2811,6 +2798,19 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "Wena Wrist",
+      "description": "Sony unveiled its new \"wena wrist\" smartwatch's \"kawamori Edition\" with Macross anime director and mechanical designer Shoji Kawamori, and naturally, it comes complete with an anime ad. \n\nThe aircraft shown in the video closely evokes the forward-swept-wing YF-19/VF-19 variable fighter designs first seen in Macross Plus and Macross 7, but appears to also draw inspiration from real-life fighter craft, with canards common in European fighters, and an air intake similar to the F-16. The iconic motif of hands in the shape of a fighter also first appeared in Macross Plus.\n\nKawamori designed the case that will ship alongside the Wena Wrist product. The watch itself is a mechanical design, evoking pilot watch-style elements. The dial's design evokes the attitude indicator/artificial horizon seen on fighter instrument panels, with one side being an open-heart design showing the mechanical movement. The 12:00 position is indicated by a white arrow, common to many pilot watches. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1044/105740.jpg",
+      "date": "Jan 28, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Military",
+        "Music"
       ],
       "category": "Special"
     }
