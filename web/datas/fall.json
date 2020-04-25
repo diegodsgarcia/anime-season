@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-04-24",
+  "lastUpdate": "2020-04-25",
   "animes": [
     {
       "title": "Tensei shitara Slime Datta Ken 2nd Season",
@@ -47,6 +47,23 @@
         "Romance",
         "School",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Mahouka Koukou no Rettousei: Raihousha-hen",
+      "description": "Shiba Miyuki's classmate Kitayama Shizuku is on her way to study abroad. For magicians, this is normally impossible, since allowing the genes of someone who can use magic outside their home country's borders is tantamount to giving up national secrets. But it's allowed to happen in one case-exchange programs. And that's how Angelina Kudou Shields has arrived in Japan from the USNA to study at First High.\n\nAround the time Lina arrived in Japan magicians began getting attacked by a mysterious being who leaves his victims drained of blood. Will Tatsuya be able to discover the identity of the \"Vampire\"?\n\n(Source: Mahouka Wikia, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1788/106668.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "8bit",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Magic",
+        "Romance",
+        "School",
+        "Sci-Fi",
+        "Supernatural"
       ],
       "category": "TV (New)"
     },
