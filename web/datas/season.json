@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-04-25",
+  "lastUpdate": "2020-04-26",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -627,6 +627,18 @@
       "category": "TV (New)"
     },
     {
+      "title": "Watanuki-san Chi to",
+      "description": "Second season of Watanuki-san Chi no.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1524/106532.jpg",
+      "date": "Apr 6, 2020, 01:35 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Micchiri Wanko! Animation",
       "description": "Spin-off of Micchiri Neko.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1793/106522.jpg",
@@ -636,18 +648,6 @@
       "genres": [
         "Comedy",
         "Kids"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Watanuki-san Chi to",
-      "description": "Second season of Watanuki-san Chi no.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1524/106532.jpg",
-      "date": "Apr 6, 2020, 01:35 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -763,12 +763,12 @@
       "category": "TV (New)"
     },
     {
-      "title": "Origami Ninja Koyankinte",
-      "description": "Koyan, the Origami Ninja, came to Earth from his planet Origamio to find the magical stone \"Hapiton\" that has the ability to make people happy. On the way, he was joined by childhood friend Namin anda new friend Lublin. One day, a villain called Evilrun appeared. Evilrun has a black hole in her stomach and tries to inhale anything. Every time an event happens, Evilrun gets in the way of Koyan and friends. But what Evilrun's aim is remains a mystery...",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1860/106477.jpg",
-      "date": "Apr 7, 2020, 07:30 (JST)",
-      "producer": "Directions",
-      "eps": null,
+      "title": "Zo Zo Zo Zombie-kun (TV)",
+      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
+      "date": "Apr 15, 2020",
+      "producer": "J.C.Staff",
+      "eps": 100,
       "genres": [
         "Comedy",
         "Kids"
@@ -776,12 +776,12 @@
       "category": "TV (New)"
     },
     {
-      "title": "Zo Zo Zo Zombie-kun (TV)",
-      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
-      "date": "Apr 15, 2020",
-      "producer": "J.C.Staff",
-      "eps": 100,
+      "title": "Origami Ninja Koyankinte",
+      "description": "Koyan, the Origami Ninja, came to Earth from his planet Origamio to find the magical stone \"Hapiton\" that has the ability to make people happy. On the way, he was joined by childhood friend Namin anda new friend Lublin. One day, a villain called Evilrun appeared. Evilrun has a black hole in her stomach and tries to inhale anything. Every time an event happens, Evilrun gets in the way of Koyan and friends. But what Evilrun's aim is remains a mystery...",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1860/106477.jpg",
+      "date": "Apr 7, 2020, 07:30 (JST)",
+      "producer": "Directions",
+      "eps": null,
       "genres": [
         "Comedy",
         "Kids"
@@ -1882,24 +1882,24 @@
       "category": "OVA"
     },
     {
-      "title": "Yarichin Kateikyoushi Netori Houkoku",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1372/105978.jpg",
-      "date": "May 29, 2020",
-      "producer": "-",
-      "eps": 2,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Suketto Sanjou!! The Animation",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1824/105790.jpg",
       "date": "Apr 24, 2020",
       "producer": "-",
       "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Yarichin Kateikyoushi Netori Houkoku",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1372/105978.jpg",
+      "date": "May 29, 2020",
+      "producer": "-",
+      "eps": 2,
       "genres": [
         "Hentai"
       ],
