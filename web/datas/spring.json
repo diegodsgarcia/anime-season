@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-04-26",
+  "lastUpdate": "2020-04-27",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -111,6 +111,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Kakushigoto (TV)",
+      "description": "\"We will open the curtain back in time, to the story of one lone manga creator.\"\n\nThis story is about Gotou Kakushi, an artist who draws a somewhat vulgar manga, and tries to hide it for the sake of his daughter, Hime. A father-daughter tale of love and laughter. \n\n(Source: MU, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1476/106372.jpg",
+      "date": "Apr 2, 2020, 23:30 (JST)",
+      "producer": "Ajia-Do",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Fruits Basket 2nd Season",
       "description": "It’s been almost a year since Tooru started living at Shigure’s house! Though she now has a deeper relationship with each of the Soumas, not just Yuki and Kyou, she is concerned about their sinister curse’s true nature. The right path to choose, predetermined destiny… what emotions will arise in Yuki, Kyou and Tooru in the face of the Eternal Banquet? What will be their resolve?\n\n(Source: Funimation, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1486/106692.jpg",
@@ -124,20 +138,6 @@
         "Drama",
         "Romance",
         "Shoujo"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Kakushigoto (TV)",
-      "description": "\"We will open the curtain back in time, to the story of one lone manga creator.\"\n\nThis story is about Gotou Kakushi, an artist who draws a somewhat vulgar manga, and tries to hide it for the sake of his daughter, Hime. A father-daughter tale of love and laughter. \n\n(Source: MU, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1476/106372.jpg",
-      "date": "Apr 2, 2020, 23:30 (JST)",
-      "producer": "Ajia-Do",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -270,22 +270,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Digimon Adventure:",
-      "description": "The new anime will take place in 2020 and will feature an all-new story centering on Taichi Yagami when he is in his fifth year in elementary school. His partner is Agumon. The story begins in Tokyo when a large-scale network malfunction occurs. Taichi is preparing for his weekend summer camping trip when the incident happens. Taichi's mother and his younger sister Hikari get stuck on a train that won't stop moving, and Taichi heads to Shibuya in order to help them. However, on his way there, he encounters a strange phenomenon and sweeps him up into the Digital World along with the other DigiDestined.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1745/105558.jpg",
-      "date": "Apr 5, 2020, 09:00 (JST)",
-      "producer": "Toei Animation",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Tsugu Tsugumomo",
       "description": "Second season of Tsugumomo.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1997/106184.jpg",
@@ -299,6 +283,22 @@
         "Ecchi",
         "School",
         "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Digimon Adventure:",
+      "description": "The new anime will take place in 2020 and will feature an all-new story centering on Taichi Yagami when he is in his fifth year in elementary school. His partner is Agumon. The story begins in Tokyo when a large-scale network malfunction occurs. Taichi is preparing for his weekend summer camping trip when the incident happens. Taichi's mother and his younger sister Hikari get stuck on a train that won't stop moving, and Taichi heads to Shibuya in order to help them. However, on his way there, he encounters a strange phenomenon and sweeps him up into the Digital World along with the other DigiDestined.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1745/105558.jpg",
+      "date": "Apr 5, 2020, 09:00 (JST)",
+      "producer": "Toei Animation",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Kids",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -1237,6 +1237,20 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Bakugan: Armored Alliance",
+      "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
+      "date": "Feb 16, 2020",
+      "producer": "TMS Entertainment",
+      "eps": 52,
+      "genres": [
+        "Action",
+        "Game",
+        "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu",
       "description": "",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1276/104362.jpg",
@@ -1249,20 +1263,6 @@
         "Kids",
         "Supernatural",
         "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Bakugan: Armored Alliance",
-      "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
-      "date": "Feb 16, 2020",
-      "producer": "TMS Entertainment",
-      "eps": 52,
-      "genres": [
-        "Action",
-        "Game",
-        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1644,6 +1644,24 @@
       "category": "ONA"
     },
     {
+      "title": "Hitori no Shita: The Outcast 3rd Season",
+      "description": "Third season of Hitori no Shita: The Outcast.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/106650.jpg",
+      "date": "Apr 24, 2020",
+      "producer": "-",
+      "eps": 8,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Super Power",
+        "Psychological",
+        "Supernatural",
+        "Drama",
+        "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Sol Levante",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1356/103619.jpg",
@@ -1870,24 +1888,24 @@
       "category": "OVA"
     },
     {
-      "title": "Gishi wa Yan Mama Junyuu Chuu",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/105977.jpg",
-      "date": "Jun 5, 2020",
-      "producer": "T-Rex",
-      "eps": 2,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Suketto Sanjou!! The Animation",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1824/105790.jpg",
       "date": "Apr 24, 2020",
       "producer": "-",
       "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Gishi wa Yan Mama Junyuu Chuu",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/105977.jpg",
+      "date": "Jun 5, 2020",
+      "producer": "T-Rex",
+      "eps": 2,
       "genres": [
         "Hentai"
       ],
@@ -1978,20 +1996,6 @@
       "category": "OVA"
     },
     {
-      "title": "Nakitai Watashi wa Neko wo Kaburu",
-      "description": "Miyo Sasaki, nicknamed \"Muge\" meaning \"infinitely mysterious,\" has a bright personality and is full of energy at school and at home. She is also in love with her classmate Kento Hinode. Miyo tries repeatedly to get Kento's attention, but he takes no notice of her. She realizes that the only way to get close to him is to transform into a cat, but at some point, the boundary between herself and the cat becomes ambiguous.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1045/106389.jpg",
-      "date": "Jun 5, 2020",
-      "producer": "Studio Colorido",
-      "eps": 1,
-      "genres": [
-        "Drama",
-        "Magic",
-        "Romance"
-      ],
-      "category": "Movie"
-    },
-    {
       "title": "Shoujo Kageki Revue Starlight: Rondo Rondo Rondo",
       "description": "Compilation film of Shoujo☆Kageki Revue Starlight.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1648/105758.jpg",
@@ -2001,21 +2005,6 @@
       "genres": [
         "Music",
         "School"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Precure Miracle Leap Movie: Minna to no Fushigi na Ichinichi",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1313/105361.jpg",
-      "date": "May 16, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Fantasy",
-        "Magic",
-        "Shoujo"
       ],
       "category": "Movie"
     },

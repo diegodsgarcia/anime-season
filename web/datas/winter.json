@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-04-26",
+  "lastUpdate": "2020-04-27",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -596,6 +596,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Bakugan: Armored Alliance",
+      "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
+      "date": "Feb 16, 2020",
+      "producer": "TMS Entertainment",
+      "eps": 52,
+      "genres": [
+        "Action",
+        "Game",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu",
       "description": "",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1276/104362.jpg",
@@ -608,20 +622,6 @@
         "Kids",
         "Supernatural",
         "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Bakugan: Armored Alliance",
-      "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
-      "date": "Feb 16, 2020",
-      "producer": "TMS Entertainment",
-      "eps": 52,
-      "genres": [
-        "Action",
-        "Game",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -1102,20 +1102,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Jimoto ga Japan",
-      "description": "There's a new tough guy transfer student in Tokyo. His name is Tokio and he's raring to see how scrappy the locals are. But when he comes face-to-face with a Japan-obsessed red-haired kid that won't leave him alone until he tells him exactly what prefecture he's from, his life takes a turn for the crazy! This kid isn't just Japan obsessed, he's developed a martial art based on all the different prefectures in the country! \n\n(Source: VIZ Media)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1396/99145.jpg",
-      "date": "Apr 8, 2019, 07:05 (JST)",
-      "producer": "Oddjob",
-      "eps": 50,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Shounen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Zoids Wild Zero",
       "description": "Sequel of Zoids Wild.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1131/104980.jpg",
@@ -1127,6 +1113,20 @@
         "Sci-Fi",
         "Adventure",
         "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Jimoto ga Japan",
+      "description": "There's a new tough guy transfer student in Tokyo. His name is Tokio and he's raring to see how scrappy the locals are. But when he comes face-to-face with a Japan-obsessed red-haired kid that won't leave him alone until he tells him exactly what prefecture he's from, his life takes a turn for the crazy! This kid isn't just Japan obsessed, he's developed a martial art based on all the different prefectures in the country! \n\n(Source: VIZ Media)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1396/99145.jpg",
+      "date": "Apr 8, 2019, 07:05 (JST)",
+      "producer": "Oddjob",
+      "eps": 50,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Shounen"
       ],
       "category": "TV (Continuing)"
     },
@@ -1611,6 +1611,19 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Kaijuu Step Wandabada",
+      "description": "Anime based on the picture book Kaijuu Step, which features monsters from Ultraman series",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1132/102644.jpg",
+      "date": "Sep 27, 2019",
+      "producer": "Usagi Ou",
+      "eps": 26,
+      "genres": [
+        "Comedy",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Egg Car",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
@@ -1622,19 +1635,6 @@
         "Comedy",
         "Kids",
         "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Kaijuu Step Wandabada",
-      "description": "Anime based on the picture book Kaijuu Step, which features monsters from Ultraman series",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1132/102644.jpg",
-      "date": "Sep 27, 2019",
-      "producer": "Usagi Ou",
-      "eps": 26,
-      "genres": [
-        "Comedy",
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1880,18 +1880,6 @@
       "category": "ONA"
     },
     {
-      "title": "Microphone Soul Spinners: Kotodama Shoujo",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/102079.jpg",
-      "date": "Jan 11, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Music"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Niplheim no Karyuudo",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1409/105799.jpg",
@@ -1900,6 +1888,18 @@
       "eps": null,
       "genres": [
         "Hentai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Microphone Soul Spinners: Kotodama Shoujo",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/102079.jpg",
+      "date": "Jan 11, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Music"
       ],
       "category": "ONA"
     },
