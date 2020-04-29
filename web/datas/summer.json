@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-04-28",
+  "lastUpdate": "2020-04-29",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -400,6 +400,24 @@
         "Fantasy",
         "Kids",
         "Supernatural"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "The God of High School",
+      "description": "It all began as a fighting tournament to seek out for the best fighter among all high school students in Korea. Mori Jin, a Taekwondo specialist and a high school student, soon learns that there is something much greater beneath the stage of the tournament.\n\n(Source: LINE Webtoon)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1722/107269.jpg",
+      "date": "Jul ??, 2020",
+      "producer": "MAPPA",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure",
+        "Comedy",
+        "Supernatural",
+        "Martial Arts",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },

@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-04-28",
+  "lastUpdate": "2020-04-29",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -1410,6 +1410,18 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Taeko no Nichijou",
+      "description": "A short anime about Taeko Shinbou who is an office worker that is patient with everything and greets everything that comes her way with cheer. An announcement was made that a \"regular person\" from Kantou will voice Taeko rather than an industry professional.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1583/103149.jpg",
+      "date": "Oct 6, 2019, 01:00 (JST)",
+      "producer": "-",
+      "eps": 26,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Pikachin-Kit",
       "description": "A fifth-year elementary student named Eiji Tōmatsu, and his \"inspiration\" buddy, a dog named Pochirou. One day Eiji finds a mysterious book called the \"Pikachin Research Book,\" and learns about the seven tools that make up the Pikachin Kit. Eiji presses a button inside the research book, and immediately a \"Future Amazon\" delivery arrives at his door with the kit. Eiji uses the blueprints included in the box to assemble the kit, but it seems as though 1% part of the kit is still missing. \n\nIn the franchise, the word \"Pikachin\" means the flash of inspiration or insight one gets about a new project, similar to the visual of a lightbulb turning on above one's head when someone has an idea. The concept of the franchise is \"invention is 99% plastic models, 1% inspiration.\" \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88334.jpg",
@@ -1420,18 +1432,6 @@
         "Sci-Fi",
         "Comedy",
         "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Taeko no Nichijou",
-      "description": "A short anime about Taeko Shinbou who is an office worker that is patient with everything and greets everything that comes her way with cheer. An announcement was made that a \"regular person\" from Kantou will voice Taeko rather than an industry professional.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1583/103149.jpg",
-      "date": "Oct 6, 2019, 01:00 (JST)",
-      "producer": "-",
-      "eps": 26,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "TV (Continuing)"
     },
@@ -1904,6 +1904,18 @@
       "category": "ONA"
     },
     {
+      "title": "Katarina Nounai Kaigi",
+      "description": "Short specials posted on the official twitter account where the \"Katarina Five\" will introduce HameFura.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1067/106344.jpg",
+      "date": "Feb 29, 2020",
+      "producer": "Silver Link.",
+      "eps": null,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Aikatsu on Parade! (ONA)",
       "description": "\"Dream School Grand Prix\" to decide the No.1 idol school among five schools representing the Aikatsu world will be held! In this competition where top idols representing each school compete on stage, Dream Academy's new idol Noel Otoshiro is selected as one of them?! For each idol's dream, a new story starts running into the shining future! \n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1704/106781.jpg",
@@ -1919,14 +1931,18 @@
       "category": "ONA"
     },
     {
-      "title": "Katarina Nounai Kaigi",
-      "description": "Short specials posted on the official twitter account where the \"Katarina Five\" will introduce HameFura.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1067/106344.jpg",
-      "date": "Feb 29, 2020",
-      "producer": "Silver Link.",
-      "eps": null,
+      "title": "Da Wang Bu Gaoxing",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1003/106043.jpg",
+      "date": "Jan 1, 2020",
+      "producer": "Haoliners Animation League",
+      "eps": 12,
       "genres": [
-        "Comedy"
+        "Comedy",
+        "Demons",
+        "Magic",
+        "Fantasy",
+        "School"
       ],
       "category": "ONA"
     },
@@ -1944,22 +1960,6 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Da Wang Bu Gaoxing",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1003/106043.jpg",
-      "date": "Jan 1, 2020",
-      "producer": "Haoliners Animation League",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "Demons",
-        "Magic",
-        "Fantasy",
-        "School"
       ],
       "category": "ONA"
     },
@@ -2033,19 +2033,6 @@
       "category": "ONA"
     },
     {
-      "title": "Man with a Mission The Animation",
-      "description": "Short 3DCG anime for Japanese band MAN WITH A MISSION.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1378/106615.jpg",
-      "date": "Mar 16, 2020",
-      "producer": "-",
-      "eps": 6,
-      "genres": [
-        "Music",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Ninjala Episode 0",
       "description": "Eagle City, Komerica -- WNA Research Laboratory Branch\n\nWNA researchers Burton, Berecca, and Ron continue their tireless efforts to develop \"Ninja-Gum\"; a mysterious substance that activates latent Ninja DNA in people descended from those legendary mercenary warriors (alt: those legendary mercenaries from days gone by). Today, all their hard work finally pays off. It is here - on their 2,503rd attempt - that they finally succeed in producing Ninja-Gum! Burton and Berecca can barely contain their excitement, and waste no time in trying the gum for themselves! But then...\n\n(Source: Official YouTube channel)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1444/106767.jpg",
@@ -2056,6 +2043,19 @@
         "Sci-Fi",
         "Super Power",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Man with a Mission The Animation",
+      "description": "Short 3DCG anime for Japanese band MAN WITH A MISSION.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1378/106615.jpg",
+      "date": "Mar 16, 2020",
+      "producer": "-",
+      "eps": 6,
+      "genres": [
+        "Music",
+        "Comedy"
       ],
       "category": "ONA"
     },

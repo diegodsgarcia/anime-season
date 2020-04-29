@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-04-28",
+  "lastUpdate": "2020-04-29",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -36,20 +36,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Shokugeki no Souma: Gou no Sara",
-      "description": "Fifth season of Shokugeki no Souma.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1813/106300.jpg",
-      "date": "Apr 11, 2020, 00:30 (JST)",
-      "producer": "J.C.Staff",
-      "eps": null,
-      "genres": [
-        "Ecchi",
-        "School",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Gleipnir",
       "description": "What does one consider to be a monster? A horrible bloodsucking vampire? Frankenstein's creation? Shuichi Kagaya has a secret. Other than having great grades and being skilled at sports, he isn’t what one would call normal. In fact, Shuichi cannot even be considered human.\n\nOne fateful morning, he woke up as a monster. With brute strength, an abnormally strong sense of smell, big fluffy paws, and the depression and self-hate that comes after losing one's humanity, his life was suddenly flipped upside down. Claire Aoki, the girl he had decided to save, now holds his secret over his head. Claire is a sadistic and utterly twisted girl, with no sense of empathy toward the lives of others. Before meeting Shuichi, she was in the search of monsters, hoping to find her monster sister. Despite becoming a monster, Shuichi naively continues to hold onto his human morals, but how long can one last in this insufferable way of living?\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1380/106565.jpg",
@@ -62,6 +48,20 @@
         "Supernatural",
         "Ecchi",
         "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Shokugeki no Souma: Gou no Sara",
+      "description": "Fifth season of Shokugeki no Souma.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1813/106300.jpg",
+      "date": "Apr 11, 2020, 00:30 (JST)",
+      "producer": "J.C.Staff",
+      "eps": null,
+      "genres": [
+        "Ecchi",
+        "School",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -484,18 +484,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Argonavis from BanG Dream!",
-      "description": "Ren Nanahoshi is a lonely college student who isn't good at communicating with others. He remembers the thrill of watching a live band perform when he was young, and spent most of his days searching for his own identity. One day, while singing karaoke alone, two boys named Yuuto and Wataru discover Ren's singing ability. The two agree: \"This is fate. Let's start a band!\" Ren promptly runs away, but fate indeed steps in, and their journey begins.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1367/104178.jpg",
-      "date": "Apr 11, 2020, 01:25 (JST)",
-      "producer": "SANZIGEN",
-      "eps": null,
-      "genres": [
-        "Music"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Olympia Kyklos",
       "description": "Demetrios, a timid and kind vase painter in Ancient Greece who dislikes sports and competitions, is one day forced to come up with a game to compete with the mayor of the neighboring town in order to save his village. While hiding inside a large vase outside his workshop, lightning strikes the vase Demetrios is in, transferring him to Tokyo, Japan, during the 1964 Summer Olympics.\n \n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1543/107116.jpg",
@@ -508,6 +496,18 @@
         "Historical",
         "Sports",
         "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Argonavis from BanG Dream!",
+      "description": "Ren Nanahoshi is a lonely college student who isn't good at communicating with others. He remembers the thrill of watching a live band perform when he was young, and spent most of his days searching for his own identity. One day, while singing karaoke alone, two boys named Yuuto and Wataru discover Ren's singing ability. The two agree: \"This is fate. Let's start a band!\" Ren promptly runs away, but fate indeed steps in, and their journey begins.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1367/104178.jpg",
+      "date": "Apr 11, 2020, 01:25 (JST)",
+      "producer": "SANZIGEN",
+      "eps": null,
+      "genres": [
+        "Music"
       ],
       "category": "TV (New)"
     },
@@ -1703,6 +1703,21 @@
       "category": "ONA"
     },
     {
+      "title": "Yesterday wo Utatte Haishin-ban Episode",
+      "description": "Special episodes released on AbemaTV.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1919/107275.jpg",
+      "date": "Apr 5, 2020",
+      "producer": "Doga Kobo",
+      "eps": 6,
+      "genres": [
+        "Slice of Life",
+        "Drama",
+        "Romance",
+        "Seinen"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Shi Huang Zhi Shen",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1455/99125.jpg",
@@ -1996,6 +2011,18 @@
       "category": "OVA"
     },
     {
+      "title": "Haritsuke",
+      "description": "Miho Saegusa, the beautiful daughter of a tea ceremony master, is currently teaching at a prestigious school. Miho, who is well respected by the students, gets engaged to Okazaki, the son of a school board member and a colleague.\n\nOne of her students, Michiru Tayama, who knows about it, schemes to humiliate Miho because she was suspended from school for having a sexual relationship with her boyfriend. Michiru sets up Miho's fiancé Okazaki and takes advantage of Miho by blackmailing her.\n\nThe female teacher who is bewildered by the clumsy and unacceptable conditions, has no choice but to comply.\n\nMiho's true nature is exposed under the reality of her lewdness and madness...",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1614/107277.jpg",
+      "date": "Apr 24, 2020",
+      "producer": "-",
+      "eps": 2,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
       "title": "Shoujo Kageki Revue Starlight: Rondo Rondo Rondo",
       "description": "Compilation film of Shoujo☆Kageki Revue Starlight.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1648/105758.jpg",
@@ -2068,9 +2095,9 @@
     },
     {
       "title": "Heya Camp△: Sauna to Gohan to Miwa Bike",
-      "description": "Adaptation of a manga collaboration with the Yamaha Motor Company. Included as an extra with the Blu-ray release.",
+      "description": "Adaptation of a manga collaboration with the Yamaha Motor Company. Included as an extra with the Blu-ray release. \n\nThe anime was streamed in advance on April 29, 2020 for one day on Anime Channel on YouTube. The official release was on May 27, 2020.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1990/105400.jpg",
-      "date": "May 27, 2020",
+      "date": "Apr 28, 2020",
       "producer": "C-Station",
       "eps": 1,
       "genres": [
@@ -2098,9 +2125,9 @@
     },
     {
       "title": "Jashin-chan Dropkick': Chitose-hen",
-      "description": "The episode will be funded through Chitose's Hometown tax program, a system that allows taxpayers who live in urban areas to contribute to taxes that apply to rural residents. Taxpayers who contribute over 2,000 yen are then awarded in credit to reduce their income tax and residence tax. The Hometown tax program will also be the episode's focus. \n\n(Source: MAL News)\n\nThe episode was previewed at a screening in Chitose on April 11, 2020 ahead of the Blu-ray/DVD release.",
+      "description": "The episode will be funded through Chitose's Hometown tax program, a system that allows taxpayers who live in urban areas to contribute to taxes that apply to rural residents. Taxpayers who contribute over 2,000 yen are then awarded in credit to reduce their income tax and residence tax. The Hometown tax program will also be the episode's focus. \n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "date": "Apr 11, 2020",
+      "date": "Apr 30, 2020",
       "producer": "-",
       "eps": 1,
       "genres": [
