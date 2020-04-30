@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-04-29",
+  "lastUpdate": "2020-04-30",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -538,6 +538,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "BanG Dream! Garupa☆Pico: Oomori",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/106709.jpg",
+      "date": "May 7, 2020",
+      "producer": "SANZIGEN",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Komatta Jiisan",
       "description": "The comedy centers on an old man who pulls stereotypical ikemen (handsome man) actions on similarly old women and makes their hearts flutter. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1227/106465.jpg",
@@ -551,19 +564,6 @@
         "Drama",
         "Romance",
         "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "BanG Dream! Garupa☆Pico: Oomori",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/106709.jpg",
-      "date": "May 7, 2020",
-      "producer": "SANZIGEN",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -1675,6 +1675,21 @@
       "category": "ONA"
     },
     {
+      "title": "Yesterday wo Utatte Haishin-ban Episode",
+      "description": "Special episodes released on AbemaTV.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1919/107275.jpg",
+      "date": "Apr 5, 2020",
+      "producer": "Doga Kobo",
+      "eps": 6,
+      "genres": [
+        "Slice of Life",
+        "Drama",
+        "Romance",
+        "Seinen"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Gundam Build Divers Re:Rise 2nd Season",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1962/105909.jpg",
@@ -1699,21 +1714,6 @@
         "Comedy",
         "Horror",
         "Supernatural"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Yesterday wo Utatte Haishin-ban Episode",
-      "description": "Special episodes released on AbemaTV.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1919/107275.jpg",
-      "date": "Apr 5, 2020",
-      "producer": "Doga Kobo",
-      "eps": 6,
-      "genres": [
-        "Slice of Life",
-        "Drama",
-        "Romance",
-        "Seinen"
       ],
       "category": "ONA"
     },
@@ -2021,6 +2021,20 @@
         "Hentai"
       ],
       "category": "OVA"
+    },
+    {
+      "title": "Nakitai Watashi wa Neko wo Kaburu",
+      "description": "Miyo Sasaki, nicknamed \"Muge\" meaning \"infinitely mysterious,\" has a bright personality and is full of energy at school and at home. She is also in love with her classmate Kento Hinode. Miyo tries repeatedly to get Kento's attention, but he takes no notice of her. She realizes that the only way to get close to him is to transform into a cat, but at some point, the boundary between herself and the cat becomes ambiguous.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1045/106389.jpg",
+      "date": "Jun 18, 2020",
+      "producer": "Studio Colorido",
+      "eps": 1,
+      "genres": [
+        "Drama",
+        "Magic",
+        "Romance"
+      ],
+      "category": "Movie"
     },
     {
       "title": "Shoujo Kageki Revue Starlight: Rondo Rondo Rondo",

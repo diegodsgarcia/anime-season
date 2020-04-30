@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-04-29",
+  "lastUpdate": "2020-04-30",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -1583,19 +1583,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Unicorn no Kyupi",
-      "description": "Unicorn no Kyupi is a helpful sprite that lives in the kitchen and polishes dirty pots and pans clean with its fluffy white body. Harigorou, a rival sprite shaped like a hedgehog, tries to interfere. \n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1165/91319.jpg",
-      "date": "Mar 20, 2017",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Neko Neko Nihonshi 4th Season",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1757/106368.jpg",
@@ -1607,6 +1594,19 @@
         "Parody",
         "Kids",
         "Samurai"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Unicorn no Kyupi",
+      "description": "Unicorn no Kyupi is a helpful sprite that lives in the kitchen and polishes dirty pots and pans clean with its fluffy white body. Harigorou, a rival sprite shaped like a hedgehog, tries to interfere. \n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1165/91319.jpg",
+      "date": "Mar 20, 2017",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids",
+        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
