@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-04-30",
+  "lastUpdate": "2020-05-01",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -386,6 +386,18 @@
       "category": "TV (New)"
     },
     {
+      "title": "22/7",
+      "description": "One day, Miu Takigawa suddenly receives a letter notifying her that she has been chosen as a member of a brand-new project. Half in disbelief, she heads over to the location stated on the letter. There, she finds seven other girls summoned there in the same fashion. The girls behold a giant, top-secret facility. They stand in bewilderment as they are told they are going to debut for a major record label as an idol group. A new kind of idol, never-before-seen, is about to be born here.\n\n(Source: Official Site)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/104530.jpg",
+      "date": "Jan 11, 2020, 23:00 (JST)",
+      "producer": "A-1 Pictures",
+      "eps": 12,
+      "genres": [
+        "Music"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Oshi ga Budoukan Ittekuretara Shinu",
       "description": "A girl is obsessed with her favorite idol, a minor member of a less popular group, enough that she says she'd die to see her play at Budoukan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/104708.jpg",
@@ -396,18 +408,6 @@
         "Music",
         "Comedy",
         "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "22/7",
-      "description": "One day, Miu Takigawa suddenly receives a letter notifying her that she has been chosen as a member of a brand-new project. Half in disbelief, she heads over to the location stated on the letter. There, she finds seven other girls summoned there in the same fashion. The girls behold a giant, top-secret facility. They stand in bewilderment as they are told they are going to debut for a major record label as an idol group. A new kind of idol, never-before-seen, is about to be born here.\n\n(Source: Official Site)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/104530.jpg",
-      "date": "Jan 11, 2020, 23:00 (JST)",
-      "producer": "A-1 Pictures",
-      "eps": 12,
-      "genres": [
-        "Music"
       ],
       "category": "TV (New)"
     },
@@ -1466,18 +1466,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Yowamushi Monsters",
-      "description": "An NHK toddler's anime following cowardly creatures representing typical Halloween monsters like Dracula and a witch.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/72127.jpg",
-      "date": "Dec 25, 2012",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Manul no Yuube",
       "description": "Within the nature \"Darwin Kita! Kikimono Shin Densetsu\" program on NHK1.5 airs the short Manul no Yuube, based on a web manga/comic of the same name. It following animal characters who visit the bar Manul no Yuube. The bar is run by the Mama who is a Pallas's cat (Otocolobus manul) and serviced by the hostess Tsunomin who is a Brazilian treehopper (Bocydium globulare).",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1980/96936.jpg",
@@ -1486,6 +1474,18 @@
       "eps": null,
       "genres": [
         "Slice of Life"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Yowamushi Monsters",
+      "description": "An NHK toddler's anime following cowardly creatures representing typical Halloween monsters like Dracula and a witch.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/72127.jpg",
+      "date": "Dec 25, 2012",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
