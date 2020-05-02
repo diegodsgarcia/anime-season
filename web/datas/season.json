@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-05-01",
+  "lastUpdate": "2020-05-02",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -817,7 +817,7 @@
         "Fantasy",
         "Shounen"
       ],
-      "category": "TV (New)"
+      "category": "TV (Continuing)"
     },
     {
       "title": "Black Clover",
@@ -1614,7 +1614,7 @@
         "Mecha",
         "Seinen"
       ],
-      "category": "TV (Continuing)"
+      "category": "ONA"
     },
     {
       "title": "Baki 2nd Season",
@@ -1628,7 +1628,7 @@
         "Martial Arts",
         "Shounen"
       ],
-      "category": "TV (Continuing)"
+      "category": "ONA"
     },
     {
       "title": "Jashin-chan Dropkick'",
@@ -1890,7 +1890,7 @@
         "Vampire",
         "Fantasy"
       ],
-      "category": "ONA"
+      "category": "OVA"
     },
     {
       "title": "Kyonyuu Princess Saimin",
@@ -1902,7 +1902,7 @@
       "genres": [
         "Hentai"
       ],
-      "category": "ONA"
+      "category": "OVA"
     },
     {
       "title": "Tenioha! 2: Limit Over - Mada Mada Ippai, Ecchi Shiyo? The Animation",
@@ -1914,7 +1914,7 @@
       "genres": [
         "Hentai"
       ],
-      "category": "ONA"
+      "category": "OVA"
     },
     {
       "title": "Suketto Sanjou!! The Animation",
@@ -2048,7 +2048,7 @@
         "Magic",
         "Romance"
       ],
-      "category": "OVA"
+      "category": "Movie"
     },
     {
       "title": "Shoujo Kageki Revue Starlight: Rondo Rondo Rondo",
@@ -2061,7 +2061,7 @@
         "Music",
         "School"
       ],
-      "category": "OVA"
+      "category": "Movie"
     },
     {
       "title": "Monster Strike the Movie: Lucifer - Zetsubou no Yoake",
@@ -2075,7 +2075,7 @@
         "Game",
         "Fantasy"
       ],
-      "category": "OVA"
+      "category": "Movie"
     },
     {
       "title": "Fushigi Dakashiy Movie: Zenitendou - Tsuritai Yaki",
@@ -2089,7 +2089,7 @@
         "Comedy",
         "Kids"
       ],
-      "category": "OVA"
+      "category": "Movie"
     },
     {
       "title": "Sore Ike! Anpanman: Fuwa Fuwa Fuwaly to Kumo no Kuni",
@@ -2119,7 +2119,7 @@
         "Fantasy",
         "Seinen"
       ],
-      "category": "Movie"
+      "category": "Special"
     },
     {
       "title": "Heya Camp△: Sauna to Gohan to Miwa Bike",
@@ -2132,7 +2132,7 @@
         "Slice of Life",
         "Comedy"
       ],
-      "category": "Movie"
+      "category": "Special"
     },
     {
       "title": "Majutsushi Orphen Hagure Tabi: Tennin no Isan",
@@ -2149,7 +2149,7 @@
         "Martial Arts",
         "Fantasy"
       ],
-      "category": "Movie"
+      "category": "Special"
     },
     {
       "title": "Jashin-chan Dropkick': Chitose-hen",
@@ -2162,7 +2162,7 @@
         "Comedy",
         "Supernatural"
       ],
-      "category": "Movie"
+      "category": "Special"
     },
     {
       "title": "number24 Recap",
@@ -2175,7 +2175,7 @@
         "Sports",
         "School"
       ],
-      "category": "Movie"
+      "category": "Special"
     }
   ]
 }

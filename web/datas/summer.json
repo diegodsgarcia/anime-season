@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-05-01",
+  "lastUpdate": "2020-05-02",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -197,6 +197,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Assault Lily: Bouquet",
+      "description": "In the near future, humanity faces imminent destruction from mysterious creatures known as \"Huge.\" The world wages war against the Huge, and develops the anti-weapon \"CHARM\" (Counter Huge Arms) by combining science and magic. CHARM works more effectively when used by teenage girls, and those who use the weapons are revered as \"Lilies.\" The Lilies are trained at military academies called \"Gardens,\" which also serve as bases to protect and advise people. This is a story about girls who aim to become Lilies so they can protect Earth. \n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1920/104618.jpg",
+      "date": "Jul ??, 2020",
+      "producer": "Shaft",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Magic",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
       "description": "Second season of Muhyo to Rouji no Mahouritsu Soudan Jimusho.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1218/106376.jpg",
@@ -210,20 +224,6 @@
         "Supernatural",
         "Drama",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Assault Lily: Bouquet",
-      "description": "In the near future, humanity faces imminent destruction from mysterious creatures known as \"Huge.\" The world wages war against the Huge, and develops the anti-weapon \"CHARM\" (Counter Huge Arms) by combining science and magic. CHARM works more effectively when used by teenage girls, and those who use the weapons are revered as \"Lilies.\" The Lilies are trained at military academies called \"Gardens,\" which also serve as bases to protect and advise people. This is a story about girls who aim to become Lilies so they can protect Earth. \n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1920/104618.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "Shaft",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Magic",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -314,18 +314,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Tsukiuta. The Animation 2",
-      "description": "Second season of Tsukiuta. The Animation.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1149/104209.jpg",
-      "date": "Jul ??, 2020, 22:30 (JST)",
-      "producer": "Children's Playground Entertainment",
-      "eps": null,
-      "genres": [
-        "Music"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Senyoku no Sigrdrifa",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1960/106258.jpg",
@@ -350,15 +338,14 @@
       "category": "TV (New)"
     },
     {
-      "title": "Maesetsu!",
-      "description": "The anime centers on four girls at the full bloom of their youth, working hard to achieve their dreams as they struggle valiantly. In Japanese entertainment, Maesetsu! refers to an introductory talk or explanation addressed to the audience before the broadcast of television programs, usually performed by assistant directors and particularly comedians in variety or comedy shows.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1650/106386.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "AXsiZ, Studio Gokumi",
+      "title": "Tsukiuta. The Animation 2",
+      "description": "Second season of Tsukiuta. The Animation.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1149/104209.jpg",
+      "date": "Jul ??, 2020, 22:30 (JST)",
+      "producer": "Children's Playground Entertainment",
       "eps": null,
       "genres": [
-        "Slice of Life",
-        "Comedy"
+        "Music"
       ],
       "category": "TV (New)"
     },
@@ -371,6 +358,19 @@
       "eps": null,
       "genres": [
         "Sports"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Maesetsu!",
+      "description": "The anime centers on four girls at the full bloom of their youth, working hard to achieve their dreams as they struggle valiantly. In Japanese entertainment, Maesetsu! refers to an introductory talk or explanation addressed to the audience before the broadcast of television programs, usually performed by assistant directors and particularly comedians in variety or comedy shows.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1650/106386.jpg",
+      "date": "Jul ??, 2020",
+      "producer": "AXsiZ, Studio Gokumi",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -422,6 +422,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "Planetarian: Snow Globe",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1320/106943.jpg",
+      "date": "Sep ??, 2020",
+      "producer": "Okuruto Noboru",
+      "eps": 1,
+      "genres": [
+        "Sci-Fi",
+        "Drama"
+      ],
+      "category": "OVA"
+    },
+    {
       "title": "Kabukichou Sherlock OVA",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1036/107020.jpg",
@@ -431,19 +444,6 @@
       "genres": [
         "Mystery",
         "Comedy",
-        "Drama"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "Planetarian: Snow Globe",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1320/106943.jpg",
-      "date": "Sep ??, 2020",
-      "producer": "Okuruto Noboru",
-      "eps": 1,
-      "genres": [
-        "Sci-Fi",
         "Drama"
       ],
       "category": "OVA"

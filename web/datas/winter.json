@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-05-01",
+  "lastUpdate": "2020-05-02",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -1045,19 +1045,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Bonobono (TV 2016)",
-      "description": "Based on the original comic BONO BONO by Mikio Igarashi that has seen over 9,000,000 total copies printed, this is the definitive animated version of the emotionally soothing character-driven series that will make you ask yourself the philosophical question, \"What are living things?\" while laughing at heartwarming gags and being entertained by the interactions of amusing forest friends Bonobono the young sea otter, Chipmunk, Fishing Cat, and more.\n\nEnjoy the easygoing days and minor misadventures of Bonobono and his friends!\n\n(Source: Fuji Creative)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/77617.jpg",
-      "date": "Apr 2, 2016, 04:52 (JST)",
-      "producer": "Eiken",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Beyblade Burst Gachi",
       "description": "This year's March issue of Shogakukan's CoroCoro Comics magazine announced on Friday that a new Beyblade series titled Beyblade Burst GT (Gachi) will debut on April 5. The series will stream weekly on the CoroCoro YouTube channel, the official Beyblade portal website, and the Takara Tomy Channel. The magazine shared a visual of a new protagonist with short blond hair.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1318/99806.jpg",
@@ -1070,6 +1057,19 @@
         "Adventure",
         "Sports",
         "Shounen"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Bonobono (TV 2016)",
+      "description": "Based on the original comic BONO BONO by Mikio Igarashi that has seen over 9,000,000 total copies printed, this is the definitive animated version of the emotionally soothing character-driven series that will make you ask yourself the philosophical question, \"What are living things?\" while laughing at heartwarming gags and being entertained by the interactions of amusing forest friends Bonobono the young sea otter, Chipmunk, Fishing Cat, and more.\n\nEnjoy the easygoing days and minor misadventures of Bonobono and his friends!\n\n(Source: Fuji Creative)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/77617.jpg",
+      "date": "Apr 2, 2016, 04:52 (JST)",
+      "producer": "Eiken",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1237,6 +1237,16 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Balala Xiaomoxian: Mofa Hai Ying Bao",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/102588.jpg",
+      "date": "Nov 16, 2018",
+      "producer": "-",
+      "eps": null,
+      "genres": [],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Duel Masters!!",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1287/106313.jpg",
@@ -1249,16 +1259,6 @@
         "Comedy",
         "Shounen"
       ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Balala Xiaomoxian: Mofa Hai Ying Bao",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/102588.jpg",
-      "date": "Nov 16, 2018",
-      "producer": "-",
-      "eps": null,
-      "genres": [],
       "category": "TV (Continuing)"
     },
     {
@@ -1964,6 +1964,19 @@
       "category": "ONA"
     },
     {
+      "title": "Hataraku Saibou Black",
+      "description": "A special animated commercial first released on Twitter to promote the manga. It was then released on Kodansha's official YouTube channel on January 15.\n\nSet inside an unhealthy body, Hataraku Saibou Black features the anthropomorphized cells of the human immune system as they attempt to keep their ailing world alive.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1914/106749.jpg",
+      "date": "Jan 4, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Seinen"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Ogaki Matsuri ni Ikou yo!",
       "description": "A tourism promotion anime for Ogaki City in the Gifu Prefecture. The story's script was written by Kou Nakamura, a famous novelist from Ogaki City.\n\nA love story set during the Ogaki Festival preparations. The festival itself is held in May.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1425/106763.jpg",
@@ -2097,19 +2110,6 @@
         "Comedy",
         "Kids",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Hataraku Saibou Black",
-      "description": "A special animated commercial first released on Twitter to promote the manga. It was then released on Kodansha's official YouTube channel on January 15.\n\nSet inside an unhealthy body, Hataraku Saibou Black features the anthropomorphized cells of the human immune system as they attempt to keep their ailing world alive.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1914/106749.jpg",
-      "date": "Jan 4, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Seinen"
       ],
       "category": "ONA"
     },
