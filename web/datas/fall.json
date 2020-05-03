@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-05-02",
+  "lastUpdate": "2020-05-03",
   "animes": [
     {
       "title": "Tensei shitara Slime Datta Ken 2nd Season",
@@ -255,6 +255,21 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "King's Raid: Ishi wo Tsugumono-tachi",
+      "description": "It's been 100 years since King Kyle buried Ang Mundo. Now in a time of peace, the apprentice knight Carsel enjoys his life without worry. His fate begins to change, however, with news of demon appearances infesting the neighborhood. Guided by a wise man, Carsel finds friends he can rely on and sets off on his mission to seek a holy sword, capable of slaying his newfound enemies.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1686/107300.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Sunrise Beyond, OLM",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Magic",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
