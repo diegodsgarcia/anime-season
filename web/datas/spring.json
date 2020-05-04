@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-05-03",
+  "lastUpdate": "2020-05-04",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -81,20 +81,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "BNA",
-      "description": "Throughout history, humans have been at odds with Beastmen—a species capable of changing shape due to their genetic \"Beast Factor.\" Because of this conflict, Beastmen have been forced into hiding. Anima City serves as a safe haven for these oppressed individuals to live free from human interference.\n\nDuring a festival celebrating the town's 10th anniversary, Michiru Kagemori, a human who suddenly turned into a tanuki, finds that Anima City is a far cry from paradise. After witnessing an explosion in the square, she is confronted by Shirou Ogami, a seemingly indestructible wolf and sworn protector of all Beastmen. As they pursue the criminals behind the bombing, the two discover that Michiru is anything but an ordinary Beastman, and look to investigate her mysterious past and uncanny abilities. Could she turn out to be the missing link between Humans and Beastmen?\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/106986.jpg",
-      "date": "Apr 9, 2020, 00:55 (JST)",
-      "producer": "Trigger",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Super Power",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
       "description": "Most people would prefer being the protagonist of a world full of adventure, be it in a game or in another world. But, unfortunately, a certain girl is not so lucky. Regaining the memories of her past life, she realizes that she was reborn in the world of Fortune Lover—one of the games she used to play.\n\nUnfortunately, the character she was reincarnated into—Katarina Claes—is the game's main antagonist, who faces utter doom in every ending. Using her extensive knowledge of the game, she takes it upon herself to escape from the chains of this accursed destiny.\n\nHowever, this will not be an easy feat, especially since she needs to be cautious as to not set off death flags that may speed up the impending doom she is trying to avoid. Even so, to make a change that will affect the lives of everyone around her, she strives—not as the heroine—but as the villainess.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1483/107061.jpg",
@@ -107,6 +93,20 @@
         "Fantasy",
         "Romance",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "BNA",
+      "description": "Throughout history, humans have been at odds with Beastmen—a species capable of changing shape due to their genetic \"Beast Factor.\" Because of this conflict, Beastmen have been forced into hiding. Anima City serves as a safe haven for these oppressed individuals to live free from human interference.\n\nDuring a festival celebrating the town's 10th anniversary, Michiru Kagemori, a human who suddenly turned into a tanuki, finds that Anima City is a far cry from paradise. After witnessing an explosion in the square, she is confronted by Shirou Ogami, a seemingly indestructible wolf and sworn protector of all Beastmen. As they pursue the criminals behind the bombing, the two discover that Michiru is anything but an ordinary Beastman, and look to investigate her mysterious past and uncanny abilities. Could she turn out to be the missing link between Humans and Beastmen?\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/106986.jpg",
+      "date": "Apr 9, 2020, 00:55 (JST)",
+      "producer": "Trigger",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Super Power",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
