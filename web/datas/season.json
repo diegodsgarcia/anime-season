@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-05-04",
+  "lastUpdate": "2020-05-05",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -318,19 +318,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Tamayomi",
-      "description": "In her Junior High years, the pitcher Yomi Takeda was not able to get very far in a cross-school baseball tournament. Since the catcher on her team wasn't at her level, she couldn't use her signature move, the \"Magic Throw,\" and eventually regretted not being able to use it. After Junior High, she decided to stop playing baseball and went to Shin Koshigaya High School, a school without a baseball club.\n \nThere, she found her long lost childhood friend, Tamaki Yamazaki, who used to play catchball with her when they were kids. Tamaki also played baseball during her Junior High years as a catcher, and could even catch Yomi's \"Magic Throw!\"\n \nTheir promise with each other during their childhood could now be fulfilled! Walking together on the road of baseball once again...\n \nThe story of the girls who love baseball will begin!\n \n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1881/106156.jpg",
-      "date": "Apr 1, 2020, 22:00 (JST)",
-      "producer": "Studio A-CAT",
-      "eps": 12,
-      "genres": [
-        "Sports",
-        "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Kingdom 3rd Season",
       "description": "Third season of Kingdom.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1332/106392.jpg",
@@ -342,6 +329,19 @@
         "Military",
         "Historical",
         "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Tamayomi",
+      "description": "In her Junior High years, the pitcher Yomi Takeda was not able to get very far in a cross-school baseball tournament. Since the catcher on her team wasn't at her level, she couldn't use her signature move, the \"Magic Throw,\" and eventually regretted not being able to use it. After Junior High, she decided to stop playing baseball and went to Shin Koshigaya High School, a school without a baseball club.\n \nThere, she found her long lost childhood friend, Tamaki Yamazaki, who used to play catchball with her when they were kids. Tamaki also played baseball during her Junior High years as a catcher, and could even catch Yomi's \"Magic Throw!\"\n \nTheir promise with each other during their childhood could now be fulfilled! Walking together on the road of baseball once again...\n \nThe story of the girls who love baseball will begin!\n \n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1881/106156.jpg",
+      "date": "Apr 1, 2020, 22:00 (JST)",
+      "producer": "Studio A-CAT",
+      "eps": 12,
+      "genres": [
+        "Sports",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -798,6 +798,21 @@
       "genres": [
         "Comedy",
         "Kids"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Oshiri Tantei 4th Season",
+      "description": "Fourth season of Oshiri Tantei.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1229/107371.jpg",
+      "date": "Apr 4, 2020, 09:00 (JST)",
+      "producer": "Toei Animation",
+      "eps": null,
+      "genres": [
+        "Mystery",
+        "Comedy",
+        "Kids",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -1793,6 +1808,23 @@
       "category": "ONA"
     },
     {
+      "title": "Da Li Si Rizhi",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1659/105254.jpg",
+      "date": "Apr 10, 2020",
+      "producer": "Nice Boat Animation",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Comedy",
+        "Historical",
+        "Demons",
+        "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Ma La Nu Pei",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/106704.jpg",
@@ -1873,6 +1905,23 @@
         "Slice of Life",
         "Comedy",
         "Supernatural"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Xing Chen Bian: Yu Li Cang Hai",
+      "description": "Second season of Xing Chen Bian.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1548/107365.jpg",
+      "date": "May 3, 2020",
+      "producer": "Shanghai Foch Film Culture Investment",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Historical",
+        "Romance",
+        "Martial Arts",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -1977,10 +2026,10 @@
       "category": "OVA"
     },
     {
-      "title": "Hajimete no Hitozuma",
+      "title": "Chiisana Tsubomi no Sono Oku ni...",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1210/105663.jpg",
-      "date": "May 22, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "date": "Apr 24, 2020",
       "producer": "-",
       "eps": null,
       "genres": [
@@ -1989,10 +2038,10 @@
       "category": "OVA"
     },
     {
-      "title": "Chiisana Tsubomi no Sono Oku ni...",
+      "title": "Hajimete no Hitozuma",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "date": "Apr 24, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1210/105663.jpg",
+      "date": "May 22, 2020",
       "producer": "-",
       "eps": null,
       "genres": [

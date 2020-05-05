@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-05-04",
+  "lastUpdate": "2020-05-05",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -1892,18 +1892,6 @@
       "category": "ONA"
     },
     {
-      "title": "Microphone Soul Spinners: Kotodama Shoujo",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/102079.jpg",
-      "date": "Jan 11, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Music"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Katarina Nounai Kaigi",
       "description": "Short specials posted on the official twitter account where the \"Katarina Five\" will introduce HameFura.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1067/106344.jpg",
@@ -1912,6 +1900,18 @@
       "eps": null,
       "genres": [
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Microphone Soul Spinners: Kotodama Shoujo",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/102079.jpg",
+      "date": "Jan 11, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Music"
       ],
       "category": "ONA"
     },
@@ -2320,24 +2320,24 @@
       "category": "OVA"
     },
     {
-      "title": "Chii-chan Kaihatsu Nikki",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/103705.jpg",
-      "date": "Jan 31, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Shikijou Kyoudan",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/105665.jpg",
       "date": "Mar 6, 2020",
       "producer": "-",
       "eps": 2,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Chii-chan Kaihatsu Nikki",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/103705.jpg",
+      "date": "Jan 31, 2020",
+      "producer": "-",
+      "eps": null,
       "genres": [
         "Hentai"
       ],
