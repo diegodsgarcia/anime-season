@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-05-05",
+  "lastUpdate": "2020-05-06",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -351,7 +351,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1642/106316.jpg",
       "date": "Apr 4, 2020, 01:23 (JST)",
       "producer": "OLM",
-      "eps": null,
+      "eps": 13,
       "genres": [
         "Action",
         "Adventure",
@@ -393,7 +393,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/105873.jpg",
       "date": "Apr 13, 2020, 23:00 (JST)",
       "producer": "LIDENFILMS",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Mystery",
         "Historical"
@@ -436,7 +436,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1222/106183.jpg",
       "date": "Apr 6, 2020, 01:00 (JST)",
       "producer": "Magic Bus",
-      "eps": null,
+      "eps": 8,
       "genres": [
         "Romance",
         "Ecchi"
@@ -1620,7 +1620,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1213/106702.jpg",
       "date": "Apr 23, 2020",
       "producer": "Production I.G, Sola Digital Arts",
-      "eps": 24,
+      "eps": 12,
       "genres": [
         "Action",
         "Military",
@@ -1895,20 +1895,6 @@
       "category": "ONA"
     },
     {
-      "title": "Wan Sheng Jie",
-      "description": "The pure and cute little devil Nini lives in Room 1031 of Wan Sheng Street Apartment. His roommates are no ordinary people: The lazy and wacky vampire Ira who spends most of his time gaming or watching TV, the unlucky dancer werewolf Vladimir, the serious and old-fashioned angel landlord Lynn and his naive little sister Lily, and many more.\n\nWhat none of them realize is that the power of the demon king is sleeping inside of Nini. With evil forces in hot pursuit, can Nini and his friends head off disaster?\n\n(Source: QQ, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1854/106930.jpg",
-      "date": "Apr 1, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Supernatural"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Xing Chen Bian: Yu Li Cang Hai",
       "description": "Second season of Xing Chen Bian.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1548/107365.jpg",
@@ -1922,6 +1908,20 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Wan Sheng Jie",
+      "description": "The pure and cute little devil Nini lives in Room 1031 of Wan Sheng Street Apartment. His roommates are no ordinary people: The lazy and wacky vampire Ira who spends most of his time gaming or watching TV, the unlucky dancer werewolf Vladimir, the serious and old-fashioned angel landlord Lynn and his naive little sister Lily, and many more.\n\nWhat none of them realize is that the power of the demon king is sleeping inside of Nini. With evil forces in hot pursuit, can Nini and his friends head off disaster?\n\n(Source: QQ, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1854/106930.jpg",
+      "date": "Apr 1, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Supernatural"
       ],
       "category": "ONA"
     },
@@ -2171,10 +2171,10 @@
       "category": "Special"
     },
     {
-      "title": "Heya Camp△: Sauna to Gohan to Miwa Bike",
+      "title": "Heya Camp△: Sauna to Gohan to Sanrin Bike",
       "description": "Adaptation of a manga collaboration with the Yamaha Motor Company. Included as an extra with the Blu-ray release. \n\nThe anime was streamed in advance on April 29, 2020 for one day on Anime Channel on YouTube. The official release was on May 27, 2020.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1990/105400.jpg",
-      "date": "Apr 28, 2020",
+      "date": "Apr 29, 2020",
       "producer": "C-Station",
       "eps": 1,
       "genres": [
