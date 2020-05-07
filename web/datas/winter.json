@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-05-06",
+  "lastUpdate": "2020-05-07",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -477,6 +477,18 @@
       "category": "TV (New)"
     },
     {
+      "title": "A3! Season Spring & Summer",
+      "description": "\"Director! Please help us bloom!\"\n\nIn Tokyo, there is a place called Velude Way. It is a district notorious for its performers and theatrical groups. Izumi Tachibana, who was previously a stage actress, arrives with a letter that reads, \"Full of debt! Zero customers! Only one actor!\" It describes the current state of the once-popular theater group Mankai Company. Her task is to rebuild the company to its former glory as the new owner and chief director.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1421/105605.jpg",
+      "date": "Jan 14, 2020, 00:00 (JST)",
+      "producer": "P.A. Works, Studio 3Hz",
+      "eps": null,
+      "genres": [
+        "Music"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Yatogame-chan Kansatsu Nikki Nisatsume",
       "description": "Second season of Yatogame-chan Kansatsu Nikki.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/104387.jpg",
@@ -488,18 +500,6 @@
         "Comedy",
         "School",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "A3! Season Spring & Summer",
-      "description": "\"Director! Please help us bloom!\"\n\nIn Tokyo, there is a place called Velude Way. It is a district notorious for its performers and theatrical groups. Izumi Tachibana, who was previously a stage actress, arrives with a letter that reads, \"Full of debt! Zero customers! Only one actor!\" It describes the current state of the once-popular theater group Mankai Company. Her task is to rebuild the company to its former glory as the new owner and chief director.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1421/105605.jpg",
-      "date": "Jan 14, 2020, 00:00 (JST)",
-      "producer": "P.A. Works, Studio 3Hz",
-      "eps": null,
-      "genres": [
-        "Music"
       ],
       "category": "TV (New)"
     },
