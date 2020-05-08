@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-05-07",
+  "lastUpdate": "2020-05-08",
   "animes": [
     {
       "title": "Tensei shitara Slime Datta Ken 2nd Season",
@@ -30,22 +30,6 @@
         "Super Power",
         "Drama",
         "Fantasy",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "5-toubun no Hanayome ∬",
-      "description": "Second season of 5-toubun no Hanayome.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106118.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Bibury Animation Studios",
-      "eps": null,
-      "genres": [
-        "Harem",
-        "Comedy",
-        "Romance",
-        "School",
         "Shounen"
       ],
       "category": "TV (New)"

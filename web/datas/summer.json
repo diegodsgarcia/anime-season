@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-05-07",
+  "lastUpdate": "2020-05-08",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -15,6 +15,22 @@
         "Fantasy",
         "Psychological",
         "Thriller"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+      "description": "Third season of Yahari Ore no Seishun Love Comedy wa Machigatteiru..",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1910/106073.jpg",
+      "date": "Jul ??, 2020",
+      "producer": "feel.",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "School"
       ],
       "category": "TV (New)"
     },

@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-05-07",
+  "lastUpdate": "2020-05-08",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -93,20 +93,6 @@
         "Fantasy",
         "Romance",
         "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "BNA",
-      "description": "Throughout history, humans have been at odds with Beastmen—a species capable of changing shape due to their genetic \"Beast Factor.\" Because of this conflict, Beastmen have been forced into hiding. Anima City serves as a safe haven for these oppressed individuals to live free from human interference.\n\nDuring a festival celebrating the town's 10th anniversary, Michiru Kagemori, a human who suddenly turned into a tanuki, finds that Anima City is a far cry from paradise. After witnessing an explosion in the square, she is confronted by Shirou Ogami, a seemingly indestructible wolf and sworn protector of all Beastmen. As they pursue the criminals behind the bombing, the two discover that Michiru is anything but an ordinary Beastman, and look to investigate her mysterious past and uncanny abilities. Could she turn out to be the missing link between Humans and Beastmen?\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/106986.jpg",
-      "date": "Apr 9, 2020, 00:55 (JST)",
-      "producer": "Trigger",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Super Power",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -233,9 +219,9 @@
       "eps": 12,
       "genres": [
         "Action",
-        "Sci-Fi",
+        "Mecha",
         "Music",
-        "Mecha"
+        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
@@ -310,10 +296,10 @@
       "producer": "Doga Kobo",
       "eps": 12,
       "genres": [
-        "Slice of Life",
         "Comedy",
         "School",
-        "Seinen"
+        "Seinen",
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -326,8 +312,8 @@
       "eps": null,
       "genres": [
         "Action",
-        "Military",
         "Historical",
+        "Military",
         "Seinen"
       ],
       "category": "TV (New)"
@@ -340,8 +326,8 @@
       "producer": "Studio A-CAT",
       "eps": 12,
       "genres": [
-        "Sports",
-        "School"
+        "School",
+        "Sports"
       ],
       "category": "TV (New)"
     },
@@ -381,9 +367,9 @@
       "producer": "Kamikaze Douga, Space Neko Company",
       "eps": 12,
       "genres": [
-        "Slice of Life",
         "Comedy",
-        "Seinen"
+        "Seinen",
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -395,8 +381,8 @@
       "producer": "LIDENFILMS",
       "eps": 12,
       "genres": [
-        "Mystery",
-        "Historical"
+        "Historical",
+        "Mystery"
       ],
       "category": "TV (New)"
     },
@@ -438,8 +424,8 @@
       "producer": "Magic Bus",
       "eps": 8,
       "genres": [
-        "Romance",
-        "Ecchi"
+        "Ecchi",
+        "Romance"
       ],
       "category": "TV (New)"
     },
@@ -464,9 +450,9 @@
       "eps": null,
       "genres": [
         "Comedy",
-        "Sports",
         "Drama",
-        "Shounen"
+        "Shounen",
+        "Sports"
       ],
       "category": "TV (New)"
     },
@@ -546,11 +532,11 @@
       "eps": null,
       "genres": [
         "Adventure",
-        "Slice of Life",
         "Comedy",
         "Drama",
         "Romance",
-        "Seinen"
+        "Seinen",
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -576,9 +562,9 @@
       "eps": null,
       "genres": [
         "Action",
-        "Game",
         "Adventure",
-        "Demons"
+        "Demons",
+        "Game"
       ],
       "category": "TV (New)"
     },
@@ -620,9 +606,9 @@
       "eps": null,
       "genres": [
         "Action",
-        "Sci-Fi",
         "Adventure",
-        "Mecha"
+        "Mecha",
+        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
@@ -1615,6 +1601,20 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "BNA",
+      "description": "Throughout history, humans have been at odds with Beastmen—a species capable of changing shape due to their genetic \"Beast Factor.\" Because of this conflict, Beastmen have been forced into hiding. Anima City serves as a safe haven for these oppressed individuals to live free from human interference.\n\nDuring a festival celebrating the town's 10th anniversary, Michiru Kagemori, a human who suddenly turned into a tanuki, finds that Anima City is a far cry from paradise. After witnessing an explosion in the square, she is confronted by Shirou Ogami, a seemingly indestructible wolf and sworn protector of all Beastmen. As they pursue the criminals behind the bombing, the two discover that Michiru is anything but an ordinary Beastman, and look to investigate her mysterious past and uncanny abilities. Could she turn out to be the missing link between Humans and Beastmen?\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/106986.jpg",
+      "date": "Apr 9, 2020",
+      "producer": "Trigger",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Super Power",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Koukaku Kidoutai: SAC_2045",
       "description": "In the year 2045, after an economic disaster known as the Synchronized Global Default, rapid developments in AI propelled the world to enter a state of “Sustainable War”. However, the public is not aware of the threat that AI has towards the human race.\n\nFull-body cyborg Major Motoko Kusanagi and her second-in-command Batou are former members of Public Security Section 9, who are now hired mercenaries traveling hot devastated American west coast. This land is full of opportunity for the major and her team, they utilize their enhanced cyberbrains and combat skills from their time working in Section 9. However, things get complicated with the emergence of “post humans,” who have extreme intelligence and physical powers. The members of Section 9 comeback together again in order to face this new threat.\n\n(Source: Official Website)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1213/106702.jpg",
@@ -1882,19 +1882,6 @@
       "category": "ONA"
     },
     {
-      "title": "Wang Gu Shenhua Zhi Tian Xuan Zhe",
-      "description": "In the year 2115 of the Fortress, Wei Qin, commander of the border troops, went to the Fortress to participate in the selection of the elected official and to secretly investigate those responsible for the Border incident.  At the same time, the No. 1 public enemy, Yuan Yi, launched a major revolt.  As the plot progresses, all parties are involved in this quest.  How is Wei Qin going to sort out the true from the false and bring the truth out?\n\n(Source: Exodus Chaos)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1915/106921.jpg",
-      "date": "Apr 7, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Sci-Fi"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Xing Chen Bian: Yu Li Cang Hai",
       "description": "Second season of Xing Chen Bian.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1548/107365.jpg",
@@ -1908,6 +1895,19 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Wang Gu Shenhua Zhi Tian Xuan Zhe",
+      "description": "In the year 2115 of the Fortress, Wei Qin, commander of the border troops, went to the Fortress to participate in the selection of the elected official and to secretly investigate those responsible for the Border incident.  At the same time, the No. 1 public enemy, Yuan Yi, launched a major revolt.  As the plot progresses, all parties are involved in this quest.  How is Wei Qin going to sort out the true from the false and bring the truth out?\n\n(Source: Exodus Chaos)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1915/106921.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi"
       ],
       "category": "ONA"
     },
@@ -2005,6 +2005,18 @@
       "title": "Sexfriend Gakuen",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1843/105662.jpg",
+      "date": "May 1, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Chiisana Tsubomi no Sono Oku ni...",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
       "date": "Apr 24, 2020",
       "producer": "-",
       "eps": null,
@@ -2017,18 +2029,6 @@
       "title": "Sotsugyou ** Densha",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1882/105980.jpg",
-      "date": "Apr 24, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "Chiisana Tsubomi no Sono Oku ni...",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
       "date": "Apr 24, 2020",
       "producer": "-",
       "eps": null,
