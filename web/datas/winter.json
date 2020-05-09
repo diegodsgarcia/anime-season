@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-05-08",
+  "lastUpdate": "2020-05-09",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -81,6 +81,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Jibaku Shounen Hanako-kun",
+      "description": "The famous \"Seven Wonders\" that every school seems to have are a staple of Japanese urban legends. One of the most well-known of these tales is that of Hanako-san: the ghost of a young girl who haunts the school's bathrooms.\n\nKamome Academy has its own version of Hanako-san's legend. Rumors claim that if one successfully manages to summon Hanako-san, she will grant her summoner any wish. Lured by the gossip, many people have tried to call upon her, yet every attempt has failed. However, when Nene Yashiro, a girl hoping for romantic fortune, dares to summon Hanako-san, she discovers that the rumored \"girl\" is actually a boy!\n\nAfter a series of unfortunate events involving Nene's romantic desires, she is unwillingly entangled in the world of the supernatural, becoming Hanako-kun's assistant. Soon, she finds out about Hanako-kun's lesser-known duty: maintaining the fragile balance between mortals and apparitions.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1700/104788.jpg",
+      "date": "Jan 10, 2020, 01:58 (JST)",
+      "producer": "Lerche",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Supernatural",
+        "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Eizouken ni wa Te wo Dasu na!",
       "description": "Midori Asakusa sees the world a bit differently. Always having her nose in a sketchbook, Asakusa draws detailed landscapes and backgrounds of both the world around her and the one within her boundless imagination. Even the simple act of doodling on a wall evolves into an emergency repair on the outer hull of her spaceship. She is only brought back to reality by her best friend Sayaka Kanamori. The pair are stark opposites, with Asakusa's childlike wonder contrasted by Kanamori's calculated approach to life. \n\nAfter a chance encounter where the two \"save\" the young model Tsubame Misuzaki from her overprotective bodyguard, a connection instantly sparks between Asakusa and Misuzaki, as both share an intense passion for art and animation. Whereas Asakusa is interested in backgrounds and settings, Misuzaki loves drawing the human form. Sensing a money-making opportunity, Kanamori suggests that they start an animation club, which they disguise as a motion picture club since the school already has an anime club. Thus begins the trio's journey of producing animation that will awe the world. \n\nFrom the brilliant mind of Masaaki Yuasa, Eizouken ni wa Te wo Dasu na! is a love letter to animation, wildly creative in its approach, and a testament to the potential of the medium.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1561/106329.jpg",
@@ -92,20 +106,6 @@
         "Comedy",
         "School",
         "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Jibaku Shounen Hanako-kun",
-      "description": "The famous \"Seven Wonders\" that every school seems to have are a staple of Japanese urban legends. One of the most well-known of these tales is that of Hanako-san: the ghost of a young girl who haunts the school's bathrooms.\n\nKamome Academy has its own version of Hanako-san's legend. Rumors claim that if one successfully manages to summon Hanako-san, she will grant her summoner any wish. Lured by the gossip, many people have tried to call upon her, yet every attempt has failed. However, when Nene Yashiro, a girl hoping for romantic fortune, dares to summon Hanako-san, she discovers that the rumored \"girl\" is actually a boy!\n\nAfter a series of unfortunate events involving Nene's romantic desires, she is unwillingly entangled in the world of the supernatural, becoming Hanako-kun's assistant. Soon, she finds out about Hanako-kun's lesser-known duty: maintaining the fragile balance between mortals and apparitions.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1700/104788.jpg",
-      "date": "Jan 10, 2020, 01:58 (JST)",
-      "producer": "Lerche",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "Supernatural",
-        "School"
       ],
       "category": "TV (New)"
     },
@@ -1880,18 +1880,6 @@
       "category": "ONA"
     },
     {
-      "title": "Niplheim no Karyuudo",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1409/105799.jpg",
-      "date": "Jan 25, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Katarina Nounai Kaigi",
       "description": "Short specials posted on the official twitter account where the \"Katarina Five\" will introduce HameFura.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1067/106344.jpg",
@@ -1900,6 +1888,18 @@
       "eps": null,
       "genres": [
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Niplheim no Karyuudo",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1409/105799.jpg",
+      "date": "Jan 25, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai"
       ],
       "category": "ONA"
     },
