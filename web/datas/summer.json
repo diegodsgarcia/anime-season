@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-05-09",
+  "lastUpdate": "2020-05-10",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -497,6 +497,20 @@
       "category": "Movie"
     },
     {
+      "title": "Umibe no Étranger",
+      "description": "\"There's nothing wrong with liking another guy.\"\nTo be in the arms of the person I love... I thought that was an unattainable dream...\n\nOn an island off the coast of Okinawa, two young men meet on a beach. Shun Hashimoto is gay and aspires to be a novelist. He is interested in Mio Chibana, a somber high school student, and starts to flirt with him. Day by day, the two of them grow closer, but then, suddenly, Mio decides to leave the island.\n\nThree years later, Mio returns and approaches Shun with the words, \"I've thought about it for the past three years. I like you, Shun, even if you're a guy.\" However, when faced with the prospect of finally becoming lovers with Mio, Shun cannot take the first step towards commitment. This is a tantalizing love story about a gay novelist and a younger part-time worker. \n\n(Source: Renta!, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1611/106774.jpg",
+      "date": "Sep 11, 2020",
+      "producer": "Studio Hibari",
+      "eps": 1,
+      "genres": [
+        "Slice of Life",
+        "Romance",
+        "Shounen Ai"
+      ],
+      "category": "Movie"
+    },
+    {
       "title": "Bishoujo Senshi Sailor Moon Eternal Movie 1",
       "description": "Bishoujo Senshi Sailor Moon Eternal serves as the fourth installment in Toei Animation's reboot of Naoko Takeuchi's original magical girl manga. The sequel was announced in January 2017 as a part of the franchise's 25th anniversary and later confirmed to be a two-part anime film covering the Dream arc.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1517/101714.jpg",
@@ -508,20 +522,6 @@
         "Magic",
         "Romance",
         "Shoujo"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Umibe no Étranger",
-      "description": "\"There's nothing wrong with liking another guy.\"\nTo be in the arms of the person I love... I thought that was an unattainable dream...\n\nOn an island off the coast of Okinawa, two young men meet on a beach. Shun Hashimoto is gay and aspires to be a novelist. He is interested in Mio Chibana, a somber high school student, and starts to flirt with him. Day by day, the two of them grow closer, but then, suddenly, Mio decides to leave the island.\n\nThree years later, Mio returns and approaches Shun with the words, \"I've thought about it for the past three years. I like you, Shun, even if you're a guy.\" However, when faced with the prospect of finally becoming lovers with Mio, Shun cannot take the first step towards commitment. This is a tantalizing love story about a gay novelist and a younger part-time worker. \n\n(Source: Renta!, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1611/106774.jpg",
-      "date": "Sep 11, 2020",
-      "producer": "Studio Hibari",
-      "eps": 1,
-      "genres": [
-        "Slice of Life",
-        "Romance",
-        "Shounen Ai"
       ],
       "category": "Movie"
     },

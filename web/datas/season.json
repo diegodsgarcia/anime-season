@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-05-09",
+  "lastUpdate": "2020-05-10",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -1792,6 +1792,20 @@
       "category": "ONA"
     },
     {
+      "title": "Huangli Shi",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1444/100629.jpg",
+      "date": "May 7, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Supernatural"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Beyblade Burst Super King",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1332/106530.jpg",
@@ -1834,20 +1848,6 @@
       "genres": [
         "Comedy",
         "Romance"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Huangli Shi",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1444/100629.jpg",
-      "date": "May 7, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Mystery",
-        "Supernatural"
       ],
       "category": "ONA"
     },
@@ -1927,7 +1927,7 @@
       "category": "ONA"
     },
     {
-      "title": "Wang Gu Shenhua Zhi Tian Xuan Zhe",
+      "title": "Wang Gu Shenhua Zhi Tian Xuanzhe",
       "description": "In the year 2115 of the Fortress, Wei Qin, commander of the border troops, went to the Fortress to participate in the selection of the elected official and to secretly investigate those responsible for the Border incident.  At the same time, the No. 1 public enemy, Yuan Yi, launched a major revolt.  As the plot progresses, all parties are involved in this quest.  How is Wei Qin going to sort out the true from the false and bring the truth out?\n\n(Source: Exodus Chaos)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1915/106921.jpg",
       "date": "Apr 7, 2020",
@@ -2004,24 +2004,24 @@
       "category": "OVA"
     },
     {
-      "title": "Yarichin Kateikyoushi Netori Houkoku",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1372/105978.jpg",
-      "date": "May 29, 2020",
-      "producer": "-",
-      "eps": 2,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Chiisana Tsubomi no Sono Oku ni...",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
       "date": "Apr 24, 2020",
       "producer": "-",
       "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Yarichin Kateikyoushi Netori Houkoku",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1372/105978.jpg",
+      "date": "May 29, 2020",
+      "producer": "-",
+      "eps": 2,
       "genres": [
         "Hentai"
       ],

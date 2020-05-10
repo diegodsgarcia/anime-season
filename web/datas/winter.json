@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-05-09",
+  "lastUpdate": "2020-05-10",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -1422,20 +1422,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Pikachin-Kit",
-      "description": "A fifth-year elementary student named Eiji Tōmatsu, and his \"inspiration\" buddy, a dog named Pochirou. One day Eiji finds a mysterious book called the \"Pikachin Research Book,\" and learns about the seven tools that make up the Pikachin Kit. Eiji presses a button inside the research book, and immediately a \"Future Amazon\" delivery arrives at his door with the kit. Eiji uses the blueprints included in the box to assemble the kit, but it seems as though 1% part of the kit is still missing. \n\nIn the franchise, the word \"Pikachin\" means the flash of inspiration or insight one gets about a new project, similar to the visual of a lightbulb turning on above one's head when someone has an idea. The concept of the franchise is \"invention is 99% plastic models, 1% inspiration.\" \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88334.jpg",
-      "date": "Jan 6, 2018, 09:30 (JST)",
-      "producer": "OLM, Shin-Ei Animation",
-      "eps": 115,
-      "genres": [
-        "Sci-Fi",
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Shimajirou no Wow!",
       "description": "Fourth season of the Shimajirou children's television series.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/50737.jpg",
@@ -1448,6 +1434,20 @@
         "Fantasy",
         "Kids",
         "Magic"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Pikachin-Kit",
+      "description": "A fifth-year elementary student named Eiji Tōmatsu, and his \"inspiration\" buddy, a dog named Pochirou. One day Eiji finds a mysterious book called the \"Pikachin Research Book,\" and learns about the seven tools that make up the Pikachin Kit. Eiji presses a button inside the research book, and immediately a \"Future Amazon\" delivery arrives at his door with the kit. Eiji uses the blueprints included in the box to assemble the kit, but it seems as though 1% part of the kit is still missing. \n\nIn the franchise, the word \"Pikachin\" means the flash of inspiration or insight one gets about a new project, similar to the visual of a lightbulb turning on above one's head when someone has an idea. The concept of the franchise is \"invention is 99% plastic models, 1% inspiration.\" \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88334.jpg",
+      "date": "Jan 6, 2018, 09:30 (JST)",
+      "producer": "OLM, Shin-Ei Animation",
+      "eps": 115,
+      "genres": [
+        "Sci-Fi",
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1830,18 +1830,6 @@
       "category": "ONA"
     },
     {
-      "title": "Koisuru Asteroid: KiraKira Zoukan-gou",
-      "description": "Mini anime of Koisuru Asteroid where characters explain astronomy and geology. Later included in the Blu-ray/DVD.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1756/105744.jpg",
-      "date": "Jan 4, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "School"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Digimon Adventure: 20 Shuunen Memorial Story",
       "description": "A crowdfunding campaign opened for the \"Digimon Adventure Memorial Story Project.\" It was for 5 shorts that included a prequel of the upcoming film and side stories about the daily lives of the Digimon characters and their partners, which are stories that did not make it into the film. \n\nThe campaign was successfully backed.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1554/105788.jpg",
@@ -1851,6 +1839,18 @@
       "genres": [
         "Adventure",
         "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Koisuru Asteroid: KiraKira Zoukan-gou",
+      "description": "Mini anime of Koisuru Asteroid where characters explain astronomy and geology. Later included in the Blu-ray/DVD.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1756/105744.jpg",
+      "date": "Jan 4, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "School"
       ],
       "category": "ONA"
     },
