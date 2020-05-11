@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-05-10",
+  "lastUpdate": "2020-05-11",
   "animes": [
     {
       "title": "Tensei shitara Slime Datta Ken 2nd Season",
@@ -254,6 +254,38 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Hanyou no Yashahime: Sengoku Otogizoushi",
+      "description": "The daughters of Sesshoumaru and Inuyasha set out on a journey transcending time!\n\nIn Feudal Japan, Half-Demon twins Towa and Setsuna are separated from each other during a forest fire. While desperately searching for her younger sister, Towa wanders into a mysterious tunnel that sends her into present-day Japan, where she is found and raised by Kagome Higurashi's brother, Souta, and his family.\n\nTen years later, the tunnel that connects the two eras has reopened, allowing Towa to be reunited with Setsuna, who is now a Demon Slayer working for Kohaku. But to Towa's shock, Setsuna appears to have lost all memories of her older sister.\n\nJoined by Moroha, the daughter of Inuyasha and Kagome, the three young women travel between the two eras on an adventure to regain their missing past. \n\n(Source: VIZ Media)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1773/107431.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Sunrise",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Historical",
+        "Demons",
+        "Supernatural",
+        "Magic",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Kamisama ni Natta Hi",
+      "description": "The anime series centers on Hina, a girl who awakens as a God and foresees the \"end of the world.\" She chooses a lone boy as her companion, who will spend time with her till the very end.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1274/107463.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "P.A. Works",
+      "eps": null,
+      "genres": [
+        "Drama",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
