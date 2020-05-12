@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-05-11",
+  "lastUpdate": "2020-05-12",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -305,7 +305,7 @@
     },
     {
       "title": "Houkago Teibou Nisshi",
-      "description": "First year student Hina Tsurugi prefers to do indoor activities such as crafting. Having recently moved to a seaside town, she runs into an older schoolmate, Kuroiwa, who invites her to join the \"Teibou\" club and start fishing! Surrounded by eccentric club members, how will Hina's high school life turn out? \n\n(Source: MU, edited)",
+      "description": "Hina Tsurugi and her family have just moved to a quaint seaside town. Hoping to savor the sight of the peaceful ocean, Hina stumbles upon a girl named Yuuki Kuroiwa—an upperclassman at her new school—who invites Hina to join her in fishing. Hina reels in an octopus, which falls onto her; being afraid of bugs and big creatures, she panics and begs Yuuki to remove it from her. Yuuki sees this as an opportunity to force Hina to join the school's Breakwater Club—a club where members gather, catch, and eat various types of marine life as their main activity.\n\nAlthough her attempts to refuse to join fail, Hina slowly begins to discover the hidden joy in fishing. Her view on the sport changes, now looking forward to all the delightful experiences she can take part in alongside her fellow club members.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106362.jpg",
       "date": "Apr 7, 2020, 22:00 (JST)",
       "producer": "Doga Kobo",
@@ -443,7 +443,7 @@
     },
     {
       "title": "Major 2nd (TV) 2nd Season",
-      "description": "Second season of Major 2nd.",
+      "description": "After recovering from the inner struggles he faced in the past, Daigo Shigeno continues to play baseball and is now the captain of Fuurin Private Academy Middle School's baseball team. Alongside Mutsuko Sakura, his classmate from elementary school, he aims to lead the team to glory. However, due to unexpected circumstances, Fuurin's baseball team is left with only six members: Daigo, Mutsuko, Yayoi Sawa, Tao Sagara, Seira Kandori, and Hiromu Tanba. Left with mostly female players and lacking in experience, the team struggles to gain confidence and trust from the new recruits—Akira Nishina, Anita Kabashima, and Chisato Fujii. Facing challenges such as having no proper coach, problematic recruits, and a limited number of members, Daigo's resolution is put to the test as he tries to bring the team together in time to participate in their first ever tournament.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1025/105319.jpg",
       "date": "Apr 4, 2020, 17:35 (JST)",
       "producer": "OLM",
@@ -1879,23 +1879,6 @@
       "category": "ONA"
     },
     {
-      "title": "Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1324/103548.jpg",
-      "date": "Apr 10, 2020",
-      "producer": "Studio Live",
-      "eps": 9,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Adventure",
-        "Comedy",
-        "Mecha",
-        "Shounen"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Xing Chen Bian: Yu Li Cang Hai",
       "description": "Second season of Xing Chen Bian.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1548/107365.jpg",
@@ -1909,6 +1892,23 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1324/103548.jpg",
+      "date": "Apr 10, 2020",
+      "producer": "Studio Live",
+      "eps": 9,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure",
+        "Comedy",
+        "Mecha",
+        "Shounen"
       ],
       "category": "ONA"
     },
@@ -2004,24 +2004,24 @@
       "category": "OVA"
     },
     {
-      "title": "Gishi wa Yan Mama Junyuu Chuu",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/105977.jpg",
-      "date": "Jun 5, 2020",
-      "producer": "T-Rex",
-      "eps": 2,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Sexfriend Gakuen",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1843/105662.jpg",
       "date": "May 1, 2020",
       "producer": "-",
       "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Gishi wa Yan Mama Junyuu Chuu",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/105977.jpg",
+      "date": "Jun 5, 2020",
+      "producer": "T-Rex",
+      "eps": 2,
       "genres": [
         "Hentai"
       ],

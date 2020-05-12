@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-05-11",
+  "lastUpdate": "2020-05-12",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -1355,18 +1355,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Kyou mo Tsuno ga Aru",
-      "description": "An everyday life of yellow frog with horn.  Based on the web manga of the same title.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1189/98233.jpg",
-      "date": "Feb 21, 2019, 21:54 (JST)",
-      "producer": "MMDGP",
-      "eps": 50,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Aware! Meisaku-kun",
       "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
@@ -1378,6 +1366,18 @@
         "Parody",
         "Kids",
         "School"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Kyou mo Tsuno ga Aru",
+      "description": "An everyday life of yellow frog with horn.  Based on the web manga of the same title.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1189/98233.jpg",
+      "date": "Feb 21, 2019, 21:54 (JST)",
+      "producer": "MMDGP",
+      "eps": 50,
+      "genres": [
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1422,6 +1422,20 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Pikachin-Kit",
+      "description": "A fifth-year elementary student named Eiji Tōmatsu, and his \"inspiration\" buddy, a dog named Pochirou. One day Eiji finds a mysterious book called the \"Pikachin Research Book,\" and learns about the seven tools that make up the Pikachin Kit. Eiji presses a button inside the research book, and immediately a \"Future Amazon\" delivery arrives at his door with the kit. Eiji uses the blueprints included in the box to assemble the kit, but it seems as though 1% part of the kit is still missing. \n\nIn the franchise, the word \"Pikachin\" means the flash of inspiration or insight one gets about a new project, similar to the visual of a lightbulb turning on above one's head when someone has an idea. The concept of the franchise is \"invention is 99% plastic models, 1% inspiration.\" \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88334.jpg",
+      "date": "Jan 6, 2018, 09:30 (JST)",
+      "producer": "OLM, Shin-Ei Animation",
+      "eps": 115,
+      "genres": [
+        "Sci-Fi",
+        "Comedy",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Shimajirou no Wow!",
       "description": "Fourth season of the Shimajirou children's television series.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/50737.jpg",
@@ -1434,20 +1448,6 @@
         "Fantasy",
         "Kids",
         "Magic"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Pikachin-Kit",
-      "description": "A fifth-year elementary student named Eiji Tōmatsu, and his \"inspiration\" buddy, a dog named Pochirou. One day Eiji finds a mysterious book called the \"Pikachin Research Book,\" and learns about the seven tools that make up the Pikachin Kit. Eiji presses a button inside the research book, and immediately a \"Future Amazon\" delivery arrives at his door with the kit. Eiji uses the blueprints included in the box to assemble the kit, but it seems as though 1% part of the kit is still missing. \n\nIn the franchise, the word \"Pikachin\" means the flash of inspiration or insight one gets about a new project, similar to the visual of a lightbulb turning on above one's head when someone has an idea. The concept of the franchise is \"invention is 99% plastic models, 1% inspiration.\" \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88334.jpg",
-      "date": "Jan 6, 2018, 09:30 (JST)",
-      "producer": "OLM, Shin-Ei Animation",
-      "eps": 115,
-      "genres": [
-        "Sci-Fi",
-        "Comedy",
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -2004,6 +2004,19 @@
       "category": "ONA"
     },
     {
+      "title": "Kyouryuu Shoujo Gauko 2nd Season",
+      "description": "The comedy series is set in Japan and follows Naoko Watanabe, a typical tween girl aside from the fact that she possesses strange and sometimes troubling powers. When her anger exceeds a maximum level, she turns into Gauko, the fire-breathing dinosaur girl.\n\n(Source: Variety)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1284/106412.jpg",
+      "date": "Mar 20, 2020",
+      "producer": "-",
+      "eps": 19,
+      "genres": [
+        "Comedy",
+        "Super Power"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Dream",
       "description": "The short follows the dream of a young boy in which strange whale teleports him to a fantasy land where a happy cat named Pero (modeled after the character in the Nagagutsu wo Haita Neko anime that serves as Toei Animation's mascot) appears.\n\nThe piece is entirely dialogueless.\n\n(Source: ANN edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1227/105610.jpg",
@@ -2015,19 +2028,6 @@
         "Music",
         "Kids",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Kyouryuu Shoujo Gauko 2nd Season",
-      "description": "The comedy series is set in Japan and follows Naoko Watanabe, a typical tween girl aside from the fact that she possesses strange and sometimes troubling powers. When her anger exceeds a maximum level, she turns into Gauko, the fire-breathing dinosaur girl.\n\n(Source: Variety)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1284/106412.jpg",
-      "date": "Mar 20, 2020",
-      "producer": "-",
-      "eps": 19,
-      "genres": [
-        "Comedy",
-        "Super Power"
       ],
       "category": "ONA"
     },
