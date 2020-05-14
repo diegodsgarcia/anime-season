@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-05-13",
+  "lastUpdate": "2020-05-14",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -127,16 +127,16 @@
     },
     {
       "title": "Id:Invaded",
-      "description": "The Mizuhanome System is a highly-advanced development that allows humans to enter one of the most intriguing places in existence—the mind of a criminal. Appearing as a bizarre mess of thoughts, an id well is the manifestation of a murderer's unconscious mind. Kura, a specialized police squad, is tasked with analyzing these complex psychological planes to track down the culprits. Brilliant detective Sakaido assists the police by investigating the id wells and piecing together the countless clues scattered within.\n\nHowever, there is a rule regarding those who enter the id wells: you are only permitted to dive into one if you have killed someone yourself. Such is the case for former detective Akihito Narihisago, Sakaido's real-world counterpart. Two years ago, his daughter was brutally murdered by a serial killer, driving Narihisago to seek his revenge.\n\nDespite finding himself on the other side of the law, Narihisago nevertheless continues to assist the police. While his detective skills continue to prove useful toward the investigations, Narihisago discovers he may not have everything figured out—especially regarding those he despises most, serial killers.\n\n[Written by MAL Rewrite]",
+      "description": "The Mizuhanome System is a highly advanced development that allows people to enter one of the most intriguing places in existence—the human mind. Through the use of so-called \"cognition particles\" left behind at a crime scene by the perpetrator, detectives from the specialized police squad Kura can manifest a criminal's unconscious mind as a bizarre stream of thoughts in a virtual world. Their task is to explore this psychological plane, called an \"id well,\" to reveal the identity of the culprit.\n\nNot just anyone can enter the id wells; the prerequisite is that you must have killed someone yourself. Such is the case for former detective Akihito Narihisago, who is known as \"Sakaido\" inside the id wells. Once a respected member of the police, tragedy struck, and he soon found himself on the other side of the law.\n\nNevertheless, Narihisago continues to assist Kura in confinement. While his prodigious detective skills still prove useful toward investigations, Narihisago discovers that not everything is as it seems, as behind the seemingly standalone series of murder cases lurks a much more sinister truth.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1889/105337.jpg",
       "date": "Jan 6, 2020, 00:30 (JST)",
       "producer": "NAZ",
       "eps": 13,
       "genres": [
-        "Sci-Fi",
         "Mystery",
         "Police",
-        "Psychological"
+        "Psychological",
+        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
