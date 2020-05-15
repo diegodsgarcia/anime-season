@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-05-14",
+  "lastUpdate": "2020-05-15",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -512,6 +512,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "BanG Dream! Garupa☆Pico: Oomori",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/106709.jpg",
+      "date": "May 7, 2020",
+      "producer": "SANZIGEN",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Komatta Jiisan",
       "description": "The comedy centers on an old man who pulls stereotypical ikemen (handsome man) actions on similarly old women and makes their hearts flutter. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1227/106465.jpg",
@@ -525,19 +538,6 @@
         "Romance",
         "Seinen",
         "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "BanG Dream! Garupa☆Pico: Oomori",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/106709.jpg",
-      "date": "May 7, 2020",
-      "producer": "SANZIGEN",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -818,7 +818,7 @@
         "Fantasy",
         "Shounen"
       ],
-      "category": "TV (New)"
+      "category": "TV (Continuing)"
     },
     {
       "title": "Black Clover",
@@ -1547,18 +1547,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Pakkororin",
-      "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
-      "date": "Mar 28, 2011, 08:24 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Reizouko no Tsukenosuke!",
       "description": "A gag anime about foods in a refrigerator. The anime airs within the Oha Suta children's morning TV program and will receive a simultaneous manga serialization by Kazumata Oguri.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1884/95217.jpg",
@@ -1569,6 +1557,18 @@
         "Comedy",
         "Kids",
         "Parody"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Pakkororin",
+      "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
+      "date": "Mar 28, 2011, 08:24 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1612,7 +1612,7 @@
         "Super Power",
         "Fantasy"
       ],
-      "category": "TV (Continuing)"
+      "category": "ONA"
     },
     {
       "title": "Koukaku Kidoutai: SAC_2045",
@@ -1629,7 +1629,7 @@
         "Mecha",
         "Seinen"
       ],
-      "category": "TV (Continuing)"
+      "category": "ONA"
     },
     {
       "title": "Baki 2nd Season",
@@ -1806,22 +1806,6 @@
       "category": "ONA"
     },
     {
-      "title": "Beyblade Burst Super King",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1332/106530.jpg",
-      "date": "Apr 3, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Adventure",
-        "Sports",
-        "Shounen"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Da Li Si Rizhi",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1659/105254.jpg",
@@ -1835,6 +1819,22 @@
         "Historical",
         "Demons",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Beyblade Burst Super King",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1332/106530.jpg",
+      "date": "Apr 3, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure",
+        "Sports",
+        "Shounen"
       ],
       "category": "ONA"
     },
@@ -1940,6 +1940,24 @@
       "category": "ONA"
     },
     {
+      "title": "Wan Jie Chun Qiu",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1886/107254.jpg",
+      "date": "Apr 13, 2020",
+      "producer": "-",
+      "eps": 56,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Historical",
+        "Magic",
+        "Romance",
+        "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Strike the Blood IV",
       "description": "Fourth season of Strike the Blood.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1792/104833.jpg",
@@ -1953,7 +1971,7 @@
         "Vampire",
         "Fantasy"
       ],
-      "category": "ONA"
+      "category": "OVA"
     },
     {
       "title": "Kyonyuu Princess Saimin",
@@ -1965,7 +1983,7 @@
       "genres": [
         "Hentai"
       ],
-      "category": "ONA"
+      "category": "OVA"
     },
     {
       "title": "Tenioha! 2: Limit Over - Mada Mada Ippai, Ecchi Shiyo? The Animation",
@@ -1977,7 +1995,7 @@
       "genres": [
         "Hentai"
       ],
-      "category": "ONA"
+      "category": "OVA"
     },
     {
       "title": "Suketto Sanjou!! The Animation",
@@ -2111,20 +2129,7 @@
         "Magic",
         "Romance"
       ],
-      "category": "OVA"
-    },
-    {
-      "title": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo",
-      "description": "Compilation film of Shoujo☆Kageki Revue Starlight.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1648/105758.jpg",
-      "date": "May 29, 2020",
-      "producer": "Kinema Citrus",
-      "eps": 1,
-      "genres": [
-        "Music",
-        "School"
-      ],
-      "category": "OVA"
+      "category": "Movie"
     },
     {
       "title": "Fushigi Dakashiy Movie: Zenitendou - Tsuritai Yaki",
@@ -2138,7 +2143,7 @@
         "Comedy",
         "Kids"
       ],
-      "category": "OVA"
+      "category": "Movie"
     },
     {
       "title": "Sore Ike! Anpanman: Fuwa Fuwa Fuwaly to Kumo no Kuni",
@@ -2152,7 +2157,7 @@
         "Kids",
         "Fantasy"
       ],
-      "category": "OVA"
+      "category": "Movie"
     },
     {
       "title": "Dorohedoro: Ma no Omake",
@@ -2168,7 +2173,7 @@
         "Fantasy",
         "Seinen"
       ],
-      "category": "Movie"
+      "category": "Special"
     },
     {
       "title": "Heya Camp△: Sauna to Gohan to Sanrin Bike",
@@ -2181,7 +2186,7 @@
         "Slice of Life",
         "Comedy"
       ],
-      "category": "Movie"
+      "category": "Special"
     },
     {
       "title": "Majutsushi Orphen Hagure Tabi: Tennin no Isan",
@@ -2198,7 +2203,7 @@
         "Martial Arts",
         "Fantasy"
       ],
-      "category": "Movie"
+      "category": "Special"
     },
     {
       "title": "Jashin-chan Dropkick': Chitose-hen",
@@ -2211,7 +2216,7 @@
         "Comedy",
         "Supernatural"
       ],
-      "category": "Movie"
+      "category": "Special"
     },
     {
       "title": "number24 Recap",
@@ -2224,7 +2229,7 @@
         "Sports",
         "School"
       ],
-      "category": "Movie"
+      "category": "Special"
     }
   ]
 }
