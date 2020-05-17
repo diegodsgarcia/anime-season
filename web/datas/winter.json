@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-05-16",
+  "lastUpdate": "2020-05-17",
   "animes": [
     {
       "title": "Ishuzoku Reviewers",
@@ -1639,6 +1639,18 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Pakkororin",
+      "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
+      "date": "Mar 28, 2011, 08:24 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Reizouko no Tsukenosuke!",
       "description": "A gag anime about foods in a refrigerator. The anime airs within the Oha Suta children's morning TV program and will receive a simultaneous manga serialization by Kazumata Oguri.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1884/95217.jpg",
@@ -1649,18 +1661,6 @@
         "Comedy",
         "Kids",
         "Parody"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Pakkororin",
-      "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
-      "date": "Mar 28, 2011, 08:24 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -2277,21 +2277,6 @@
       "category": "OVA"
     },
     {
-      "title": "Youma Shoukan e Youkoso",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1230/106167.jpg",
-      "date": "Feb 7, 2020",
-      "producer": "-",
-      "eps": 2,
-      "genres": [
-        "Hentai",
-        "Demons",
-        "Supernatural",
-        "Fantasy"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "** Kouhai",
       "description": "Elven Princess Iris, who has been transferred to a human school as a goodwill ambassador for interaction between humans and demi-humans.\n \nShe is an ideal honor student at school, but requires \"aid\" for the breeding of elves...",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1839/104009.jpg",
@@ -2303,6 +2288,21 @@
         "Hentai",
         "Demons",
         "Magic",
+        "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Youma Shoukan e Youkoso",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1230/106167.jpg",
+      "date": "Feb 7, 2020",
+      "producer": "-",
+      "eps": 2,
+      "genres": [
+        "Hentai",
+        "Demons",
+        "Supernatural",
         "Fantasy"
       ],
       "category": "OVA"
