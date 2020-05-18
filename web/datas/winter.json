@@ -1,22 +1,8 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-05-17",
+  "lastUpdate": "2020-05-18",
   "animes": [
-    {
-      "title": "Ishuzoku Reviewers",
-      "description": "Countless diverse races, from perky fairies to oozing slimes, inhabit the world. Naturally, such a melting pot of creatures has a broad and alluring variety of brothels. With so many options to choose from, it is hard to decide with which succu-girl to have a meaningful, interpersonal experience.\n\nFortunately, a tight group of brave warriors has come together to enlighten the public. These perverted adventurers take it upon themselves to assess the appeal of all types of succu-girls through hands-on research. Whether it be the scorchingly hot salamanders or the udderly hu-moo-ngous cow-girls, the Yoruno Gloss reviewers leave no species behind.\n\nDirected by the mastermind behind Miru Tights, Ishuzoku Reviewers seeks to answer one of the most pressing questions there is: which species is the sexiest?\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1870/105970.jpg",
-      "date": "Jan 11, 2020, 23:00 (JST)",
-      "producer": "Passione",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "Ecchi",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
     {
       "title": "Haikyuu!!: To the Top",
       "description": "After their triumphant victory over Shiratorizawa Academy, the Karasuno High School volleyball team has earned their long-awaited ticket to nationals. As preparations begin, genius setter Tobio Kageyama is invited to the All-Japan Youth Training Camp to play alongside fellow nationally recognized players. Meanwhile, Kei Tsukishima is invited to a special rookie training camp for first-years within the Miyagi Prefecture. Not receiving any invitations himself, the enthusiastic Shouyou Hinata feels left behind.\n\nHowever, Hinata does not back down. Transforming his frustration into self-motivation, he boldly decides to sneak himself into the same rookie training camp as Tsukishima. Even though Hinata only lands himself a job as the ball boy, he comes to see this as a golden opportunity. He begins to not only reflect on his skills as a volleyball player but also analyze the plethora of information available on the court and how he can apply it.\n\nAs the much-anticipated national tournament approaches, the members of Karasuno's volleyball team attempt to overcome their weak points and refine their skills, all while aiming for the top!\n\n[Written by MAL Rewrite]",
@@ -30,6 +16,20 @@
         "Drama",
         "School",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Ishuzoku Reviewers",
+      "description": "Countless diverse races, from perky fairies to oozing slimes, inhabit the world. Naturally, such a melting pot of creatures has a broad and alluring variety of brothels. With so many options to choose from, it is hard to decide with which succu-girl to have a meaningful, interpersonal experience.\n\nFortunately, a tight group of brave warriors has come together to enlighten the public. These perverted adventurers take it upon themselves to assess the appeal of all types of succu-girls through hands-on research. Whether it be the scorchingly hot salamanders or the udderly hu-moo-ngous cow-girls, the Yoruno Gloss reviewers leave no species behind.\n\nDirected by the mastermind behind Miru Tights, Ishuzoku Reviewers seeks to answer one of the most pressing questions there is: which species is the sexiest?\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1870/105970.jpg",
+      "date": "Jan 11, 2020, 23:00 (JST)",
+      "producer": "Passione",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -2109,6 +2109,36 @@
         "Action",
         "Comedy",
         "Kids",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ze Tian Ji 5th Season",
+      "description": "The fifth season of Ze Tian Ji.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
+      "date": "Mar 16, 2020",
+      "producer": "Shanghai Foch Film Culture Investment",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Wu Shen Zhu Zai",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
+      "date": "Mar 8, 2020",
+      "producer": "-",
+      "eps": 80,
+      "genres": [
+        "Action",
+        "Historical",
+        "Drama",
+        "Martial Arts",
         "Fantasy"
       ],
       "category": "ONA"

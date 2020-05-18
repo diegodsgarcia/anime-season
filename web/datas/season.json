@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-05-17",
+  "lastUpdate": "2020-05-18",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -155,19 +155,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Appare-Ranman!",
-      "description": "During the back-end of the 19th century, the genius but socially awkward engineer Sorano Appare and the wise yet cowardly samurai Isshiki Kosame find themselves drifting in the sea between Japan and America. With no money, the duo decide to enter the Trans-America Wild Race to win the prize money so they can get home. The two encounter rivals, bandits, and challenges in the wilderness as they race through America, from the starting line in Los Angeles to the finish line in New York, in the steam-powered car they built.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1710/106614.jpg",
-      "date": "Apr 10, 2020, 21:30 (JST)",
-      "producer": "P.A. Works",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Historical"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Princess Connect! Re:Dive",
       "description": "The protagonist wakes up with no memories in an unfamiliar location. The protagonist then meets girls and comes closer to uncovering a hidden mystery.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/106070.jpg",
@@ -178,6 +165,19 @@
         "Action",
         "Adventure",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Appare-Ranman!",
+      "description": "During the back-end of the 19th century, the genius but socially awkward engineer Sorano Appare and the wise yet cowardly samurai Isshiki Kosame find themselves drifting in the sea between Japan and America. With no money, the duo decide to enter the Trans-America Wild Race to win the prize money so they can get home. The two encounter rivals, bandits, and challenges in the wilderness as they race through America, from the starting line in Los Angeles to the finish line in New York, in the steam-powered car they built.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1710/106614.jpg",
+      "date": "Apr 10, 2020, 21:30 (JST)",
+      "producer": "P.A. Works",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Historical"
       ],
       "category": "TV (New)"
     },
@@ -557,7 +557,7 @@
       "title": "Cardfight!! Vanguard Gaiden: If",
       "description": "The series will explore an alternate universe to the main series, and will focus on Kouji Ibuki, an antagonist in the Cardfight!! Vanguard Movie: Neon Messiah, and Suiko Tatsunagi.\n\n(Source: ANN, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1992/106795.jpg",
-      "date": "May ??, 2020, 08:00 (JST)",
+      "date": "May 30, 2020, 08:00 (JST)",
       "producer": "-",
       "eps": null,
       "genres": [
@@ -2142,20 +2142,6 @@
         "Mystery",
         "Comedy",
         "Kids"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Sore Ike! Anpanman: Fuwa Fuwa Fuwaly to Kumo no Kuni",
-      "description": "Anpanman, his friends, and the cloud child Fuwari strive to save Cloud Country. In order for flowers and plants to be healthy, Cloud Country travels to distribute clouds that can make rain and rainbows to various towns and stars. A cloud baby born in Cloud Country runs across Baikinman and his friends. After meeting them, the baby gets the name Fuwari and quickly grows while developing a bond with Dokin-chan.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1078/105325.jpg",
-      "date": "Jun 26, 2020",
-      "producer": "TMS Entertainment",
-      "eps": 1,
-      "genres": [
-        "Comedy",
-        "Kids",
-        "Fantasy"
       ],
       "category": "Movie"
     },
