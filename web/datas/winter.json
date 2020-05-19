@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-05-18",
+  "lastUpdate": "2020-05-19",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1919,18 +1919,6 @@
       "category": "ONA"
     },
     {
-      "title": "Microphone Soul Spinners: Kotodama Shoujo",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/102079.jpg",
-      "date": "Jan 11, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Music"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Da Wang Bu Gaoxing",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1003/106043.jpg",
@@ -1943,6 +1931,18 @@
         "Magic",
         "Fantasy",
         "School"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Microphone Soul Spinners: Kotodama Shoujo",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/102079.jpg",
+      "date": "Jan 11, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Music"
       ],
       "category": "ONA"
     },
@@ -2046,6 +2046,20 @@
       "category": "ONA"
     },
     {
+      "title": "Ze Tian Ji 5th Season",
+      "description": "The fifth season of Ze Tian Ji.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
+      "date": "Mar 16, 2020",
+      "producer": "Shanghai Foch Film Culture Investment",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Ninjala Episode 0",
       "description": "Eagle City, Komerica -- WNA Research Laboratory Branch\n\nWNA researchers Burton, Berecca, and Ron continue their tireless efforts to develop \"Ninja-Gum\"; a mysterious substance that activates latent Ninja DNA in people descended from those legendary mercenary warriors (alt: those legendary mercenaries from days gone by). Today, all their hard work finally pays off. It is here - on their 2,503rd attempt - that they finally succeed in producing Ninja-Gum! Burton and Berecca can barely contain their excitement, and waste no time in trying the gum for themselves! But then...\n\n(Source: Official YouTube channel)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1444/106767.jpg",
@@ -2109,20 +2123,6 @@
         "Action",
         "Comedy",
         "Kids",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Ze Tian Ji 5th Season",
-      "description": "The fifth season of Ze Tian Ji.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
-      "date": "Mar 16, 2020",
-      "producer": "Shanghai Foch Film Culture Investment",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Adventure",
         "Fantasy"
       ],
       "category": "ONA"

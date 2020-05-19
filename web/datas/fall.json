@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-05-18",
+  "lastUpdate": "2020-05-19",
   "animes": [
     {
       "title": "Tensei shitara Slime Datta Ken 2nd Season",
@@ -198,6 +198,19 @@
         "Adventure",
         "Fantasy",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Akudama Drive",
+      "description": "Long ago, a war broke out in Japan that pitted Kantou against Kansai and divided the country. Kansai became dependent on Kantou, but slowly the police and government began losing control of Kansai to criminals known as Akudama.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1971/106443.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Studio Pierrot",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Sci-Fi"
       ],
       "category": "TV (New)"
     },

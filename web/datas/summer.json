@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-05-18",
+  "lastUpdate": "2020-05-19",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -292,19 +292,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Akudama Drive",
-      "description": "Long ago, a war broke out in Japan that pitted Kantou against Kansai and divided the country. Kansai became dependent on Kantou, but slowly the police and government began losing control of Kansai to criminals known as Akudama.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1971/106443.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "Studio Pierrot",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Sci-Fi"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Ochikobore Fruit Tart",
       "description": "Fourth dormitory of the Rat Production (commonly known as Nezumi-sou)—the place where dropout idol girls live: the former child actor Sekino Roko, musician Nukui Hayu, and model Maehara Nina. Sakura Ino, who always dreamed of becoming an idol, moves in. At the same time, the decision is made to demolish the dormitory. Due to the project launched by the manager Kajino Hoho, \"Ochikobore Fruit Tart,\" occupants of the dormitory form a new idol group called \"Fruit Tart\" and start their activities in order to repay a one hundred million yen debt. \n\n(Source: MU, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1511/104769.jpg",
@@ -347,6 +334,18 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1149/104209.jpg",
       "date": "Jul ??, 2020, 22:30 (JST)",
       "producer": "Children's Playground Entertainment",
+      "eps": null,
+      "genres": [
+        "Music"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Lapis Re:LiGHTs",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1880/107611.jpg",
+      "date": "Jul ??, 2020",
+      "producer": "Yokohama Animation Lab",
       "eps": null,
       "genres": [
         "Music"
@@ -522,23 +521,6 @@
         "Magic",
         "Romance",
         "Shoujo"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Pokemon Movie 23: Coco",
-      "description": "The new film's story is set in Okoya Forest, a Pokémon paradise protected by strict rules that forbid outsiders from setting foot inside. The film centers on Coco, a boy who was raised by Pokémon and also considers himself as one, treating the Mythical Pokémon Zarude as his father. Ash and Pikachu encounter Coco during an adventure. The film focuses on the theme of a \"human raised by Pokémon,\" instead of the previous films' focus of the \"bond between a human trainer and their Pokémon.\"\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1029/106237.jpg",
-      "date": "Jul 10, 2020",
-      "producer": "OLM",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Game",
-        "Adventure",
-        "Comedy",
-        "Kids",
-        "Fantasy"
       ],
       "category": "Movie"
     },
