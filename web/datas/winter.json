@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-05-19",
+  "lastUpdate": "2020-05-20",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -870,6 +870,21 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Radiant 2nd Season",
+      "description": "Second season of Radiant.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1391/102816.jpg",
+      "date": "Oct 2, 2019, 19:25 (JST)",
+      "producer": "Lerche",
+      "eps": 21,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Magic",
+        "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Crayon Shin-chan",
       "description": "Just because an anime features a young protagonist does not necessarily mean that it is an appropriate series to show your children. Young Shinnosuke, or Shin-chan for short, is a very creative young boy that lives with his eccentric parents, Misae and Hiroshi, as well as his Prima Donna younger sister, Himawari, and has loads of unique friends to boot.\n\nEveryday life for little Shin-chan is full of funny (and shocking) moments, most of which stem from his unnatural and sometimes profane use of language, as well as his constant acts of inappropriate behavior. Shin-chan's famous \"elephant\" gag is one of the most defining moments in Crayon Shin-chan, simply because it is the epitome of crude comedy, one of the core themes of the series.\n\nCrayon Shin-chan is a hilarious show about the day in the life of a young, curious boy, that captures the awkwardness of growing up as well as the beauty of being true to one's self, no matter what others say.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/10/59897.jpg",
@@ -882,21 +897,6 @@
         "Ecchi",
         "School",
         "Seinen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Radiant 2nd Season",
-      "description": "Second season of Radiant.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1391/102816.jpg",
-      "date": "Oct 2, 2019, 19:25 (JST)",
-      "producer": "Lerche",
-      "eps": 21,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Magic",
-        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1531,18 +1531,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Konigiri-kun",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Otoppe",
       "description": "The series follows a young girl named Shina who hopes to become the world's best DJ, and is interested in new sounds. Shina explores a mysterious world filled with Otoppe, strange creatures capable of unique sounds.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
@@ -1553,6 +1541,18 @@
         "Music",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Konigiri-kun",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1868,18 +1868,6 @@
       "category": "ONA"
     },
     {
-      "title": "Fukai ni Nemuru Oujo no Abaddon The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1124/105798.jpg",
-      "date": "Jan 24, 2020",
-      "producer": "Peak Hunt",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Katarina Nounai Kaigi",
       "description": "Short specials posted on the official twitter account where the \"Katarina Five\" will introduce HameFura.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1067/106344.jpg",
@@ -1888,6 +1876,18 @@
       "eps": null,
       "genres": [
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Fukai ni Nemuru Oujo no Abaddon The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1124/105798.jpg",
+      "date": "Jan 24, 2020",
+      "producer": "Peak Hunt",
+      "eps": null,
+      "genres": [
+        "Hentai"
       ],
       "category": "ONA"
     },
@@ -1904,21 +1904,6 @@
       "category": "ONA"
     },
     {
-      "title": "Aikatsu on Parade! (ONA)",
-      "description": "\"Dream School Grand Prix\" to decide the No.1 idol school among five schools representing the Aikatsu world will be held! In this competition where top idols representing each school compete on stage, Dream Academy's new idol Noel Otoshiro is selected as one of them?! For each idol's dream, a new story starts running into the shining future! \n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1704/106781.jpg",
-      "date": "Mar 28, 2020",
-      "producer": "Bandai Namco Pictures",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Slice of Life",
-        "School",
-        "Shoujo"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Da Wang Bu Gaoxing",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1003/106043.jpg",
@@ -1931,6 +1916,21 @@
         "Magic",
         "Fantasy",
         "School"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Aikatsu on Parade! (ONA)",
+      "description": "\"Dream School Grand Prix\" to decide the No.1 idol school among five schools representing the Aikatsu world will be held! In this competition where top idols representing each school compete on stage, Dream Academy's new idol Noel Otoshiro is selected as one of them?! For each idol's dream, a new story starts running into the shining future! \n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1704/106781.jpg",
+      "date": "Mar 28, 2020",
+      "producer": "Bandai Namco Pictures",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Slice of Life",
+        "School",
+        "Shoujo"
       ],
       "category": "ONA"
     },
@@ -2032,20 +2032,6 @@
       "category": "ONA"
     },
     {
-      "title": "Inunaki-mura x Taka no Tsume-dan",
-      "description": "A collaboration between the live-action horror film Inunaki-mura slated to be released in theaters February 7, 2020 and the Eagle Talon franchise. The film is based on the urban legend of the real-life abandoned Inunaki Village and the old tunnel that cut through the area.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1632/105513.jpg",
-      "date": "Jan 17, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Comedy",
-        "Horror",
-        "Parody"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Ze Tian Ji 5th Season",
       "description": "The fifth season of Ze Tian Ji.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
@@ -2056,6 +2042,20 @@
         "Action",
         "Adventure",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Inunaki-mura x Taka no Tsume-dan",
+      "description": "A collaboration between the live-action horror film Inunaki-mura slated to be released in theaters February 7, 2020 and the Eagle Talon franchise. The film is based on the urban legend of the real-life abandoned Inunaki Village and the old tunnel that cut through the area.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1632/105513.jpg",
+      "date": "Jan 17, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Parody"
       ],
       "category": "ONA"
     },
@@ -2292,21 +2292,6 @@
       "category": "OVA"
     },
     {
-      "title": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana OVA",
-      "description": "The OVA will be focus on when Kujaku Nijou first entering group, which occurs one year before the main anime begins.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1417/104653.jpg",
-      "date": "Jan 24, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Police",
-        "Vampire",
-        "Fantasy"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "** Kouhai",
       "description": "Elven Princess Iris, who has been transferred to a human school as a goodwill ambassador for interaction between humans and demi-humans.\n \nShe is an ideal honor student at school, but requires \"aid\" for the breeding of elves...",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1839/104009.jpg",
@@ -2318,6 +2303,21 @@
         "Hentai",
         "Demons",
         "Magic",
+        "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana OVA",
+      "description": "The OVA will be focus on when Kujaku Nijou first entering group, which occurs one year before the main anime begins.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1417/104653.jpg",
+      "date": "Jan 24, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Police",
+        "Vampire",
         "Fantasy"
       ],
       "category": "OVA"
@@ -2338,24 +2338,24 @@
       "category": "OVA"
     },
     {
-      "title": "Tonari no Ie no Anette-san The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1767/103913.jpg",
-      "date": "Jan 31, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Shikijou Kyoudan",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/105665.jpg",
       "date": "Mar 6, 2020",
       "producer": "-",
       "eps": 2,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Tonari no Ie no Anette-san The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1767/103913.jpg",
+      "date": "Jan 31, 2020",
+      "producer": "-",
+      "eps": 1,
       "genres": [
         "Hentai"
       ],

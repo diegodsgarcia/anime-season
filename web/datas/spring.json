@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-05-19",
+  "lastUpdate": "2020-05-20",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -598,6 +598,18 @@
       "category": "TV (New)"
     },
     {
+      "title": "Watanuki-san Chi to",
+      "description": "Second season of Watanuki-san Chi no.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1524/106532.jpg",
+      "date": "Apr 6, 2020, 01:35 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Tomica Kizuna Gattai: Earth Granner",
       "description": "The anime centers on the battles between the mysterious alien enemy Dark Spinner and the secret defense unit Earth Granner over Earth Energy, the energy generated from the Earth's rotation. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1597/105401.jpg",
@@ -609,18 +621,6 @@
         "Adventure",
         "Mecha",
         "Sci-Fi"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Watanuki-san Chi to",
-      "description": "Second season of Watanuki-san Chi no.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1524/106532.jpg",
-      "date": "Apr 6, 2020, 01:35 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -1467,18 +1467,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Konigiri-kun",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Otoppe",
       "description": "The series follows a young girl named Shina who hopes to become the world's best DJ, and is interested in new sounds. Shina explores a mysterious world filled with Otoppe, strange creatures capable of unique sounds.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
@@ -1489,6 +1477,18 @@
         "Music",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Konigiri-kun",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -2082,24 +2082,24 @@
       "category": "OVA"
     },
     {
-      "title": "Sex Friend Osananajimi: Shojo to Doutei wa Hazukashii tte Minna ga Iu kara - The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1542/106244.jpg",
-      "date": "May 29, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Haritsuke",
       "description": "Miho Saegusa, the beautiful daughter of a tea ceremony master, is currently teaching at a prestigious school. Miho, who is well respected by the students, gets engaged to Okazaki, the son of a school board member and a colleague.\n\nOne of her students, Michiru Tayama, who knows about it, schemes to humiliate Miho because she was suspended from school for having a sexual relationship with her boyfriend. Michiru sets up Miho's fiancé Okazaki and takes advantage of Miho by blackmailing her.\n\nThe female teacher who is bewildered by the clumsy and unacceptable conditions, has no choice but to comply.\n\nMiho's true nature is exposed under the reality of her lewdness and madness...",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1614/107277.jpg",
       "date": "Apr 24, 2020",
       "producer": "-",
       "eps": 2,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Sex Friend Osananajimi: Shojo to Doutei wa Hazukashii tte Minna ga Iu kara - The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1542/106244.jpg",
+      "date": "May 29, 2020",
+      "producer": "-",
+      "eps": 1,
       "genres": [
         "Hentai"
       ],
