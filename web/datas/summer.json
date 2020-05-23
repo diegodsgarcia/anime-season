@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-05-20",
+  "lastUpdate": "2020-05-23",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -20,7 +20,7 @@
     },
     {
       "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
-      "description": "Third season of Yahari Ore no Seishun Love Comedy wa Machigatteiru..",
+      "description": "Third season of Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1910/106073.jpg",
       "date": "Jul ??, 2020",
       "producer": "feel.",
@@ -69,9 +69,9 @@
     {
       "title": "Enen no Shouboutai: Ni no Shou",
       "description": "Second season of Enen no Shouboutai.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1328/105212.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1673/107657.jpg",
       "date": "Jul ??, 2020",
-      "producer": "-",
+      "producer": "David Production",
       "eps": null,
       "genres": [
         "Action",
@@ -93,23 +93,6 @@
         "Drama",
         "School",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Higurashi no Naku Koro ni (2020)",
-      "description": "New Higurashi no Naku Koro ni anime project.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1808/105271.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "Passione",
-      "eps": null,
-      "genres": [
-        "Mystery",
-        "Dementia",
-        "Horror",
-        "Psychological",
-        "Supernatural",
-        "Thriller"
       ],
       "category": "TV (New)"
     },
@@ -157,6 +140,38 @@
       "category": "TV (New)"
     },
     {
+      "title": "Deca-Dence",
+      "description": "Many years have passed since humanity was driven to the brink of extinction by the sudden emergence of the unknown life forms Gadoll. Those humans that survived now dwell in a 3000m-high mobile fortress Deca-dence built to protect themselves from the Gadoll threat.\n\nDenizens of Deca-dence fall into two categories: Gears, warriors who fight the Gadoll daily, and Tankers, those without the skills to fight. One day, Natsume, a Tanker girl who dreams of becoming a Gear meets surly Kaburagi, an armor repairman of Deca-dence.\n\nThis chance meeting between the seemingly two opposites, the girl with a positive attitude who never gives up on her dreams and the realist who has given up on his, will eventually shake the future course of this world. \n\n(Source: Official site)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1627/107552.jpg",
+      "date": "Jul ??, 2020",
+      "producer": "Nut",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "The God of High School",
+      "description": "It all began as a fighting tournament to seek out for the best fighter among all high school students in Korea. Mori Jin, a Taekwondo specialist and a high school student, soon learns that there is something much greater beneath the stage of the tournament.\n\n(Source: LINE Webtoon)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1722/107269.jpg",
+      "date": "Jul ??, 2020",
+      "producer": "MAPPA",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure",
+        "Comedy",
+        "Supernatural",
+        "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Peter Grill to Kenja no Jikan",
       "description": "Peter Grill is known throughout the land as the world's strongest fighter. He has a girlfriend who he's steadily trying to get closer with. Life is good for him. Until he realizes that dozens of women, who want to bear strong children, are all vying for his seed.\n\n(Source: LHTranslation)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1076/106693.jpg",
@@ -168,20 +183,6 @@
         "Comedy",
         "Ecchi",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Deca-Dence",
-      "description": "Many years have passed since humanity was driven to the brink of extinction by the sudden emergence of the unknown life forms Gadoll. Those humans that survived now dwell in a 3000m-high mobile fortress Deca-dence built to protect themselves from the Gadoll threat.\n\nDenizens of Deca-dence fall into two categories: Gears, warriors who fight the Gadoll daily, and Tankers, those without the skills to fight. One day, Natsume, a Tanker girl who dreams of becoming a Gear meets surly Kaburagi, an armor repairman of Deca-dence.\n\nThis chance meeting between the seemingly two opposites, the girl with a positive attitude who never gives up on her dreams and the realist who has given up on his, will eventually shake the future course of this world. \n\n(Source: Official site)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1627/107552.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "Nut",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Adventure"
       ],
       "category": "TV (New)"
     },
@@ -201,6 +202,22 @@
       "category": "TV (New)"
     },
     {
+      "title": "Gibiate",
+      "description": "In 2030, Japan. A virus has infected humans throughout the world. Infected people turn into different forms of monsters based on their ages, sexes, and races. The virus is named \"Gibia\"—after being rich in variety like gibia.\n\nJust then, a pair of samurai and ninja appeared in such a blighted wasteland of Japan. They both traveled from the early Edo period, fighting together with help from a doctor who tries to find cure for Gibia. Facing ceaseless attacks from Gibias and outlaws that attack travelers for food, they start the dangerous journey with enemies all around.\n\n(Source: Official Website)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/101974.jpg",
+      "date": "Jul ??, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Martial Arts",
+        "Samurai"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Assault Lily: Bouquet",
       "description": "In the near future, humanity faces imminent destruction from mysterious creatures known as \"Huge.\" The world wages war against the Huge, and develops the anti-weapon \"CHARM\" (Counter Huge Arms) by combining science and magic. CHARM works more effectively when used by teenage girls, and those who use the weapons are revered as \"Lilies.\" The Lilies are trained at military academies called \"Gardens,\" which also serve as bases to protect and advise people. This is a story about girls who aim to become Lilies so they can protect Earth. \n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1920/104618.jpg",
@@ -211,23 +228,6 @@
         "Action",
         "Magic",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
-      "description": "Second season of Muhyo to Rouji no Mahouritsu Soudan Jimusho.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1218/106376.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Mystery",
-        "Comedy",
-        "Supernatural",
-        "Drama",
-        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -249,18 +249,19 @@
       "category": "TV (New)"
     },
     {
-      "title": "Gibiate",
-      "description": "In 2030, Japan. A virus has infected humans throughout the world. Infected people turn into different forms of monsters based on their ages, sexes, and races. The virus is named \"Gibia\"—after being rich in variety like gibia.\n\nJust then, a pair of samurai and ninja appeared in such a blighted wasteland of Japan. They both traveled from the early Edo period, fighting together with help from a doctor who tries to find cure for Gibia. Facing ceaseless attacks from Gibias and outlaws that attack travelers for food, they start the dangerous journey with enemies all around.\n\n(Source: Official Website)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/101974.jpg",
+      "title": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
+      "description": "Second season of Muhyo to Rouji no Mahouritsu Soudan Jimusho.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1218/106376.jpg",
       "date": "Jul ??, 2020",
       "producer": "-",
       "eps": null,
       "genres": [
         "Action",
-        "Fantasy",
-        "Horror",
-        "Martial Arts",
-        "Samurai"
+        "Mystery",
+        "Comedy",
+        "Supernatural",
+        "Drama",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -280,18 +281,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima",
-      "description": "In a world where women now dominate the government, the creation and use of weapons is strictly forbidden. However, by no means has conflict been brought to an end; instead of weapons, war is waged through words. With the power of the \"Hypnosis Mic,\" lyrics can affect one's opponent in various ways and cause real damage. Those in the divisions outside the women-only Chuou Ward thus use it for fierce rap battles as their weapon in the constant clash for territory. \n\n(Source: Tokyo Otaku Mode)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1677/106540.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "A-1 Pictures",
-      "eps": null,
-      "genres": [
-        "Music"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Ochikobore Fruit Tart",
       "description": "Fourth dormitory of the Rat Production (commonly known as Nezumi-sou)—the place where dropout idol girls live: the former child actor Sekino Roko, musician Nukui Hayu, and model Maehara Nina. Sakura Ino, who always dreamed of becoming an idol, moves in. At the same time, the decision is made to demolish the dormitory. Due to the project launched by the manager Kajino Hoho, \"Ochikobore Fruit Tart,\" occupants of the dormitory form a new idol group called \"Fruit Tart\" and start their activities in order to repay a one hundred million yen debt. \n\n(Source: MU, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1511/104769.jpg",
@@ -302,16 +291,6 @@
         "Music",
         "Slice of Life"
       ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Senyoku no Sigrdrifa",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1960/106258.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [],
       "category": "TV (New)"
     },
     {
@@ -326,6 +305,16 @@
         "Drama",
         "Romance"
       ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Senyoku no Sigrdrifa",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1960/106258.jpg",
+      "date": "Jul ??, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [],
       "category": "TV (New)"
     },
     {
@@ -391,6 +380,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "Kyojinzoku no Hanayome",
+      "description": "\"If you're a giant and a dwarf, you might be pregnant with men?\"\n\nOne day, Kouichi, a boy's school student, is summoned to another world while masturbating. It's a giant's country where a much larger race lives. The first prince of the country, Kaius, who appears in front of him, enthusiastically stared at Kouichi and proposed, \"I want you to be my bride and give birth to my baby\" ...!?\n\n(Source: MAL News)\n\nThe complete edition with explicit scenes was distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1481/107629.jpg",
+      "date": "Jul 6, 2020, 01:00 (JST)",
+      "producer": "Studio Hokiboshi",
+      "eps": null,
+      "genres": [
+        "Fantasy",
+        "Yaoi"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Obake Zukan",
       "description": "The Obake Zukan series illustrates various monsters and spirits and explains why they are scary. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1885/106287.jpg",
@@ -403,24 +405,6 @@
         "Fantasy",
         "Kids",
         "Supernatural"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "The God of High School",
-      "description": "It all began as a fighting tournament to seek out for the best fighter among all high school students in Korea. Mori Jin, a Taekwondo specialist and a high school student, soon learns that there is something much greater beneath the stage of the tournament.\n\n(Source: LINE Webtoon)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1722/107269.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "MAPPA",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Adventure",
-        "Comedy",
-        "Supernatural",
-        "Martial Arts",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
