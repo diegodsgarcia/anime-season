@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-05-23",
+  "lastUpdate": "2020-05-24",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -498,6 +498,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "BanG Dream! Garupa☆Pico: Oomori",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/106709.jpg",
+      "date": "May 7, 2020",
+      "producer": "SANZIGEN",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Mewkledreamy",
       "description": "The story begins when a middle school girl named Yume sees something fall from the sky, and meets a pale violet-colored kitten named Mew. It turns out that Mew has the power of \"Yume Synchro\" (Dream Synchro), the power to enter dreams. In the dream world, the girl and Mew collect Dream Stones. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105775.jpg",
@@ -508,19 +521,6 @@
         "Adventure",
         "Kids",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "BanG Dream! Garupa☆Pico: Oomori",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/106709.jpg",
-      "date": "May 7, 2020",
-      "producer": "SANZIGEN",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -1966,6 +1966,20 @@
       "eps": 12,
       "genres": [
         "Music",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Dixia Cheng Yu Yongshi Zhi Nizhuan Zhi Lun",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1095/107434.jpg",
+      "date": "Apr 23, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Adventure",
         "Fantasy"
       ],
       "category": "ONA"

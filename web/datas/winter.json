@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-05-23",
+  "lastUpdate": "2020-05-24",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -188,6 +188,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "Murenase! Seton Gakuen",
+      "description": "Seton Academy is a place attended by a plethora of interesting and diverse animal species. Jin Mazama is one of the few humans there, who also happens to vehemently hate animals from the bottom of his heart! One day, he stumbles upon the rowdy and assertive girl Ranka Ookami, a small \"lone wolf\" without a pack, who has not a single friend.\n\nThe desperate Ranka tries to invite Jin into joining her pack; Jin, who hates animals, naturally refuses. Amid this situation, Jin meets Hitomi Hino, a fellow human, and promptly becomes infatuated with her. After getting to know each other, the two decide to create a cooking club, and after a few bad-blooded misunderstandings, Ranka soon joins the club as well.\n\nThus begins the howl-some and howl-arious story of two normal humans; an adorable wolf; a cheerful koala; a sluggish, blonde sloth; and a feline with cattitude in their newfound club—in a story that teaches that friendship can be forged by creatures of different kinds.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1558/104666.jpg",
+      "date": "Jan 7, 2020, 00:30 (JST)",
+      "producer": "Studio Gokumi",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)",
       "description": "Rumor has it that if a young girl strikes a bargain with a white fairy, it will grant any wish her heart desires. However, in exchange, she will become a magical girl and must put her life on the line to slay fearsome and ferocious witches.\n\nIroha Tamaki, a kind-hearted middle schooler from Takarazaki City, is living proof that these rumors are true. Armed with a magical crossbow and the ability to heal injuries, Iroha seeks out the labyrinths where witches hide and defeats them before they can prey on humans. Yet Iroha has no memory of her wish, and even Kyuubey, the white fairy himself, seems to have no idea what Iroha requested of him.\n\nOne day, Iroha hears rumors of a city where \"magical girls can be saved,\" and finds herself on a sunset train to Kamihama City. Unfortunately, she discovers that the witches in Kamihama are far more powerful than usual. After veteran magical girl Yachiyo Nanami is forced to save her, Iroha vows to never return. But when a chance encounter with a tiny Kyuubey seems to trigger distant memories, Iroha is compelled to investigate the mysterious city despite the danger.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1786/104783.jpg",
@@ -199,19 +212,6 @@
         "Drama",
         "Magic",
         "Thriller"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Murenase! Seton Gakuen",
-      "description": "Seton Academy is a place attended by a plethora of interesting and diverse animal species. Jin Mazama is one of the few humans there, who also happens to vehemently hate animals from the bottom of his heart! One day, he stumbles upon the rowdy and assertive girl Ranka Ookami, a small \"lone wolf\" without a pack, who has not a single friend.\n\nThe desperate Ranka tries to invite Jin into joining her pack; Jin, who hates animals, naturally refuses. Amid this situation, Jin meets Hitomi Hino, a fellow human, and promptly becomes infatuated with her. After getting to know each other, the two decide to create a cooking club, and after a few bad-blooded misunderstandings, Ranka soon joins the club as well.\n\nThus begins the howl-some and howl-arious story of two normal humans; an adorable wolf; a cheerful koala; a sluggish, blonde sloth; and a feline with cattitude in their newfound club—in a story that teaches that friendship can be forged by creatures of different kinds.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1558/104666.jpg",
-      "date": "Jan 7, 2020, 00:30 (JST)",
-      "producer": "Studio Gokumi",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "School"
       ],
       "category": "TV (New)"
     },
@@ -2116,21 +2116,6 @@
       "category": "ONA"
     },
     {
-      "title": "Ninja Box 3rd Season",
-      "description": "A new mini season of Ninja Box. They expand upon the random everyday encounters of the kids. According to the official YouTube channels, this is the \"season 3\" of the franchise and the episodes will have irregular release schedule.",
-      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "date": "Mar 26, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Wu Shen Zhu Zai",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
@@ -2142,6 +2127,21 @@
         "Historical",
         "Drama",
         "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ninja Box 3rd Season",
+      "description": "A new mini season of Ninja Box. They expand upon the random everyday encounters of the kids. According to the official YouTube channels, this is the \"season 3\" of the franchise and the episodes will have irregular release schedule.",
+      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "date": "Mar 26, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Kids",
         "Fantasy"
       ],
       "category": "ONA"
@@ -2295,21 +2295,6 @@
       "category": "OVA"
     },
     {
-      "title": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana OVA",
-      "description": "The OVA will be focus on when Kujaku Nijou first entering group, which occurs one year before the main anime begins.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1417/104653.jpg",
-      "date": "Jan 24, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Police",
-        "Vampire",
-        "Fantasy"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "** Kouhai",
       "description": "Elven Princess Iris, who has been transferred to a human school as a goodwill ambassador for interaction between humans and demi-humans.\n \nShe is an ideal honor student at school, but requires \"aid\" for the breeding of elves...",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1839/104009.jpg",
@@ -2321,6 +2306,21 @@
         "Hentai",
         "Demons",
         "Magic",
+        "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana OVA",
+      "description": "The OVA will be focus on when Kujaku Nijou first entering group, which occurs one year before the main anime begins.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1417/104653.jpg",
+      "date": "Jan 24, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Police",
+        "Vampire",
         "Fantasy"
       ],
       "category": "OVA"
