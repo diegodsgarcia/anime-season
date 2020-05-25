@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-05-24",
+  "lastUpdate": "2020-05-25",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -598,18 +598,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Watanuki-san Chi to",
-      "description": "Second season of Watanuki-san Chi no.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1524/106532.jpg",
-      "date": "Apr 6, 2020, 01:35 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Tomica Kizuna Gattai: Earth Granner",
       "description": "The anime centers on the battles between the mysterious alien enemy Dark Spinner and the secret defense unit Earth Granner over Earth Energy, the energy generated from the Earth's rotation. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1597/105401.jpg",
@@ -621,6 +609,18 @@
         "Adventure",
         "Mecha",
         "Sci-Fi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Watanuki-san Chi to",
+      "description": "Second season of Watanuki-san Chi no.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1524/106532.jpg",
+      "date": "Apr 6, 2020, 01:35 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
