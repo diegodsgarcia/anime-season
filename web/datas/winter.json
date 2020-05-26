@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-05-25",
+  "lastUpdate": "2020-05-26",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1923,19 +1923,6 @@
       "category": "ONA"
     },
     {
-      "title": "Hataraku Saibou Black",
-      "description": "A special animated commercial first released on Twitter to promote the manga. It was then released on Kodansha's official YouTube channel on January 15.\n\nSet inside an unhealthy body, Hataraku Saibou Black features the anthropomorphized cells of the human immune system as they attempt to keep their ailing world alive.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1914/106749.jpg",
-      "date": "Jan 4, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Seinen"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Aikatsu on Parade! (ONA)",
       "description": "\"Dream School Grand Prix\" to decide the No.1 idol school among five schools representing the Aikatsu world will be held! In this competition where top idols representing each school compete on stage, Dream Academy's new idol Noel Otoshiro is selected as one of them?! For each idol's dream, a new story starts running into the shining future! \n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1704/106781.jpg",
@@ -1947,6 +1934,19 @@
         "Slice of Life",
         "School",
         "Shoujo"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Hataraku Saibou Black",
+      "description": "A special animated commercial first released on Twitter to promote the manga. It was then released on Kodansha's official YouTube channel on January 15.\n\nSet inside an unhealthy body, Hataraku Saibou Black features the anthropomorphized cells of the human immune system as they attempt to keep their ailing world alive.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1914/106749.jpg",
+      "date": "Jan 4, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Seinen"
       ],
       "category": "ONA"
     },
@@ -2021,6 +2021,19 @@
       "category": "ONA"
     },
     {
+      "title": "Kyouryuu Shoujo Gauko 2nd Season",
+      "description": "The comedy series is set in Japan and follows Naoko Watanabe, a typical tween girl aside from the fact that she possesses strange and sometimes troubling powers. When her anger exceeds a maximum level, she turns into Gauko, the fire-breathing dinosaur girl.\n\n(Source: Variety)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1284/106412.jpg",
+      "date": "Mar 20, 2020",
+      "producer": "-",
+      "eps": 19,
+      "genres": [
+        "Comedy",
+        "Super Power"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Dream",
       "description": "The short follows the dream of a young boy in which strange whale teleports him to a fantasy land where a happy cat named Pero (modeled after the character in the Nagagutsu wo Haita Neko anime that serves as Toei Animation's mascot) appears.\n\nThe piece is entirely dialogueless.\n\n(Source: ANN edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1227/105610.jpg",
@@ -2032,19 +2045,6 @@
         "Music",
         "Kids",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Kyouryuu Shoujo Gauko 2nd Season",
-      "description": "The comedy series is set in Japan and follows Naoko Watanabe, a typical tween girl aside from the fact that she possesses strange and sometimes troubling powers. When her anger exceeds a maximum level, she turns into Gauko, the fire-breathing dinosaur girl.\n\n(Source: Variety)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1284/106412.jpg",
-      "date": "Mar 20, 2020",
-      "producer": "-",
-      "eps": 19,
-      "genres": [
-        "Comedy",
-        "Super Power"
       ],
       "category": "ONA"
     },
