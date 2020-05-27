@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-05-26",
+  "lastUpdate": "2020-05-27",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -388,14 +388,14 @@
     },
     {
       "title": "Ore no Yubi de Midarero.: Heitengo Futarikiri no Salon de...",
-      "description": "Fumi works as an assistant at a popular salon in the city and is aiming to become a hairdresser. She receives strict guidance from Sousuke, the salon's charismatic hairdresser and manager. Every time he touches Fumi, she becomes agitated. One day after the salon closed, Fumi stands in as Sousuke's practice partner at the shampoo station. As he touches her and sprinkles her with water, she becomes angry again! Or so the thought...could she actually be attracted to him? Sousuke flashes an evil smile as he senses Fumi's heart, and his fingertips start to stroke every corner of her body...Fumi cannot refuse his fingers anymore.\n\n(Source: MAL News)\n\nNote: The standard TV version of the anime will debut on April 6, 2020 at 1:00 a.m. on Tokyo MX, while the complete version will stream on the ComicFesta Anime Zone website.\n\nThis entry reflects standard TV version of the anime.",
+      "description": "Fumi works as an assistant at a popular salon in the city and is aiming to become a hairdresser. She receives strict guidance from Sousuke, the salon's charismatic hairdresser and manager. Every time he touches Fumi, she becomes agitated. One day after the salon closed, Fumi stands in as Sousuke's practice partner at the shampoo station. As he touches her and sprinkles her with water, she becomes angry again! Or so the thought...could she actually be attracted to him? Sousuke flashes an evil smile as he senses Fumi's heart, and his fingertips start to stroke every corner of her body...Fumi cannot refuse his fingers anymore. \n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1222/106183.jpg",
       "date": "Apr 6, 2020, 01:00 (JST)",
       "producer": "Magic Bus",
       "eps": 8,
       "genres": [
-        "Ecchi",
-        "Romance"
+        "Romance",
+        "Ecchi"
       ],
       "category": "TV (New)"
     },
@@ -2061,18 +2061,6 @@
       "category": "OVA"
     },
     {
-      "title": "Gishi wa Yan Mama Junyuu Chuu",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/105977.jpg",
-      "date": "Jun 5, 2020",
-      "producer": "T-Rex",
-      "eps": 2,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Hajimete no Hitozuma",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1210/105663.jpg",
@@ -2090,6 +2078,18 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1372/105978.jpg",
       "date": "May 29, 2020",
       "producer": "-",
+      "eps": 2,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Gishi wa Yan Mama Junyuu Chuu",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/105977.jpg",
+      "date": "Jun 5, 2020",
+      "producer": "T-Rex",
       "eps": 2,
       "genres": [
         "Hentai"
@@ -2190,9 +2190,9 @@
     },
     {
       "title": "Heya Camp△: Sauna to Gohan to Sanrin Bike",
-      "description": "Adaptation of a manga collaboration with the Yamaha Motor Company. Included as an extra with the Blu-ray release. \n\nThe anime was streamed in advance on April 29, 2020 for one day on Anime Channel on YouTube. The official release was on May 27, 2020.",
+      "description": "Adaptation of a manga collaboration with the Yamaha Motor Company. Included as an extra with the Blu-ray release.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1990/105400.jpg",
-      "date": "Apr 29, 2020",
+      "date": "May 27, 2020",
       "producer": "C-Station",
       "eps": 1,
       "genres": [
