@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-05-28",
+  "lastUpdate": "2020-05-29",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -1210,19 +1210,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Kamiusagi Rope: Warau Asa ni wa Fukuraitaru tte Maji ssuka!?",
-      "description": "Fourth season of Kamiusagi Rope, events occur after the feature film. Airs on Mezamashi TV instead of the theaters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/72182.jpg",
-      "date": "Nov 16, 2012, 06:45 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Bakugan: Armored Alliance",
       "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
@@ -1233,6 +1220,19 @@
         "Action",
         "Game",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Kamiusagi Rope: Warau Asa ni wa Fukuraitaru tte Maji ssuka!?",
+      "description": "Fourth season of Kamiusagi Rope, events occur after the feature film. Airs on Mezamashi TV instead of the theaters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/72182.jpg",
+      "date": "Nov 16, 2012, 06:45 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1729,6 +1729,21 @@
         "Comedy",
         "Horror",
         "Supernatural"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Quanzhi Fashi 4th Season",
+      "description": "Fourth season of Quanzhi Fashi.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1925/105375.jpg",
+      "date": "May 27, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Magic",
+        "Fantasy",
+        "School"
       ],
       "category": "ONA"
     },

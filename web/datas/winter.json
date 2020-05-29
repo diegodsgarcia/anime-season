@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-05-28",
+  "lastUpdate": "2020-05-29",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -2311,21 +2311,6 @@
       "category": "OVA"
     },
     {
-      "title": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana OVA",
-      "description": "The OVA will be focus on when Kujaku Nijou first entering group, which occurs one year before the main anime begins.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1417/104653.jpg",
-      "date": "Jan 24, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Police",
-        "Vampire",
-        "Fantasy"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Youma Shoukan e Youkoso",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1230/106167.jpg",
@@ -2336,6 +2321,21 @@
         "Hentai",
         "Demons",
         "Supernatural",
+        "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana OVA",
+      "description": "The OVA will be focus on when Kujaku Nijou first entering group, which occurs one year before the main anime begins.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1417/104653.jpg",
+      "date": "Jan 24, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Police",
+        "Vampire",
         "Fantasy"
       ],
       "category": "OVA"
