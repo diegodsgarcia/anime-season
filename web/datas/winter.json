@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-05-29",
+  "lastUpdate": "2020-05-30",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1895,18 +1895,6 @@
       "category": "ONA"
     },
     {
-      "title": "Niplheim no Karyuudo",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1409/105799.jpg",
-      "date": "Jan 25, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Da Wang Bu Gaoxing",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1003/106043.jpg",
@@ -1919,6 +1907,18 @@
         "Magic",
         "Fantasy",
         "School"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Niplheim no Karyuudo",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1409/105799.jpg",
+      "date": "Jan 25, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai"
       ],
       "category": "ONA"
     },

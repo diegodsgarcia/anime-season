@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-05-29",
+  "lastUpdate": "2020-05-30",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -329,6 +329,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "Nihon Chinbotsu 2020",
+      "description": "Shortly after the Tokyo Olympics in 2020, a major earthquake hits Japan. Amidst the chaos, siblings Ayumu and Gou of the Mutou household, begin to escape the city with their family of four. The sinking Japanese archipelagos, however, relentlessly pursue the family.\n\nPlunged into extreme conditions, life and death, and the choice of meeting and parting—in the face of dreadful reality, the Mutou siblings believe in the future and acquire the strength to survive with utmost effort.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1989/107335.jpg",
+      "date": "Jul 9, 2020",
+      "producer": "Science SARU",
+      "eps": 10,
+      "genres": [
+        "Sci-Fi",
+        "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Planetarian: Snow Globe",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1320/106943.jpg",
@@ -485,6 +498,24 @@
       "genres": [
         "Action",
         "Comedy",
+        "Shounen"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Shingeki no Kyojin: Chronicle",
+      "description": "The compilation film will recap the anime's 59 episodes from seasons one to three.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1266/107765.jpg",
+      "date": "Jul 17, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Military",
+        "Mystery",
+        "Super Power",
+        "Drama",
+        "Fantasy",
         "Shounen"
       ],
       "category": "Movie"
