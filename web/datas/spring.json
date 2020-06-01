@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-05-31",
+  "lastUpdate": "2020-06-01",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -1925,6 +1925,19 @@
       "category": "ONA"
     },
     {
+      "title": "Wang Gu Shenhua Zhi Tian Xuanzhe",
+      "description": "In the year 2115 of the Fortress, Wei Qin, commander of the border troops, went to the Fortress to participate in the selection of the elected official and to secretly investigate those responsible for the Border incident.  At the same time, the No. 1 public enemy, Yuan Yi, launched a major revolt.  As the plot progresses, all parties are involved in this quest.  How is Wei Qin going to sort out the true from the false and bring the truth out?\n\n(Source: Exodus Chaos)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1915/106921.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1324/103548.jpg",
@@ -1938,19 +1951,6 @@
         "Comedy",
         "Mecha",
         "Shounen"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Wang Gu Shenhua Zhi Tian Xuanzhe",
-      "description": "In the year 2115 of the Fortress, Wei Qin, commander of the border troops, went to the Fortress to participate in the selection of the elected official and to secretly investigate those responsible for the Border incident.  At the same time, the No. 1 public enemy, Yuan Yi, launched a major revolt.  As the plot progresses, all parties are involved in this quest.  How is Wei Qin going to sort out the true from the false and bring the truth out?\n\n(Source: Exodus Chaos)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1915/106921.jpg",
-      "date": "Apr 7, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Sci-Fi"
       ],
       "category": "ONA"
     },
@@ -1973,19 +1973,6 @@
       "category": "ONA"
     },
     {
-      "title": "Wuxian Shaonu 48",
-      "description": "The story takes place in 2047. We follow the story of several young girls, each coming from different dimensions. All of them want to join the new project group 48.\n\n(Source: Nautiljon)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1863/107433.jpg",
-      "date": "Apr 8, 2020",
-      "producer": "Seven Stone Entertainment",
-      "eps": 12,
-      "genres": [
-        "Music",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Dixia Cheng Yu Yongshi Zhi Nizhuan Zhi Lun",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1095/107434.jpg",
@@ -1995,6 +1982,19 @@
       "genres": [
         "Action",
         "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Wuxian Shaonu 48",
+      "description": "The story takes place in 2047. We follow the story of several young girls, each coming from different dimensions. All of them want to join the new project group 48.\n\n(Source: Nautiljon)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1863/107433.jpg",
+      "date": "Apr 8, 2020",
+      "producer": "Seven Stone Entertainment",
+      "eps": 12,
+      "genres": [
+        "Music",
         "Fantasy"
       ],
       "category": "ONA"
@@ -2064,18 +2064,6 @@
       "category": "OVA"
     },
     {
-      "title": "Sexfriend Gakuen",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1843/105662.jpg",
-      "date": "May 1, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Hajimete no Hitozuma",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1210/105663.jpg",
@@ -2094,6 +2082,18 @@
       "date": "May 29, 2020",
       "producer": "-",
       "eps": 2,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Sexfriend Gakuen",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1843/105662.jpg",
+      "date": "May 1, 2020",
+      "producer": "-",
+      "eps": null,
       "genres": [
         "Hentai"
       ],

@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-05-31",
+  "lastUpdate": "2020-06-01",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -2341,18 +2341,6 @@
       "category": "OVA"
     },
     {
-      "title": "Tonari no Ie no Anette-san The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1767/103913.jpg",
-      "date": "Jan 31, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Shikijou Kyoudan",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/105665.jpg",
@@ -2365,11 +2353,35 @@
       "category": "OVA"
     },
     {
+      "title": "Tonari no Ie no Anette-san The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1767/103913.jpg",
+      "date": "Jan 31, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
       "title": "Chii-chan Kaihatsu Nikki",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/103705.jpg",
       "date": "Jan 31, 2020",
       "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Onii-chan Asa made Zutto Gyutte Shite!",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/103712.jpg",
+      "date": "Mar 6, 2020",
+      "producer": "Studio 1st",
       "eps": null,
       "genres": [
         "Hentai"
@@ -2390,18 +2402,6 @@
         "Space",
         "Comedy",
         "Shounen"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "Onii-chan Asa made Zutto Gyutte Shite!",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/103712.jpg",
-      "date": "Mar 6, 2020",
-      "producer": "Studio 1st",
-      "eps": null,
-      "genres": [
-        "Hentai"
       ],
       "category": "OVA"
     },

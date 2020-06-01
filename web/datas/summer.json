@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-05-31",
+  "lastUpdate": "2020-06-01",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -384,6 +384,24 @@
       "category": "Movie"
     },
     {
+      "title": "Shingeki no Kyojin: Chronicle",
+      "description": "The compilation film will recap the anime's 59 episodes from seasons one to three.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1266/107765.jpg",
+      "date": "Jul 17, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Military",
+        "Mystery",
+        "Super Power",
+        "Drama",
+        "Fantasy",
+        "Shounen"
+      ],
+      "category": "Movie"
+    },
+    {
       "title": "Kud Wafter",
       "description": "This anime adapts Key's visual novel Kud Wafter, which follows the romantic relationship between Riki Naoe and Kudryavka Noumi from the game Little Busters!",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/86916.jpg",
@@ -409,24 +427,6 @@
         "School",
         "Shounen",
         "Slice of Life"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Shingeki no Kyojin: Chronicle",
-      "description": "The compilation film will recap the anime's 59 episodes from seasons one to three.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1266/107765.jpg",
-      "date": "Jul 17, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Military",
-        "Mystery",
-        "Super Power",
-        "Drama",
-        "Fantasy",
-        "Shounen"
       ],
       "category": "Movie"
     },
