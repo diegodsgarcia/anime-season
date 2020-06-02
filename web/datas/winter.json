@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-06-01",
+  "lastUpdate": "2020-06-02",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1895,6 +1895,19 @@
       "category": "ONA"
     },
     {
+      "title": "Cinderella Girls Gekijou: Extra Stage",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/106098.jpg",
+      "date": "Mar 24, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Da Wang Bu Gaoxing",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1003/106043.jpg",
@@ -2090,19 +2103,6 @@
       "category": "ONA"
     },
     {
-      "title": "Kore ga Masakano Are Deshita: Wakamono no Shoushisha Higai",
-      "description": "The adult age in japan will be reduced from 20 years of age to 18 years of age in April 2022. Some teenagers may suffer from poor financial decisions as they legally can enter contracts. If they need help, they can call 188 (Consumer Hotline). This hotline was launched in July 1, 2015 by the Department of Consumer Affairs and is run by local governments.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/106483.jpg",
-      "date": "Mar 12, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Drama",
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Wu Shen Zhu Zai",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
@@ -2115,6 +2115,19 @@
         "Drama",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Kore ga Masakano Are Deshita: Wakamono no Shoushisha Higai",
+      "description": "The adult age in japan will be reduced from 20 years of age to 18 years of age in April 2022. Some teenagers may suffer from poor financial decisions as they legally can enter contracts. If they need help, they can call 188 (Consumer Hotline). This hotline was launched in July 1, 2015 by the Department of Consumer Affairs and is run by local governments.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/106483.jpg",
+      "date": "Mar 12, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Drama",
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2377,18 +2390,6 @@
       "category": "OVA"
     },
     {
-      "title": "Onii-chan Asa made Zutto Gyutte Shite!",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/103712.jpg",
-      "date": "Mar 6, 2020",
-      "producer": "Studio 1st",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Tenchi Muyou! Ryououki 5th Season",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1026/106375.jpg",
@@ -2402,6 +2403,18 @@
         "Space",
         "Comedy",
         "Shounen"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Onii-chan Asa made Zutto Gyutte Shite!",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/103712.jpg",
+      "date": "Mar 6, 2020",
+      "producer": "Studio 1st",
+      "eps": null,
+      "genres": [
+        "Hentai"
       ],
       "category": "OVA"
     },

@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-01",
+  "lastUpdate": "2020-06-02",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -96,10 +96,25 @@
       "category": "TV (New)"
     },
     {
+      "title": "No Guns Life 2nd Season",
+      "description": "Second half of No Guns Life.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/106613.jpg",
+      "date": "Jul ??, 2020",
+      "producer": "Madhouse",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Drama",
+        "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e",
       "description": "After 2000 years has passed, the ruthless demon lord has just been reincarnated! But his aptitude at an academy for nurturing candidates for demon lords is, “inept”!?\n\nHaving the capability to destroy humans, elementals, and gods, after a long period of countless wars and strife, Arnos the demon lord became sick and tired of all that and longed for a peaceful world, so he decided to reincarnate to the future.\n\nHowever, what awaited him after his reincarnation is a world too used to peace that his descendants became too weak due to a huge weakening in magical powers. \n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1388/105332.jpg",
-      "date": "Jul ??, 2020",
+      "date": "Jul 4, 2020, 23:30 (JST)",
       "producer": "Silver Link.",
       "eps": null,
       "genres": [
@@ -222,8 +237,8 @@
       "title": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
       "description": "Second season of Muhyo to Rouji no Mahouritsu Soudan Jimusho.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1218/106376.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "-",
+      "date": "Jul 7, 2020",
+      "producer": "Studio Deen",
       "eps": null,
       "genres": [
         "Action",
@@ -287,19 +302,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Chou Futsuu Toshi Kashiwa Densetsu",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1413/103348.jpg",
-      "date": "Jul 6, 2020, 21:55 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Kyojinzoku no Hanayome",
       "description": "\"If you're a giant and a dwarf, you might be pregnant with men?\"\n\nOne day, Kouichi, a boy's school student, is summoned to another world while masturbating. It's a giant's country where a much larger race lives. The first prince of the country, Kaius, who appears in front of him, enthusiastically stared at Kouichi and proposed, \"I want you to be my bride and give birth to my baby\" ...!?\n\n(Source: MAL News)\n\nThe complete edition with explicit scenes was distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1481/107629.jpg",
@@ -309,6 +311,19 @@
       "genres": [
         "Fantasy",
         "Yaoi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Chou Futsuu Toshi Kashiwa Densetsu",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1413/103348.jpg",
+      "date": "Jul 6, 2020, 21:55 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },

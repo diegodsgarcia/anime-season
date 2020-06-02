@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-06-01",
+  "lastUpdate": "2020-06-02",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -246,12 +246,12 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1494/105719.jpg",
       "date": "Apr 6, 2020, 22:00 (JST)",
       "producer": "Project No.9",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Action",
         "Adventure",
-        "Fantasy",
-        "Magic"
+        "Magic",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -1659,6 +1659,18 @@
       "category": "ONA"
     },
     {
+      "title": "Great Pretender",
+      "description": "Only BADs are our targets! Trick you! Deceive you! Cheat all fortunes of you! You can hear our stories in LA, Singapore, London, Shanghai and Tokyo, Why? Our \"CON GAMEs\" stage, is the whole WORLD!\n\nEdamura Masato is supposedly Japan's greatest swindler. Together with his partner Kudo, they try to trick a Frenchman in Asakusa but unexpectedly get tricked instead. The Frenchman, whom they tried to swindle, turns out to be Laurent Thierry—a much higher-level \"confidence man,\" in control of the mafia. Edamura is yet to find out what fate awaits him, after having engaged in the Frenchman's dirty jobs...!\n\n(Source: Official Website)\n\nEpisode 1 was previewed at a screening at Anime Expo in Los Angeles on July 4, 2019. The episodes were streamed in advance on Netflix with five episodes every week beginning on June 2, 2020. Regular broadcasting began in July 9, 2020 on Fuji TV's +Ultra block.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/107419.jpg",
+      "date": "Jun 2, 2020",
+      "producer": "Wit Studio",
+      "eps": 23,
+      "genres": [
+        "Action"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Hitori no Shita: The Outcast 3rd Season",
       "description": "Third season of Hitori no Shita: The Outcast.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/106650.jpg",
@@ -1881,19 +1893,6 @@
       "category": "ONA"
     },
     {
-      "title": "Cinderella Girls Gekijou: Extra Stage",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/106098.jpg",
-      "date": "Apr ??, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Xing Chen Bian: Yu Li Cang Hai",
       "description": "Second season of Xing Chen Bian.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1548/107365.jpg",
@@ -2052,6 +2051,18 @@
       "category": "OVA"
     },
     {
+      "title": "Yarichin Kateikyoushi Netori Houkoku",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1372/105978.jpg",
+      "date": "May 29, 2020",
+      "producer": "-",
+      "eps": 2,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
       "title": "Chiisana Tsubomi no Sono Oku ni...",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
@@ -2070,18 +2081,6 @@
       "date": "May 22, 2020",
       "producer": "-",
       "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "Yarichin Kateikyoushi Netori Houkoku",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1372/105978.jpg",
-      "date": "May 29, 2020",
-      "producer": "-",
-      "eps": 2,
       "genres": [
         "Hentai"
       ],
