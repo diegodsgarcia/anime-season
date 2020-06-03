@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-06-02",
+  "lastUpdate": "2020-06-03",
   "animes": [
     {
       "title": "Mahouka Koukou no Rettousei: Raihousha-hen",
@@ -33,23 +33,6 @@
         "Adventure",
         "Magic",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Nanatsu no Taizai: Fundo no Shinpan",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "date": "Oct ??, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Supernatural",
-        "Magic",
-        "Fantasy",
-        "Shounen"
       ],
       "category": "TV (New)"
     },
