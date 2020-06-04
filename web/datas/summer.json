@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-03",
+  "lastUpdate": "2020-06-04",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -45,22 +45,6 @@
         "Action",
         "Game",
         "Adventure",
-        "Romance",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
-      "description": "Third season of Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1791/103303.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "J.C.Staff",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
         "Romance",
         "Fantasy"
       ],
@@ -237,7 +221,7 @@
       "title": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
       "description": "Second season of Muhyo to Rouji no Mahouritsu Soudan Jimusho.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1218/106376.jpg",
-      "date": "Jul 7, 2020",
+      "date": "Jul 7, 2020, 19:00 (JST)",
       "producer": "Studio Deen",
       "eps": null,
       "genres": [
@@ -384,6 +368,68 @@
       "category": "OVA"
     },
     {
+      "title": "Muramata-san no Himitsu",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1845/107859.jpg",
+      "date": "Jul 17, 2020",
+      "producer": "-",
+      "eps": 2,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Isekai Harem Monogatari",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/107872.jpg",
+      "date": "Jul 31, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Harem",
+        "Hentai",
+        "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Natsu ga Owaru made The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1065/107875.jpg",
+      "date": "Jul 22, 2020",
+      "producer": "-",
+      "eps": 2,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Kanojo ga Yatsu ni Idakareta Hi",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1895/107874.jpg",
+      "date": "Aug 28, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Kohakuiro no Hunter The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
+      "date": "Jul 31, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
       "title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram",
       "description": "An adaptation of the the Sixth Singularity, The Sacred Round Table Realm Camelot Singularity of Fate/Grand Order.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1535/103385.jpg",
@@ -427,21 +473,6 @@
         "Comedy",
         "Romance",
         "School"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Seitokai Yakuindomo Movie 2",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1323/104626.jpg",
-      "date": "Jul 10, 2020",
-      "producer": "GoHands",
-      "eps": 1,
-      "genres": [
-        "Comedy",
-        "School",
-        "Shounen",
-        "Slice of Life"
       ],
       "category": "Movie"
     },
@@ -568,7 +599,7 @@
       "title": "22/7: 8＋3=?",
       "description": "Thirteenth episode included in sixth Blu-ray volume.\n\nThis episode centers on the story of Mikami Kamiki, Yuuki Toujou, and Tsubomi Hiiragi.\n\n(Source: Official Website)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1892/105979.jpg",
-      "date": "Aug 26, 2020",
+      "date": "Sep 16, 2020",
       "producer": "A-1 Pictures",
       "eps": 1,
       "genres": [
@@ -579,7 +610,7 @@
     {
       "title": "ARP Backstage Pass Special",
       "description": "Unaired episode included with volume 4 of the Bluray/DVD.",
-      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1108/107861.jpg",
       "date": "Aug 26, 2020",
       "producer": "Dynamo Pictures",
       "eps": 1,

@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-06-03",
+  "lastUpdate": "2020-06-04",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -637,18 +637,6 @@
       "eps": null,
       "genres": [
         "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Ooya-san to Boku",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1588/106204.jpg",
-      "date": "Mar 2, 2020, 23:45 (JST)",
-      "producer": "Fanworks",
-      "eps": 5,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -1310,7 +1298,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1126/99095.jpg",
       "date": "Apr 11, 2019, 07:05 (JST)",
       "producer": "Pie in the sky",
-      "eps": null,
+      "eps": 50,
       "genres": [
         "Music",
         "Comedy"
@@ -2153,6 +2141,34 @@
       "eps": null,
       "genres": [
         "Action",
+        "Comedy",
+        "Kids",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ushichichi Tabehoudai! The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
+      "date": "Mar 11, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Jingju Mao Zhi Jiaota Shidi",
+      "description": "Fourth season of Jingju Mao.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1930/107868.jpg",
+      "date": "Mar 24, 2020",
+      "producer": "-",
+      "eps": 70,
+      "genres": [
+        "Action",
+        "Adventure",
         "Comedy",
         "Kids",
         "Fantasy"
