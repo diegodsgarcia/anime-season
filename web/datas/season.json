@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-06-04",
+  "lastUpdate": "2020-06-05",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -746,6 +746,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "Zo Zo Zo Zombie-kun (TV)",
+      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
+      "date": "Apr 15, 2020",
+      "producer": "J.C.Staff",
+      "eps": 100,
+      "genres": [
+        "Comedy",
+        "Kids"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Norimono Man: Mobile Land no Car-kun",
       "description": "The anime will depict various vehicles as characters in the \"Mobile Land\" island. The protagonist Car-kun arrives at the island as a delivery worker. Through his deliveries, he gets to know the residents of Mobile Land, all while following traffic rules and having his deliveries stopped by the meddling Sabibi. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1612/106288.jpg",
@@ -757,19 +770,6 @@
         "Comedy",
         "Kids",
         "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Zo Zo Zo Zombie-kun (TV)",
-      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
-      "date": "Apr 15, 2020",
-      "producer": "J.C.Staff",
-      "eps": 100,
-      "genres": [
-        "Comedy",
-        "Kids"
       ],
       "category": "TV (New)"
     },
@@ -914,7 +914,7 @@
       "title": "Ahiru no Sora",
       "description": "Lacking what is considered the most important asset in basketball, Sora Kurumatani has struggled with his short height since the inception of his love for the game. Despite missing this beneficial aspect, Sora's unwavering drive never allowed his small stature to dictate his ability to play, believing strongly in trying his hardest and persistently practicing to prove his capability.\n\nIn hopes of satisfying his mother's wishes, Sora enters Kuzuryuu High School to become a member of the basketball club and compete wholeheartedly in tournaments. However, Sora is disappointed to find out that the boy's basketball team is nothing but a retreat for punks who have no interest in the sport. Sora also comes to learn that brothers Chiaki and Momoharu Hanazono—whom he becomes acquainted with—have also lost their once spirited motivation to play. \n\nDetermined to revive the basketball team, Sora challenges the boys to a match against him, where his quick feet and swift movements overwhelm the group. Gradually affected by Sora's impressive skills, sheer effort, and tireless devotion to basketball, the boys unexpectedly find their burnt-out passion for the game rekindling once again.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1505/102719.jpg",
-      "date": "Oct 2, 2019, 18:25 (JST)",
+      "date": "Oct 2, 2019, 17:55 (JST)",
       "producer": "Diomedea",
       "eps": 50,
       "genres": [
@@ -1878,6 +1878,19 @@
       "category": "ONA"
     },
     {
+      "title": "Ma La Nu Pei",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/106704.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Beyblade Burst Super King",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1332/106530.jpg",
@@ -1890,19 +1903,6 @@
         "Adventure",
         "Sports",
         "Shounen"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Ma La Nu Pei",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/106704.jpg",
-      "date": "Apr 7, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Romance"
       ],
       "category": "ONA"
     },

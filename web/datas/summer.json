@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-04",
+  "lastUpdate": "2020-06-05",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -406,24 +406,24 @@
       "category": "OVA"
     },
     {
-      "title": "Kanojo ga Yatsu ni Idakareta Hi",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1895/107874.jpg",
-      "date": "Aug 28, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Kohakuiro no Hunter The Animation",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
       "date": "Jul 31, 2020",
       "producer": "-",
       "eps": 1,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Kanojo ga Yatsu ni Idakareta Hi",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1895/107874.jpg",
+      "date": "Aug 28, 2020",
+      "producer": "-",
+      "eps": null,
       "genres": [
         "Hentai"
       ],
