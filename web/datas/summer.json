@@ -1,13 +1,13 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-05",
+  "lastUpdate": "2020-06-13",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
       "description": "Second season of Re:Zero kara Hajimeru Isekai Seikatsu.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1010/100084.jpg",
-      "date": "Jul ??, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1615/107973.jpg",
+      "date": "Jul 8, 2020, 22:30 (JST)",
       "producer": "White Fox",
       "eps": null,
       "genres": [
@@ -22,7 +22,7 @@
       "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
       "description": "Third season of Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1910/106073.jpg",
-      "date": "Jul ??, 2020",
+      "date": "Jul 10, 2020, 01:58 (JST)",
       "producer": "feel.",
       "eps": null,
       "genres": [
@@ -38,7 +38,7 @@
       "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
       "description": "Second part of Sword Art Online: Alicization - War of Underworld.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1438/105106.jpg",
-      "date": "Jul ??, 2020",
+      "date": "Jul 12, 2020",
       "producer": "A-1 Pictures",
       "eps": 11,
       "genres": [
@@ -80,21 +80,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "No Guns Life 2nd Season",
-      "description": "Second half of No Guns Life.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/106613.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "Madhouse",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Drama",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e",
       "description": "After 2000 years has passed, the ruthless demon lord has just been reincarnated! But his aptitude at an academy for nurturing candidates for demon lords is, “inept”!?\n\nHaving the capability to destroy humans, elementals, and gods, after a long period of countless wars and strife, Arnos the demon lord became sick and tired of all that and longed for a peaceful world, so he decided to reincarnate to the future.\n\nHowever, what awaited him after his reincarnation is a world too used to peace that his descendants became too weak due to a huge weakening in magical powers. \n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1388/105332.jpg",
@@ -109,30 +94,17 @@
       "category": "TV (New)"
     },
     {
-      "title": "Uzaki-chan wa Asobitai!",
-      "description": "Sakurai Shinichi's one wish is for a little peace and quiet. But Uzaki Hana–his boisterous, well-endowed underclassman–has other plans. All she wants is to hang out and poke fun at him. With the help of her chipper charm and peppy persistence, this might just be the start of a beautiful relationship! \n\n(Source: Seven Seas Entertainment)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1077/105831.jpg",
+      "title": "No Guns Life 2nd Season",
+      "description": "Second half of No Guns Life.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/106613.jpg",
       "date": "Jul ??, 2020",
-      "producer": "ENGI",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Ecchi"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Deca-Dence",
-      "description": "Many years have passed since humanity was driven to the brink of extinction by the sudden emergence of the unknown life forms Gadoll. Those humans that survived now dwell in a 3000m-high mobile fortress Deca-dence built to protect themselves from the Gadoll threat.\n\nDenizens of Deca-dence fall into two categories: Gears, warriors who fight the Gadoll daily, and Tankers, those without the skills to fight. One day, Natsume, a Tanker girl who dreams of becoming a Gear meets surly Kaburagi, an armor repairman of Deca-dence.\n\nThis chance meeting between the seemingly two opposites, the girl with a positive attitude who never gives up on her dreams and the realist who has given up on his, will eventually shake the future course of this world. \n\n(Source: Official site)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1627/107552.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "Nut",
-      "eps": null,
+      "producer": "Madhouse",
+      "eps": 12,
       "genres": [
         "Action",
         "Sci-Fi",
-        "Adventure"
+        "Drama",
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -155,10 +127,38 @@
       "category": "TV (New)"
     },
     {
+      "title": "Deca-Dence",
+      "description": "Many years have passed since humanity was driven to the brink of extinction by the sudden emergence of the unknown life forms Gadoll. Those humans that survived now dwell in a 3000m-high mobile fortress Deca-dence built to protect themselves from the Gadoll threat.\n\nDenizens of Deca-dence fall into two categories: Gears, warriors who fight the Gadoll daily, and Tankers, those without the skills to fight. One day, Natsume, a Tanker girl who dreams of becoming a Gear meets surly Kaburagi, an armor repairman of Deca-dence.\n\nThis chance meeting between the seemingly two opposites, the girl with a positive attitude who never gives up on her dreams and the realist who has given up on his, will eventually shake the future course of this world. \n\n(Source: Official site)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1627/107552.jpg",
+      "date": "Jul 8, 2020, 23:30 (JST)",
+      "producer": "Nut",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Uzaki-chan wa Asobitai!",
+      "description": "Sakurai Shinichi's one wish is for a little peace and quiet. But Uzaki Hana–his boisterous, well-endowed underclassman–has other plans. All she wants is to hang out and poke fun at him. With the help of her chipper charm and peppy persistence, this might just be the start of a beautiful relationship! \n\n(Source: Seven Seas Entertainment)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1077/105831.jpg",
+      "date": "Jul 10, 2020, 21:30 (JST)",
+      "producer": "ENGI",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Ecchi"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Peter Grill to Kenja no Jikan",
       "description": "Peter Grill is known throughout the land as the world's strongest fighter. He has a girlfriend who he's steadily trying to get closer with. Life is good for him. Until he realizes that dozens of women, who want to bear strong children, are all vying for his seed.\n\n(Source: LHTranslation)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1076/106693.jpg",
-      "date": "Jul ??, 2020",
+      "date": "Jul 11, 2020, 01:35 (JST)",
       "producer": "-",
       "eps": null,
       "genres": [
@@ -173,7 +173,7 @@
       "title": "Monster Musume no Oishasan",
       "description": "In the town of Lindworm where monsters and humans coexist, Dr. Glenn runs an exemplary medical clinic for monster girls with his lamia assistant, Sapphee. Whether receiving a marriage proposal by a centaur injured in battle, palpating the injury of a mermaid, or suturing the delicate wounds of a flesh golem, Dr. Glenn performs his job with grace and confidence. But when an unsavory character seeks to steal a harpy egg, how will the unflappable Dr. Glenn respond...?\n \n(Source: Seven Seas Entertainment)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106598.jpg",
-      "date": "Jul ??, 2020",
+      "date": "Jul 12, 2020",
       "producer": "Arvo Animation",
       "eps": null,
       "genres": [
@@ -187,8 +187,8 @@
     {
       "title": "Gibiate",
       "description": "In 2030, Japan. A virus has infected humans throughout the world. Infected people turn into different forms of monsters based on their ages, sexes, and races. The virus is named \"Gibia\"—after being rich in variety like gibia.\n\nJust then, a pair of samurai and ninja appeared in such a blighted wasteland of Japan. They both traveled from the early Edo period, fighting together with help from a doctor who tries to find cure for Gibia. Facing ceaseless attacks from Gibias and outlaws that attack travelers for food, they start the dangerous journey with enemies all around.\n\n(Source: Official Website)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/101974.jpg",
-      "date": "Jul ??, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1769/107880.jpg",
+      "date": "Jul 8, 2020",
       "producer": "-",
       "eps": null,
       "genres": [
@@ -204,7 +204,7 @@
       "title": "Dokyuu Hentai HxEros",
       "description": "In a world on the verge of a great disaster that began five years ago, heroes who, with the help of a device called HxEros, use the power of Ecchi (H) and erotic power (Ero) to save the planet from libido-devouring monsters!\n\nEnjou Retto and Hoshino Kirara are childhood friends who have drifted apart from each other. One day, they're caught in a battle against a \"Censor Bug\" that feeds on human's sexual energy to evolve. After successfully taking down the enemy, they join a group of heroes like them, using the erotic power of the HxEROS force to fight off monsters.\n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1619/106323.jpg",
-      "date": "Jul ??, 2020",
+      "date": "Jul 4, 2020",
       "producer": "Project No.9",
       "eps": null,
       "genres": [
@@ -214,6 +214,20 @@
         "Ecchi",
         "School",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Ikebukuro West Gate Park",
+      "description": "Living in an area known for its juvenile crime, 21-year-old Makoto is a friend of King, the leader of a youth gang called the G-Boys, though he himself does not want to join as a member. Known for his cool head and ability to get things done, Makoto becomes a key trouble-shooter for the gang by diffusing tense situations and keeping his friends out of harm's way. However, the death of his girlfriend and an escalating turf war with a rival gang threaten to be more than Makoto can handle.\n\n(Source: AsianWiki)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1143/106670.jpg",
+      "date": "Jul ??, 2020",
+      "producer": "Doga Kobo",
+      "eps": null,
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Romance"
       ],
       "category": "TV (New)"
     },
@@ -235,49 +249,10 @@
       "category": "TV (New)"
     },
     {
-      "title": "Ochikobore Fruit Tart",
-      "description": "Fourth dormitory of the Rat Production (commonly known as Nezumi-sou)—the place where dropout idol girls live: the former child actor Sekino Roko, musician Nukui Hayu, and model Maehara Nina. Sakura Ino, who always dreamed of becoming an idol, moves in. At the same time, the decision is made to demolish the dormitory. Due to the project launched by the manager Kajino Hoho, \"Ochikobore Fruit Tart,\" occupants of the dormitory form a new idol group called \"Fruit Tart\" and start their activities in order to repay a one hundred million yen debt. \n\n(Source: MU, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1511/104769.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "feel.",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Ikebukuro West Gate Park",
-      "description": "Living in an area known for its juvenile crime, 21-year-old Makoto is a friend of King, the leader of a youth gang called the G-Boys, though he himself does not want to join as a member. Known for his cool head and ability to get things done, Makoto becomes a key trouble-shooter for the gang by diffusing tense situations and keeping his friends out of harm's way. However, the death of his girlfriend and an escalating turf war with a rival gang threaten to be more than Makoto can handle.\n\n(Source: AsianWiki)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1143/106670.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "Doga Kobo",
-      "eps": null,
-      "genres": [
-        "Mystery",
-        "Drama",
-        "Romance"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Tsukiuta. The Animation 2",
-      "description": "Second season of Tsukiuta. The Animation.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1149/104209.jpg",
-      "date": "Jul ??, 2020, 22:30 (JST)",
-      "producer": "Children's Playground Entertainment",
-      "eps": null,
-      "genres": [
-        "Music"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Lapis Re:LiGHTs",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1880/107611.jpg",
-      "date": "Jul ??, 2020",
+      "date": "Jul 4, 2020, 22:00 (JST)",
       "producer": "Yokohama Animation Lab",
       "eps": null,
       "genres": [
@@ -300,7 +275,7 @@
     },
     {
       "title": "Chou Futsuu Toshi Kashiwa Densetsu",
-      "description": "(No synopsis yet.)",
+      "description": "A gag anime set in Kashiwa, featuring high school girls and mysterious creatures.\n\n(Source: Chou Futsuu Toshi Kashiwa Densetsu Wiki)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1413/103348.jpg",
       "date": "Jul 6, 2020, 21:55 (JST)",
       "producer": "-",
@@ -342,7 +317,7 @@
     },
     {
       "title": "Planetarian: Snow Globe",
-      "description": "(No synopsis yet.)",
+      "description": "The new OVA will feature the prequel short story \"Snow Globe,\" which debuted as part of a light novel volume that bundled with a limited-edition version of the original PC game.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1320/106943.jpg",
       "date": "Sep ??, 2020",
       "producer": "Okuruto Noboru",
@@ -394,6 +369,19 @@
       "category": "OVA"
     },
     {
+      "title": "Succubus Stayed Life The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1776/107906.jpg",
+      "date": "Aug 28, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai",
+        "School"
+      ],
+      "category": "OVA"
+    },
+    {
       "title": "Natsu ga Owaru made The Animation",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1065/107875.jpg",
@@ -406,24 +394,24 @@
       "category": "OVA"
     },
     {
-      "title": "Kohakuiro no Hunter The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
-      "date": "Jul 31, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Kanojo ga Yatsu ni Idakareta Hi",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1895/107874.jpg",
       "date": "Aug 28, 2020",
       "producer": "-",
       "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Kohakuiro no Hunter The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
+      "date": "Jul 31, 2020",
+      "producer": "-",
+      "eps": 1,
       "genres": [
         "Hentai"
       ],
@@ -520,23 +508,6 @@
       "category": "Movie"
     },
     {
-      "title": "Mobile Suit Gundam: Hathaway's Flash",
-      "description": "In Hathaway's Flash Hathaway Noa, still haunted by his past actions (not to mention the spirit of deceased Newtype Quess Paraya), joins a terrorist organization called Mafty and adopts the false name \"Mafty Navue Erin.\" The organization Mafty is fighting a terrorist campaign against the Earth Federation government, and they are eventually able to acquire the incredibly powerful prototype Ξ Gundam, which Hathaway becomes the pilot of. Using the Ξ Gundam Mafty attempts to attack a meeting of high-ranking Federation cabinet members in Adelaide, Australia to force them to vote down a provision which would strengthen the Federations already considerable powers.\n \nAs a point to note, this novel focuses on a version of events chronicled in creator Yoshiyuki Tomino's novelized form of Char's Counterattack, rather than his animated movie version, and as such, several discrepancies can be found between the animated work and this novel, making it more of a semi-canonical UC storyline, rather than 100% official canon.\n \n(Source: Wikipedia)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1074/106582.jpg",
-      "date": "Jul 23, 2020",
-      "producer": "Sunrise",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Military",
-        "Sci-Fi",
-        "Space",
-        "Drama",
-        "Mecha"
-      ],
-      "category": "Movie"
-    },
-    {
       "title": "Doraemon Movie 40: Nobita no Shin Kyouryuu",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1358/104464.jpg",
@@ -570,7 +541,7 @@
       "title": "Sword Art Online: Alicization - War of Underworld Recap",
       "description": "Recap of Sword Art Online: Alicization - War of Underworld.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1946/106255.jpg",
-      "date": "Jul ??, 2020",
+      "date": "Jul 4, 2020",
       "producer": "A-1 Pictures",
       "eps": 1,
       "genres": [
@@ -623,7 +594,7 @@
       "title": "Umayon",
       "description": "It's a \"pop\" and cute everyday anime based on the 4-koma manga featuring the characters from Uma Musume: Pretty Derby.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1618/106630.jpg",
-      "date": "Jul ??, 2020",
+      "date": "Jul 7, 2020",
       "producer": "-",
       "eps": null,
       "genres": [

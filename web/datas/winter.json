@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-06-05",
+  "lastUpdate": "2020-06-13",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -201,6 +201,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Toaru Kagaku no Railgun T",
+      "description": "The Daihasei Festival has begun, and that of course means that Tokiwadai Middle School—a prestigious all-girls' middle school—is competing too. Despite the participation of the \"Ace of Tokiwadai,\" Mikoto Misaka, the other students who are participating are still putting their utmost effort into winning, no matter how impossible the feat may seem against her might.\n\nHowever, not all is fun and games. Due to the the festival, Academy City opens to the outside world, and various factions have begun plotting ways to infiltrate the city. Misaka appears to be on their radar, and as the festival proceeds, people lurking from the shadows begin to emerge...\n\nToaru Kagaku no Railgun T brings back the Tokiwadai Ace and her friends as they dive deeper into the dark side of Academy City. From terrorist attacks to ruthless underground projects, anything is possible in this city.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1819/103287.jpg",
+      "date": "Jan 10, 2020, 22:00 (JST)",
+      "producer": "J.C.Staff",
+      "eps": 25,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Super Power"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)",
       "description": "Rumor has it that if a young girl strikes a bargain with a white fairy, it will grant any wish her heart desires. However, in exchange, she will become a magical girl and must put her life on the line to slay fearsome and ferocious witches.\n\nIroha Tamaki, a kind-hearted middle schooler from Takarazaki City, is living proof that these rumors are true. Armed with a magical crossbow and the ability to heal injuries, Iroha seeks out the labyrinths where witches hide and defeats them before they can prey on humans. Yet Iroha has no memory of her wish, and even Kyuubey, the white fairy himself, seems to have no idea what Iroha requested of him.\n\nOne day, Iroha hears rumors of a city where \"magical girls can be saved,\" and finds herself on a sunset train to Kamihama City. Unfortunately, she discovers that the witches in Kamihama are far more powerful than usual. After veteran magical girl Yachiyo Nanami is forced to save her, Iroha vows to never return. But when a chance encounter with a tiny Kyuubey seems to trigger distant memories, Iroha is compelled to investigate the mysterious city despite the danger.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1786/104783.jpg",
@@ -212,20 +226,6 @@
         "Drama",
         "Magic",
         "Thriller"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Toaru Kagaku no Railgun T",
-      "description": "The Daihasei Festival has begun, and that of course means that Tokiwadai Middle School—a prestigious all-girls' middle school—is competing too. Despite the participation of the \"Ace of Tokiwadai,\" Mikoto Misaka, the other students who are participating are still putting their utmost effort into winning, no matter how impossible the feat may seem against her might.\n\nHowever, not all is fun and games. Due to the the festival, Academy City opens to the outside world, and various factions have begun plotting ways to infiltrate the city. Misaka appears to be on their radar, and as the festival proceeds, people lurking from the shadows begin to emerge...\n\nToaru Kagaku no Railgun T brings back the Tokiwadai Ace and her friends as they dive deeper into the dark side of Academy City. From terrorist attacks to ruthless underground projects, anything is possible in this city.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1819/103287.jpg",
-      "date": "Jan 10, 2020, 22:00 (JST)",
-      "producer": "J.C.Staff",
-      "eps": 25,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Super Power"
       ],
       "category": "TV (New)"
     },
@@ -331,14 +331,14 @@
     },
     {
       "title": "Overflow",
-      "description": "\"Brother, are we really taking a bath together?\"\n\nAnd so, a forbidden bathing experience began. Me, my sister, and childhood friend—one man and two women—are sharing one bath. After involuntarily \"overflowing,\" the sister's secret love come out?!\n\nThis is a young romantic comedy that won't let you say, \"it's over!\"\n\n(Source: Official Site)",
+      "description": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakawa. When Ayane discovers that Kazushi not only forgot to buy her pudding but is also using her special lotion in the bath, she decides to take revenge and join Kazushi in his bath along with Kotone. Will the perverted Kazushi be able to remain indifferent to them both?\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1781/104461.jpg",
       "date": "Jan 6, 2020, 01:00 (JST)",
       "producer": "Studio Hokiboshi",
       "eps": 8,
       "genres": [
-        "Romance",
-        "Ecchi"
+        "Ecchi",
+        "Romance"
       ],
       "category": "TV (New)"
     },
@@ -377,7 +377,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1299/106117.jpg",
       "date": "Jan 9, 2020, 23:30 (JST)",
       "producer": "Children's Playground Entertainment",
-      "eps": 11,
+      "eps": 12,
       "genres": [
         "Comedy",
         "Supernatural",
@@ -388,7 +388,7 @@
     },
     {
       "title": "22/7",
-      "description": "One day, Miu Takigawa suddenly receives a letter notifying her that she has been chosen as a member of a brand-new project. Half in disbelief, she heads over to the location stated on the letter. There, she finds seven other girls summoned there in the same fashion. The girls behold a giant, top-secret facility. They stand in bewilderment as they are told they are going to debut for a major record label as an idol group. A new kind of idol, never-before-seen, is about to be born here.\n\n(Source: Official Site)",
+      "description": "Miu Takigawa views the world from behind the safety of her bangs, content with peacefully passing unnoticed through life. Reserved and timid, Miu struggles to converse with or even smile at customers when at her part time job, but she works tirelessly to support her mother and precious little sister, Haru. It is a shock when a letter arrives from the entertainment company GIP, announcing that she has been chosen as a candidate for their new project. \n\nMiu decides to accept the invitation and heads to the meeting spot where the eccentric ensemble of other candidates filter in, all summoned by their own letters. Not long after, the girls are escorted by a manager to a luxurious secret facility, where it is explained that they must follow the mysterious directions of \"The Wall,\" whose orders are absolute. \n\nThe 24th of December, 2016, will see the birth of idols like no other; on that day, the group 22/7 will debut, whether or not Miu and the other members are ready to take the stage.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/104530.jpg",
       "date": "Jan 11, 2020, 23:00 (JST)",
       "producer": "A-1 Pictures",
@@ -646,7 +646,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1837/105067.jpg",
       "date": "Jan 7, 2020, 07:30 (JST)",
       "producer": "Studio Comet",
-      "eps": null,
+      "eps": 13,
       "genres": [
         "Slice of Life",
         "Comedy",
@@ -1719,7 +1719,7 @@
     },
     {
       "title": "Mushikago no Cagaster",
-      "description": "In a near future, an illness called \"Cagaster\" made ​​its appearance. It turns humans into insects. The story begins 30 years after the onset of the illness, in 2125. It follows the adventures of Kidou, a boy who fights insects.",
+      "description": "In a near future, an illness called \"Cagaster\" made ​​its appearance. It turns humans into insects. The story begins 30 years after the onset of the illness, in 2125. It follows the adventures of Kidou, a boy who fights insects.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/105458.jpg",
       "date": "Feb 6, 2020",
       "producer": "Studio Kai",
@@ -1871,6 +1871,22 @@
       "category": "ONA"
     },
     {
+      "title": "Da Wang Bu Gaoxing",
+      "description": "We follow the daily life of Xiao Luo, a young yama (god and judge of the dead) who is afraid of ghosts. In order to properly reign in the underworld, she will have to face her fears.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1003/106043.jpg",
+      "date": "Jan 1, 2020",
+      "producer": "Haoliners Animation League",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Demons",
+        "Magic",
+        "Fantasy",
+        "School"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Fukai ni Nemuru Oujo no Abaddon The Animation",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1124/105798.jpg",
@@ -1892,22 +1908,6 @@
       "genres": [
         "Slice of Life",
         "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Da Wang Bu Gaoxing",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1003/106043.jpg",
-      "date": "Jan 1, 2020",
-      "producer": "Haoliners Animation League",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "Demons",
-        "Magic",
-        "Fantasy",
-        "School"
       ],
       "category": "ONA"
     },
@@ -1981,18 +1981,6 @@
       "category": "ONA"
     },
     {
-      "title": "Ogaki Matsuri ni Ikou yo!",
-      "description": "A tourism promotion anime for Ogaki City in the Gifu Prefecture. The story's script was written by Kou Nakamura, a famous novelist from Ogaki City.\n\nA love story set during the Ogaki Festival preparations. The festival itself is held in May.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1425/106763.jpg",
-      "date": "Mar 20, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Romance"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Ze Tian Ji 5th Season",
       "description": "The fifth season of Ze Tian Ji.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
@@ -2003,6 +1991,18 @@
         "Action",
         "Adventure",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ogaki Matsuri ni Ikou yo!",
+      "description": "A tourism promotion anime for Ogaki City in the Gifu Prefecture. The story's script was written by Kou Nakamura, a famous novelist from Ogaki City.\n\nA love story set during the Ogaki Festival preparations. The festival itself is held in May.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1425/106763.jpg",
+      "date": "Mar 20, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Romance"
       ],
       "category": "ONA"
     },
@@ -2064,20 +2064,6 @@
       "category": "ONA"
     },
     {
-      "title": "Ninjala Episode 0",
-      "description": "Eagle City, Komerica -- WNA Research Laboratory Branch\n\nWNA researchers Burton, Berecca, and Ron continue their tireless efforts to develop \"Ninja-Gum\"; a mysterious substance that activates latent Ninja DNA in people descended from those legendary mercenary warriors (alt: those legendary mercenaries from days gone by). Today, all their hard work finally pays off. It is here - on their 2,503rd attempt - that they finally succeed in producing Ninja-Gum! Burton and Berecca can barely contain their excitement, and waste no time in trying the gum for themselves! But then...\n\n(Source: Official YouTube channel)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1444/106767.jpg",
-      "date": "Mar 30, 2020",
-      "producer": "Marza Animation Planet",
-      "eps": 1,
-      "genres": [
-        "Sci-Fi",
-        "Super Power",
-        "Martial Arts"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Wu Shen Zhu Zai",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
@@ -2090,6 +2076,32 @@
         "Drama",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ushichichi Tabehoudai! The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
+      "date": "Mar 11, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ninjala Episode 0",
+      "description": "Eagle City, Komerica -- WNA Research Laboratory Branch\n\nWNA researchers Burton, Berecca, and Ron continue their tireless efforts to develop \"Ninja-Gum\"; a mysterious substance that activates latent Ninja DNA in people descended from those legendary mercenary warriors (alt: those legendary mercenaries from days gone by). Today, all their hard work finally pays off. It is here - on their 2,503rd attempt - that they finally succeed in producing Ninja-Gum! Burton and Berecca can barely contain their excitement, and waste no time in trying the gum for themselves! But then...\n\n(Source: Official YouTube channel)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1444/106767.jpg",
+      "date": "Mar 30, 2020",
+      "producer": "Marza Animation Planet",
+      "eps": 1,
+      "genres": [
+        "Sci-Fi",
+        "Super Power",
+        "Martial Arts"
       ],
       "category": "ONA"
     },
@@ -2129,18 +2141,6 @@
       "genres": [
         "Slice of Life",
         "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Ushichichi Tabehoudai! The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
-      "date": "Mar 11, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
       ],
       "category": "ONA"
     },
@@ -2223,7 +2223,7 @@
     },
     {
       "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen OVA",
-      "description": "Eustachius no Shitamachi Sennyuu Dai Sakusen (Eustachius' Incognito Operation Downtown)\nTo get more information about Myne and her strange background, Head Priest Ferdinand sends two nobles, Eustachius and Eckhard, to investigate everything regarding her life within her hometown. However, things do not go the way they expected.\n\nCorinna-sama no Otaku Houmon (Visiting Missus Corrinna)\nBenno's wife, Corrinna, takes an interest in the outfit that Myne wore at her baptism. Corrinna summons her alongside her mother, Eva, and sister, Turi, wishing to know the procedure in making such sophisticated attire and accessories. Naturally, for Myne, she sees an excellent opportunity for profit.\n\n[Written by MAL Rewrite]",
+      "description": "Eustachius no Shitamachi Sennyuu Dai Sakusen (Eustachius' Incognito Operation Downtown)\nTo get more information about Myne and her strange background, Head Priest Ferdinand sends two nobles, Eustachius and Eckhard, to investigate everything regarding her life within her hometown. However, things do not go the way they expected.\n\nCorinna-sama no Otaku Houmon (Visiting Missus Corinna)\nOtto's wife, Corinna, takes an interest in the outfit that Myne wore at her baptism. Corinna summons her alongside her mother, Eva, and sister, Turi, wishing to know the procedure in making such sophisticated attire and accessories. Naturally, for Myne, she sees an excellent opportunity for profit.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1102/104681.jpg",
       "date": "Mar 10, 2020",
       "producer": "Ajia-Do",
@@ -2406,6 +2406,18 @@
       "category": "OVA"
     },
     {
+      "title": "Onii-chan Asa made Zutto Gyutte Shite!",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/103712.jpg",
+      "date": "Mar 6, 2020",
+      "producer": "Studio 1st",
+      "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
       "title": "Tenchi Muyou! Ryououki 5th Season",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1026/106375.jpg",
@@ -2423,18 +2435,6 @@
       "category": "OVA"
     },
     {
-      "title": "Onii-chan Asa made Zutto Gyutte Shite!",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/103712.jpg",
-      "date": "Mar 6, 2020",
-      "producer": "Studio 1st",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Jitaku Keibiin 2",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1761/105097.jpg",
@@ -2448,7 +2448,7 @@
     },
     {
       "title": "Inmou",
-      "description": "(No synopsis yet.)",
+      "description": "After being childhood friends for many years, she sees more in him than just a friend. She wants a more intimate relationship... It just so happens her parents won't be home and she convinces him to come over.\n\n(Source: hanime)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1398/105660.jpg",
       "date": "Mar 27, 2020",
       "producer": "-",
@@ -2560,7 +2560,7 @@
       "description": "New Digimon Adventure movie commemorating 20th Anniversary.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1654/104884.jpg",
       "date": "Feb 21, 2020",
-      "producer": "Toei Animation, Yumeta Company",
+      "producer": "Yumeta Company",
       "eps": null,
       "genres": [
         "Action",
@@ -2754,20 +2754,6 @@
       "category": "Special"
     },
     {
-      "title": "Girls & Panzer: Taiyaki War!",
-      "description": "Special included with Girls & Panzer: Saishuushou Part 2 Blu-ray and DVD.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1789/104010.jpg",
-      "date": "Feb 27, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Military",
-        "Comedy",
-        "School"
-      ],
-      "category": "Special"
-    },
-    {
       "title": "Chuubyou Gekihatsu Boy Special",
       "description": "Unaired episode 12 included with volume 4 of the BD/DVD release.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1527/103340.jpg",
@@ -2776,6 +2762,20 @@
       "eps": 1,
       "genres": [
         "Slice of Life",
+        "Comedy",
+        "School"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "Girls & Panzer: Taiyaki War!",
+      "description": "Special included with Girls & Panzer: Saishuushou Part 2 Blu-ray and DVD.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1789/104010.jpg",
+      "date": "Feb 27, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Military",
         "Comedy",
         "School"
       ],
@@ -2860,6 +2860,19 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "Hentatsu (TV) Recap",
+      "description": "Short narrated recap of Hentatsu (TV).",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1554/107933.jpg",
+      "date": "Mar 28, 2020",
+      "producer": "Yaoyorozu",
+      "eps": 1,
+      "genres": [
+        "Adventure",
+        "Mystery"
       ],
       "category": "Special"
     },
