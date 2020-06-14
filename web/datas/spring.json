@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-06-13",
+  "lastUpdate": "2020-06-14",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -171,7 +171,7 @@
     {
       "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season",
       "description": "When Myne learns that the Holy Church is in need of mana for their relics, she sees it as her chance to be cured of her life-threatening mana disorder. After seeing their bountiful library, she throws herself headfirst into the Church's grasp and begs to join their order. In exchange for her service and her unusually bountiful supply of mana, Myne is given the blue robes of a noble-born apprentice priestess, despite being a commoner. To Myne, all this talk of mana and nobility is trivial, as she now has access to an unlimited supply of books!\n\nAs Myne transitions into the next phase of her life in this new world, she soon learns that achieving her dream has come at a heavy cost. Noble society is severe, unforgiving, and fueled by politics and neglect. She must now deal with the class conflict between the noble-born blue robes and the common-born grey robes, the High Priest's attempts to oust her, and constant behavioral issues from her new retainers. With the help of her family, friends, and the enigmatic Head Priest whose loyalties and motives remain unknown, Myne seeks to overcome these obstacles and continue on the path to becoming her ideal self—the ultimate librarian!\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1757/105931.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1464/107998.jpg",
       "date": "Apr 5, 2020, 02:10 (JST)",
       "producer": "Ajia-Do",
       "eps": 12,
@@ -458,7 +458,7 @@
     },
     {
       "title": "Shadowverse (TV)",
-      "description": "(No synopsis yet.)",
+      "description": "The hottest battle is about to begin! While attending Tensei Academy, Hiro Ryugasaki ends up acquiring a mysterious smartphone. It comes installed with the popular card game, Shadowverse! Meeting new rivals, facing major tournaments, forging bonds with friends... Shadowverse leads Hiro to all sorts of new experiences, all that serve to \"evolve\" him.\n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1541/103429.jpg",
       "date": "Apr 7, 2020, 17:55 (JST)",
       "producer": "Zexcs",
@@ -499,7 +499,7 @@
     },
     {
       "title": "BanG Dream! Garupa☆Pico: Oomori",
-      "description": "(No synopsis yet.)",
+      "description": "The second season of the mini series starring the girls of BanG Dream!",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/106709.jpg",
       "date": "May 7, 2020",
       "producer": "SANZIGEN",
@@ -1097,7 +1097,7 @@
     },
     {
       "title": "Rebirth",
-      "description": "(No synopsis yet.)",
+      "description": "The series revolve around a team of 12 high school students who love to play the trading card game Rebirth For You.\n\n(Source: Anime News Network)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1319/105669.jpg",
       "date": "Jan 5, 2020, 21:30 (JST)",
       "producer": "LIDENFILMS",
@@ -1803,12 +1803,12 @@
       "category": "ONA"
     },
     {
-      "title": "Yao Shen Ji 4th Season",
-      "description": "(No synopsis yet.)",
+      "title": "Yao Shen Ji Zhi Hei Yu Pian",
+      "description": "Fourth season of Yao Shen Ji.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1196/107545.jpg",
       "date": "Apr 8, 2020",
-      "producer": "-",
-      "eps": null,
+      "producer": "Ruo Hong Culture",
+      "eps": 52,
       "genres": [
         "Action",
         "Adventure",
@@ -2052,6 +2052,21 @@
       "eps": 3,
       "genres": [
         "Game"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Wu Shang Shen Di",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1845/108003.jpg",
+      "date": "May 18, 2020",
+      "producer": "Ruo Hong Culture",
+      "eps": 64,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Supernatural",
+        "Magic"
       ],
       "category": "ONA"
     },

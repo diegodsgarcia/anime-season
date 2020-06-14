@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-06-13",
+  "lastUpdate": "2020-06-14",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -560,7 +560,7 @@
     },
     {
       "title": "Hentatsu (TV)",
-      "description": "(No synopsis yet.)",
+      "description": "Hentatsu follows two girls exploring a seemingly abandoned version of Nakano Broadway, a Tokyo shopping mall known for Mandarake and other shops catering to fans of anime and other forms of pop culture.\n\n(Source: AnimeNewsNetwork)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1071/105276.jpg",
       "date": "Jan 4, 2020, 23:57 (JST)",
       "producer": "Yaoyorozu",
@@ -573,7 +573,7 @@
     },
     {
       "title": "Rebirth",
-      "description": "(No synopsis yet.)",
+      "description": "The series revolve around a team of 12 high school students who love to play the trading card game Rebirth For You.\n\n(Source: Anime News Network)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1319/105669.jpg",
       "date": "Jan 5, 2020, 21:30 (JST)",
       "producer": "LIDENFILMS",
@@ -1887,6 +1887,19 @@
       "category": "ONA"
     },
     {
+      "title": "Hataraku Saibou Black",
+      "description": "A special animated commercial first released on Twitter to promote the manga. It was then released on Kodansha's official YouTube channel on January 15.\n\nSet inside an unhealthy body, Hataraku Saibou Black features the anthropomorphized cells of the human immune system as they attempt to keep their ailing world alive.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1914/106749.jpg",
+      "date": "Jan 4, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Seinen"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Fukai ni Nemuru Oujo no Abaddon The Animation",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1124/105798.jpg",
@@ -1939,31 +1952,6 @@
       "category": "ONA"
     },
     {
-      "title": "Hataraku Saibou Black",
-      "description": "A special animated commercial first released on Twitter to promote the manga. It was then released on Kodansha's official YouTube channel on January 15.\n\nSet inside an unhealthy body, Hataraku Saibou Black features the anthropomorphized cells of the human immune system as they attempt to keep their ailing world alive.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1914/106749.jpg",
-      "date": "Jan 4, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Seinen"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Microphone Soul Spinners: Kotodama Shoujo",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/102079.jpg",
-      "date": "Jan 11, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Music"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Xue Ying Ling Zhu 2nd Season",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1520/105226.jpg",
@@ -1977,6 +1965,18 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Microphone Soul Spinners: Kotodama Shoujo",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/102079.jpg",
+      "date": "Jan 11, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Music"
       ],
       "category": "ONA"
     },
@@ -1995,18 +1995,6 @@
       "category": "ONA"
     },
     {
-      "title": "Ogaki Matsuri ni Ikou yo!",
-      "description": "A tourism promotion anime for Ogaki City in the Gifu Prefecture. The story's script was written by Kou Nakamura, a famous novelist from Ogaki City.\n\nA love story set during the Ogaki Festival preparations. The festival itself is held in May.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1425/106763.jpg",
-      "date": "Mar 20, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Romance"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Pianoman",
       "description": "The still, white space expands as far as the eye can see. A man who's lost his memory awakens. An enormous door stands before him, and there's an old temple in the distance. The building seems to be calling to him, and the man approaches it. There's an old piano there. The moment he touches it, horrifying memories return to him. Who is this man, really? And what is the truth of this space...?\n\n(Source: YouTube)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1181/105817.jpg",
@@ -2018,6 +2006,18 @@
         "Demons",
         "Psychological",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ogaki Matsuri ni Ikou yo!",
+      "description": "A tourism promotion anime for Ogaki City in the Gifu Prefecture. The story's script was written by Kou Nakamura, a famous novelist from Ogaki City.\n\nA love story set during the Ogaki Festival preparations. The festival itself is held in May.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1425/106763.jpg",
+      "date": "Mar 20, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Romance"
       ],
       "category": "ONA"
     },
@@ -2050,6 +2050,18 @@
       "category": "ONA"
     },
     {
+      "title": "Ushichichi Tabehoudai! The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
+      "date": "Mar 11, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Inunaki-mura x Taka no Tsume-dan",
       "description": "A collaboration between the live-action horror film Inunaki-mura slated to be released in theaters February 7, 2020 and the Eagle Talon franchise. The film is based on the urban legend of the real-life abandoned Inunaki Village and the old tunnel that cut through the area.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1632/105513.jpg",
@@ -2068,7 +2080,7 @@
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
       "date": "Mar 8, 2020",
-      "producer": "-",
+      "producer": "Ruo Hong Culture",
       "eps": 80,
       "genres": [
         "Action",
@@ -2076,18 +2088,6 @@
         "Drama",
         "Martial Arts",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Ushichichi Tabehoudai! The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
-      "date": "Mar 11, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
       ],
       "category": "ONA"
     },
@@ -2252,6 +2252,22 @@
       "category": "OVA"
     },
     {
+      "title": "Strike the Blood: Kieta Seisou-hen",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1918/103377.jpg",
+      "date": "Jan 29, 2020",
+      "producer": "Connect",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Supernatural",
+        "Ecchi",
+        "Vampire",
+        "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
       "title": "ACCA: 13-ku Kansatsu-ka - Regards",
       "description": "Set in the capital city of Badon one year after the events of the TV anime, Jean and the rest of the ACCA department are preparing for the one-year anniversary of the establishment of the new order. For the characters — caught between rumors of unrest, unchanging days, new crossroads, gazes remembered in memories, and days of new beginnings — time once again begins to move forward.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1878/101560.jpg",
@@ -2278,22 +2294,6 @@
         "Game",
         "Comedy",
         "Drama"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "Strike the Blood: Kieta Seisou-hen",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1918/103377.jpg",
-      "date": "Jan 29, 2020",
-      "producer": "Connect",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Supernatural",
-        "Ecchi",
-        "Vampire",
-        "Fantasy"
       ],
       "category": "OVA"
     },
@@ -2370,18 +2370,6 @@
       "category": "OVA"
     },
     {
-      "title": "Shikijou Kyoudan",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/105665.jpg",
-      "date": "Mar 6, 2020",
-      "producer": "-",
-      "eps": 2,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Tonari no Ie no Anette-san The Animation",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1767/103913.jpg",
@@ -2394,23 +2382,23 @@
       "category": "OVA"
     },
     {
-      "title": "Chii-chan Kaihatsu Nikki",
+      "title": "Shikijou Kyoudan",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/103705.jpg",
-      "date": "Jan 31, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/105665.jpg",
+      "date": "Mar 6, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 2,
       "genres": [
         "Hentai"
       ],
       "category": "OVA"
     },
     {
-      "title": "Onii-chan Asa made Zutto Gyutte Shite!",
+      "title": "Chii-chan Kaihatsu Nikki",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/103712.jpg",
-      "date": "Mar 6, 2020",
-      "producer": "Studio 1st",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/103705.jpg",
+      "date": "Jan 31, 2020",
+      "producer": "-",
       "eps": null,
       "genres": [
         "Hentai"
@@ -2431,6 +2419,18 @@
         "Space",
         "Comedy",
         "Shounen"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Onii-chan Asa made Zutto Gyutte Shite!",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/103712.jpg",
+      "date": "Mar 6, 2020",
+      "producer": "Studio 1st",
+      "eps": null,
+      "genres": [
+        "Hentai"
       ],
       "category": "OVA"
     },
@@ -2754,20 +2754,6 @@
       "category": "Special"
     },
     {
-      "title": "Chuubyou Gekihatsu Boy Special",
-      "description": "Unaired episode 12 included with volume 4 of the BD/DVD release.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1527/103340.jpg",
-      "date": "Mar 25, 2020",
-      "producer": "Studio Deen",
-      "eps": 1,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "School"
-      ],
-      "category": "Special"
-    },
-    {
       "title": "Girls & Panzer: Taiyaki War!",
       "description": "Special included with Girls & Panzer: Saishuushou Part 2 Blu-ray and DVD.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1789/104010.jpg",
@@ -2776,6 +2762,20 @@
       "eps": 1,
       "genres": [
         "Military",
+        "Comedy",
+        "School"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "Chuubyou Gekihatsu Boy Special",
+      "description": "Unaired episode 12 included with volume 4 of the BD/DVD release.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1527/103340.jpg",
+      "date": "Mar 25, 2020",
+      "producer": "Studio Deen",
+      "eps": 1,
+      "genres": [
+        "Slice of Life",
         "Comedy",
         "School"
       ],
