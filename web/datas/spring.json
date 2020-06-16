@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-06-15",
+  "lastUpdate": "2020-06-16",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -57,12 +57,12 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1986/105547.jpg",
       "date": "Apr 5, 2020, 01:30 (JST)",
       "producer": "Doga Kobo",
-      "eps": 18,
+      "eps": 12,
       "genres": [
+        "Slice of Life",
         "Drama",
         "Romance",
-        "Seinen",
-        "Slice of Life"
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -261,7 +261,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1997/106184.jpg",
       "date": "Apr 5, 2020, 21:30 (JST)",
       "producer": "Zero-G",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Action",
         "Comedy",
@@ -2195,11 +2195,11 @@
       "category": "OVA"
     },
     {
-      "title": "Sotsugyou ** Densha",
+      "title": "Shihai no Kyoudan",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1882/105980.jpg",
-      "date": "Apr 24, 2020",
-      "producer": "-",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1239/106367.jpg",
+      "date": "May 29, 2020",
+      "producer": "PoRO",
       "eps": null,
       "genres": [
         "Hentai"
@@ -2207,11 +2207,11 @@
       "category": "OVA"
     },
     {
-      "title": "Shihai no Kyoudan",
+      "title": "Sotsugyou ** Densha",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1239/106367.jpg",
-      "date": "May 29, 2020",
-      "producer": "PoRO",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1882/105980.jpg",
+      "date": "Apr 24, 2020",
+      "producer": "-",
       "eps": null,
       "genres": [
         "Hentai"

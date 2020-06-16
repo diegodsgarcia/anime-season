@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-15",
+  "lastUpdate": "2020-06-16",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -249,6 +249,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Umayon",
+      "description": "It's a \"pop\" and cute everyday anime based on the 4-koma manga featuring the characters from Uma Musume: Pretty Derby.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108013.jpg",
+      "date": "Jul 7, 2020, 21:54 (JST)",
+      "producer": "DMM.futureworks, W-Toon Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Sports"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Lapis Re:LiGHTs",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1880/107611.jpg",
@@ -257,6 +271,22 @@
       "eps": null,
       "genres": [
         "Music"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Koi to Producer: EVOL×LOVE",
+      "description": "A girl inherits a company that is almost bankrupt from her late father. Lacking the funds, she must now become the producer herself in order to save the company from collapse.\nDuring her work, she meets four boys—financial expert Zen, the idol Kira, police officer Haku, and leading neuroscientist Simon—and is suddenly involved with the conspiracies and mysteries over the existence of special powers known as \"Evol.\"\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1678/108031.jpg",
+      "date": "Jul 16, 2020",
+      "producer": "MAPPA",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Slice of Life",
+        "Super Power",
+        "Romance",
+        "Shoujo"
       ],
       "category": "TV (New)"
     },
@@ -589,20 +619,6 @@
         "Music"
       ],
       "category": "Special"
-    },
-    {
-      "title": "Umayon",
-      "description": "It's a \"pop\" and cute everyday anime based on the 4-koma manga featuring the characters from Uma Musume: Pretty Derby.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1618/106630.jpg",
-      "date": "Jul 7, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Sports"
-      ],
-      "category": "Unknown"
     }
   ]
 }
