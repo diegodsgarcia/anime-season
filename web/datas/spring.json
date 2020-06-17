@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-06-16",
+  "lastUpdate": "2020-06-17",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -405,11 +405,11 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1341/105735.jpg",
       "date": "Apr 3, 2020, 22:00 (JST)",
       "producer": "SANZIGEN",
-      "eps": null,
+      "eps": 12,
       "genres": [
+        "Sci-Fi",
         "Adventure",
         "Mecha",
-        "Sci-Fi",
         "Shounen"
       ],
       "category": "TV (New)"
@@ -826,6 +826,22 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Washimo 8th Season",
+      "description": "Eighth season of the Washimo series.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1914/106717.jpg",
+      "date": "Mar 30, 2020, 06:00 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Sci-Fi",
+        "Slice of Life",
+        "Comedy",
+        "Kids",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -2071,6 +2087,31 @@
       "category": "ONA"
     },
     {
+      "title": "Condom Battler Gorou",
+      "description": "The show follows Gorou, a 24-year-old man who dreams of becoming the greatest Condom Battler. His go-to weapon is a 0.01 mm condom which he loads into an arm dispenser, and it opens to reveal a red rubbery armor that Gorou wears in battle. It also gives the hero the ability to summon sperm and created an attack out of the sticky substance.\n\nThere are other characters in the anime like Miku and Hayato who duel using their own condoms. The anime is filled with absurd dialogue and fights, but these heroes always make sure to teach a sex education lesson along the way. \n\n(Source: Comicbook.com)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1305/108045.jpg",
+      "date": "Jun 11, 2020",
+      "producer": "-",
+      "eps": 4,
+      "genres": [
+        "Action",
+        "Parody"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Mottainai Baasan",
+      "description": "In the books, the titular Grandma seeks to explore the true meaning of the Japanese phrase \"mottainai\" after her son asked her what it meant and she couldn't answer. \"Mottainai\" is a commonly used exclamation that roughly translates to \"what a waste!\", expressing regret over wastefulness. The Grandma seeks to explore the meaning and importance of \"mottainai\" in the story.\n\n(Source: Anime News Network)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1652/108053.jpg",
+      "date": "Jun 4, 2020",
+      "producer": "LIDENFILMS",
+      "eps": 4,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Strike the Blood IV",
       "description": "Fourth season of Strike the Blood.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1792/104833.jpg",
@@ -2123,11 +2164,11 @@
       "category": "OVA"
     },
     {
-      "title": "Yarichin Kateikyoushi Netori Houkoku",
+      "title": "Gishi wa Yan Mama Junyuu Chuu",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1372/105978.jpg",
-      "date": "May 29, 2020",
-      "producer": "-",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/105977.jpg",
+      "date": "Jun 5, 2020",
+      "producer": "T-Rex",
       "eps": 2,
       "genres": [
         "Hentai"
@@ -2135,11 +2176,11 @@
       "category": "OVA"
     },
     {
-      "title": "Gishi wa Yan Mama Junyuu Chuu",
+      "title": "Yarichin Kateikyoushi Netori Houkoku",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/105977.jpg",
-      "date": "Jun 5, 2020",
-      "producer": "T-Rex",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1372/105978.jpg",
+      "date": "May 29, 2020",
+      "producer": "-",
       "eps": 2,
       "genres": [
         "Hentai"

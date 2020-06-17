@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-16",
+  "lastUpdate": "2020-06-17",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -38,7 +38,7 @@
       "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
       "description": "Second part of Sword Art Online: Alicization - War of Underworld.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1438/105106.jpg",
-      "date": "Jul 12, 2020",
+      "date": "Jul 12, 2020, 00:00 (JST)",
       "producer": "A-1 Pictures",
       "eps": 11,
       "genres": [
@@ -54,7 +54,7 @@
       "title": "Enen no Shouboutai: Ni no Shou",
       "description": "Second season of Enen no Shouboutai.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1673/107657.jpg",
-      "date": "Jul ??, 2020",
+      "date": "Jul 4, 2020",
       "producer": "David Production",
       "eps": null,
       "genres": [
@@ -76,6 +76,24 @@
         "Romance",
         "School",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "The God of High School",
+      "description": "It all began as a fighting tournament to seek out for the best fighter among all high school students in Korea. Mori Jin, a Taekwondo specialist and a high school student, soon learns that there is something much greater beneath the stage of the tournament.\n\n(Source: LINE Webtoon)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1722/107269.jpg",
+      "date": "Jul 6, 2020",
+      "producer": "MAPPA",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure",
+        "Comedy",
+        "Supernatural",
+        "Martial Arts",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -105,24 +123,6 @@
         "Sci-Fi",
         "Drama",
         "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "The God of High School",
-      "description": "It all began as a fighting tournament to seek out for the best fighter among all high school students in Korea. Mori Jin, a Taekwondo specialist and a high school student, soon learns that there is something much greater beneath the stage of the tournament.\n\n(Source: LINE Webtoon)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1722/107269.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "MAPPA",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Adventure",
-        "Comedy",
-        "Supernatural",
-        "Martial Arts",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -173,7 +173,7 @@
       "title": "Monster Musume no Oishasan",
       "description": "In the town of Lindworm where monsters and humans coexist, Dr. Glenn runs an exemplary medical clinic for monster girls with his lamia assistant, Sapphee. Whether receiving a marriage proposal by a centaur injured in battle, palpating the injury of a mermaid, or suturing the delicate wounds of a flesh golem, Dr. Glenn performs his job with grace and confidence. But when an unsavory character seeks to steal a harpy egg, how will the unflappable Dr. Glenn respond...?\n \n(Source: Seven Seas Entertainment)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106598.jpg",
-      "date": "Jul 12, 2020",
+      "date": "Jul 12, 2020, 23:00 (JST)",
       "producer": "Arvo Animation",
       "eps": null,
       "genres": [
@@ -188,8 +188,8 @@
       "title": "Gibiate",
       "description": "In 2030, Japan. A virus has infected humans throughout the world. Infected people turn into different forms of monsters based on their ages, sexes, and races. The virus is named \"Gibia\"—after being rich in variety like gibia.\n\nJust then, a pair of samurai and ninja appeared in such a blighted wasteland of Japan. They both traveled from the early Edo period, fighting together with help from a doctor who tries to find cure for Gibia. Facing ceaseless attacks from Gibias and outlaws that attack travelers for food, they start the dangerous journey with enemies all around.\n\n(Source: Official Website)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1769/107880.jpg",
-      "date": "Jul 8, 2020",
-      "producer": "-",
+      "date": "Jul 15, 2020, 22:00 (JST)",
+      "producer": "l-a-unch・BOX, Studio elle",
       "eps": null,
       "genres": [
         "Action",
@@ -278,7 +278,7 @@
       "title": "Koi to Producer: EVOL×LOVE",
       "description": "A girl inherits a company that is almost bankrupt from her late father. Lacking the funds, she must now become the producer herself in order to save the company from collapse.\nDuring her work, she meets four boys—financial expert Zen, the idol Kira, police officer Haku, and leading neuroscientist Simon—and is suddenly involved with the conspiracies and mysteries over the existence of special powers known as \"Evol.\"\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1678/108031.jpg",
-      "date": "Jul 16, 2020",
+      "date": "Jul 16, 2020, 00:00 (JST)",
       "producer": "MAPPA",
       "eps": null,
       "genres": [
@@ -342,6 +342,19 @@
       "genres": [
         "Sci-Fi",
         "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Tian Bao Fuyao Lu",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1432/105225.jpg",
+      "date": "Jul 5, 2020",
+      "producer": "Sparkly Key Animation Studio",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Historical"
       ],
       "category": "ONA"
     },
@@ -442,6 +455,31 @@
       "date": "Jul 31, 2020",
       "producer": "-",
       "eps": 1,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Oujo & Onna Kishi W Do Gehin Roshutsu",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1427/108043.jpg",
+      "date": "Aug 28, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai",
+        "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Shikiyoku Infinite",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1467/108042.jpg",
+      "date": "Aug 28, 2020",
+      "producer": "-",
+      "eps": null,
       "genres": [
         "Hentai"
       ],
