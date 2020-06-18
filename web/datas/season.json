@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-17",
+  "lastUpdate": "2020-06-18",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -83,7 +83,7 @@
       "title": "The God of High School",
       "description": "It all began as a fighting tournament to seek out for the best fighter among all high school students in Korea. Mori Jin, a Taekwondo specialist and a high school student, soon learns that there is something much greater beneath the stage of the tournament.\n\n(Source: LINE Webtoon)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1722/107269.jpg",
-      "date": "Jul 6, 2020",
+      "date": "Jul 6, 2020, 23:30 (JST)",
       "producer": "MAPPA",
       "eps": null,
       "genres": [
@@ -291,19 +291,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Kyojinzoku no Hanayome",
-      "description": "\"If you're a giant and a dwarf, you might be pregnant with men?\"\n\nOne day, Kouichi, a boy's school student, is summoned to another world while masturbating. It's a giant's country where a much larger race lives. The first prince of the country, Kaius, who appears in front of him, enthusiastically stared at Kouichi and proposed, \"I want you to be my bride and give birth to my baby\" ...!?\n\n(Source: MAL News)\n\nThe complete edition with explicit scenes was distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1481/107629.jpg",
-      "date": "Jul 6, 2020, 01:00 (JST)",
-      "producer": "Studio Hokiboshi",
-      "eps": null,
-      "genres": [
-        "Fantasy",
-        "Yaoi"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Chou Futsuu Toshi Kashiwa Densetsu",
       "description": "A gag anime set in Kashiwa, featuring high school girls and mysterious creatures.\n\n(Source: Chou Futsuu Toshi Kashiwa Densetsu Wiki)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1413/103348.jpg",
@@ -313,6 +300,19 @@
       "genres": [
         "Comedy",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Kyojinzoku no Hanayome",
+      "description": "\"If you're a giant and a dwarf, you might be pregnant with men?\"\n\nOne day, Kouichi, a boy's school student, is summoned to another world while masturbating. It's a giant's country where a much larger race lives. The first prince of the country, Kaius, who appears in front of him, enthusiastically stared at Kouichi and proposed, \"I want you to be my bride and give birth to my baby\" ...!?\n\n(Source: MAL News)\n\nThe complete edition with explicit scenes was distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1481/107629.jpg",
+      "date": "Jul 6, 2020, 01:00 (JST)",
+      "producer": "Studio Hokiboshi",
+      "eps": null,
+      "genres": [
+        "Fantasy",
+        "Yaoi"
       ],
       "category": "TV (New)"
     },
@@ -329,6 +329,20 @@
         "Fantasy",
         "Kids",
         "Supernatural"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Ani ni Tsukeru Kusuri wa Nai! 4",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/108067.jpg",
+      "date": "Aug ??, 2020",
+      "producer": "Fanworks, Imagineer",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -359,6 +373,20 @@
       "category": "ONA"
     },
     {
+      "title": "Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set",
+      "description": "The original video anime episode will serve as the final chapter to the television series, focusing on the rivalry between the \"background character\" Amatsuyu Kisaragi (Jouro) and Yasuo Hazuki (Hose), \"the protagonist.\"\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1155/106799.jpg",
+      "date": "Sep 2, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "School"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Planetarian: Snow Globe",
       "description": "The new OVA will feature the prequel short story \"Snow Globe,\" which debuted as part of a light novel volume that bundled with a limited-edition version of the original PC game.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1320/106943.jpg",
@@ -369,7 +397,7 @@
         "Sci-Fi",
         "Drama"
       ],
-      "category": "ONA"
+      "category": "OVA"
     },
     {
       "title": "Kabukichou Sherlock OVA",

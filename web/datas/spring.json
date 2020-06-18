@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-06-17",
+  "lastUpdate": "2020-06-18",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -326,8 +326,8 @@
       "producer": "Studio A-CAT",
       "eps": 12,
       "genres": [
-        "School",
-        "Sports"
+        "Sports",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -1706,7 +1706,7 @@
       "description": "Third season of Hitori no Shita: The Outcast.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/106650.jpg",
       "date": "Apr 24, 2020",
-      "producer": "-",
+      "producer": "BigFireBird Animation",
       "eps": 8,
       "genres": [
         "Action",
@@ -1793,14 +1793,13 @@
     {
       "title": "Shi Huang Zhi Shen",
       "description": "Lian En is a god who has lied too much and has now attracted bad karma. One day, he meets a high school student who will change his destiny forever!\n\n(Source: Exodus Chaos)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1455/99125.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1524/106826.jpg",
       "date": "Apr 1, 2020",
       "producer": "Haoliners Animation League",
-      "eps": null,
+      "eps": 13,
       "genres": [
         "Action",
-        "Comedy",
-        "Shounen"
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2249,7 +2248,7 @@
     },
     {
       "title": "Sotsugyou ** Densha",
-      "description": "(No synopsis yet.)",
+      "description": "Based on the doujin CG by Ibukichi.\n\nBunta is a 43-year-old man who does nothing but think about his hot teacher from Nakajima Nanoka high school with whom he had a secret relationship. After years, she accidentally meets a woman who looks a lot like her old teacher named Nakajima Kanoko that she is a high school teacher with the same surname. Bunta falls madly in love with Kanoko and does not want to wait until the latter disappears like her former teacher.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1882/105980.jpg",
       "date": "Apr 24, 2020",
       "producer": "-",
