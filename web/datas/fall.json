@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-06-18",
+  "lastUpdate": "2020-06-19",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -156,6 +156,20 @@
         "Action",
         "Magic",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Ikebukuro West Gate Park",
+      "description": "Living in an area known for its juvenile crime, 21-year-old Makoto is a friend of King, the leader of a youth gang called the G-Boys, though he himself does not want to join as a member. Known for his cool head and ability to get things done, Makoto becomes a key trouble-shooter for the gang by diffusing tense situations and keeping his friends out of harm's way. However, the death of his girlfriend and an escalating turf war with a rival gang threaten to be more than Makoto can handle.\n\n(Source: AsianWiki)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1143/106670.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Doga Kobo",
+      "eps": null,
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Romance"
       ],
       "category": "TV (New)"
     },

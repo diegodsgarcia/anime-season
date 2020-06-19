@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-06-18",
+  "lastUpdate": "2020-06-19",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -29,9 +29,9 @@
       "genres": [
         "Action",
         "Adventure",
+        "Mystery",
         "Drama",
-        "Fantasy",
-        "Mystery"
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -90,8 +90,8 @@
       "genres": [
         "Comedy",
         "Drama",
-        "Fantasy",
         "Romance",
+        "Fantasy",
         "School"
       ],
       "category": "TV (New)"
@@ -311,10 +311,10 @@
       "producer": "Doga Kobo",
       "eps": 12,
       "genres": [
+        "Slice of Life",
         "Comedy",
         "School",
-        "Seinen",
-        "Slice of Life"
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -367,9 +367,9 @@
       "producer": "Kamikaze Douga, Space Neko Company",
       "eps": 12,
       "genres": [
+        "Slice of Life",
         "Comedy",
-        "Seinen",
-        "Slice of Life"
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -381,8 +381,8 @@
       "producer": "LIDENFILMS",
       "eps": 12,
       "genres": [
-        "Historical",
-        "Mystery"
+        "Mystery",
+        "Historical"
       ],
       "category": "TV (New)"
     },
@@ -423,8 +423,8 @@
       "eps": null,
       "genres": [
         "Action",
-        "Fantasy",
         "Game",
+        "Fantasy",
         "Shounen"
       ],
       "category": "TV (New)"
@@ -450,9 +450,9 @@
       "eps": null,
       "genres": [
         "Comedy",
+        "Sports",
         "Drama",
-        "Shounen",
-        "Sports"
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -491,7 +491,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1367/104178.jpg",
       "date": "Apr 11, 2020, 01:25 (JST)",
       "producer": "SANZIGEN",
-      "eps": null,
+      "eps": 13,
       "genres": [
         "Music"
       ],
@@ -889,9 +889,9 @@
       "genres": [
         "Action",
         "Adventure",
+        "Super Power",
         "Martial Arts",
-        "Shounen",
-        "Super Power"
+        "Shounen"
       ],
       "category": "TV (Continuing)"
     },
@@ -1104,10 +1104,10 @@
       "producer": "Nippon Animation",
       "eps": null,
       "genres": [
+        "Slice of Life",
         "Comedy",
         "Kids",
-        "School",
-        "Slice of Life"
+        "School"
       ],
       "category": "TV (Continuing)"
     },
@@ -2059,14 +2059,15 @@
       "category": "ONA"
     },
     {
-      "title": "BIGOTRE Capture Mission",
-      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
-      "date": "Apr 6, 2020",
+      "title": "Condom Battler Gorou",
+      "description": "The show follows Gorou, a 24-year-old man who dreams of becoming the greatest Condom Battler. His go-to weapon is a 0.01 mm condom which he loads into an arm dispenser, and it opens to reveal a red rubbery armor that Gorou wears in battle. It also gives the hero the ability to summon sperm and created an attack out of the sticky substance.\n\nThere are other characters in the anime like Miku and Hayato who duel using their own condoms. The anime is filled with absurd dialogue and fights, but these heroes always make sure to teach a sex education lesson along the way. \n\n(Source: Comicbook.com)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1305/108045.jpg",
+      "date": "Jun 11, 2020",
       "producer": "-",
-      "eps": 3,
+      "eps": 4,
       "genres": [
-        "Game"
+        "Action",
+        "Parody"
       ],
       "category": "ONA"
     },
@@ -2086,15 +2087,14 @@
       "category": "ONA"
     },
     {
-      "title": "Condom Battler Gorou",
-      "description": "The show follows Gorou, a 24-year-old man who dreams of becoming the greatest Condom Battler. His go-to weapon is a 0.01 mm condom which he loads into an arm dispenser, and it opens to reveal a red rubbery armor that Gorou wears in battle. It also gives the hero the ability to summon sperm and created an attack out of the sticky substance.\n\nThere are other characters in the anime like Miku and Hayato who duel using their own condoms. The anime is filled with absurd dialogue and fights, but these heroes always make sure to teach a sex education lesson along the way. \n\n(Source: Comicbook.com)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1305/108045.jpg",
-      "date": "Jun 11, 2020",
+      "title": "BIGOTRE Capture Mission",
+      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
+      "date": "Apr 6, 2020",
       "producer": "-",
-      "eps": 4,
+      "eps": 3,
       "genres": [
-        "Action",
-        "Parody"
+        "Game"
       ],
       "category": "ONA"
     },
@@ -2331,6 +2331,22 @@
       "eps": 1,
       "genres": [
         "Drama"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Xixing Ji Zhi Zaijian Wukong",
+      "description": "Prequel to the Xixing Ji series.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1767/108086.jpg",
+      "date": "May 4, 2020",
+      "producer": "BYMENT",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Historical",
+        "Martial Arts",
+        "Fantasy"
       ],
       "category": "Movie"
     },

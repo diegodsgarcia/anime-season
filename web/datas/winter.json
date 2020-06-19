@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-06-18",
+  "lastUpdate": "2020-06-19",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -728,9 +728,9 @@
       "genres": [
         "Action",
         "Adventure",
+        "Super Power",
         "Martial Arts",
-        "Shounen",
-        "Super Power"
+        "Shounen"
       ],
       "category": "TV (Continuing)"
     },
@@ -1028,10 +1028,10 @@
       "producer": "Nippon Animation",
       "eps": null,
       "genres": [
+        "Slice of Life",
         "Comedy",
         "Kids",
-        "School",
-        "Slice of Life"
+        "School"
       ],
       "category": "TV (Continuing)"
     },
@@ -2050,18 +2050,6 @@
       "category": "ONA"
     },
     {
-      "title": "Ushichichi Tabehoudai! The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
-      "date": "Mar 11, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Wu Shen Zhu Zai",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
@@ -2074,6 +2062,18 @@
         "Drama",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ushichichi Tabehoudai! The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
+      "date": "Mar 11, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Hentai"
       ],
       "category": "ONA"
     },
@@ -2128,6 +2128,19 @@
       "genres": [
         "Drama",
         "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Wan Jie Shen Zhu 2nd Season",
+      "description": "Second season of Wan Jie She Zhu.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1600/105797.jpg",
+      "date": "Feb 1, 2020",
+      "producer": "Ruo Hong Culture",
+      "eps": 48,
+      "genres": [
+        "Adventure",
+        "Fantasy"
       ],
       "category": "ONA"
     },

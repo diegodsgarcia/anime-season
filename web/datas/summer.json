@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-18",
+  "lastUpdate": "2020-06-19",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -402,7 +402,7 @@
     {
       "title": "Kabukichou Sherlock OVA",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1036/107020.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1456/108076.jpg",
       "date": "Aug 26, 2020",
       "producer": "-",
       "eps": 6,
@@ -571,21 +571,6 @@
         "Slice of Life",
         "Romance",
         "Shounen Ai"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Bishoujo Senshi Sailor Moon Eternal Movie 1",
-      "description": "Bishoujo Senshi Sailor Moon Eternal serves as the fourth installment in Toei Animation's reboot of Naoko Takeuchi's original magical girl manga. The sequel was announced in January 2017 as a part of the franchise's 25th anniversary and later confirmed to be a two-part anime film covering the Dream arc.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1517/101714.jpg",
-      "date": "Sep 11, 2020",
-      "producer": "Studio Deen, Toei Animation",
-      "eps": 1,
-      "genres": [
-        "Demons",
-        "Magic",
-        "Romance",
-        "Shoujo"
       ],
       "category": "Movie"
     },
