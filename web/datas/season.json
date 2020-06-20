@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-19",
+  "lastUpdate": "2020-06-20",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -218,20 +218,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Ikebukuro West Gate Park",
-      "description": "Living in an area known for its juvenile crime, 21-year-old Makoto is a friend of King, the leader of a youth gang called the G-Boys, though he himself does not want to join as a member. Known for his cool head and ability to get things done, Makoto becomes a key trouble-shooter for the gang by diffusing tense situations and keeping his friends out of harm's way. However, the death of his girlfriend and an escalating turf war with a rival gang threaten to be more than Makoto can handle.\n\n(Source: AsianWiki)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1143/106670.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "Doga Kobo",
-      "eps": null,
-      "genres": [
-        "Mystery",
-        "Drama",
-        "Romance"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
       "description": "Second season of Muhyo to Rouji no Mahouritsu Soudan Jimusho.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1218/106376.jpg",
@@ -291,19 +277,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Chou Futsuu Toshi Kashiwa Densetsu",
-      "description": "A gag anime set in Kashiwa, featuring high school girls and mysterious creatures.\n\n(Source: Chou Futsuu Toshi Kashiwa Densetsu Wiki)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1413/103348.jpg",
-      "date": "Jul 6, 2020, 21:55 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Kyojinzoku no Hanayome",
       "description": "\"If you're a giant and a dwarf, you might be pregnant with men?\"\n\nOne day, Kouichi, a boy's school student, is summoned to another world while masturbating. It's a giant's country where a much larger race lives. The first prince of the country, Kaius, who appears in front of him, enthusiastically stared at Kouichi and proposed, \"I want you to be my bride and give birth to my baby\" ...!?\n\n(Source: MAL News)\n\nThe complete edition with explicit scenes was distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1481/107629.jpg",
@@ -313,6 +286,19 @@
       "genres": [
         "Fantasy",
         "Yaoi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Chou Futsuu Toshi Kashiwa Densetsu",
+      "description": "A gag anime set in Kashiwa, featuring high school girls and mysterious creatures.\n\n(Source: Chou Futsuu Toshi Kashiwa Densetsu Wiki)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1413/103348.jpg",
+      "date": "Jul 6, 2020, 21:55 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -344,6 +330,16 @@
         "Comedy",
         "School"
       ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Ninja Collection",
+      "description": "Set in modern-day Tokyo where dreams and desires are afloat, a group of ninjas called \"Toukeshuu\" is set to stop the spread of \"darkness\" that prevails in the world using ancient techniques passed down through generations.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1997/108104.jpg",
+      "date": "Jul ??, 2020",
+      "producer": "DRAWIZ, ILCA, Toho Interactive Animation",
+      "eps": null,
+      "genres": [],
       "category": "TV (New)"
     },
     {
@@ -512,21 +508,6 @@
         "Hentai"
       ],
       "category": "OVA"
-    },
-    {
-      "title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram",
-      "description": "An adaptation of the the Sixth Singularity, The Sacred Round Table Realm Camelot Singularity of Fate/Grand Order.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1535/103385.jpg",
-      "date": "Aug 15, 2020",
-      "producer": "Signal.MD",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Supernatural",
-        "Magic",
-        "Fantasy"
-      ],
-      "category": "Movie"
     },
     {
       "title": "Shingeki no Kyojin: Chronicle",

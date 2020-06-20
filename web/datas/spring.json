@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-06-19",
+  "lastUpdate": "2020-06-20",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -587,7 +587,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1524/106532.jpg",
       "date": "Apr 6, 2020, 01:35 (JST)",
       "producer": "-",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Slice of Life"
       ],
