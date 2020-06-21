@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-20",
+  "lastUpdate": "2020-06-21",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -65,21 +65,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Kanojo, Okarishimasu",
-      "description": "Dumped by his girlfriend, emotionally shattered college student Kazuya Kinoshita attempts to appease the void in his heart through a rental girlfriend from a mobile app. At first, Chizuru Mizuhara seems to be the perfect girl with everything he could possibly ask for: great looks and a cute, caring personality.\n \nUpon seeing mixed opinions on her profile after their first date, and still tormented by his previous relationship, Kazuya believes that Chizuru is just playing around with the hearts of men and leaves her a negative rating. Angry at her client's disrespect towards her, Chizuru reveals her true nature: sassy and temperamental, the complete opposite of Kazuya's first impression. At that very moment, Kazuya receives news of his grandmother's collapse and is forced to bring Chizuru along with him to the hospital.\n \nAlthough it turns out to be nothing serious, his grandmother is ecstatic that Kazuya has finally found a serious girlfriend, which had always been her wish. Unable to tell her the truth, Kazuya and Chizuru are forced into a fake relationship—acting as if they are truly lovers.\n \n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1485/107693.jpg",
-      "date": "Jul 11, 2020, 01:25 (JST)",
-      "producer": "TMS Entertainment",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "School",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "The God of High School",
       "description": "It all began as a fighting tournament to seek out for the best fighter among all high school students in Korea. Mori Jin, a Taekwondo specialist and a high school student, soon learns that there is something much greater beneath the stage of the tournament.\n\n(Source: LINE Webtoon)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1722/107269.jpg",
@@ -94,6 +79,21 @@
         "Supernatural",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Kanojo, Okarishimasu",
+      "description": "Dumped by his girlfriend, emotionally shattered college student Kazuya Kinoshita attempts to appease the void in his heart through a rental girlfriend from a mobile app. At first, Chizuru Mizuhara seems to be the perfect girl with everything he could possibly ask for: great looks and a cute, caring personality.\n \nUpon seeing mixed opinions on her profile after their first date, and still tormented by his previous relationship, Kazuya believes that Chizuru is just playing around with the hearts of men and leaves her a negative rating. Angry at her client's disrespect towards her, Chizuru reveals her true nature: sassy and temperamental, the complete opposite of Kazuya's first impression. At that very moment, Kazuya receives news of his grandmother's collapse and is forced to bring Chizuru along with him to the hospital.\n \nAlthough it turns out to be nothing serious, his grandmother is ecstatic that Kazuya has finally found a serious girlfriend, which had always been her wish. Unable to tell her the truth, Kazuya and Chizuru are forced into a fake relationship—acting as if they are truly lovers.\n \n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1485/107693.jpg",
+      "date": "Jul 11, 2020, 01:25 (JST)",
+      "producer": "TMS Entertainment",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "School",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -115,7 +115,7 @@
       "title": "No Guns Life 2nd Season",
       "description": "Second half of No Guns Life.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/106613.jpg",
-      "date": "Jul ??, 2020",
+      "date": "Jul 10, 2020, 01:28 (JST)",
       "producer": "Madhouse",
       "eps": 12,
       "genres": [
@@ -365,6 +365,32 @@
       "genres": [
         "Action",
         "Historical"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "You Yao",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1821/108124.jpg",
+      "date": "Jul 10, 2020",
+      "producer": "Shenying Animation",
+      "eps": 12,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ling Jian Zun 4th Season",
+      "description": "Fourth season of Ling Jian Zun.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1972/108157.jpg",
+      "date": "Sep 11, 2020",
+      "producer": "Soyep",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Romance",
+        "Fantasy"
       ],
       "category": "ONA"
     },

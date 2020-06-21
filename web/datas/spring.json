@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-06-20",
+  "lastUpdate": "2020-06-21",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -226,21 +226,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Shironeko Project: Zero Chronicle",
-      "description": "In a world consisting of numerous isles, a young hero from the Astora Isle encounters the adventurer Kyle and follows him on an expedition on the isle. They meet a mysterious girl named Iris and a talking white cat, and together they make their way to the isle's ruins, where they find a flying island. Kyle becomes consumed by darkness there, and the party resolves to travel to the ends of the world on the flying island in order to find the seven \"Great Runes,\" following Kyle's words before he disappeared.\n\n(Source: Wikipedia)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1494/105719.jpg",
-      "date": "Apr 6, 2020, 22:00 (JST)",
-      "producer": "Project No.9",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Magic",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Nami yo Kiitekure",
       "description": "Restaurant worker Minare Koda has recently been through a bad breakup. Heartbroken and drunk after a night out, she rants about her misery to a complete stranger—Kanetsugu Matou, a radio station director local to Sapporo, Hokkaido.\n\nThe next day at work, Minare is shocked to hear a recording of herself from the previous night playing over the radio. Flustered, she rushes to the radio station in a frenzy to stop the broadcast. As she confronts Matou, a chain of events leads to her giving an impromptu talk live on air, explaining her savage drunken speech. With her energetic voice, she delivers a smooth dialogue with no hesitation, which Matou recognizes as raw talent.\n\nMinare soon becomes a late-night talk show host under Matou's direction, covering amusing narratives set in Sapporo, all while balancing her day job and personal life to make ends meet.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1615/105582.jpg",
@@ -252,6 +237,21 @@
         "Drama",
         "Romance",
         "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Shironeko Project: Zero Chronicle",
+      "description": "In a world consisting of numerous isles, a young hero from the Astora Isle encounters the adventurer Kyle and follows him on an expedition on the isle. They meet a mysterious girl named Iris and a talking white cat, and together they make their way to the isle's ruins, where they find a flying island. Kyle becomes consumed by darkness there, and the party resolves to travel to the ends of the world on the flying island in order to find the seven \"Great Runes,\" following Kyle's words before he disappeared.\n\n(Source: Wikipedia)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1494/105719.jpg",
+      "date": "Apr 6, 2020, 22:00 (JST)",
+      "producer": "Project No.9",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Magic",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -511,20 +511,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Mewkledreamy",
-      "description": "The story begins when a middle school girl named Yume sees something fall from the sky, and meets a pale violet-colored kitten named Mew. It turns out that Mew has the power of \"Yume Synchro\" (Dream Synchro), the power to enter dreams. In the dream world, the girl and Mew collect Dream Stones. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105775.jpg",
-      "date": "Apr 5, 2020, 10:30 (JST)",
-      "producer": "J.C.Staff",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Komatta Jiisan",
       "description": "The comedy centers on an old man who pulls stereotypical ikemen (handsome man) actions on similarly old women and makes their hearts flutter. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1227/106465.jpg",
@@ -538,6 +524,20 @@
         "Romance",
         "Seinen",
         "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Mewkledreamy",
+      "description": "The story begins when a middle school girl named Yume sees something fall from the sky, and meets a pale violet-colored kitten named Mew. It turns out that Mew has the power of \"Yume Synchro\" (Dream Synchro), the power to enter dreams. In the dream world, the girl and Mew collect Dream Stones. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105775.jpg",
+      "date": "Apr 5, 2020, 10:30 (JST)",
+      "producer": "J.C.Staff",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Kids",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },

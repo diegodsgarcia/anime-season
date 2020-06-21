@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-06-20",
+  "lastUpdate": "2020-06-21",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -2119,19 +2119,6 @@
       "category": "ONA"
     },
     {
-      "title": "Kore ga Masakano Are Deshita: Wakamono no Shoushisha Higai",
-      "description": "The adult age in japan will be reduced from 20 years of age to 18 years of age in April 2022. Some teenagers may suffer from poor financial decisions as they legally can enter contracts. If they need help, they can call 188 (Consumer Hotline). This hotline was launched in July 1, 2015 by the Department of Consumer Affairs and is run by local governments.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/106483.jpg",
-      "date": "Mar 12, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Drama",
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Wan Jie Shen Zhu 2nd Season",
       "description": "Second season of Wan Jie She Zhu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1600/105797.jpg",
@@ -2141,6 +2128,19 @@
       "genres": [
         "Adventure",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Kore ga Masakano Are Deshita: Wakamono no Shoushisha Higai",
+      "description": "The adult age in japan will be reduced from 20 years of age to 18 years of age in April 2022. Some teenagers may suffer from poor financial decisions as they legally can enter contracts. If they need help, they can call 188 (Consumer Hotline). This hotline was launched in July 1, 2015 by the Department of Consumer Affairs and is run by local governments.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/106483.jpg",
+      "date": "Mar 12, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Drama",
+        "Slice of Life"
       ],
       "category": "ONA"
     },
