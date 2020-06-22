@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-06-21",
+  "lastUpdate": "2020-06-22",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1522,18 +1522,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Konigiri-kun",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Otoppe",
       "description": "The series follows a young girl named Shina who hopes to become the world's best DJ, and is interested in new sounds. Shina explores a mysterious world filled with Otoppe, strange creatures capable of unique sounds.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
@@ -1544,6 +1532,18 @@
         "Music",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Konigiri-kun",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1846,6 +1846,18 @@
       "category": "ONA"
     },
     {
+      "title": "Katarina Nounai Kaigi",
+      "description": "Short specials posted on the official twitter account where the \"Katarina Five\" will introduce HameFura.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1067/106344.jpg",
+      "date": "Feb 29, 2020",
+      "producer": "Silver Link.",
+      "eps": null,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Meltys Quest",
       "description": "The anime adaptation of circle Remtairy's popular RPG Meltys Quest.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1461/106276.jpg",
@@ -1855,18 +1867,6 @@
       "genres": [
         "Hentai",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Katarina Nounai Kaigi",
-      "description": "Short specials posted on the official twitter account where the \"Katarina Five\" will introduce HameFura.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1067/106344.jpg",
-      "date": "Feb 29, 2020",
-      "producer": "Silver Link.",
-      "eps": null,
-      "genres": [
-        "Comedy"
       ],
       "category": "ONA"
     },

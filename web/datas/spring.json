@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-06-21",
+  "lastUpdate": "2020-06-22",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -67,20 +67,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Shokugeki no Souma: Gou no Sara",
-      "description": "Fifth season of Shokugeki no Souma.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1813/106300.jpg",
-      "date": "Apr 11, 2020, 00:30 (JST)",
-      "producer": "J.C.Staff",
-      "eps": null,
-      "genres": [
-        "Ecchi",
-        "School",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
       "description": "Most people would prefer being the protagonist of a world full of adventure, be it in a game or in another world. But, unfortunately, a certain girl is not so lucky. Regaining the memories of her past life, she realizes that she was reborn in the world of Fortune Lover—one of the games she used to play.\n\nUnfortunately, the character she was reincarnated into—Katarina Claes—is the game's main antagonist, who faces utter doom in every ending. Using her extensive knowledge of the game, she takes it upon herself to escape from the chains of this accursed destiny.\n\nHowever, this will not be an easy feat, especially since she needs to be cautious as to not set off death flags that may speed up the impending doom she is trying to avoid. Even so, to make a change that will affect the lives of everyone around her, she strives—not as the heroine—but as the villainess.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1483/107061.jpg",
@@ -93,6 +79,20 @@
         "Romance",
         "Fantasy",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Shokugeki no Souma: Gou no Sara",
+      "description": "Fifth season of Shokugeki no Souma.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1813/106300.jpg",
+      "date": "Apr 11, 2020, 00:30 (JST)",
+      "producer": "J.C.Staff",
+      "eps": null,
+      "genres": [
+        "Ecchi",
+        "School",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -182,19 +182,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Appare-Ranman!",
-      "description": "No dream is too big for Appare Sorrano, a socially-awkward inventor living in a small rural town in Japan in the late 19th century. Fascinated since childhood by the creation of steamships that can connect people across great distances, he’s learnt to make machines of all kinds from various scientific texts. His goal is to sail across the sea, beyond the sky, and ultimately, to the other side of the moon.\n\nUnfortunately, through a string of events, Appare finds himself stranded in the middle of the sea on his mini steamship. Floating alongside him is a skilled but cowardly samurai, Kosame Ishikki, who was tasked to keep his eccentric behavior in check. Just when all hope seems lost, a large steamship saves them and takes them to Los Angeles. With no money or plans, they decide to participate in the \"Trans-America Wild Race,\" which gives Appare the chance to build his own automobile, and Kosame the opportunity to use the cash prize to return home. However, against rival racers and unknown challenges residing in the wilderness, just how far will this adventure take Appare and Kosame?\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1710/106614.jpg",
-      "date": "Apr 10, 2020, 21:30 (JST)",
-      "producer": "P.A. Works",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Historical"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Arte",
       "description": "In the 16th century, the city of Florence booms with cultural and creative revival in celebration of the Renaissance. Arte, a delightful young lady from an aristocratic family, dreams of being an artist and contributing to the renewal of civilization. However, with her father's death, she ends up losing the only person who believed in her passion for art. Now she is expected to marry a nobleman and live as a refined housewife without disgracing her family name. Reluctant to accept her fate, the headstrong Arte steps into the streets in search of a master artisan to take her on as an apprentice.\n\nIn her quest for a mentor, Arte has to face harsh reality when she is completely shunned for being a female artist. No one believes that women are capable of fine craftsmanship, and therefore none are willing to accept her. Luckily, a renowned artisan by the name of Leo is persuaded to take her as his disciple since he has none anyway. And thus, Arte's new life begins, far from the comfort of her noble upbringing. As an apprentice, she must earn her keep while tackling various challenges along the difficult path to becoming a full-fledged, master artisan.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1284/106945.jpg",
@@ -207,6 +194,19 @@
         "Romance",
         "Seinen",
         "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Appare-Ranman!",
+      "description": "No dream is too big for Appare Sorrano, a socially-awkward inventor living in a small rural town in Japan in the late 19th century. Fascinated since childhood by the creation of steamships that can connect people across great distances, he’s learnt to make machines of all kinds from various scientific texts. His goal is to sail across the sea, beyond the sky, and ultimately, to the other side of the moon.\n\nUnfortunately, through a string of events, Appare finds himself stranded in the middle of the sea on his mini steamship. Floating alongside him is a skilled but cowardly samurai, Kosame Ishikki, who was tasked to keep his eccentric behavior in check. Just when all hope seems lost, a large steamship saves them and takes them to Los Angeles. With no money or plans, they decide to participate in the \"Trans-America Wild Race,\" which gives Appare the chance to build his own automobile, and Kosame the opportunity to use the cash prize to return home. However, against rival racers and unknown challenges residing in the wilderness, just how far will this adventure take Appare and Kosame?\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1710/106614.jpg",
+      "date": "Apr 10, 2020, 21:30 (JST)",
+      "producer": "P.A. Works",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Historical"
       ],
       "category": "TV (New)"
     },
@@ -511,6 +511,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Mewkledreamy",
+      "description": "The story begins when a middle school girl named Yume sees something fall from the sky, and meets a pale violet-colored kitten named Mew. It turns out that Mew has the power of \"Yume Synchro\" (Dream Synchro), the power to enter dreams. In the dream world, the girl and Mew collect Dream Stones. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105775.jpg",
+      "date": "Apr 5, 2020, 10:30 (JST)",
+      "producer": "J.C.Staff",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Kids",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Komatta Jiisan",
       "description": "The comedy centers on an old man who pulls stereotypical ikemen (handsome man) actions on similarly old women and makes their hearts flutter. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1227/106465.jpg",
@@ -524,20 +538,6 @@
         "Romance",
         "Seinen",
         "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Mewkledreamy",
-      "description": "The story begins when a middle school girl named Yume sees something fall from the sky, and meets a pale violet-colored kitten named Mew. It turns out that Mew has the power of \"Yume Synchro\" (Dream Synchro), the power to enter dreams. In the dream world, the girl and Mew collect Dream Stones. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105775.jpg",
-      "date": "Apr 5, 2020, 10:30 (JST)",
-      "producer": "J.C.Staff",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Kids",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -1512,18 +1512,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Konigiri-kun",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Otoppe",
       "description": "The series follows a young girl named Shina who hopes to become the world's best DJ, and is interested in new sounds. Shina explores a mysterious world filled with Otoppe, strange creatures capable of unique sounds.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
@@ -1534,6 +1522,18 @@
         "Music",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Konigiri-kun",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1953,6 +1953,21 @@
       "category": "ONA"
     },
     {
+      "title": "Dixia Cheng Yu Yongshi: Nizhuan Zhi Lun",
+      "description": "Sequel to Arad: Suming Zhi Men.\n\nThe Japanese broadcast premiered on July 4, 2020 at 1:53 a.m. on TV Tokyo.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1090/108165.jpg",
+      "date": "Apr 23, 2020",
+      "producer": "LIDENFILMS",
+      "eps": 16,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Puso Ni Comi: Okawari",
       "description": "A second season of Puso Ni Comi, once again following the in-game avatars of the cast.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1466/106923.jpg",
@@ -2023,20 +2038,6 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1374/107900.jpg",
       "date": "Apr 16, 2020",
       "producer": "ASK Animation Studio",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Dixia Cheng Yu Yongshi Zhi Nizhuan Zhi Lun",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1095/107434.jpg",
-      "date": "Apr 23, 2020",
-      "producer": "-",
       "eps": 12,
       "genres": [
         "Action",
