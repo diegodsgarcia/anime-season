@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-06-22",
+  "lastUpdate": "2020-06-23",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -2092,6 +2092,19 @@
       "category": "ONA"
     },
     {
+      "title": "Wan Jie Shen Zhu 2nd Season",
+      "description": "Second season of Wan Jie She Zhu.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1600/105797.jpg",
+      "date": "Feb 1, 2020",
+      "producer": "Ruo Hong Culture",
+      "eps": 48,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Man with a Mission The Animation",
       "description": "Short 3DCG anime for Japanese band MAN WITH A MISSION.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1378/106615.jpg",
@@ -2115,19 +2128,6 @@
         "Sci-Fi",
         "Super Power",
         "Martial Arts"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Wan Jie Shen Zhu 2nd Season",
-      "description": "Second season of Wan Jie She Zhu.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1600/105797.jpg",
-      "date": "Feb 1, 2020",
-      "producer": "Ruo Hong Culture",
-      "eps": 48,
-      "genres": [
-        "Adventure",
-        "Fantasy"
       ],
       "category": "ONA"
     },

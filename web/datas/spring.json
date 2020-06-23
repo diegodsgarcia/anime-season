@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-06-22",
+  "lastUpdate": "2020-06-23",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -2310,6 +2310,18 @@
       "category": "Movie"
     },
     {
+      "title": "Gon Movie: Gon, the Little Fox",
+      "description": "When Gon, a playful orphaned fox, finds that young Hyoju has lost his mother, he tries to comfort him and makes amends for his own earlier mischief by secretly bringing small gifts to the boy every day.\n\nBut Hyoju doesn't realize who is behind the anonymous gifts, and the two are headed for a heartbreaking climax.\n\n(Source: Official Site)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1194/107736.jpg",
+      "date": "Jun 6, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Drama"
+      ],
+      "category": "Movie"
+    },
+    {
       "title": "Fushigi Dakashiy Movie: Zenitendou - Tsuritai Yaki",
       "description": "Short movie adaptation of the children's book series by Reiko Hiroshima. Screened at Toei Manga Festival 2020.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1877/106331.jpg",
@@ -2320,18 +2332,6 @@
         "Mystery",
         "Comedy",
         "Kids"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Gon Movie: Gon, the Little Fox",
-      "description": "When Gon, a playful orphaned fox, finds that young Hyoju has lost his mother, he tries to comfort him and makes amends for his own earlier mischief by secretly bringing small gifts to the boy every day.\n\nBut Hyoju doesn't realize who is behind the anonymous gifts, and the two are headed for a heartbreaking climax.\n\n(Source: Official Site)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1194/107736.jpg",
-      "date": "Jun 6, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Drama"
       ],
       "category": "Movie"
     },

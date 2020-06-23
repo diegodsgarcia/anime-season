@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-22",
+  "lastUpdate": "2020-06-23",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -333,6 +333,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "Get Up! Get Live! #Geragera",
+      "description": "The story of the \"voice actor x 2D entertainer\" project centers on aspiring comedian entertainers who all gather at SSS, a talent agency for comedians. The story portrays the friction and jealousy in their rivaling careers, as well as their admiration towards industry veterans, their disappointments, and the obstacles to their success as they aspire to become the greatest entertainers in Japan and the world.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1523/108199.jpg",
+      "date": "Jul 11, 2020, 01:50 (JST)",
+      "producer": "Spell Bound",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Ninja Collection",
       "description": "Set in modern-day Tokyo where dreams and desires are afloat, a group of ninjas called \"Toukeshuu\" is set to stop the spread of \"darkness\" that prevails in the world using ancient techniques passed down through generations.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1997/108104.jpg",
@@ -353,7 +366,7 @@
         "Sci-Fi",
         "Drama"
       ],
-      "category": "ONA"
+      "category": "TV (New)"
     },
     {
       "title": "Tian Bao Fuyao Lu",
@@ -422,7 +435,7 @@
         "Romance",
         "School"
       ],
-      "category": "OVA"
+      "category": "ONA"
     },
     {
       "title": "Planetarian: Snow Globe",
@@ -435,7 +448,7 @@
         "Sci-Fi",
         "Drama"
       ],
-      "category": "OVA"
+      "category": "ONA"
     },
     {
       "title": "Kabukichou Sherlock OVA",
@@ -567,21 +580,7 @@
         "Fantasy",
         "Shounen"
       ],
-      "category": "Movie"
-    },
-    {
-      "title": "Kud Wafter",
-      "description": "This anime adapts Key's visual novel Kud Wafter, which follows the romantic relationship between Riki Naoe and Kudryavka Noumi from the game Little Busters!",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/86916.jpg",
-      "date": "Sep ??, 2020",
-      "producer": "J.C.Staff",
-      "eps": 1,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "School"
-      ],
-      "category": "Movie"
+      "category": "OVA"
     },
     {
       "title": "Umibe no Étranger",
@@ -595,7 +594,21 @@
         "Romance",
         "Shounen Ai"
       ],
-      "category": "Movie"
+      "category": "OVA"
+    },
+    {
+      "title": "Kud Wafter",
+      "description": "This anime adapts Key's visual novel Kud Wafter, which follows the romantic relationship between Riki Naoe and Kudryavka Noumi from the game Little Busters!",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/86916.jpg",
+      "date": "Sep ??, 2020",
+      "producer": "J.C.Staff",
+      "eps": 1,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "School"
+      ],
+      "category": "OVA"
     },
     {
       "title": "Shika no Ou",
@@ -655,7 +668,7 @@
         "Romance",
         "Fantasy"
       ],
-      "category": "Special"
+      "category": "Movie"
     },
     {
       "title": "Murenase! Seton Gakuen Special",
@@ -668,7 +681,7 @@
         "Comedy",
         "School"
       ],
-      "category": "Special"
+      "category": "Movie"
     },
     {
       "title": "22/7: 8＋3=?",
@@ -680,7 +693,7 @@
       "genres": [
         "Music"
       ],
-      "category": "Special"
+      "category": "Movie"
     },
     {
       "title": "ARP Backstage Pass Special",
@@ -692,7 +705,7 @@
       "genres": [
         "Music"
       ],
-      "category": "Special"
+      "category": "Movie"
     }
   ]
 }
