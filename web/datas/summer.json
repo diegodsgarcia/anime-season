@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-23",
+  "lastUpdate": "2020-06-24",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -319,6 +319,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "Get Up! Get Live! #Geragera",
+      "description": "The story of the \"voice actor x 2D entertainer\" project centers on aspiring comedian entertainers who all gather at SSS, a talent agency for comedians. The story portrays the friction and jealousy in their rivaling careers, as well as their admiration towards industry veterans, their disappointments, and the obstacles to their success as they aspire to become the greatest entertainers in Japan and the world.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1523/108199.jpg",
+      "date": "Jul 11, 2020, 01:50 (JST)",
+      "producer": "Spell Bound",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Ani ni Tsukeru Kusuri wa Nai! 4",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/108067.jpg",
@@ -329,19 +342,6 @@
         "Slice of Life",
         "Comedy",
         "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Get Up! Get Live! #Geragera",
-      "description": "The story of the \"voice actor x 2D entertainer\" project centers on aspiring comedian entertainers who all gather at SSS, a talent agency for comedians. The story portrays the friction and jealousy in their rivaling careers, as well as their admiration towards industry veterans, their disappointments, and the obstacles to their success as they aspire to become the greatest entertainers in Japan and the world.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1523/108199.jpg",
-      "date": "Jul 11, 2020, 01:50 (JST)",
-      "producer": "Spell Bound",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -365,6 +365,19 @@
       "genres": [
         "Sci-Fi",
         "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Nu Wushen de Canzhuo II",
+      "description": "Second season of Nu Wushen de Canzhuo.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/108206.jpg",
+      "date": "Jul 17, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -404,6 +417,47 @@
       "eps": 12,
       "genres": [
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Shi Zhi Ge: Hua Yu Yan De Kuangxiang Shi",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1261/108209.jpg",
+      "date": "Jul 16, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Music",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Xian Feng Jian Yu Lu",
+      "description": "In ancient Shenzhou, humans and demon had been in constant dispute for thousands of years. The demon princess from Tushan, Bai Binglan, and the human Zhang Kuangyun met each other due to a misunderstanding. In order to investigate the enemy country, Bai Binglan became Zhang Kuangyun's companion. As they travel together, Zhang Kuangyun discovers a conspiracy...",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/108195.jpg",
+      "date": "Jul 11, 2020",
+      "producer": "Ruo Hong Culture",
+      "eps": 70,
+      "genres": [
+        "Action",
+        "Supernatural",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Yuan Long",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
+      "date": "Jul 11, 2020",
+      "producer": "CG Year",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Fantasy"
       ],
       "category": "ONA"
     },

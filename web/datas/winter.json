@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-06-23",
+  "lastUpdate": "2020-06-24",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -127,21 +127,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Id:Invaded",
-      "description": "The Mizuhanome System is a highly advanced development that allows people to enter one of the most intriguing places in existence—the human mind. Through the use of so-called \"cognition particles\" left behind at a crime scene by the perpetrator, detectives from the specialized police squad Kura can manifest a criminal's unconscious mind as a bizarre stream of thoughts in a virtual world. Their task is to explore this psychological plane, called an \"id well,\" to reveal the identity of the culprit.\n\nNot just anyone can enter the id wells; the prerequisite is that you must have killed someone yourself. Such is the case for former detective Akihito Narihisago, who is known as \"Sakaido\" inside the id wells. Once a respected member of the police, tragedy struck, and he soon found himself on the other side of the law.\n\nNevertheless, Narihisago continues to assist Kura in confinement. While his prodigious detective skills still prove useful toward investigations, Narihisago discovers that not everything is as it seems, as behind the seemingly standalone series of murder cases lurks a much more sinister truth.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1889/105337.jpg",
-      "date": "Jan 6, 2020, 00:30 (JST)",
-      "producer": "NAZ",
-      "eps": 13,
-      "genres": [
-        "Mystery",
-        "Police",
-        "Psychological",
-        "Sci-Fi"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Plunderer",
       "description": "Alcia is a world governed by \"Count\": numbers engraved on a person's body, representing any number related to their life. These Counts determine a person's social status and power in Alcia. If a Count reaches zero, the person is sent to the Abyss, a place rumored to be worse than death.\n\nHina, a traveler whose Count is based on the distance she traveled, witnessed her mother get dragged down into the Abyss. Determined to fulfill her mother's last wishes, she sets off on a journey in search of the legendary Aces—heroes of the war that happened three hundred years ago, bearing a white star next to their Count.\n\nWhile wandering around, Hina encounters Licht Bach, a mysterious masked man with negative Count, and Nana, the owner of a tavern. In the midst of having a good time, Hina is tricked into a battle with a military soldier. However, despite his negative count, Licht rescues Hina and reveals that he has another count, one with a white star, one of a legendary Ace.\n\nPlunderer follows the journey of Hina and other inhabitants of Alcia as they discover the truth about their world, the Abyss, and the legendary Aces.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1534/104784.jpg",
@@ -153,6 +138,21 @@
         "Ecchi",
         "Fantasy",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Id:Invaded",
+      "description": "The Mizuhanome System is a highly advanced development that allows people to enter one of the most intriguing places in existence—the human mind. Through the use of so-called \"cognition particles\" left behind at a crime scene by the perpetrator, detectives from the specialized police squad Kura can manifest a criminal's unconscious mind as a bizarre stream of thoughts in a virtual world. Their task is to explore this psychological plane, called an \"id well,\" to reveal the identity of the culprit.\n\nNot just anyone can enter the id wells; the prerequisite is that you must have killed someone yourself. Such is the case for former detective Akihito Narihisago, who is known as \"Sakaido\" inside the id wells. Once a respected member of the police, tragedy struck, and he soon found himself on the other side of the law.\n\nNevertheless, Narihisago continues to assist Kura in confinement. While his prodigious detective skills still prove useful toward investigations, Narihisago discovers that not everything is as it seems, as behind the seemingly standalone series of murder cases lurks a much more sinister truth.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1889/105337.jpg",
+      "date": "Jan 6, 2020, 00:30 (JST)",
+      "producer": "NAZ",
+      "eps": 13,
+      "genres": [
+        "Mystery",
+        "Police",
+        "Psychological",
+        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
@@ -485,7 +485,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1421/105605.jpg",
       "date": "Jan 14, 2020, 00:00 (JST)",
       "producer": "P.A. Works, Studio 3Hz",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Music"
       ],
@@ -2527,17 +2527,17 @@
     },
     {
       "title": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
-      "description": "(No synopsis yet.)",
+      "description": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei continues the epic adventure of Riko and Reg who are joined by their new friend Nanachi. Together, they descend into the Abyss' treacherous fifth layer, the Sea of Corpses, and encounter the mysterious Bondrewd, a legendary White Whistle whose shadow looms over Nanachi's troubled past. Bondrewd is ingratiatingly hospitable, but the brave adventurers know things are not always as they seem in the enigmatic Abyss...\n\n(Source: Sentai Filmworks, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1175/101926.jpg",
       "date": "Jan 17, 2020",
       "producer": "Kinema Citrus",
       "eps": 1,
       "genres": [
-        "Sci-Fi",
         "Adventure",
-        "Mystery",
         "Drama",
-        "Fantasy"
+        "Fantasy",
+        "Mystery",
+        "Sci-Fi"
       ],
       "category": "Movie"
     },

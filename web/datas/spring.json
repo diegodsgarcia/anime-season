@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-06-23",
+  "lastUpdate": "2020-06-24",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -211,17 +211,17 @@
       "category": "TV (New)"
     },
     {
-      "title": "Listeners",
-      "description": "Set in a world where the concept of music ceases to exist. The story begins when a boy encounters Myuu, a mysterious girl who possesses an audio input jack in her body. The two intermingle with the history of rock music and embark on an unforgettable journey.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1589/106391.jpg",
-      "date": "Apr 4, 2020, 01:55 (JST)",
-      "producer": "MAPPA",
+      "title": "Shironeko Project: Zero Chronicle",
+      "description": "In a world consisting of numerous isles, a young hero from the Astora Isle encounters the adventurer Kyle and follows him on an expedition on the isle. They meet a mysterious girl named Iris and a talking white cat, and together they make their way to the isle's ruins, where they find a flying island. Kyle becomes consumed by darkness there, and the party resolves to travel to the ends of the world on the flying island in order to find the seven \"Great Runes,\" following Kyle's words before he disappeared.\n\n(Source: Wikipedia)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1494/105719.jpg",
+      "date": "Apr 6, 2020, 22:00 (JST)",
+      "producer": "Project No.9",
       "eps": 12,
       "genres": [
         "Action",
-        "Mecha",
-        "Music",
-        "Sci-Fi"
+        "Adventure",
+        "Magic",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -241,17 +241,17 @@
       "category": "TV (New)"
     },
     {
-      "title": "Shironeko Project: Zero Chronicle",
-      "description": "In a world consisting of numerous isles, a young hero from the Astora Isle encounters the adventurer Kyle and follows him on an expedition on the isle. They meet a mysterious girl named Iris and a talking white cat, and together they make their way to the isle's ruins, where they find a flying island. Kyle becomes consumed by darkness there, and the party resolves to travel to the ends of the world on the flying island in order to find the seven \"Great Runes,\" following Kyle's words before he disappeared.\n\n(Source: Wikipedia)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1494/105719.jpg",
-      "date": "Apr 6, 2020, 22:00 (JST)",
-      "producer": "Project No.9",
+      "title": "Listeners",
+      "description": "Set in a world where the concept of music ceases to exist. The story begins when a boy encounters Myuu, a mysterious girl who possesses an audio input jack in her body. The two intermingle with the history of rock music and embark on an unforgettable journey.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1589/106391.jpg",
+      "date": "Apr 4, 2020, 01:55 (JST)",
+      "producer": "MAPPA",
       "eps": 12,
       "genres": [
         "Action",
-        "Adventure",
-        "Magic",
-        "Fantasy"
+        "Mecha",
+        "Music",
+        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
@@ -457,19 +457,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Shadowverse (TV)",
-      "description": "The hottest battle is about to begin! While attending Tensei Academy, Hiro Ryugasaki ends up acquiring a mysterious smartphone. It comes installed with the popular card game, Shadowverse! Meeting new rivals, facing major tournaments, forging bonds with friends... Shadowverse leads Hiro to all sorts of new experiences, all that serve to \"evolve\" him.\n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1541/103429.jpg",
-      "date": "Apr 7, 2020, 17:55 (JST)",
-      "producer": "Zexcs",
-      "eps": null,
-      "genres": [
-        "Fantasy",
-        "Game"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Olympia Kyklos",
       "description": "Demetrios, a timid and kind vase painter in Ancient Greece who dislikes sports and competitions, is one day forced to come up with a game to compete with the mayor of the neighboring town in order to save his village. While hiding inside a large vase outside his workshop, lightning strikes the vase Demetrios is in, transferring him to Tokyo, Japan, during the 1964 Summer Olympics.\n \n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1543/107116.jpg",
@@ -482,6 +469,19 @@
         "Historical",
         "Sports",
         "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Shadowverse (TV)",
+      "description": "The hottest battle is about to begin! While attending Tensei Academy, Hiro Ryugasaki ends up acquiring a mysterious smartphone. It comes installed with the popular card game, Shadowverse! Meeting new rivals, facing major tournaments, forging bonds with friends... Shadowverse leads Hiro to all sorts of new experiences, all that serve to \"evolve\" him.\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1541/103429.jpg",
+      "date": "Apr 7, 2020, 17:55 (JST)",
+      "producer": "Zexcs",
+      "eps": null,
+      "genres": [
+        "Fantasy",
+        "Game"
       ],
       "category": "TV (New)"
     },
@@ -1009,7 +1009,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1421/105605.jpg",
       "date": "Jan 14, 2020, 00:00 (JST)",
       "producer": "P.A. Works, Studio 3Hz",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Music"
       ],
@@ -1850,19 +1850,6 @@
       "category": "ONA"
     },
     {
-      "title": "Wo Kai Dongwuyuan Naxie Nian",
-      "description": "Duan Jiaze inherited a private zoo and was forced to sign a contract after his graduation. And from that day onwards the first ever age classified Luya zoo appeared, those aged under 21 are prohibited to enter.\n\n(Source: Twitter User Xiyoumiyu)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1771/106652.jpg",
-      "date": "Apr 5, 2020",
-      "producer": "Haoliners Animation League",
-      "eps": 13,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Huangli Shi",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1444/100629.jpg",
@@ -1873,6 +1860,19 @@
         "Action",
         "Mystery",
         "Supernatural"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Wo Kai Dongwuyuan Naxie Nian",
+      "description": "Duan Jiaze inherited a private zoo and was forced to sign a contract after his graduation. And from that day onwards the first ever age classified Luya zoo appeared, those aged under 21 are prohibited to enter.\n\n(Source: Twitter User Xiyoumiyu)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1771/106652.jpg",
+      "date": "Apr 5, 2020",
+      "producer": "Haoliners Animation League",
+      "eps": 13,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2112,6 +2112,46 @@
       "category": "ONA"
     },
     {
+      "title": "Dubu Xiaoyao",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1429/108132.jpg",
+      "date": "Jun 18, 2020",
+      "producer": "Soyep",
+      "eps": 40,
+      "genres": [
+        "Action",
+        "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Yi Shijie Zhongyao Pu",
+      "description": "After graduating from the University of Traditional Chinese Medicine, Sun Jiayou returned home to inherit a traditional Chinese medicine shop. He found that although the people here would not use medicine as a treatment, they had own spiritual system. To realize his grandfather’s dream, he plans to promote Chinese medicine in a different world. However, the spirit messenger considers it a big threat. In some confrontations with the spirit messenger, he discovers a greater mystery.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1789/108202.jpg",
+      "date": "May 8, 2020",
+      "producer": "Soyep",
+      "eps": 40,
+      "genres": [
+        "Drama",
+        "Magic",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Shouxi Yu Ling Shi",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1457/108134.jpg",
+      "date": "Jun 20, 2020",
+      "producer": "Soyep",
+      "eps": 40,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Strike the Blood IV",
       "description": "Fourth season of Strike the Blood.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1792/104833.jpg",
@@ -2152,24 +2192,24 @@
       "category": "OVA"
     },
     {
-      "title": "Tenioha! 2: Limit Over - Mada Mada Ippai, Ecchi Shiyo? The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1070/105981.jpg",
-      "date": "Apr 24, 2020",
-      "producer": "Studio 1st",
-      "eps": 1,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Gishi wa Yan Mama Junyuu Chuu",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/105977.jpg",
       "date": "Jun 5, 2020",
       "producer": "T-Rex",
       "eps": 2,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Tenioha! 2: Limit Over - Mada Mada Ippai, Ecchi Shiyo? The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1070/105981.jpg",
+      "date": "Apr 24, 2020",
+      "producer": "Studio 1st",
+      "eps": 1,
       "genres": [
         "Hentai"
       ],
@@ -2310,18 +2350,6 @@
       "category": "Movie"
     },
     {
-      "title": "Gon Movie: Gon, the Little Fox",
-      "description": "When Gon, a playful orphaned fox, finds that young Hyoju has lost his mother, he tries to comfort him and makes amends for his own earlier mischief by secretly bringing small gifts to the boy every day.\n\nBut Hyoju doesn't realize who is behind the anonymous gifts, and the two are headed for a heartbreaking climax.\n\n(Source: Official Site)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1194/107736.jpg",
-      "date": "Jun 6, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Drama"
-      ],
-      "category": "Movie"
-    },
-    {
       "title": "Fushigi Dakashiy Movie: Zenitendou - Tsuritai Yaki",
       "description": "Short movie adaptation of the children's book series by Reiko Hiroshima. Screened at Toei Manga Festival 2020.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1877/106331.jpg",
@@ -2332,6 +2360,18 @@
         "Mystery",
         "Comedy",
         "Kids"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Gon Movie: Gon, the Little Fox",
+      "description": "When Gon, a playful orphaned fox, finds that young Hyoju has lost his mother, he tries to comfort him and makes amends for his own earlier mischief by secretly bringing small gifts to the boy every day.\n\nBut Hyoju doesn't realize who is behind the anonymous gifts, and the two are headed for a heartbreaking climax.\n\n(Source: Official Site)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1194/107736.jpg",
+      "date": "Jun 6, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Drama"
       ],
       "category": "Movie"
     },
