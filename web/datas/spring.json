@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-06-24",
+  "lastUpdate": "2020-06-25",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -1702,6 +1702,21 @@
       "category": "ONA"
     },
     {
+      "title": "Yesterday wo Utatte Haishin-ban Episode",
+      "description": "Special episodes released on AbemaTV.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1919/107275.jpg",
+      "date": "Apr 5, 2020",
+      "producer": "Doga Kobo",
+      "eps": 6,
+      "genres": [
+        "Slice of Life",
+        "Drama",
+        "Romance",
+        "Seinen"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Hitori no Shita: The Outcast 3rd Season",
       "description": "Third season of Hitori no Shita: The Outcast.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/106650.jpg",
@@ -1716,21 +1731,6 @@
         "Supernatural",
         "Drama",
         "Martial Arts"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Yesterday wo Utatte Haishin-ban Episode",
-      "description": "Special episodes released on AbemaTV.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1919/107275.jpg",
-      "date": "Apr 5, 2020",
-      "producer": "Doga Kobo",
-      "eps": 6,
-      "genres": [
-        "Slice of Life",
-        "Drama",
-        "Romance",
-        "Seinen"
       ],
       "category": "ONA"
     },

@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-24",
+  "lastUpdate": "2020-06-25",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -54,7 +54,7 @@
       "title": "Enen no Shouboutai: Ni no Shou",
       "description": "Second season of Enen no Shouboutai.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1673/107657.jpg",
-      "date": "Jul 4, 2020",
+      "date": "Jul 4, 2020, 01:55 (JST)",
       "producer": "David Production",
       "eps": null,
       "genres": [
@@ -247,20 +247,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Umayon",
-      "description": "It's a \"pop\" and cute everyday anime based on the 4-koma manga featuring the characters from Uma Musume: Pretty Derby.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108013.jpg",
-      "date": "Jul 7, 2020, 21:54 (JST)",
-      "producer": "DMM.futureworks, W-Toon Studio",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Sports"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Koi to Producer: EVOL×LOVE",
       "description": "A girl inherits a company that is almost bankrupt from her late father. Lacking the funds, she must now become the producer herself in order to save the company from collapse.\nDuring her work, she meets four boys—financial expert Zen, the idol Kira, police officer Haku, and leading neuroscientist Simon—and is suddenly involved with the conspiracies and mysteries over the existence of special powers known as \"Evol.\"\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1678/108031.jpg",
@@ -273,6 +259,20 @@
         "Super Power",
         "Romance",
         "Shoujo"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Umayon",
+      "description": "It's a \"pop\" and cute everyday anime based on the 4-koma manga featuring the characters from Uma Musume: Pretty Derby.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108013.jpg",
+      "date": "Jul 7, 2020, 21:54 (JST)",
+      "producer": "DMM.futureworks, W-Toon Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Sports"
       ],
       "category": "TV (New)"
     },
@@ -436,7 +436,7 @@
     },
     {
       "title": "Xian Feng Jian Yu Lu",
-      "description": "In ancient Shenzhou, humans and demon had been in constant dispute for thousands of years. The demon princess from Tushan, Bai Binglan, and the human Zhang Kuangyun met each other due to a misunderstanding. In order to investigate the enemy country, Bai Binglan became Zhang Kuangyun's companion. As they travel together, Zhang Kuangyun discovers a conspiracy...",
+      "description": "In ancient Shenzhou, humans and demons had been in constant dispute for thousands of years. The demon princess from Tushan, Bai Binglan, and the human Zhang Kuangyun met each other due to a misunderstanding. In order to investigate the enemy country, Bai Binglan became Zhang Kuangyun's companion. As they travel together, Zhang Kuangyun discovers a conspiracy...",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/108195.jpg",
       "date": "Jul 11, 2020",
       "producer": "Ruo Hong Culture",

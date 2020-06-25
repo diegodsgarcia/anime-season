@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-06-24",
+  "lastUpdate": "2020-06-25",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -256,6 +256,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Kuma Kuma Kuma Bear",
+      "description": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has! \n\n(Source: Seven Seas Entertainment)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1062/107803.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "EMT Squared",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Ochikobore Fruit Tart",
       "description": "Fourth dormitory of the Rat Production (commonly known as Nezumi-sou)—the place where dropout idol girls live: the former child actor Sekino Roko, musician Nukui Hayu, and model Maehara Nina. Sakura Ino, who always dreamed of becoming an idol, moves in. At the same time, the decision is made to demolish the dormitory. Due to the project launched by the manager Kajino Hoho, \"Ochikobore Fruit Tart,\" occupants of the dormitory form a new idol group called \"Fruit Tart\" and start their activities in order to repay a one hundred million yen debt. \n\n(Source: MU, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1511/104769.jpg",
@@ -328,9 +342,9 @@
     {
       "title": "Senyoku no Sigrdrifa",
       "description": "The Pillars suddenly appeared above Earth, threatening all life. A god who called himself Odin came to the aid of humanity as it was driven to near complete defeat. To counter the Pillars, Odin declared a counterattack by bequeathing humanity with the battle maidens Walküres and the \"herocraft\" as their wings.\n\nSeveral years later, the battle between humanity and Pillars rages on, with men supporting the Walküres as they soar through the treacherous skies to save the world.\n\nJapan is no exception. Three Walküres confront the giant Pillar looming over sacred Mt. Fuji. Each Walküre is skilled, but each also has issues. And now, an ace pilot has arrived from Europe.\n\n\"Now is the time to fight back, humanity. The day of reckoning has arrived. The time of Ragnarok draws nears.\"\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1960/106258.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1340/108221.jpg",
       "date": "Oct ??, 2020",
-      "producer": "-",
+      "producer": "A-1 Pictures",
       "eps": null,
       "genres": [],
       "category": "TV (New)"
@@ -385,6 +399,20 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Rail Romanesque",
+      "description": "Set in Hinomoto, a fictional version of Japan, where for a long time railway travel served as the most important form of transport. Each locomotive was paired with a humanoid control module, so-called Raillord, that aided the train operator. However, many rail lines had been discontinued due to the rising popularity of 'aerocrafts,' a safe and convenient aerial mode of transport. As such, their accompanying railroads also went into a deep sleep.\n\nSoutetsu had lost his entire family in a rail accident and was adopted into the Migita household, which runs a shochu brewery in the city of Ohitoyo. He returned to his hometown to save it from the potential water pollution that would occur if they accepted the proposal to build an aerocraft factory nearby. He woke up the Raillord Hachiroku by accident and became her owner. For different purposes, they agreed to help find her lost locomotive, with the help of his stepsister Hibiki, the town’s mayor and local railway chief, Paulette and others. \n\n(Source: VNDB, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1986/108226.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Saetta",
+      "eps": 12,
+      "genres": [
+        "Sci-Fi",
+        "Harem",
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
