@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-25",
+  "lastUpdate": "2020-06-26",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -204,7 +204,7 @@
       "title": "Dokyuu Hentai HxEros",
       "description": "In a world on the verge of a great disaster that began five years ago, heroes who, with the help of a device called HxEros, use the power of Ecchi (H) and erotic power (Ero) to save the planet from libido-devouring monsters!\n\nEnjou Retto and Hoshino Kirara are childhood friends who have drifted apart from each other. One day, they're caught in a battle against a \"Censor Bug\" that feeds on human's sexual energy to evolve. After successfully taking down the enemy, they join a group of heroes like them, using the erotic power of the HxEROS force to fight off monsters.\n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1619/106323.jpg",
-      "date": "Jul 4, 2020",
+      "date": "Jul 4, 2020, 00:00 (JST)",
       "producer": "Project No.9",
       "eps": null,
       "genres": [
@@ -395,6 +395,20 @@
       "category": "ONA"
     },
     {
+      "title": "Fanren Xiu Xian Chuan",
+      "description": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.\n\n(Source: Wuxia World)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1022/105820.jpg",
+      "date": "Jul 25, 2020",
+      "producer": "Original Force",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Ling Jian Zun 4th Season",
       "description": "Fourth season of Ling Jian Zun.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1972/108157.jpg",
@@ -458,6 +472,22 @@
       "genres": [
         "Action",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Da Wang Bu Gaoxing 2",
+      "description": "Second season of Da Wang Bu Gaoxing.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1653/108223.jpg",
+      "date": "Jul 21, 2020",
+      "producer": "Haoliners Animation League",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Demons",
+        "Magic",
+        "Fantasy",
+        "School"
       ],
       "category": "ONA"
     },
@@ -619,6 +649,20 @@
       "category": "OVA"
     },
     {
+      "title": "Violet Evergarden Movie",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1225/106549.jpg",
+      "date": "Sep 18, 2020",
+      "producer": "Kyoto Animation",
+      "eps": 1,
+      "genres": [
+        "Slice of Life",
+        "Drama",
+        "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
       "title": "Shingeki no Kyojin: Chronicle",
       "description": "The compilation film will recap the anime's 59 episodes from seasons one to three.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1266/107765.jpg",
@@ -662,7 +706,7 @@
         "Romance",
         "School"
       ],
-      "category": "OVA"
+      "category": "Movie"
     },
     {
       "title": "Shika no Ou",

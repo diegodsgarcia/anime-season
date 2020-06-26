@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-06-25",
+  "lastUpdate": "2020-06-26",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1887,6 +1887,18 @@
       "category": "ONA"
     },
     {
+      "title": "Fukai ni Nemuru Oujo no Abaddon The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1124/105798.jpg",
+      "date": "Jan 24, 2020",
+      "producer": "Peak Hunt",
+      "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Hataraku Saibou Black",
       "description": "A special animated commercial first released on Twitter to promote the manga. It was then released on Kodansha's official YouTube channel on January 15.\n\nSet inside an unhealthy body, Hataraku Saibou Black features the anthropomorphized cells of the human immune system as they attempt to keep their ailing world alive.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1914/106749.jpg",
@@ -1896,18 +1908,6 @@
       "genres": [
         "Action",
         "Seinen"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Fukai ni Nemuru Oujo no Abaddon The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1124/105798.jpg",
-      "date": "Jan 24, 2020",
-      "producer": "Peak Hunt",
-      "eps": null,
-      "genres": [
-        "Hentai"
       ],
       "category": "ONA"
     },
@@ -2105,19 +2105,6 @@
       "category": "ONA"
     },
     {
-      "title": "Man with a Mission The Animation",
-      "description": "Short 3DCG anime for Japanese band MAN WITH A MISSION.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1378/106615.jpg",
-      "date": "Mar 16, 2020",
-      "producer": "-",
-      "eps": 6,
-      "genres": [
-        "Music",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Ninjala Episode 0",
       "description": "Eagle City, Komerica -- WNA Research Laboratory Branch\n\nWNA researchers Burton, Berecca, and Ron continue their tireless efforts to develop \"Ninja-Gum\"; a mysterious substance that activates latent Ninja DNA in people descended from those legendary mercenary warriors (alt: those legendary mercenaries from days gone by). Today, all their hard work finally pays off. It is here - on their 2,503rd attempt - that they finally succeed in producing Ninja-Gum! Burton and Berecca can barely contain their excitement, and waste no time in trying the gum for themselves! But then...\n\n(Source: Official YouTube channel)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1444/106767.jpg",
@@ -2128,6 +2115,19 @@
         "Sci-Fi",
         "Super Power",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Man with a Mission The Animation",
+      "description": "Short 3DCG anime for Japanese band MAN WITH A MISSION.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1378/106615.jpg",
+      "date": "Mar 16, 2020",
+      "producer": "-",
+      "eps": 6,
+      "genres": [
+        "Music",
+        "Comedy"
       ],
       "category": "ONA"
     },

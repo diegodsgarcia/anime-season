@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-06-25",
+  "lastUpdate": "2020-06-26",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -1982,6 +1982,22 @@
       "category": "ONA"
     },
     {
+      "title": "Huyao Xiao Hongniang: Jin Chenxi",
+      "description": "The 9th season of Huyao Xiao Hongniang.",
+      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "date": "Jun 19, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Historical",
+        "Supernatural",
+        "Drama",
+        "Romance"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1324/103548.jpg",
@@ -1995,22 +2011,6 @@
         "Comedy",
         "Mecha",
         "Shounen"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Huyao Xiao Hongniang: Jin Chenxi",
-      "description": "The 9th season of Huyao Xiao Hongniang.",
-      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "date": "Jun 19, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Historical",
-        "Supernatural",
-        "Drama",
-        "Romance"
       ],
       "category": "ONA"
     },
@@ -2112,19 +2112,6 @@
       "category": "ONA"
     },
     {
-      "title": "Dubu Xiaoyao",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1429/108132.jpg",
-      "date": "Jun 18, 2020",
-      "producer": "Soyep",
-      "eps": 40,
-      "genres": [
-        "Action",
-        "Martial Arts"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Yi Shijie Zhongyao Pu",
       "description": "After graduating from the University of Traditional Chinese Medicine, Sun Jiayou returned home to inherit a traditional Chinese medicine shop. He found that although the people here would not use medicine as a treatment, they had own spiritual system. To realize his grandfather’s dream, he plans to promote Chinese medicine in a different world. However, the spirit messenger considers it a big threat. In some confrontations with the spirit messenger, he discovers a greater mystery.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1789/108202.jpg",
@@ -2135,6 +2122,19 @@
         "Drama",
         "Magic",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Dubu Xiaoyao",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1429/108132.jpg",
+      "date": "Jun 18, 2020",
+      "producer": "Soyep",
+      "eps": 40,
+      "genres": [
+        "Action",
+        "Martial Arts"
       ],
       "category": "ONA"
     },
@@ -2350,6 +2350,18 @@
       "category": "Movie"
     },
     {
+      "title": "Gon Movie: Gon, the Little Fox",
+      "description": "When Gon, a playful orphaned fox, finds that young Hyoju has lost his mother, he tries to comfort him and makes amends for his own earlier mischief by secretly bringing small gifts to the boy every day.\n\nBut Hyoju doesn't realize who is behind the anonymous gifts, and the two are headed for a heartbreaking climax.\n\n(Source: Official Site)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1194/107736.jpg",
+      "date": "Jun 6, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Drama"
+      ],
+      "category": "Movie"
+    },
+    {
       "title": "Fushigi Dakashiy Movie: Zenitendou - Tsuritai Yaki",
       "description": "Short movie adaptation of the children's book series by Reiko Hiroshima. Screened at Toei Manga Festival 2020.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1877/106331.jpg",
@@ -2360,18 +2372,6 @@
         "Mystery",
         "Comedy",
         "Kids"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Gon Movie: Gon, the Little Fox",
-      "description": "When Gon, a playful orphaned fox, finds that young Hyoju has lost his mother, he tries to comfort him and makes amends for his own earlier mischief by secretly bringing small gifts to the boy every day.\n\nBut Hyoju doesn't realize who is behind the anonymous gifts, and the two are headed for a heartbreaking climax.\n\n(Source: Official Site)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1194/107736.jpg",
-      "date": "Jun 6, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Drama"
       ],
       "category": "Movie"
     },
