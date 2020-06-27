@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-06-26",
+  "lastUpdate": "2020-06-27",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -511,20 +511,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Mewkledreamy",
-      "description": "The story begins when a middle school girl named Yume sees something fall from the sky, and meets a pale violet-colored kitten named Mew. It turns out that Mew has the power of \"Yume Synchro\" (Dream Synchro), the power to enter dreams. In the dream world, the girl and Mew collect Dream Stones. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105775.jpg",
-      "date": "Apr 5, 2020, 10:30 (JST)",
-      "producer": "J.C.Staff",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Komatta Jiisan",
       "description": "The comedy centers on an old man who pulls stereotypical ikemen (handsome man) actions on similarly old women and makes their hearts flutter. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1227/106465.jpg",
@@ -538,6 +524,20 @@
         "Romance",
         "Seinen",
         "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Mewkledreamy",
+      "description": "The story begins when a middle school girl named Yume sees something fall from the sky, and meets a pale violet-colored kitten named Mew. It turns out that Mew has the power of \"Yume Synchro\" (Dream Synchro), the power to enter dreams. In the dream world, the girl and Mew collect Dream Stones. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105775.jpg",
+      "date": "Apr 5, 2020, 10:30 (JST)",
+      "producer": "J.C.Staff",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Kids",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -1646,6 +1646,20 @@
       "category": "ONA"
     },
     {
+      "title": "Nakitai Watashi wa Neko wo Kaburu",
+      "description": "Miyo Sasaki, nicknamed \"Muge\" meaning \"infinitely mysterious,\" has a bright personality and is full of energy at school and at home. She is also in love with her classmate Kento Hinode. Miyo tries repeatedly to get Kento's attention, but he takes no notice of her. She realizes that the only way to get close to him is to transform into a cat, but at some point, the boundary between herself and the cat becomes ambiguous.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1045/106389.jpg",
+      "date": "Jun 18, 2020",
+      "producer": "Studio Colorido",
+      "eps": 1,
+      "genres": [
+        "Drama",
+        "Magic",
+        "Romance"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Baki 2nd Season",
       "description": "Second season of Baki.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1020/107918.jpg",
@@ -1782,7 +1796,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1963/105596.jpg",
       "date": "Apr 10, 2020",
       "producer": "Zero-G",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Comedy",
         "Horror",
@@ -1944,7 +1958,7 @@
       "description": "In the year 2115 of the Fortress, Wei Qin, commander of the border troops, went to the Fortress to participate in the selection of the elected official and to secretly investigate those responsible for the Border incident.  At the same time, the No. 1 public enemy, Yuan Yi, launched a major revolt.  As the plot progresses, all parties are involved in this quest.  How is Wei Qin going to sort out the true from the false and bring the truth out?\n\n(Source: Exodus Chaos)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1915/106921.jpg",
       "date": "Apr 7, 2020",
-      "producer": "-",
+      "producer": "Congzhuo Animation",
       "eps": 12,
       "genres": [
         "Action",
@@ -2100,14 +2114,15 @@
       "category": "ONA"
     },
     {
-      "title": "Mottainai Baasan",
-      "description": "In the books, the titular Grandma seeks to explore the true meaning of the Japanese phrase \"mottainai\" after her son asked her what it meant and she couldn't answer. \"Mottainai\" is a commonly used exclamation that roughly translates to \"what a waste!\", expressing regret over wastefulness. The Grandma seeks to explore the meaning and importance of \"mottainai\" in the story.\n\n(Source: Anime News Network)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1652/108053.jpg",
-      "date": "Jun 4, 2020",
-      "producer": "LIDENFILMS",
-      "eps": 4,
+      "title": "Dubu Xiaoyao",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1429/108132.jpg",
+      "date": "Jun 18, 2020",
+      "producer": "Soyep",
+      "eps": 40,
       "genres": [
-        "Slice of Life"
+        "Action",
+        "Martial Arts"
       ],
       "category": "ONA"
     },
@@ -2126,15 +2141,14 @@
       "category": "ONA"
     },
     {
-      "title": "Dubu Xiaoyao",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1429/108132.jpg",
-      "date": "Jun 18, 2020",
-      "producer": "Soyep",
-      "eps": 40,
+      "title": "Mottainai Baasan",
+      "description": "In the books, the titular Grandma seeks to explore the true meaning of the Japanese phrase \"mottainai\" after her son asked her what it meant and she couldn't answer. \"Mottainai\" is a commonly used exclamation that roughly translates to \"what a waste!\", expressing regret over wastefulness. The Grandma seeks to explore the meaning and importance of \"mottainai\" in the story.\n\n(Source: Anime News Network)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1652/108053.jpg",
+      "date": "Jun 4, 2020",
+      "producer": "LIDENFILMS",
+      "eps": 4,
       "genres": [
-        "Action",
-        "Martial Arts"
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2334,20 +2348,6 @@
         "Hentai"
       ],
       "category": "OVA"
-    },
-    {
-      "title": "Nakitai Watashi wa Neko wo Kaburu",
-      "description": "Miyo Sasaki, nicknamed \"Muge\" meaning \"infinitely mysterious,\" has a bright personality and is full of energy at school and at home. She is also in love with her classmate Kento Hinode. Miyo tries repeatedly to get Kento's attention, but he takes no notice of her. She realizes that the only way to get close to him is to transform into a cat, but at some point, the boundary between herself and the cat becomes ambiguous.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1045/106389.jpg",
-      "date": "Jun 18, 2020",
-      "producer": "Studio Colorido",
-      "eps": 1,
-      "genres": [
-        "Drama",
-        "Magic",
-        "Romance"
-      ],
-      "category": "Movie"
     },
     {
       "title": "Gon Movie: Gon, the Little Fox",

@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-06-26",
+  "lastUpdate": "2020-06-27",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -2422,11 +2422,11 @@
       "category": "OVA"
     },
     {
-      "title": "Chii-chan Kaihatsu Nikki",
+      "title": "Onii-chan Asa made Zutto Gyutte Shite!",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/103705.jpg",
-      "date": "Jan 31, 2020",
-      "producer": "-",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/103712.jpg",
+      "date": "Mar 6, 2020",
+      "producer": "Studio 1st",
       "eps": null,
       "genres": [
         "Hentai"
@@ -2434,11 +2434,11 @@
       "category": "OVA"
     },
     {
-      "title": "Onii-chan Asa made Zutto Gyutte Shite!",
+      "title": "Chii-chan Kaihatsu Nikki",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/103712.jpg",
-      "date": "Mar 6, 2020",
-      "producer": "Studio 1st",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/103705.jpg",
+      "date": "Jan 31, 2020",
+      "producer": "-",
       "eps": null,
       "genres": [
         "Hentai"

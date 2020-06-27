@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-26",
+  "lastUpdate": "2020-06-27",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -203,7 +203,7 @@
     {
       "title": "Dokyuu Hentai HxEros",
       "description": "In a world on the verge of a great disaster that began five years ago, heroes who, with the help of a device called HxEros, use the power of Ecchi (H) and erotic power (Ero) to save the planet from libido-devouring monsters!\n\nEnjou Retto and Hoshino Kirara are childhood friends who have drifted apart from each other. One day, they're caught in a battle against a \"Censor Bug\" that feeds on human's sexual energy to evolve. After successfully taking down the enemy, they join a group of heroes like them, using the erotic power of the HxEROS force to fight off monsters.\n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1619/106323.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1176/108088.jpg",
       "date": "Jul 4, 2020, 00:00 (JST)",
       "producer": "Project No.9",
       "eps": null,
@@ -236,7 +236,7 @@
     },
     {
       "title": "Lapis Re:LiGHTs",
-      "description": "(No synopsis yet.)",
+      "description": "Based on a mixed media project that blends fantasy, magical girl, and idol elements, Lapis Re:LiGHTs will follow a group of students as they train to become idols. Together, they'll use the magic of music and the magic of... well, literal magic... in their performances.\n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1880/107611.jpg",
       "date": "Jul 4, 2020, 22:00 (JST)",
       "producer": "Yokohama Animation Lab",
@@ -290,15 +290,28 @@
       "category": "TV (New)"
     },
     {
-      "title": "Chou Futsuu Toshi Kashiwa Densetsu",
+      "title": "Chou Futsuu Toshi Kashiwa Densetsu R",
       "description": "A gag anime set in Kashiwa, featuring high school girls and mysterious creatures.\n\n(Source: Chou Futsuu Toshi Kashiwa Densetsu Wiki)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1413/103348.jpg",
       "date": "Jul 6, 2020, 21:55 (JST)",
       "producer": "-",
-      "eps": null,
+      "eps": 10,
       "genres": [
         "Comedy",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Get Up! Get Live! #Geragera",
+      "description": "The story of the \"voice actor x 2D entertainer\" project centers on aspiring comedian entertainers who all gather at SSS, a talent agency for comedians. The story portrays the friction and jealousy in their rivaling careers, as well as their admiration towards industry veterans, their disappointments, and the obstacles to their success as they aspire to become the greatest entertainers in Japan and the world.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1523/108199.jpg",
+      "date": "Jul 11, 2020, 01:50 (JST)",
+      "producer": "Spell Bound",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -319,19 +332,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Get Up! Get Live! #Geragera",
-      "description": "The story of the \"voice actor x 2D entertainer\" project centers on aspiring comedian entertainers who all gather at SSS, a talent agency for comedians. The story portrays the friction and jealousy in their rivaling careers, as well as their admiration towards industry veterans, their disappointments, and the obstacles to their success as they aspire to become the greatest entertainers in Japan and the world.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1523/108199.jpg",
-      "date": "Jul 11, 2020, 01:50 (JST)",
-      "producer": "Spell Bound",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Ani ni Tsukeru Kusuri wa Nai! 4",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/108067.jpg",
@@ -342,6 +342,19 @@
         "Slice of Life",
         "Comedy",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Hulaing Babies Aratame: Staying Babies",
+      "description": "The girls formed a hula club but the new coronavirus disease (COVID-19) has halted further club activity. It will outline various preventative measures against the virus.\n\n(Source: AniDB)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1331/107858.jpg",
+      "date": "Jun 10, 2020",
+      "producer": "Gaina",
+      "eps": 4,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -409,6 +422,18 @@
       "category": "ONA"
     },
     {
+      "title": "You Yao",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1821/108124.jpg",
+      "date": "Jul 10, 2020",
+      "producer": "Shenying Animation",
+      "eps": 12,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Ling Jian Zun 4th Season",
       "description": "Fourth season of Ling Jian Zun.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1972/108157.jpg",
@@ -419,18 +444,6 @@
         "Action",
         "Romance",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "You Yao",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1821/108124.jpg",
-      "date": "Jul 10, 2020",
-      "producer": "Shenying Animation",
-      "eps": 12,
-      "genres": [
-        "Comedy"
       ],
       "category": "ONA"
     },
@@ -478,7 +491,7 @@
     {
       "title": "Da Wang Bu Gaoxing 2",
       "description": "Second season of Da Wang Bu Gaoxing.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1653/108223.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/108228.jpg",
       "date": "Jul 21, 2020",
       "producer": "Haoliners Animation League",
       "eps": 12,
