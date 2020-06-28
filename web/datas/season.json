@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-27",
+  "lastUpdate": "2020-06-28",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -126,6 +126,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Uzaki-chan wa Asobitai!",
+      "description": "Sakurai Shinichi's one wish is for a little peace and quiet. But Uzaki Hana–his boisterous, well-endowed underclassman–has other plans. All she wants is to hang out and poke fun at him. With the help of her chipper charm and peppy persistence, this might just be the start of a beautiful relationship! \n\n(Source: Seven Seas Entertainment)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1077/105831.jpg",
+      "date": "Jul 10, 2020, 21:30 (JST)",
+      "producer": "ENGI",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Ecchi"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "No Guns Life 2nd Season",
       "description": "Second half of No Guns Life.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/106613.jpg",
@@ -137,20 +151,6 @@
         "Sci-Fi",
         "Drama",
         "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Uzaki-chan wa Asobitai!",
-      "description": "Sakurai Shinichi's one wish is for a little peace and quiet. But Uzaki Hana–his boisterous, well-endowed underclassman–has other plans. All she wants is to hang out and poke fun at him. With the help of her chipper charm and peppy persistence, this might just be the start of a beautiful relationship! \n\n(Source: Seven Seas Entertainment)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1077/105831.jpg",
-      "date": "Jul 10, 2020, 21:30 (JST)",
-      "producer": "ENGI",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Ecchi"
       ],
       "category": "TV (New)"
     },
@@ -263,6 +263,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Ani ni Tsukeru Kusuri wa Nai! 4",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/108067.jpg",
+      "date": "Aug ??, 2020",
+      "producer": "Fanworks, Imagineer",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Umayon",
       "description": "It's a \"pop\" and cute everyday anime based on the 4-koma manga featuring the characters from Uma Musume: Pretty Derby.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108013.jpg",
@@ -316,6 +330,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "Hulaing Babies Aratame: Staying Babies",
+      "description": "The girls formed a hula club but the new coronavirus disease (COVID-19) has halted further club activity. It will outline various preventative measures against the virus.\n\n(Source: AniDB)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1331/107858.jpg",
+      "date": "Jun 10, 2020",
+      "producer": "Gaina",
+      "eps": 4,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Obake Zukan",
       "description": "The Obake Zukan series illustrates various monsters and spirits and explains why they are scary. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1885/106287.jpg",
@@ -328,33 +355,6 @@
         "Fantasy",
         "Kids",
         "Supernatural"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Ani ni Tsukeru Kusuri wa Nai! 4",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/108067.jpg",
-      "date": "Aug ??, 2020",
-      "producer": "Fanworks, Imagineer",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Hulaing Babies Aratame: Staying Babies",
-      "description": "The girls formed a hula club but the new coronavirus disease (COVID-19) has halted further club activity. It will outline various preventative measures against the virus.\n\n(Source: AniDB)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1331/107858.jpg",
-      "date": "Jun 10, 2020",
-      "producer": "Gaina",
-      "eps": 4,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
       ],
       "category": "TV (New)"
     },
