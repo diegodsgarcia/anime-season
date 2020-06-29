@@ -1,12 +1,12 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-28",
+  "lastUpdate": "2020-06-29",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
       "description": "Second season of Re:Zero kara Hajimeru Isekai Seikatsu.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1615/107973.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1444/108005.jpg",
       "date": "Jul 8, 2020, 22:30 (JST)",
       "producer": "White Fox",
       "eps": null,
@@ -21,7 +21,7 @@
     {
       "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
       "description": "Third season of Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1910/106073.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1958/107912.jpg",
       "date": "Jul 10, 2020, 01:58 (JST)",
       "producer": "feel.",
       "eps": null,
@@ -235,21 +235,9 @@
       "category": "TV (New)"
     },
     {
-      "title": "Lapis Re:LiGHTs",
-      "description": "Based on a mixed media project that blends fantasy, magical girl, and idol elements, Lapis Re:LiGHTs will follow a group of students as they train to become idols. Together, they'll use the magic of music and the magic of... well, literal magic... in their performances.\n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1880/107611.jpg",
-      "date": "Jul 4, 2020, 22:00 (JST)",
-      "producer": "Yokohama Animation Lab",
-      "eps": null,
-      "genres": [
-        "Music"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Koi to Producer: EVOL×LOVE",
       "description": "A girl inherits a company that is almost bankrupt from her late father. Lacking the funds, she must now become the producer herself in order to save the company from collapse.\nDuring her work, she meets four boys—financial expert Zen, the idol Kira, police officer Haku, and leading neuroscientist Simon—and is suddenly involved with the conspiracies and mysteries over the existence of special powers known as \"Evol.\"\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1678/108031.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1944/108276.jpg",
       "date": "Jul 16, 2020, 00:00 (JST)",
       "producer": "MAPPA",
       "eps": null,
@@ -259,6 +247,18 @@
         "Super Power",
         "Romance",
         "Shoujo"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Lapis Re:LiGHTs",
+      "description": "Based on a mixed media project that blends fantasy, magical girl, and idol elements, Lapis Re:LiGHTs will follow a group of students as they train to become idols. Together, they'll use the magic of music and the magic of... well, literal magic... in their performances.\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1880/107611.jpg",
+      "date": "Jul 4, 2020, 22:00 (JST)",
+      "producer": "Yokohama Animation Lab",
+      "eps": null,
+      "genres": [
+        "Music"
       ],
       "category": "TV (New)"
     },
@@ -382,6 +382,21 @@
       "category": "TV (New)"
     },
     {
+      "title": "Wu Shan Wu Xing",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1628/108279.jpg",
+      "date": "Jul 26, 2020",
+      "producer": "Samsara Animation Studio",
+      "eps": 3,
+      "genres": [
+        "Action",
+        "Historical",
+        "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Nu Wushen de Canzhuo II",
       "description": "Second season of Nu Wushen de Canzhuo.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/108206.jpg",
@@ -404,6 +419,23 @@
       "genres": [
         "Action",
         "Historical"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Wu Dong Qian Kun 2nd Season",
+      "description": "Second season of Wu Dong Qian Kun.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/108277.jpg",
+      "date": "Jul 12, 2020",
+      "producer": "Shanghai Motion Magic",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Historical",
+        "Romance",
+        "Martial Arts",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -754,7 +786,7 @@
     {
       "title": "Jintai no Survival!",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1424/107104.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1599/108254.jpg",
       "date": "Jul 31, 2020",
       "producer": "-",
       "eps": 1,
