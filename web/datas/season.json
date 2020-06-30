@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-29",
+  "lastUpdate": "2020-06-30",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -379,7 +379,7 @@
         "Sci-Fi",
         "Drama"
       ],
-      "category": "TV (New)"
+      "category": "ONA"
     },
     {
       "title": "Wu Shan Wu Xing",
@@ -423,6 +423,20 @@
       "category": "ONA"
     },
     {
+      "title": "Fanren Xiu Xian Chuan",
+      "description": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.\n\n(Source: Wuxia World)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1022/105820.jpg",
+      "date": "Jul 25, 2020",
+      "producer": "Original Force",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Wu Dong Qian Kun 2nd Season",
       "description": "Second season of Wu Dong Qian Kun.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/108277.jpg",
@@ -435,20 +449,6 @@
         "Historical",
         "Romance",
         "Martial Arts",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Fanren Xiu Xian Chuan",
-      "description": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.\n\n(Source: Wuxia World)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1022/105820.jpg",
-      "date": "Jul 25, 2020",
-      "producer": "Original Force",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
         "Fantasy"
       ],
       "category": "ONA"
@@ -508,19 +508,6 @@
       "category": "ONA"
     },
     {
-      "title": "Yuan Long",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
-      "date": "Jul 11, 2020",
-      "producer": "CG Year",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Da Wang Bu Gaoxing 2",
       "description": "Second season of Da Wang Bu Gaoxing.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/108228.jpg",
@@ -533,6 +520,19 @@
         "Magic",
         "Fantasy",
         "School"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Yuan Long",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
+      "date": "Jul 11, 2020",
+      "producer": "CG Year",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -564,7 +564,7 @@
         "Romance",
         "School"
       ],
-      "category": "ONA"
+      "category": "OVA"
     },
     {
       "title": "Planetarian: Snow Globe",
@@ -577,7 +577,7 @@
         "Sci-Fi",
         "Drama"
       ],
-      "category": "ONA"
+      "category": "OVA"
     },
     {
       "title": "Kabukichou Sherlock OVA",
@@ -705,7 +705,7 @@
         "Drama",
         "Fantasy"
       ],
-      "category": "OVA"
+      "category": "Movie"
     },
     {
       "title": "Shingeki no Kyojin: Chronicle",
@@ -723,7 +723,7 @@
         "Fantasy",
         "Shounen"
       ],
-      "category": "OVA"
+      "category": "Movie"
     },
     {
       "title": "Umibe no Étranger",
@@ -737,7 +737,7 @@
         "Romance",
         "Shounen Ai"
       ],
-      "category": "OVA"
+      "category": "Movie"
     },
     {
       "title": "Kud Wafter",
@@ -811,7 +811,7 @@
         "Romance",
         "Fantasy"
       ],
-      "category": "Movie"
+      "category": "Special"
     },
     {
       "title": "Murenase! Seton Gakuen Special",
@@ -824,7 +824,7 @@
         "Comedy",
         "School"
       ],
-      "category": "Movie"
+      "category": "Special"
     },
     {
       "title": "22/7: 8＋3=?",
@@ -836,7 +836,7 @@
       "genres": [
         "Music"
       ],
-      "category": "Movie"
+      "category": "Special"
     },
     {
       "title": "ARP Backstage Pass Special",
@@ -848,7 +848,7 @@
       "genres": [
         "Music"
       ],
-      "category": "Movie"
+      "category": "Special"
     }
   ]
 }

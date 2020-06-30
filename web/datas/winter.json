@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-06-29",
+  "lastUpdate": "2020-06-30",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -244,7 +244,7 @@
     },
     {
       "title": "Nekopara",
-      "description": "Kashou Minaduki, a son of a long line of Japanese confection makers, moved out to open his own patisserie \"La Soleil\". When unpacking his stuff, Kashou found two of the catgirls(“neko”) that his family had been raising hiding in the boxes: Chocola and Vanilla. He tried to send them back initially, but they begged and pleaded until he gave in. Now they run La Soleil together. They spent some great time with the help of Shigure, sister of Kashou, and other catgirls in their family: Azuki, Maple, Cinnamon and Coconut. One day, when Chocola goes out to run some errands, she meets a kitten. The story starts with their encounter...\n\n(Source: Crunchyroll)",
+      "description": "The siblings Kashou and Shigure Minazuki enjoy the company of six catgirls. Chocola and Vanilla assist Kashou in his job as a baker at the patisserie La Soleil, while the others—Coconut, Azuki, Cinnamon, and Maple—accompany Shigure in her daily life back at their home.\n\nOne afternoon, when Chocola goes out for an errand, she notices a green-haired kitten alone by herself at a park and decides to bring her back to the patisserie. Soon after, the Minazuki household adopts her and gives her a name: Cacao. With a new member in their family, the members of the Minazuki household continue their everyday lives—bound to become livelier than ever.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1716/104880.jpg",
       "date": "Jan 9, 2020, 21:00 (JST)",
       "producer": "Felix Film",
@@ -1780,7 +1780,7 @@
     },
     {
       "title": "Jie Yao",
-      "description": "Cheng Ke quit his original job in pursuit of art, and did not know Jiang Yu. He also became his tenant and started a new life. The strangers in these two different fields of work started to conflict, from mutual rejection to mutual understanding. Through hard work and struggle, they each achieved success and moved towards a better future.\n\n(Source: bilibili.com)",
+      "description": "Cheng Ke has lost everything. Coming from a privileged background, he now has to search through trash to find his missing possessions. When one of his frustrated outbursts results in him being punched in the face, Cheng Ke finds himself unfortunately acquainted with terrifying gang leader Jiang Yuduo.\n\nCircumstances lead to Cheng Ke becoming a tenant at a new apartment—which just so happens to be rented out by Jiang Yuduo. Cheng Ke's inability to complete even the most menial tasks forces him to overly depend on his landlord, and as a result, the two form an indescribable bond.\n\nHowever, there are darker forces at play in the lives of both Cheng Ke and Jiang Yuduo. The two men are haunted by the pasts they left behind, and meanwhile, danger lurks around every corner. With mysterious figures following their every move, gang wars raging in the streets they walk on, and enemies itching to bring them down, Cheng Ke and Jiang Yuduo must always have each other's back.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1579/105384.jpg",
       "date": "Jan 9, 2020",
       "producer": "Seven Stone Entertainment",
@@ -2078,6 +2078,19 @@
       "category": "ONA"
     },
     {
+      "title": "Wan Jie Shen Zhu 2nd Season",
+      "description": "Second season of Wan Jie She Zhu.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1600/105797.jpg",
+      "date": "Feb 1, 2020",
+      "producer": "Ruo Hong Culture",
+      "eps": 48,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Inunaki-mura x Taka no Tsume-dan",
       "description": "A collaboration between the live-action horror film Inunaki-mura slated to be released in theaters February 7, 2020 and the Eagle Talon franchise. The film is based on the urban legend of the real-life abandoned Inunaki Village and the old tunnel that cut through the area.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1632/105513.jpg",
@@ -2088,19 +2101,6 @@
         "Comedy",
         "Horror",
         "Parody"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Wan Jie Shen Zhu 2nd Season",
-      "description": "Second season of Wan Jie She Zhu.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1600/105797.jpg",
-      "date": "Feb 1, 2020",
-      "producer": "Ruo Hong Culture",
-      "eps": 48,
-      "genres": [
-        "Adventure",
-        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2398,24 +2398,24 @@
       "category": "OVA"
     },
     {
-      "title": "Tonari no Ie no Anette-san The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1767/103913.jpg",
-      "date": "Jan 31, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Shikijou Kyoudan",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/105665.jpg",
       "date": "Mar 6, 2020",
       "producer": "-",
       "eps": 2,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Tonari no Ie no Anette-san The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1767/103913.jpg",
+      "date": "Jan 31, 2020",
+      "producer": "-",
+      "eps": 1,
       "genres": [
         "Hentai"
       ],

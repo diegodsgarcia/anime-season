@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-06-29",
+  "lastUpdate": "2020-06-30",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -1258,16 +1258,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Balala Xiaomoxian: Mofa Hai Ying Bao",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/102588.jpg",
-      "date": "Nov 16, 2018",
-      "producer": "-",
-      "eps": null,
-      "genres": [],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Bakugan: Armored Alliance",
       "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
@@ -1279,6 +1269,16 @@
         "Game",
         "Fantasy"
       ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Balala Xiaomoxian: Mofa Hai Ying Bao",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/102588.jpg",
+      "date": "Nov 16, 2018",
+      "producer": "-",
+      "eps": null,
+      "genres": [],
       "category": "TV (Continuing)"
     },
     {
@@ -1661,7 +1661,7 @@
     },
     {
       "title": "Baki 2nd Season",
-      "description": "Second season of Baki.",
+      "description": "Weakened by the poison from his last battle, Baki Hanma finds himself on the verge of death with no salvation in sight. However, after Baki's friend, Retsu Kaiou, brings him to China, he learns about the centurial Raitai Tournament, where the fiercest warriors fight to be crowned as the strongest martial artist in all of China. \n\nAs it is now allowing entry to foreigners, Baki is informed that he will have to compete in the tournament as it holds the cure to his illness. Unfortunately, Baki's father, deemed the \"Strongest Creature on Earth,\" is participating too. Baki 2nd Season details the events of the grand Chinese tournament, as well as Baki's encounter with the eccentric yet powerful Mohammad Alai Jr.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1020/107918.jpg",
       "date": "Jun 4, 2020",
       "producer": "-",
@@ -1954,19 +1954,6 @@
       "category": "ONA"
     },
     {
-      "title": "Wang Gu Shenhua Zhi Tian Xuanzhe",
-      "description": "In the year 2115 of the Fortress, Wei Qin, commander of the border troops, went to the Fortress to participate in the selection of the elected official and to secretly investigate those responsible for the Border incident.  At the same time, the No. 1 public enemy, Yuan Yi, launched a major revolt.  As the plot progresses, all parties are involved in this quest.  How is Wei Qin going to sort out the true from the false and bring the truth out?\n\n(Source: Exodus Chaos)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1915/106921.jpg",
-      "date": "Apr 7, 2020",
-      "producer": "Congzhuo Animation",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Sci-Fi"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Dixia Cheng Yu Yongshi: Nizhuan Zhi Lun",
       "description": "Sequel to Arad: Suming Zhi Men.\n\nThe Japanese broadcast premiered on July 4, 2020 at 1:53 a.m. on TV Tokyo.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1090/108165.jpg",
@@ -1978,6 +1965,19 @@
         "Adventure",
         "Comedy",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Wang Gu Shenhua Zhi Tian Xuanzhe",
+      "description": "In the year 2115 of the Fortress, Wei Qin, commander of the border troops, went to the Fortress to participate in the selection of the elected official and to secretly investigate those responsible for the Border incident.  At the same time, the No. 1 public enemy, Yuan Yi, launched a major revolt.  As the plot progresses, all parties are involved in this quest.  How is Wei Qin going to sort out the true from the false and bring the truth out?\n\n(Source: Exodus Chaos)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1915/106921.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "Congzhuo Animation",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi"
       ],
       "category": "ONA"
     },
@@ -2102,18 +2102,6 @@
       "category": "ONA"
     },
     {
-      "title": "BIGOTRE Capture Mission",
-      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
-      "date": "Apr 6, 2020",
-      "producer": "-",
-      "eps": 3,
-      "genres": [
-        "Game"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Dubu Xiaoyao",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1429/108132.jpg",
@@ -2123,6 +2111,18 @@
       "genres": [
         "Action",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "BIGOTRE Capture Mission",
+      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
+      "date": "Apr 6, 2020",
+      "producer": "-",
+      "eps": 3,
+      "genres": [
+        "Game"
       ],
       "category": "ONA"
     },
@@ -2242,10 +2242,10 @@
       "category": "OVA"
     },
     {
-      "title": "Hajimete no Hitozuma",
+      "title": "Chiisana Tsubomi no Sono Oku ni...",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1210/105663.jpg",
-      "date": "May 22, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1605/107864.jpg",
+      "date": "Apr 24, 2020",
       "producer": "-",
       "eps": null,
       "genres": [
@@ -2254,10 +2254,10 @@
       "category": "OVA"
     },
     {
-      "title": "Chiisana Tsubomi no Sono Oku ni...",
+      "title": "Hajimete no Hitozuma",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1605/107864.jpg",
-      "date": "Apr 24, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1210/105663.jpg",
+      "date": "May 22, 2020",
       "producer": "-",
       "eps": null,
       "genres": [
