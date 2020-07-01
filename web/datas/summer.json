@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-06-30",
+  "lastUpdate": "2020-07-01",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -186,7 +186,7 @@
     },
     {
       "title": "Gibiate",
-      "description": "In 2030, Japan. A virus has infected humans throughout the world. Infected people turn into different forms of monsters based on their ages, sexes, and races. The virus is named \"Gibia\"—after being rich in variety like gibia.\n\nJust then, a pair of samurai and ninja appeared in such a blighted wasteland of Japan. They both traveled from the early Edo period, fighting together with help from a doctor who tries to find cure for Gibia. Facing ceaseless attacks from Gibias and outlaws that attack travelers for food, they start the dangerous journey with enemies all around.\n\n(Source: Official Website)",
+      "description": "The story takes place in Japan. The year is 2030 and Earth has been completely overrun by a viral disease named \"Gibia\" that turns infected people into various different monsters, based on their age, sex, and race.\n\nA samurai and a ninja from the early Edo period travel together through time and arrive in a ruined Japan to aid a professor working on a cure for the virus.\n\nTogether, they fight countless Gibia monsters, outlaws, and other fierce foes on their journey to save mankind.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1769/107880.jpg",
       "date": "Jul 15, 2020, 22:00 (JST)",
       "producer": "l-a-unch・BOX, Studio elle",
@@ -359,6 +359,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Lalalacoco II",
+      "description": "Second season of Lalalacoco.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1354/107937.jpg",
+      "date": "Jul ??, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids",
+        "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Ninja Collection",
       "description": "Set in modern-day Tokyo where dreams and desires are afloat, a group of ninjas called \"Toukeshuu\" is set to stop the spread of \"darkness\" that prevails in the world using ancient techniques passed down through generations.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1997/108104.jpg",
@@ -401,8 +415,8 @@
       "description": "Second season of Nu Wushen de Canzhuo.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/108206.jpg",
       "date": "Jul 17, 2020",
-      "producer": "-",
-      "eps": null,
+      "producer": "Blade, Thundray",
+      "eps": 8,
       "genres": [
         "Slice of Life",
         "Comedy"
@@ -415,10 +429,11 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1432/105225.jpg",
       "date": "Jul 5, 2020",
       "producer": "Sparkly Key Animation Studio",
-      "eps": null,
+      "eps": 13,
       "genres": [
         "Action",
-        "Historical"
+        "Historical",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -428,10 +443,11 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1022/105820.jpg",
       "date": "Jul 25, 2020",
       "producer": "Original Force",
-      "eps": null,
+      "eps": 16,
       "genres": [
         "Action",
         "Adventure",
+        "Historical",
         "Fantasy"
       ],
       "category": "ONA"
@@ -485,11 +501,28 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1261/108209.jpg",
       "date": "Jul 16, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 13,
       "genres": [
         "Action",
         "Music",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ling Long: Incarnation Part 2",
+      "description": "Second half of Ling Long: Incarnation.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/108194.jpg",
+      "date": "Jul 31, 2020",
+      "producer": "YHKT Entertainment",
+      "eps": 6,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Horror",
+        "Demons",
+        "Drama",
+        "Thriller"
       ],
       "category": "ONA"
     },
@@ -529,10 +562,94 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
       "date": "Jul 11, 2020",
       "producer": "CG Year",
-      "eps": null,
+      "eps": 16,
       "genres": [
         "Action",
+        "Adventure",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Mei Chuxi de Yinyangshi Yijia 2",
+      "description": "Second season of Mei Chuxi de Yinyangshi Yijia.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/108286.jpg",
+      "date": "Jul 15, 2020",
+      "producer": "Green Monster Team",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Historical",
+        "Demons",
+        "Supernatural"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Qing Chi Hong Xiaodou Ba! 4th Season",
+      "description": "Fourth season of Qing Chi Hong Xiaodou Ba!",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108288.jpg",
+      "date": "Jul 10, 2020",
+      "producer": "Making Animation",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Sansan de Ezuoju Chufang",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
+      "date": "Jul 30, 2020",
+      "producer": "-",
+      "eps": 10,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Mengyou Dunhuang",
+      "description": "Due to the dissipation of the heavenly scripture powers, Dunhuang will face adversity. Wu Tianji is ordered to repair the heavenly scriptures. In order to perfect the heavenly scripture powers, you need to relive the story originally recorded in the heavenly scripture. Wu Tianji took the god beast, the angel pig, to the ancient city of Dunhuang. Just when she had no idea how to start repairing the calligraphy, she accidentally strayed into the world of frescoes in the Mogao Caves...\n\n(Source: bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1611/108293.jpg",
+      "date": "Jul 6, 2020",
+      "producer": "-",
+      "eps": 5,
+      "genres": [
+        "Comedy",
+        "Historical",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Liu Yi Chuanqi",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1297/108295.jpg",
+      "date": "Jul 22, 2020",
+      "producer": "Wei Chuang Jiang Xin",
+      "eps": 26,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Renlei Bowuguan",
+      "description": "After the end of the world, there is a mysterious museum left in the world. No one knows where the collection came from. Are these seemingly funny \"historical relics\" proof of the existence of real humans?\n\n(Source: bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1604/108296.jpg",
+      "date": "Aug 25, 2020",
+      "producer": "-",
+      "eps": 36,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
