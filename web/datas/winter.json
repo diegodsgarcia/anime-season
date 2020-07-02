@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-07-01",
+  "lastUpdate": "2020-07-02",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1079,20 +1079,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Cardfight!! Vanguard: Shinemon-hen",
-      "description": "This is the story of \"Shinemon Nitta\", the future manager of Card Capital.\n\n10 years before the reunion of Aichi Sendou and Toshiki Kai, the card shop run by the Tokura family \"Card Capital\" was going out of business. Then came the attempt to take over the store by Esuka Hibino, the owner of a major card shop.\n\nIn order to protect Card Capital, Shinemon Nitta stands up as the \"Self-proclaimed Manager!\"\n\n(Source: Cardfight!! Vanguard Wiki)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1804/102281.jpg",
-      "date": "Aug 24, 2019",
-      "producer": "OLM",
-      "eps": 31,
-      "genres": [
-        "Action",
-        "Game",
-        "Shounen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Zoids Wild Zero",
       "description": "Sequel of Zoids Wild.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1131/104980.jpg",
@@ -1104,6 +1090,20 @@
         "Sci-Fi",
         "Adventure",
         "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Cardfight!! Vanguard: Shinemon-hen",
+      "description": "This is the story of \"Shinemon Nitta\", the future manager of Card Capital.\n\n10 years before the reunion of Aichi Sendou and Toshiki Kai, the card shop run by the Tokura family \"Card Capital\" was going out of business. Then came the attempt to take over the store by Esuka Hibino, the owner of a major card shop.\n\nIn order to protect Card Capital, Shinemon Nitta stands up as the \"Self-proclaimed Manager!\"\n\n(Source: Cardfight!! Vanguard Wiki)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1804/102281.jpg",
+      "date": "Aug 24, 2019",
+      "producer": "OLM",
+      "eps": 31,
+      "genres": [
+        "Action",
+        "Game",
+        "Shounen"
       ],
       "category": "TV (Continuing)"
     },
@@ -2394,6 +2394,18 @@
         "Police",
         "Vampire",
         "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Hime-sama Love Life!",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1487/103719.jpg",
+      "date": "May 31, 2019",
+      "producer": "PoRO",
+      "eps": null,
+      "genres": [
+        "Hentai"
       ],
       "category": "OVA"
     },
