@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-07-02",
+  "lastUpdate": "2020-07-03",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1228,16 +1228,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Balala Xiaomoxian: Mofa Hai Ying Bao",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/102588.jpg",
-      "date": "Nov 16, 2018",
-      "producer": "-",
-      "eps": null,
-      "genres": [],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Duel Masters!!",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1287/106313.jpg",
@@ -2047,21 +2037,6 @@
       "category": "ONA"
     },
     {
-      "title": "Dream",
-      "description": "The short follows the dream of a young boy in which strange whale teleports him to a fantasy land where a happy cat named Pero (modeled after the character in the Nagagutsu wo Haita Neko anime that serves as Toei Animation's mascot) appears.\n\nThe piece is entirely dialogueless.\n\n(Source: ANN edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1227/105610.jpg",
-      "date": "Jan 24, 2020",
-      "producer": "Toei Animation",
-      "eps": 1,
-      "genres": [
-        "Adventure",
-        "Music",
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Wu Shen Zhu Zai",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
@@ -2073,6 +2048,21 @@
         "Historical",
         "Drama",
         "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Dream",
+      "description": "The short follows the dream of a young boy in which strange whale teleports him to a fantasy land where a happy cat named Pero (modeled after the character in the Nagagutsu wo Haita Neko anime that serves as Toei Animation's mascot) appears.\n\nThe piece is entirely dialogueless.\n\n(Source: ANN edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1227/105610.jpg",
+      "date": "Jan 24, 2020",
+      "producer": "Toei Animation",
+      "eps": 1,
+      "genres": [
+        "Adventure",
+        "Music",
+        "Kids",
         "Fantasy"
       ],
       "category": "ONA"
