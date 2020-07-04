@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-03",
+  "lastUpdate": "2020-07-04",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -113,9 +113,9 @@
     },
     {
       "title": "Deca-Dence",
-      "description": "Many years have passed since humanity was driven to the brink of extinction by the sudden emergence of the unknown life forms Gadoll. Those humans that survived now dwell in a 3000m-high mobile fortress Deca-dence built to protect themselves from the Gadoll threat.\n\nDenizens of Deca-dence fall into two categories: Gears, warriors who fight the Gadoll daily, and Tankers, those without the skills to fight. One day, Natsume, a Tanker girl who dreams of becoming a Gear meets surly Kaburagi, an armor repairman of Deca-dence.\n\nThis chance meeting between the seemingly two opposites, the girl with a positive attitude who never gives up on her dreams and the realist who has given up on his, will eventually shake the future course of this world. \n\n(Source: Official site)",
+      "description": "Many years have passed since humanity was driven to the brink of extinction by the sudden emergence of the unknown life forms Gadoll. Those humans that survived now dwell in a 3000m-high mobile fortress Deca-dence built to protect themselves from the Gadoll threat.\n\nDenizens of Deca-dence fall into two categories: Gears, warriors who fight the Gadoll daily, and Tankers, those without the skills to fight. One day, Natsume, a Tanker girl who dreams of becoming a Gear meets surly Kaburagi, an armor repairman of Deca-dence.\n\nThis chance meeting between the seemingly two opposites, the girl with a positive attitude who never gives up on her dreams and the realist who has given up on his, will eventually shake the future course of this world. \n\n(Source: Official site)\n\nEpisode 1 was streamed in advance on June 29, 2020 and previewed on July 3, 2020 during Funimation Con 2020. Regular broadcasting began on July 8, 2020.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1627/107552.jpg",
-      "date": "Jul 8, 2020, 23:30 (JST)",
+      "date": "Jun 29, 2020, 23:30 (JST)",
       "producer": "Nut",
       "eps": null,
       "genres": [
@@ -299,7 +299,7 @@
       "eps": null,
       "genres": [
         "Fantasy",
-        "Yaoi"
+        "Shounen Ai"
       ],
       "category": "TV (New)"
     },
@@ -807,23 +807,6 @@
         "Comedy",
         "Kids",
         "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Komatta Jiisan",
-      "description": "The comedy centers on an old man who pulls stereotypical ikemen (handsome man) actions on similarly old women and makes their hearts flutter. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1227/106465.jpg",
-      "date": "Apr 8, 2020, 23:29 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Drama",
-        "Romance",
-        "Seinen",
-        "Slice of Life"
       ],
       "category": "TV (Continuing)"
     },
@@ -1795,15 +1778,15 @@
       "category": "ONA"
     },
     {
-      "title": "Yuan Long",
+      "title": "Liu Yi Chuanqi",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
-      "date": "Jul 11, 2020",
-      "producer": "CG Year",
-      "eps": 16,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1297/108295.jpg",
+      "date": "Jul 22, 2020",
+      "producer": "Wei Chuang Jiang Xin",
+      "eps": 26,
       "genres": [
         "Action",
-        "Adventure",
+        "Comedy",
         "Fantasy"
       ],
       "category": "ONA"
@@ -1822,15 +1805,15 @@
       "category": "ONA"
     },
     {
-      "title": "Liu Yi Chuanqi",
+      "title": "Yuan Long",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1297/108295.jpg",
-      "date": "Jul 22, 2020",
-      "producer": "Wei Chuang Jiang Xin",
-      "eps": 26,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
+      "date": "Jul 11, 2020",
+      "producer": "CG Year",
+      "eps": 16,
       "genres": [
         "Action",
-        "Comedy",
+        "Adventure",
         "Fantasy"
       ],
       "category": "ONA"
@@ -2071,6 +2054,22 @@
         "Supernatural",
         "Magic",
         "Fantasy"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Given Movie",
+      "description": "",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1706/106042.jpg",
+      "date": "Aug 22, 2020",
+      "producer": "Lerche",
+      "eps": 1,
+      "genres": [
+        "Music",
+        "Slice of Life",
+        "Drama",
+        "Romance",
+        "Shounen Ai"
       ],
       "category": "Movie"
     },
