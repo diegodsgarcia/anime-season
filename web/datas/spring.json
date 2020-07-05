@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-07-04",
+  "lastUpdate": "2020-07-05",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -516,14 +516,14 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1227/106465.jpg",
       "date": "Apr 8, 2020, 23:29 (JST)",
       "producer": "-",
-      "eps": null,
+      "eps": 13,
       "genres": [
         "Adventure",
+        "Slice of Life",
         "Comedy",
         "Drama",
         "Romance",
-        "Seinen",
-        "Slice of Life"
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -2135,18 +2135,6 @@
       "category": "ONA"
     },
     {
-      "title": "BIGOTRE Capture Mission",
-      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
-      "date": "Apr 6, 2020",
-      "producer": "-",
-      "eps": 3,
-      "genres": [
-        "Game"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Yi Shijie Zhongyao Pu",
       "description": "After graduating from the University of Traditional Chinese Medicine, Sun Jiayou returned home to inherit a traditional Chinese medicine shop. He found that although the people here would not use medicine as a treatment, they had own spiritual system. To realize his grandfather’s dream, he plans to promote Chinese medicine in a different world. However, the spirit messenger considers it a big threat. In some confrontations with the spirit messenger, he discovers a greater mystery.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1789/108202.jpg",
@@ -2157,6 +2145,18 @@
         "Drama",
         "Magic",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "BIGOTRE Capture Mission",
+      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
+      "date": "Apr 6, 2020",
+      "producer": "-",
+      "eps": 3,
+      "genres": [
+        "Game"
       ],
       "category": "ONA"
     },

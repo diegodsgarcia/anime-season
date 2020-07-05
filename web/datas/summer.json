@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-04",
+  "lastUpdate": "2020-07-05",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -56,7 +56,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1673/107657.jpg",
       "date": "Jul 4, 2020, 01:55 (JST)",
       "producer": "David Production",
-      "eps": null,
+      "eps": 24,
       "genres": [
         "Action",
         "Supernatural",
@@ -70,15 +70,15 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1722/107269.jpg",
       "date": "Jul 6, 2020, 23:30 (JST)",
       "producer": "MAPPA",
-      "eps": null,
+      "eps": 13,
       "genres": [
         "Action",
-        "Sci-Fi",
         "Adventure",
         "Comedy",
-        "Supernatural",
+        "Fantasy",
         "Martial Arts",
-        "Fantasy"
+        "Sci-Fi",
+        "Supernatural"
       ],
       "category": "TV (New)"
     },
@@ -103,10 +103,10 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1388/105332.jpg",
       "date": "Jul 4, 2020, 23:30 (JST)",
       "producer": "Silver Link.",
-      "eps": null,
+      "eps": 13,
       "genres": [
-        "Magic",
         "Fantasy",
+        "Magic",
         "School"
       ],
       "category": "TV (New)"
@@ -129,13 +129,13 @@
       "title": "Uzaki-chan wa Asobitai!",
       "description": "Sakurai Shinichi's one wish is for a little peace and quiet. But Uzaki Hana–his boisterous, well-endowed underclassman–has other plans. All she wants is to hang out and poke fun at him. With the help of her chipper charm and peppy persistence, this might just be the start of a beautiful relationship! \n\n(Source: Seven Seas Entertainment)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1540/108292.jpg",
-      "date": "Jul 10, 2020, 21:30 (JST)",
+      "date": "Jul 5, 2020, 21:30 (JST)",
       "producer": "ENGI",
-      "eps": null,
+      "eps": 12,
       "genres": [
-        "Slice of Life",
         "Comedy",
-        "Ecchi"
+        "Ecchi",
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -155,6 +155,21 @@
       "category": "TV (New)"
     },
     {
+      "title": "Monster Musume no Oishasan",
+      "description": "In the town of Lindworm where monsters and humans coexist, Dr. Glenn runs an exemplary medical clinic for monster girls with his lamia assistant, Sapphee. Whether receiving a marriage proposal by a centaur injured in battle, palpating the injury of a mermaid, or suturing the delicate wounds of a flesh golem, Dr. Glenn performs his job with grace and confidence. But when an unsavory character seeks to steal a harpy egg, how will the unflappable Dr. Glenn respond...?\n \n(Source: Seven Seas Entertainment)\n\nThe anime was streamed in advance on July 4, 2020 on several streaming websites. Regular broadcasting began on July 12, 2020..",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106598.jpg",
+      "date": "Jul 4, 2020, 23:00 (JST)",
+      "producer": "Arvo Animation",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Peter Grill to Kenja no Jikan",
       "description": "Peter Grill is known throughout the land as the world's strongest fighter. He has a girlfriend who he's steadily trying to get closer with. Life is good for him. Until he realizes that dozens of women, who want to bear strong children, are all vying for his seed.\n\n(Source: LHTranslation)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1076/106693.jpg",
@@ -170,17 +185,19 @@
       "category": "TV (New)"
     },
     {
-      "title": "Monster Musume no Oishasan",
-      "description": "In the town of Lindworm where monsters and humans coexist, Dr. Glenn runs an exemplary medical clinic for monster girls with his lamia assistant, Sapphee. Whether receiving a marriage proposal by a centaur injured in battle, palpating the injury of a mermaid, or suturing the delicate wounds of a flesh golem, Dr. Glenn performs his job with grace and confidence. But when an unsavory character seeks to steal a harpy egg, how will the unflappable Dr. Glenn respond...?\n \n(Source: Seven Seas Entertainment)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106598.jpg",
-      "date": "Jul 12, 2020, 23:00 (JST)",
-      "producer": "Arvo Animation",
-      "eps": null,
+      "title": "Dokyuu Hentai HxEros",
+      "description": "In a world on the verge of a great disaster that began five years ago, heroes who, with the help of a device called HxEros, use the power of Ecchi (H) and erotic power (Ero) to save the planet from libido-devouring monsters!\n\nEnjou Retto and Hoshino Kirara are childhood friends who have drifted apart from each other. One day, they're caught in a battle against a \"Censor Bug\" that feeds on human's sexual energy to evolve. After successfully taking down the enemy, they join a group of heroes like them, using the erotic power of the HxEROS force to fight off monsters.\n\n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1176/108088.jpg",
+      "date": "Jul 4, 2020, 00:00 (JST)",
+      "producer": "Project No.9",
+      "eps": 12,
       "genres": [
+        "Action",
         "Comedy",
-        "Romance",
+        "Supernatural",
         "Ecchi",
-        "Fantasy"
+        "School",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -197,23 +214,6 @@
         "Horror",
         "Martial Arts",
         "Samurai"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Dokyuu Hentai HxEros",
-      "description": "In a world on the verge of a great disaster that began five years ago, heroes who, with the help of a device called HxEros, use the power of Ecchi (H) and erotic power (Ero) to save the planet from libido-devouring monsters!\n\nEnjou Retto and Hoshino Kirara are childhood friends who have drifted apart from each other. One day, they're caught in a battle against a \"Censor Bug\" that feeds on human's sexual energy to evolve. After successfully taking down the enemy, they join a group of heroes like them, using the erotic power of the HxEROS force to fight off monsters.\n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1176/108088.jpg",
-      "date": "Jul 4, 2020, 00:00 (JST)",
-      "producer": "Project No.9",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Supernatural",
-        "Ecchi",
-        "School",
-        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -235,6 +235,18 @@
       "category": "TV (New)"
     },
     {
+      "title": "Lapis Re:LiGHTs",
+      "description": "Based on a mixed media project that blends fantasy, magical girl, and idol elements, Lapis Re:LiGHTs will follow a group of students as they train to become idols. Together, they'll use the magic of music and the magic of... well, literal magic... in their performances.\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1880/107611.jpg",
+      "date": "Jul 4, 2020, 22:00 (JST)",
+      "producer": "Yokohama Animation Lab",
+      "eps": null,
+      "genres": [
+        "Music"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Koi to Producer: EVOL×LOVE",
       "description": "A girl inherits a company that is almost bankrupt from her late father. Lacking the funds, she must now become the producer herself in order to save the company from collapse.\nDuring her work, she meets four boys—financial expert Zen, the idol Kira, police officer Haku, and leading neuroscientist Simon—and is suddenly involved with the conspiracies and mysteries over the existence of special powers known as \"Evol.\"\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1944/108276.jpg",
@@ -251,14 +263,16 @@
       "category": "TV (New)"
     },
     {
-      "title": "Lapis Re:LiGHTs",
-      "description": "Based on a mixed media project that blends fantasy, magical girl, and idol elements, Lapis Re:LiGHTs will follow a group of students as they train to become idols. Together, they'll use the magic of music and the magic of... well, literal magic... in their performances.\n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1880/107611.jpg",
-      "date": "Jul 4, 2020, 22:00 (JST)",
-      "producer": "Yokohama Animation Lab",
+      "title": "Umayon",
+      "description": "It's a \"pop\" and cute everyday anime based on the 4-koma manga featuring the characters from Uma Musume: Pretty Derby.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108013.jpg",
+      "date": "Jul 7, 2020, 21:54 (JST)",
+      "producer": "DMM.futureworks, W-Toon Studio",
       "eps": null,
       "genres": [
-        "Music"
+        "Slice of Life",
+        "Comedy",
+        "Sports"
       ],
       "category": "TV (New)"
     },
@@ -277,17 +291,13 @@
       "category": "TV (New)"
     },
     {
-      "title": "Umayon",
-      "description": "It's a \"pop\" and cute everyday anime based on the 4-koma manga featuring the characters from Uma Musume: Pretty Derby.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108013.jpg",
-      "date": "Jul 7, 2020, 21:54 (JST)",
-      "producer": "DMM.futureworks, W-Toon Studio",
+      "title": "Ninja Collection",
+      "description": "Set in modern-day Tokyo where dreams and desires are afloat, a group of ninjas called \"Toukeshuu\" is set to stop the spread of \"darkness\" that prevails in the world using ancient techniques passed down through generations.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1997/108104.jpg",
+      "date": "Jul 12, 2020, 03:05 (JST)",
+      "producer": "DRAWIZ, ILCA, Toho Interactive Animation",
       "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Sports"
-      ],
+      "genres": [],
       "category": "TV (New)"
     },
     {
@@ -370,16 +380,6 @@
         "Kids",
         "Slice of Life"
       ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Ninja Collection",
-      "description": "Set in modern-day Tokyo where dreams and desires are afloat, a group of ninjas called \"Toukeshuu\" is set to stop the spread of \"darkness\" that prevails in the world using ancient techniques passed down through generations.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1997/108104.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "DRAWIZ, ILCA, Toho Interactive Animation",
-      "eps": null,
-      "genres": [],
       "category": "TV (New)"
     },
     {
@@ -1658,6 +1658,18 @@
       "category": "ONA"
     },
     {
+      "title": "You Yao",
+      "description": "Today, the imperial court is soliciting traversals, giving them various positions according to their talents, changing the civilization after the fall, and trying to create a new world. Zuo Yunqi is just an ordinary young master, mixed with the court in disguise as a spy to save his father. However, he was recognized by one hired specifically to spot such spies, and the two engaged in an epic battle of wits. When the two jointly prevented a terrifying conspiracy, they found that the traversals secretly established an alliance to try to overthrow those in power and build a new society of peaceful coexistence. Zuo Yunqi and his party were forced to participate in this battle.\n\n(Source: V2Anime, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1821/108124.jpg",
+      "date": "Jul 10, 2020",
+      "producer": "Shenying Animation",
+      "eps": 12,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Wu Dong Qian Kun 2nd Season",
       "description": "Second season of Wu Dong Qian Kun.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/108277.jpg",
@@ -1671,18 +1683,6 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "You Yao",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1821/108124.jpg",
-      "date": "Jul 10, 2020",
-      "producer": "Shenying Animation",
-      "eps": 12,
-      "genres": [
-        "Comedy"
       ],
       "category": "ONA"
     },
@@ -1702,7 +1702,7 @@
     },
     {
       "title": "Shi Zhi Ge: Hua Yu Yan De Kuangxiang Shi",
-      "description": "(No synopsis yet.)",
+      "description": "On the far side of the Milky Way, there is a planet gestating magical power-Wilhallen. There are four very different countries on this magical continent: the ancient and mysterious eastern empire—Huang; the free and open Nanyang island country—Tapaz; the iron-clad western republic—Vrsaris; and, Civilized and elegant Beilian Gang-Agnesa. All countries enshrine the High God and obtain the gift of divine power. Although there are occasional conflicts, most people enjoy a peaceful life. Until the era of 3836, when a mysterious man in black suddenly came with an unknown dark force, but found himself in the wrong place at the wrong time. Fortunately, the established fate was as recorded in the time document in his hand. Verhallen opened a new parallel world...\n\n(Source: bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1261/108209.jpg",
       "date": "Jul 16, 2020",
       "producer": "-",
@@ -1762,6 +1762,20 @@
       "category": "ONA"
     },
     {
+      "title": "Liu Yi Chuanqi",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1297/108295.jpg",
+      "date": "Jul 22, 2020",
+      "producer": "Wei Chuang Jiang Xin",
+      "eps": 26,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Da Wang Bu Gaoxing 2",
       "description": "Second season of Da Wang Bu Gaoxing.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/108228.jpg",
@@ -1774,20 +1788,6 @@
         "Magic",
         "Fantasy",
         "School"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Liu Yi Chuanqi",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1297/108295.jpg",
-      "date": "Jul 22, 2020",
-      "producer": "Wei Chuang Jiang Xin",
-      "eps": 26,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2173,6 +2173,20 @@
       "genres": [
         "Mystery",
         "Kids"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Hataraku Saibou!!: Saikyou no Teki, Futatabi. Karada no Naka wa \"Chou\" Oosawagi!",
+      "description": "The theatrical episode will cover events from the fifth volume of the manga.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1413/108382.jpg",
+      "date": "Sep 5, 2020",
+      "producer": "David Production",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Shounen"
       ],
       "category": "Movie"
     },
