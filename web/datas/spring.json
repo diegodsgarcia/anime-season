@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-07-05",
+  "lastUpdate": "2020-07-06",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -1989,20 +1989,6 @@
       "category": "ONA"
     },
     {
-      "title": "Puso Ni Comi: Okawari",
-      "description": "A second season of Puso Ni Comi, once again following the in-game avatars of the cast.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1466/106923.jpg",
-      "date": "Apr 7, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Game",
-        "Comedy",
-        "Parody"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Huyao Xiao Hongniang: Jin Chenxi",
       "description": "The 9th season of Huyao Xiao Hongniang.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1323/108278.jpg",
@@ -2015,6 +2001,20 @@
         "Supernatural",
         "Drama",
         "Romance"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Puso Ni Comi: Okawari",
+      "description": "A second season of Puso Ni Comi, once again following the in-game avatars of the cast.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1466/106923.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Game",
+        "Comedy",
+        "Parody"
       ],
       "category": "ONA"
     },

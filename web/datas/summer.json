@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-05",
+  "lastUpdate": "2020-07-06",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -83,6 +83,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e",
+      "description": "After 2000 years has passed, the ruthless demon lord has just been reincarnated! But his aptitude at an academy for nurturing candidates for demon lords is, “inept”!?\n\nHaving the capability to destroy humans, elementals, and gods, after a long period of countless wars and strife, Arnos the demon lord became sick and tired of all that and longed for a peaceful world, so he decided to reincarnate to the future.\n\nHowever, what awaited him after his reincarnation is a world too used to peace that his descendants became too weak due to a huge weakening in magical powers. \n\n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1388/105332.jpg",
+      "date": "Jul 4, 2020, 23:30 (JST)",
+      "producer": "Silver Link.",
+      "eps": 13,
+      "genres": [
+        "Fantasy",
+        "Magic",
+        "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Kanojo, Okarishimasu",
       "description": "Dumped by his girlfriend, emotionally shattered college student Kazuya Kinoshita attempts to appease the void in his heart through a rental girlfriend from a mobile app. At first, Chizuru Mizuhara seems to be the perfect girl with everything he could possibly ask for: great looks and a cute, caring personality.\n \nUpon seeing mixed opinions on her profile after their first date, and still tormented by his previous relationship, Kazuya believes that Chizuru is just playing around with the hearts of men and leaves her a negative rating. Angry at her client's disrespect towards her, Chizuru reveals her true nature: sassy and temperamental, the complete opposite of Kazuya's first impression. At that very moment, Kazuya receives news of his grandmother's collapse and is forced to bring Chizuru along with him to the hospital.\n \nAlthough it turns out to be nothing serious, his grandmother is ecstatic that Kazuya has finally found a serious girlfriend, which had always been her wish. Unable to tell her the truth, Kazuya and Chizuru are forced into a fake relationship—acting as if they are truly lovers.\n \n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1485/107693.jpg",
@@ -94,20 +108,6 @@
         "Romance",
         "School",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e",
-      "description": "After 2000 years has passed, the ruthless demon lord has just been reincarnated! But his aptitude at an academy for nurturing candidates for demon lords is, “inept”!?\n\nHaving the capability to destroy humans, elementals, and gods, after a long period of countless wars and strife, Arnos the demon lord became sick and tired of all that and longed for a peaceful world, so he decided to reincarnate to the future.\n\nHowever, what awaited him after his reincarnation is a world too used to peace that his descendants became too weak due to a huge weakening in magical powers. \n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1388/105332.jpg",
-      "date": "Jul 4, 2020, 23:30 (JST)",
-      "producer": "Silver Link.",
-      "eps": 13,
-      "genres": [
-        "Fantasy",
-        "Magic",
-        "School"
       ],
       "category": "TV (New)"
     },
@@ -136,21 +136,6 @@
         "Comedy",
         "Ecchi",
         "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "No Guns Life 2nd Season",
-      "description": "Second half of No Guns Life.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/106613.jpg",
-      "date": "Jul 10, 2020, 01:28 (JST)",
-      "producer": "Madhouse",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Drama",
-        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -185,9 +170,24 @@
       "category": "TV (New)"
     },
     {
+      "title": "No Guns Life 2nd Season",
+      "description": "Second half of No Guns Life.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/106613.jpg",
+      "date": "Jul 10, 2020, 01:28 (JST)",
+      "producer": "Madhouse",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Drama",
+        "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Dokyuu Hentai HxEros",
       "description": "In a world on the verge of a great disaster that began five years ago, heroes who, with the help of a device called HxEros, use the power of Ecchi (H) and erotic power (Ero) to save the planet from libido-devouring monsters!\n\nEnjou Retto and Hoshino Kirara are childhood friends who have drifted apart from each other. One day, they're caught in a battle against a \"Censor Bug\" that feeds on human's sexual energy to evolve. After successfully taking down the enemy, they join a group of heroes like them, using the erotic power of the HxEROS force to fight off monsters.\n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1176/108088.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1342/108321.jpg",
       "date": "Jul 4, 2020, 00:00 (JST)",
       "producer": "Project No.9",
       "eps": 12,
@@ -1748,20 +1748,6 @@
       "category": "ONA"
     },
     {
-      "title": "Xian Feng Jian Yu Lu",
-      "description": "In ancient Shenzhou, humans and demons had been in constant dispute for thousands of years. The demon princess from Tushan, Bai Binglan, and the human Zhang Kuangyun met each other due to a misunderstanding. In order to investigate the enemy country, Bai Binglan became Zhang Kuangyun's companion. As they travel together, Zhang Kuangyun discovers a conspiracy...",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/108195.jpg",
-      "date": "Jul 11, 2020",
-      "producer": "Ruo Hong Culture",
-      "eps": 70,
-      "genres": [
-        "Action",
-        "Supernatural",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Liu Yi Chuanqi",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1297/108295.jpg",
@@ -1771,6 +1757,20 @@
       "genres": [
         "Action",
         "Comedy",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Xian Feng Jian Yu Lu",
+      "description": "In ancient Shenzhou, humans and demons had been in constant dispute for thousands of years. The demon princess from Tushan, Bai Binglan, and the human Zhang Kuangyun met each other due to a misunderstanding. In order to investigate the enemy country, Bai Binglan became Zhang Kuangyun's companion. As they travel together, Zhang Kuangyun discovers a conspiracy...",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/108195.jpg",
+      "date": "Jul 11, 2020",
+      "producer": "Ruo Hong Culture",
+      "eps": 70,
+      "genres": [
+        "Action",
+        "Supernatural",
         "Fantasy"
       ],
       "category": "ONA"
@@ -1980,18 +1980,6 @@
       "category": "OVA"
     },
     {
-      "title": "Kanojo ga Yatsu ni Idakareta Hi",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1895/107874.jpg",
-      "date": "Aug 28, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Oujo & Onna Kishi W Do Gehin Roshutsu",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1427/108043.jpg",
@@ -2001,6 +1989,18 @@
       "genres": [
         "Hentai",
         "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Kanojo ga Yatsu ni Idakareta Hi",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1895/107874.jpg",
+      "date": "Aug 28, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai"
       ],
       "category": "OVA"
     },
@@ -2134,6 +2134,20 @@
       "category": "Movie"
     },
     {
+      "title": "Hataraku Saibou!!: Saikyou no Teki, Futatabi. Karada no Naka wa \"Chou\" Oosawagi!",
+      "description": "The theatrical episode will cover events from the fifth volume of the manga.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1413/108382.jpg",
+      "date": "Sep 5, 2020",
+      "producer": "David Production",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Shounen"
+      ],
+      "category": "Movie"
+    },
+    {
       "title": "Doraemon Movie 40: Nobita no Shin Kyouryuu",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1358/104464.jpg",
@@ -2173,20 +2187,6 @@
       "genres": [
         "Mystery",
         "Kids"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Hataraku Saibou!!: Saikyou no Teki, Futatabi. Karada no Naka wa \"Chou\" Oosawagi!",
-      "description": "The theatrical episode will cover events from the fifth volume of the manga.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1413/108382.jpg",
-      "date": "Sep 5, 2020",
-      "producer": "David Production",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Shounen"
       ],
       "category": "Movie"
     },
