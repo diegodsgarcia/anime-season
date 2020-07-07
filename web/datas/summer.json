@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-06",
+  "lastUpdate": "2020-07-07",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -263,6 +263,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "Kyojinzoku no Hanayome",
+      "description": "\"If you're a giant and a dwarf, you might be pregnant with men?\"\n\nOne day, Kouichi, a boy's school student, is summoned to another world while masturbating. It's a giant's country where a much larger race lives. The first prince of the country, Kaius, who appears in front of him, enthusiastically stared at Kouichi and proposed, \"I want you to be my bride and give birth to my baby\" ...!?\n\n(Source: MAL News)\n\nThe complete edition with explicit scenes was distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1481/107629.jpg",
+      "date": "Jul 6, 2020, 01:00 (JST)",
+      "producer": "Studio Hokiboshi",
+      "eps": null,
+      "genres": [
+        "Fantasy",
+        "Shounen Ai"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Umayon",
       "description": "It's a \"pop\" and cute everyday anime based on the 4-koma manga featuring the characters from Uma Musume: Pretty Derby.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108013.jpg",
@@ -277,20 +290,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Ani ni Tsukeru Kusuri wa Nai! 4",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/108067.jpg",
-      "date": "Aug ??, 2020",
-      "producer": "Fanworks, Imagineer",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Ninja Collection",
       "description": "Set in modern-day Tokyo where dreams and desires are afloat, a group of ninjas called \"Toukeshuu\" is set to stop the spread of \"darkness\" that prevails in the world using ancient techniques passed down through generations.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1997/108104.jpg",
@@ -301,15 +300,16 @@
       "category": "TV (New)"
     },
     {
-      "title": "Kyojinzoku no Hanayome",
-      "description": "\"If you're a giant and a dwarf, you might be pregnant with men?\"\n\nOne day, Kouichi, a boy's school student, is summoned to another world while masturbating. It's a giant's country where a much larger race lives. The first prince of the country, Kaius, who appears in front of him, enthusiastically stared at Kouichi and proposed, \"I want you to be my bride and give birth to my baby\" ...!?\n\n(Source: MAL News)\n\nThe complete edition with explicit scenes was distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1481/107629.jpg",
-      "date": "Jul 6, 2020, 01:00 (JST)",
-      "producer": "Studio Hokiboshi",
+      "title": "Ani ni Tsukeru Kusuri wa Nai! 4",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/108067.jpg",
+      "date": "Aug ??, 2020",
+      "producer": "Fanworks, Imagineer",
       "eps": null,
       "genres": [
-        "Fantasy",
-        "Shounen Ai"
+        "Slice of Life",
+        "Comedy",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -1029,19 +1029,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Kamiusagi Rope: Warau Asa ni wa Fukuraitaru tte Maji ssuka!?",
-      "description": "Fourth season of Kamiusagi Rope, events occur after the feature film. Airs on Mezamashi TV instead of the theaters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/72182.jpg",
-      "date": "Nov 16, 2012, 06:45 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Tomica Kizuna Gattai: Earth Granner",
       "description": "The anime centers on the battles between the mysterious alien enemy Dark Spinner and the secret defense unit Earth Granner over Earth Energy, the energy generated from the Earth's rotation. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1597/105401.jpg",
@@ -1053,6 +1040,19 @@
         "Adventure",
         "Mecha",
         "Sci-Fi"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Kamiusagi Rope: Warau Asa ni wa Fukuraitaru tte Maji ssuka!?",
+      "description": "Fourth season of Kamiusagi Rope, events occur after the feature film. Airs on Mezamashi TV instead of the theaters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/72182.jpg",
+      "date": "Nov 16, 2012, 06:45 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1993,24 +1993,24 @@
       "category": "OVA"
     },
     {
-      "title": "Kanojo ga Yatsu ni Idakareta Hi",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1895/107874.jpg",
-      "date": "Aug 28, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Kohakuiro no Hunter The Animation",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
       "date": "Jul 31, 2020",
       "producer": "-",
       "eps": 1,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Kanojo ga Yatsu ni Idakareta Hi",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1895/107874.jpg",
+      "date": "Aug 28, 2020",
+      "producer": "-",
+      "eps": null,
       "genres": [
         "Hentai"
       ],
@@ -2120,20 +2120,6 @@
       "category": "Movie"
     },
     {
-      "title": "Shika no Ou",
-      "description": "Van is the head of a group of soldiers who expected to die fighting for their lands against a large empire looking to incorporate their home into its kingdom. Instead of dying, however, Van is taken as a slave and thrown into a salt mine. One night, a pack of strange dogs attacks the salt mine, and a mysterious illness breaks out. During the attack, Van takes the opportunity to escape, and he meets a young girl. Elsewhere, rumor is spreading that only immigrants are coming down with this mysterious illness. The medical scientist Hossal risks his life to search for a cure. Doctors also study a father and child who seem to have survived the illness. The novels tell the interconnecting stories and bonds of those who fight against a cruel fate.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1863/105366.jpg",
-      "date": "Sep 18, 2020",
-      "producer": "Production I.G",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "Movie"
-    },
-    {
       "title": "Hataraku Saibou!!: Saikyou no Teki, Futatabi. Karada no Naka wa \"Chou\" Oosawagi!",
       "description": "The theatrical episode will cover events from the fifth volume of the manga.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1413/108382.jpg",
@@ -2144,6 +2130,20 @@
         "Action",
         "Comedy",
         "Shounen"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Shika no Ou",
+      "description": "Van is the head of a group of soldiers who expected to die fighting for their lands against a large empire looking to incorporate their home into its kingdom. Instead of dying, however, Van is taken as a slave and thrown into a salt mine. One night, a pack of strange dogs attacks the salt mine, and a mysterious illness breaks out. During the attack, Van takes the opportunity to escape, and he meets a young girl. Elsewhere, rumor is spreading that only immigrants are coming down with this mysterious illness. The medical scientist Hossal risks his life to search for a cure. Doctors also study a father and child who seem to have survived the illness. The novels tell the interconnecting stories and bonds of those who fight against a cruel fate.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1863/105366.jpg",
+      "date": "Sep 18, 2020",
+      "producer": "Production I.G",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
       ],
       "category": "Movie"
     },
