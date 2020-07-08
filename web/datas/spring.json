@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-07-07",
+  "lastUpdate": "2020-07-08",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -2161,18 +2161,6 @@
       "category": "ONA"
     },
     {
-      "title": "Mottainai Baasan",
-      "description": "In the books, the titular Grandma seeks to explore the true meaning of the Japanese phrase \"mottainai\" after her son asked her what it meant and she couldn't answer. \"Mottainai\" is a commonly used exclamation that roughly translates to \"what a waste!\", expressing regret over wastefulness. The Grandma seeks to explore the meaning and importance of \"mottainai\" in the story.\n\n(Source: Anime News Network)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1652/108053.jpg",
-      "date": "Jun 4, 2020",
-      "producer": "LIDENFILMS",
-      "eps": 4,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Minegishi-san wa Ootsu-kun ni Tabesasetai",
       "description": "Mini anime series of Minegishi-san wa Ootsu-kun ni Tabesasetai.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1547/108310.jpg",
@@ -2181,6 +2169,18 @@
       "eps": 4,
       "genres": [
         "Shounen Ai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Mottainai Baasan",
+      "description": "In the books, the titular Grandma seeks to explore the true meaning of the Japanese phrase \"mottainai\" after her son asked her what it meant and she couldn't answer. \"Mottainai\" is a commonly used exclamation that roughly translates to \"what a waste!\", expressing regret over wastefulness. The Grandma seeks to explore the meaning and importance of \"mottainai\" in the story.\n\n(Source: Anime News Network)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1652/108053.jpg",
+      "date": "Jun 4, 2020",
+      "producer": "LIDENFILMS",
+      "eps": 4,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2201,11 +2201,11 @@
       "category": "OVA"
     },
     {
-      "title": "Kyonyuu Princess Saimin",
+      "title": "Gishi wa Yan Mama Junyuu Chuu",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1216/105653.jpg",
-      "date": "Apr 3, 2020",
-      "producer": "-",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/105977.jpg",
+      "date": "Jun 5, 2020",
+      "producer": "T-Rex",
       "eps": 2,
       "genres": [
         "Hentai"
@@ -2213,11 +2213,11 @@
       "category": "OVA"
     },
     {
-      "title": "Gishi wa Yan Mama Junyuu Chuu",
+      "title": "Kyonyuu Princess Saimin",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/105977.jpg",
-      "date": "Jun 5, 2020",
-      "producer": "T-Rex",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1216/105653.jpg",
+      "date": "Apr 3, 2020",
+      "producer": "-",
       "eps": 2,
       "genres": [
         "Hentai"
@@ -2237,24 +2237,24 @@
       "category": "OVA"
     },
     {
-      "title": "Tenioha! 2: Limit Over - Mada Mada Ippai, Ecchi Shiyo? The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1070/105981.jpg",
-      "date": "Apr 24, 2020",
-      "producer": "Studio 1st",
-      "eps": 1,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Yarichin Kateikyoushi Netori Houkoku",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1372/105978.jpg",
       "date": "May 29, 2020",
       "producer": "-",
       "eps": 2,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Tenioha! 2: Limit Over - Mada Mada Ippai, Ecchi Shiyo? The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1070/105981.jpg",
+      "date": "Apr 24, 2020",
+      "producer": "Studio 1st",
+      "eps": 1,
       "genres": [
         "Hentai"
       ],
@@ -2479,6 +2479,23 @@
       "genres": [
         "Sports",
         "School"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "Choujigen Game Neptune: Hi☆Light",
+      "description": "Compilation of Choujigen Game Neptune The Animation.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/101973.jpg",
+      "date": "May 15, 2020",
+      "producer": "-",
+      "eps": 2,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy",
+        "Parody",
+        "Sci-Fi",
+        "Supernatural"
       ],
       "category": "Special"
     }

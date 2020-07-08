@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-07",
+  "lastUpdate": "2020-07-08",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -113,29 +113,15 @@
     },
     {
       "title": "Deca-Dence",
-      "description": "Many years have passed since humanity was driven to the brink of extinction by the sudden emergence of the unknown life forms Gadoll. Those humans that survived now dwell in a 3000m-high mobile fortress Deca-dence built to protect themselves from the Gadoll threat.\n\nDenizens of Deca-dence fall into two categories: Gears, warriors who fight the Gadoll daily, and Tankers, those without the skills to fight. One day, Natsume, a Tanker girl who dreams of becoming a Gear meets surly Kaburagi, an armor repairman of Deca-dence.\n\nThis chance meeting between the seemingly two opposites, the girl with a positive attitude who never gives up on her dreams and the realist who has given up on his, will eventually shake the future course of this world. \n\n(Source: Official site)\n\nEpisode 1 was streamed in advance on June 29, 2020 and previewed on July 3, 2020 during Funimation Con 2020. Regular broadcasting began on July 8, 2020.",
+      "description": "Many years have passed since humanity was driven to the brink of extinction by the sudden emergence of the unknown life forms Gadoll. Those humans that survived now dwell in a 3000m-high mobile fortress Deca-dence built to protect themselves from the Gadoll threat.\n\nDenizens of Deca-dence fall into two categories: Gears, warriors who fight the Gadoll daily, and Tankers, those without the skills to fight. One day, Natsume, a Tanker girl who dreams of becoming a Gear meets surly Kaburagi, an armor repairman of Deca-dence.\n\nThis chance meeting between the seemingly two opposites, the girl with a positive attitude who never gives up on her dreams and the realist who has given up on his, will eventually shake the future course of this world. \n\n(Source: Official Site)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1627/107552.jpg",
-      "date": "Jun 29, 2020, 23:30 (JST)",
+      "date": "Jul 8, 2020, 23:30 (JST)",
       "producer": "Nut",
       "eps": null,
       "genres": [
         "Action",
         "Sci-Fi",
         "Adventure"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Uzaki-chan wa Asobitai!",
-      "description": "Sakurai Shinichi's one wish is for a little peace and quiet. But Uzaki Hana–his boisterous, well-endowed underclassman–has other plans. All she wants is to hang out and poke fun at him. With the help of her chipper charm and peppy persistence, this might just be the start of a beautiful relationship! \n\n(Source: Seven Seas Entertainment)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1540/108292.jpg",
-      "date": "Jul 5, 2020, 21:30 (JST)",
-      "producer": "ENGI",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "Ecchi",
-        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -155,6 +141,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Uzaki-chan wa Asobitai!",
+      "description": "Sakurai Shinichi's one wish is for a little peace and quiet. But Uzaki Hana–his boisterous, well-endowed underclassman–has other plans. All she wants is to hang out and poke fun at him. With the help of her chipper charm and peppy persistence, this might just be the start of a beautiful relationship! \n\n(Source: Seven Seas Entertainment)\n\nEpisode 1 was streamed in advance on July 5, 2020 on Docomo Anime Store. Regular broadcasting began on July 10, 2020.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1540/108292.jpg",
+      "date": "Jul 5, 2020, 21:30 (JST)",
+      "producer": "ENGI",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Ecchi"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Peter Grill to Kenja no Jikan",
       "description": "Peter Grill is known throughout the land as the world's strongest fighter. He has a girlfriend who he's steadily trying to get closer with. Life is good for him. Until he realizes that dozens of women, who want to bear strong children, are all vying for his seed.\n\n(Source: LHTranslation)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1076/106693.jpg",
@@ -166,21 +166,6 @@
         "Comedy",
         "Ecchi",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "No Guns Life 2nd Season",
-      "description": "Second half of No Guns Life.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/106613.jpg",
-      "date": "Jul 10, 2020, 01:28 (JST)",
-      "producer": "Madhouse",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Drama",
-        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -202,6 +187,21 @@
       "category": "TV (New)"
     },
     {
+      "title": "No Guns Life 2nd Season",
+      "description": "Second half of No Guns Life.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/106613.jpg",
+      "date": "Jul 10, 2020, 01:28 (JST)",
+      "producer": "Madhouse",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Drama",
+        "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Gibiate",
       "description": "The story takes place in Japan. The year is 2030 and Earth has been completely overrun by a viral disease named \"Gibia\" that turns infected people into various different monsters, based on their age, sex, and race.\n\nA samurai and a ninja from the early Edo period travel together through time and arrive in a ruined Japan to aid a professor working on a cure for the virus.\n\nTogether, they fight countless Gibia monsters, outlaws, and other fierce foes on their journey to save mankind.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1769/107880.jpg",
@@ -214,6 +214,18 @@
         "Horror",
         "Martial Arts",
         "Samurai"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Lapis Re:LiGHTs",
+      "description": "Based on a mixed media project that blends fantasy, magical girl, and idol elements, Lapis Re:LiGHTs will follow a group of students as they train to become idols. Together, they'll use the magic of music and the magic of... well, literal magic... in their performances.\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1880/107611.jpg",
+      "date": "Jul 4, 2020, 22:00 (JST)",
+      "producer": "Yokohama Animation Lab",
+      "eps": null,
+      "genres": [
+        "Music"
       ],
       "category": "TV (New)"
     },
@@ -235,18 +247,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Lapis Re:LiGHTs",
-      "description": "Based on a mixed media project that blends fantasy, magical girl, and idol elements, Lapis Re:LiGHTs will follow a group of students as they train to become idols. Together, they'll use the magic of music and the magic of... well, literal magic... in their performances.\n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1880/107611.jpg",
-      "date": "Jul 4, 2020, 22:00 (JST)",
-      "producer": "Yokohama Animation Lab",
-      "eps": null,
-      "genres": [
-        "Music"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Koi to Producer: EVOL×LOVE",
       "description": "A girl inherits a company that is almost bankrupt from her late father. Lacking the funds, she must now become the producer herself in order to save the company from collapse.\nDuring her work, she meets four boys—financial expert Zen, the idol Kira, police officer Haku, and leading neuroscientist Simon—and is suddenly involved with the conspiracies and mysteries over the existence of special powers known as \"Evol.\"\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1944/108276.jpg",
@@ -263,19 +263,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Kyojinzoku no Hanayome",
-      "description": "\"If you're a giant and a dwarf, you might be pregnant with men?\"\n\nOne day, Kouichi, a boy's school student, is summoned to another world while masturbating. It's a giant's country where a much larger race lives. The first prince of the country, Kaius, who appears in front of him, enthusiastically stared at Kouichi and proposed, \"I want you to be my bride and give birth to my baby\" ...!?\n\n(Source: MAL News)\n\nThe complete edition with explicit scenes was distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1481/107629.jpg",
-      "date": "Jul 6, 2020, 01:00 (JST)",
-      "producer": "Studio Hokiboshi",
-      "eps": null,
-      "genres": [
-        "Fantasy",
-        "Shounen Ai"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Umayon",
       "description": "It's a \"pop\" and cute everyday anime based on the 4-koma manga featuring the characters from Uma Musume: Pretty Derby.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108013.jpg",
@@ -286,6 +273,19 @@
         "Slice of Life",
         "Comedy",
         "Sports"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Kyojinzoku no Hanayome",
+      "description": "\"If you're a giant and a dwarf, you might be pregnant with men?\"\n\nOne day, Kouichi, a boy's school student, is summoned to another world while masturbating. It's a giant's country where a much larger race lives. The first prince of the country, Kaius, who appears in front of him, enthusiastically stared at Kouichi and proposed, \"I want you to be my bride and give birth to my baby\" ...!?\n\n(Source: MAL News)\n\nThe complete edition with explicit scenes was distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1481/107629.jpg",
+      "date": "Jul 6, 2020, 01:00 (JST)",
+      "producer": "Studio Hokiboshi",
+      "eps": null,
+      "genres": [
+        "Fantasy",
+        "Shounen Ai"
       ],
       "category": "TV (New)"
     },
@@ -924,7 +924,7 @@
     },
     {
       "title": "Yasamura Yasashi no Yasashii Sekai",
-      "description": "The series follows a mysterious but gentle-hearted man named Yasashi Yasamura who spreads warmth and human kindness wherever he goes.\n\n(Source: Crunchyroll)\n\n33 Episodes have been released as of July 2019.",
+      "description": "The series follows a mysterious but gentle-hearted man named Yasashi Yasamura who spreads warmth and human kindness wherever he goes.\n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/10/81641.jpg",
       "date": "Sep 2, 2016",
       "producer": "DLE",
@@ -1687,20 +1687,6 @@
       "category": "ONA"
     },
     {
-      "title": "Ling Jian Zun 4th Season",
-      "description": "Fourth season of Ling Jian Zun.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1972/108157.jpg",
-      "date": "Sep 11, 2020",
-      "producer": "Soyep",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Romance",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Shi Zhi Ge: Hua Yu Yan De Kuangxiang Shi",
       "description": "On the far side of the Milky Way, there is a planet gestating magical power-Wilhallen. There are four very different countries on this magical continent: the ancient and mysterious eastern empire—Huang; the free and open Nanyang island country—Tapaz; the iron-clad western republic—Vrsaris; and, Civilized and elegant Beilian Gang-Agnesa. All countries enshrine the High God and obtain the gift of divine power. Although there are occasional conflicts, most people enjoy a peaceful life. Until the era of 3836, when a mysterious man in black suddenly came with an unknown dark force, but found himself in the wrong place at the wrong time. Fortunately, the established fate was as recorded in the time document in his hand. Verhallen opened a new parallel world...\n\n(Source: bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1261/108209.jpg",
@@ -1710,6 +1696,20 @@
       "genres": [
         "Action",
         "Music",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ling Jian Zun 4th Season",
+      "description": "Fourth season of Ling Jian Zun.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1972/108157.jpg",
+      "date": "Sep 11, 2020",
+      "producer": "Soyep",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Romance",
         "Fantasy"
       ],
       "category": "ONA"
@@ -1980,6 +1980,18 @@
       "category": "OVA"
     },
     {
+      "title": "Kohakuiro no Hunter The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
+      "date": "Jul 31, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
       "title": "Oujo & Onna Kishi W Do Gehin Roshutsu",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1427/108043.jpg",
@@ -1989,18 +2001,6 @@
       "genres": [
         "Hentai",
         "Fantasy"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "Kohakuiro no Hunter The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
-      "date": "Jul 31, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
       ],
       "category": "OVA"
     },
@@ -2228,6 +2228,21 @@
       "eps": 1,
       "genres": [
         "Music"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "Re:Zero kara Hajimeru Break Time 2nd Season",
+      "description": "A series of comedic shorts featuring chibi versions of the characters of the main show.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1586/108326.jpg",
+      "date": "Jul 10, 2020",
+      "producer": "Studio PuYUKAI",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Parody",
+        "Fantasy"
       ],
       "category": "Special"
     },
