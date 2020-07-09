@@ -1,20 +1,20 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-08",
+  "lastUpdate": "2020-07-09",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
-      "description": "Second season of Re:Zero kara Hajimeru Isekai Seikatsu.",
+      "description": "Even after dying countless times, Subaru finally ended the threat of the White Whale and defeated the Witch Cult's Sin Archbishop representing sloth, Petelgeuse Romaneeconti. But only shortly after overcoming a tragic ending and reuniting with his beloved Emilia, Subaru learns that Rem has been erased from this world, having fallen victim to the White Whale's Fog of Elimination in the midst of Subaru's death loop. With the White Whale now gone, Subaru and Emilia are forced to confront a reality they never dreamed would happen.\n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1444/108005.jpg",
       "date": "Jul 8, 2020, 22:30 (JST)",
       "producer": "White Fox",
       "eps": null,
       "genres": [
-        "Drama",
-        "Fantasy",
         "Psychological",
-        "Thriller"
+        "Drama",
+        "Thriller",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -156,9 +156,9 @@
     },
     {
       "title": "Peter Grill to Kenja no Jikan",
-      "description": "Peter Grill is known throughout the land as the world's strongest fighter. He has a girlfriend who he's steadily trying to get closer with. Life is good for him. Until he realizes that dozens of women, who want to bear strong children, are all vying for his seed.\n\n(Source: LHTranslation)",
+      "description": "Peter Grill is known throughout the land as the world's strongest fighter. He has a girlfriend who he's steadily trying to get closer with. Life is good for him. Until he realizes that dozens of women, who want to bear strong children, are all vying for his seed.\n\n(Source: LHTranslation)\n\nEpisode 1 was streamed in advance on July 4, 2020 on Docomo Anime Store. Regular broadcasting began on July 11, 2020.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1076/106693.jpg",
-      "date": "Jul 11, 2020, 01:35 (JST)",
+      "date": "Jul 4, 2020, 01:35 (JST)",
       "producer": "-",
       "eps": null,
       "genres": [
@@ -1595,8 +1595,8 @@
       "producer": "Science SARU",
       "eps": 10,
       "genres": [
-        "Sci-Fi",
-        "Drama"
+        "Drama",
+        "Sci-Fi"
       ],
       "category": "ONA"
     },
@@ -1630,7 +1630,7 @@
     },
     {
       "title": "Tian Bao Fuyao Lu",
-      "description": "(No synopsis yet.)",
+      "description": "Tianbao Period.\n\nKong Hongjun, a young man who was ignorant of worldly affairs, came to Chang’an with three important tasks and entered the Great Tang’s Exorcist Department. Inside the department, he led a ragtag group of yao-vanquishing experts together with Li Jinglong, commander of the Longwu Army.\n\nAnd this, is the story of how they wrote out the Great Tang’s Yao-vanquishing Records.\n\n(Source: Chrysanthemum Garden)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1432/105225.jpg",
       "date": "Jul 5, 2020",
       "producer": "Sparkly Key Animation Studio",
@@ -2220,18 +2220,6 @@
       "category": "Special"
     },
     {
-      "title": "22/7: 8＋3=?",
-      "description": "Thirteenth episode included in sixth Blu-ray volume.\n\nThis episode centers on the story of Mikami Kamiki, Yuuki Toujou, and Tsubomi Hiiragi.\n\n(Source: Official Website)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1892/105979.jpg",
-      "date": "Sep 16, 2020",
-      "producer": "A-1 Pictures",
-      "eps": 1,
-      "genres": [
-        "Music"
-      ],
-      "category": "Special"
-    },
-    {
       "title": "Re:Zero kara Hajimeru Break Time 2nd Season",
       "description": "A series of comedic shorts featuring chibi versions of the characters of the main show.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1586/108326.jpg",
@@ -2243,6 +2231,18 @@
         "Comedy",
         "Parody",
         "Fantasy"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "22/7: 8＋3=?",
+      "description": "Thirteenth episode included in sixth Blu-ray volume.\n\nThis episode centers on the story of Mikami Kamiki, Yuuki Toujou, and Tsubomi Hiiragi.\n\n(Source: Official Website)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1892/105979.jpg",
+      "date": "Sep 16, 2020",
+      "producer": "A-1 Pictures",
+      "eps": 1,
+      "genres": [
+        "Music"
       ],
       "category": "Special"
     },

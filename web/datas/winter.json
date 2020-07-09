@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-07-08",
+  "lastUpdate": "2020-07-09",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1166,7 +1166,7 @@
     },
     {
       "title": "Yasamura Yasashi no Yasashii Sekai",
-      "description": "The series follows a mysterious but gentle-hearted man named Yasashi Yasamura who spreads warmth and human kindness wherever he goes.\n\n(Source: Crunchyroll)\n\n33 Episodes have been released as of July 2019.",
+      "description": "The series follows a mysterious but gentle-hearted man named Yasashi Yasamura who spreads warmth and human kindness wherever he goes.\n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/10/81641.jpg",
       "date": "Sep 2, 2016",
       "producer": "DLE",
@@ -2135,19 +2135,6 @@
       "category": "ONA"
     },
     {
-      "title": "Qing Chi Hong Xiaodou Ba! 3rd Season",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1669/106653.jpg",
-      "date": "Jan 12, 2020",
-      "producer": "Making Animation",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Sita Wihayeo",
       "description": "For her sake, he would sacrifice anything...\n\nWhile volunteering in Nepal, a Korean medical student named Sangmin Han encounters the beautiful yet tragic Sita. Previously, she was a Kumari—a prepubescent girl worshipped as the vessel of a goddess. But she has since been forsaken as a Kumari, and cast out from society. Falling in love, they marry and move to Korea, but their blissful love is short-lived; Sita dies only a year later.\n\nLosing the woman dearest to him, Sangmin desperately begs the gods to bring Sita back. His prayers are answered but in exchange for a sacrifice, and he awakens in the streets of Nepal. However, something is amiss—his body has suddenly aged, and standing in front of him is a young Sita, with no memory of him.\n\nThrough two lovers bound together by a destiny running deeper than it first appears, For the Sake of Sita is the story of Sita growing up as a Kumari, and Sangmin's tribulations in trying to avert her terrible fate.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1180/107339.jpg",
@@ -2159,6 +2146,19 @@
         "Magic",
         "Romance",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Qing Chi Hong Xiaodou Ba! 3rd Season",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1669/106653.jpg",
+      "date": "Jan 12, 2020",
+      "producer": "Making Animation",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
