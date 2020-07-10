@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-07-09",
+  "lastUpdate": "2020-07-10",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -16,6 +16,22 @@
         "Comedy",
         "Romance",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Haikyuu!!: To the Top 2nd Season",
+      "description": "Second half of Haikyuu!!: To the Top.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1453/106768.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Production I.G",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Sports",
+        "Drama",
+        "School",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -192,7 +208,7 @@
     {
       "title": "Assault Lily: Bouquet",
       "description": "In the near future, humanity faces imminent destruction from mysterious creatures known as \"Huge.\" The world wages war against the Huge, and develops the anti-weapon \"CHARM\" (Counter Huge Arms) by combining science and magic. CHARM works more effectively when used by teenage girls, and those who use the weapons are revered as \"Lilies.\" The Lilies are trained at military academies called \"Gardens,\" which also serve as bases to protect and advise people. This is a story about girls who aim to become Lilies so they can protect Earth. \n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1920/104618.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1024/108413.jpg",
       "date": "Oct ??, 2020",
       "producer": "Shaft",
       "eps": null,
@@ -452,7 +468,7 @@
     {
       "title": "Munou na Nana",
       "description": "It is the year 20XX. Earth was assaulted by monsters that would come to be known as \"the Enemy of Humanity.\" In order to deal with this threat, special schools composed of teenagers with extraordinary abilities were formed. These people, who came to be known as \"the Talented,\" had abilities that could defy the rules of reality.\n\nAmong these people with supernatural powers was an outlier, an individual who was sent to one of these schools despite having no innate special abilities whatsoever. This is the story of our protagonist, who attempts to defeat the Enemies of Humanity through the use of intelligence and manipulation alone. \n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1811/106886.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1786/108399.jpg",
       "date": "Oct ??, 2020",
       "producer": "Bridge",
       "eps": null,
@@ -586,6 +602,21 @@
         "Adventure",
         "Magic",
         "Fantasy"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Precure Miracle Leap Movie: Minna to no Fushigi na Ichinichi",
+      "description": "The story begins when the protagonist Hikaru meets aliens Lala, Prunce, and Fuwa while watching the night sky. She learns of the “Star Palace,” where the 12 Star Princesses of the constellations kept the balance of the universe until they were attacked. Lala is searching for the legendary Precure warriors to help find the 12 scattered “Princess Star Color Pens” and revive the princesses. When Fuwa is captured by an enemy, Hikaru wishes to save Fuwa, and a Star Color Pendent and a Star Color Pen appear to allow her to transform into Cure Star. From then on she works to collect the pens and raise Fuwa, who is the key to reviving the princesses.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1313/105361.jpg",
+      "date": "Oct 31, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Magic",
+        "Shoujo"
       ],
       "category": "Movie"
     },

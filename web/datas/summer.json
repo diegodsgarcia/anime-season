@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-09",
+  "lastUpdate": "2020-07-10",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -142,9 +142,9 @@
     },
     {
       "title": "Uzaki-chan wa Asobitai!",
-      "description": "Sakurai Shinichi's one wish is for a little peace and quiet. But Uzaki Hana–his boisterous, well-endowed underclassman–has other plans. All she wants is to hang out and poke fun at him. With the help of her chipper charm and peppy persistence, this might just be the start of a beautiful relationship! \n\n(Source: Seven Seas Entertainment)\n\nEpisode 1 was streamed in advance on July 5, 2020 on Docomo Anime Store. Regular broadcasting began on July 10, 2020.",
+      "description": "Sakurai Shinichi's one wish is for a little peace and quiet. But Uzaki Hana–his boisterous, well-endowed underclassman–has other plans. All she wants is to hang out and poke fun at him. With the help of her chipper charm and peppy persistence, this might just be the start of a beautiful relationship! \n\n(Source: Seven Seas Entertainment)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1540/108292.jpg",
-      "date": "Jul 5, 2020, 21:30 (JST)",
+      "date": "Jul 10, 2020, 21:30 (JST)",
       "producer": "ENGI",
       "eps": 12,
       "genres": [
@@ -1557,21 +1557,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Oshiri Tantei 4th Season",
-      "description": "Fourth season of Oshiri Tantei.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1229/107371.jpg",
-      "date": "Apr 4, 2020, 09:00 (JST)",
-      "producer": "Toei Animation",
-      "eps": null,
-      "genres": [
-        "Mystery",
-        "Comedy",
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Washimo 8th Season",
       "description": "Eighth season of the Washimo series.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1914/106717.jpg",
@@ -1597,6 +1582,22 @@
       "genres": [
         "Drama",
         "Sci-Fi"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Mo Dao Zu Shi Q",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1108/106706.jpg",
+      "date": "Jul 31, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Historical",
+        "Supernatural",
+        "Magic"
       ],
       "category": "ONA"
     },
@@ -1868,6 +1869,18 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Dahua Zhi Shaonian You",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/107440.jpg",
+      "date": "Aug 15, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action"
       ],
       "category": "ONA"
     },
@@ -2166,7 +2179,7 @@
     {
       "title": "Jintai no Survival!",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1599/108254.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1419/108415.jpg",
       "date": "Jul 31, 2020",
       "producer": "-",
       "eps": 1,
