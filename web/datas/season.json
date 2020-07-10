@@ -398,7 +398,7 @@
         "Fantasy",
         "Shounen"
       ],
-      "category": "TV (New)"
+      "category": "TV (Continuing)"
     },
     {
       "title": "Black Clover",
@@ -1583,7 +1583,7 @@
         "Drama",
         "Sci-Fi"
       ],
-      "category": "TV (Continuing)"
+      "category": "ONA"
     },
     {
       "title": "Mo Dao Zu Shi Q",
@@ -1599,7 +1599,7 @@
         "Supernatural",
         "Magic"
       ],
-      "category": "TV (Continuing)"
+      "category": "ONA"
     },
     {
       "title": "Wu Shan Wu Xing",
@@ -1912,7 +1912,7 @@
         "Romance",
         "School"
       ],
-      "category": "ONA"
+      "category": "OVA"
     },
     {
       "title": "Planetarian: Snow Globe",
@@ -1925,7 +1925,7 @@
         "Sci-Fi",
         "Drama"
       ],
-      "category": "ONA"
+      "category": "OVA"
     },
     {
       "title": "Kabukichou Sherlock OVA",
@@ -1939,7 +1939,7 @@
         "Comedy",
         "Drama"
       ],
-      "category": "ONA"
+      "category": "OVA"
     },
     {
       "title": "Muramata-san no Himitsu",
@@ -2053,7 +2053,7 @@
         "Drama",
         "Fantasy"
       ],
-      "category": "OVA"
+      "category": "Movie"
     },
     {
       "title": "Fate/stay night Movie: Heaven's Feel - III. Spring Song",
@@ -2068,7 +2068,7 @@
         "Magic",
         "Fantasy"
       ],
-      "category": "OVA"
+      "category": "Movie"
     },
     {
       "title": "Given Movie",
@@ -2084,7 +2084,7 @@
         "Romance",
         "Shounen Ai"
       ],
-      "category": "OVA"
+      "category": "Movie"
     },
     {
       "title": "Shingeki no Kyojin: Chronicle",
@@ -2102,7 +2102,7 @@
         "Fantasy",
         "Shounen"
       ],
-      "category": "OVA"
+      "category": "Movie"
     },
     {
       "title": "Umibe no Étranger",
@@ -2217,7 +2217,7 @@
         "Romance",
         "Fantasy"
       ],
-      "category": "Movie"
+      "category": "Special"
     },
     {
       "title": "Murenase! Seton Gakuen Special",
@@ -2230,7 +2230,7 @@
         "Comedy",
         "School"
       ],
-      "category": "Movie"
+      "category": "Special"
     },
     {
       "title": "Re:Zero kara Hajimeru Break Time 2nd Season",
@@ -2245,7 +2245,7 @@
         "Parody",
         "Fantasy"
       ],
-      "category": "Movie"
+      "category": "Special"
     },
     {
       "title": "22/7: 8＋3=?",
@@ -2257,7 +2257,7 @@
       "genres": [
         "Music"
       ],
-      "category": "Movie"
+      "category": "Special"
     },
     {
       "title": "ARP Backstage Pass Special",
@@ -2269,7 +2269,7 @@
       "genres": [
         "Music"
       ],
-      "category": "Movie"
+      "category": "Special"
     }
   ]
 }
