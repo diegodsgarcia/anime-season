@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-07-10",
+  "lastUpdate": "2020-07-11",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -563,6 +563,19 @@
       "category": "Movie"
     },
     {
+      "title": "Wave!!: Surfing Yappe!!",
+      "description": "Masaki Hinaoka, who grew up near the coast of Ooarai in Ibaraki Prefecture, meets a prince-like transfer student Shou Akitsuki before the summer break, who introduces him to the world of surfing. Through surfing, Masaki meets irreplaceable friends and experiences farewell as he becomes an adult. It is the beginning of a never-ending story of boys fascinated by the charm of surfing.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1713/107318.jpg",
+      "date": "Oct 2, 2020",
+      "producer": "Asahi Production",
+      "eps": 3,
+      "genres": [
+        "Slice of Life",
+        "Sports"
+      ],
+      "category": "Movie"
+    },
+    {
       "title": "Aria",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1752/107019.jpg",
@@ -629,6 +642,34 @@
       "eps": 1,
       "genres": [
         "Yaoi"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Soukyuu no Fafner: Dead Aggressor - The Beyond Part 3",
+      "description": "Episodes 7-9 of the Soukyuu no Fafner: Dead Aggressor - The Beyond series.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1023/107083.jpg",
+      "date": "Nov 13, 2020",
+      "producer": "I.Gzwei, Production I.G",
+      "eps": 3,
+      "genres": [
+        "Action",
+        "Military",
+        "Sci-Fi",
+        "Drama",
+        "Mecha"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Date A Bullet: Nightmare or Queen",
+      "description": "Second part of the Date A Bullet films.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1002/108424.jpg",
+      "date": "Nov 13, 2020",
+      "producer": "GEEKTOYS",
+      "eps": 1,
+      "genres": [
+        "Sci-Fi"
       ],
       "category": "Movie"
     }

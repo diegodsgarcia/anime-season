@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-10",
+  "lastUpdate": "2020-07-11",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -156,9 +156,9 @@
     },
     {
       "title": "Peter Grill to Kenja no Jikan",
-      "description": "Peter Grill is known throughout the land as the world's strongest fighter. He has a girlfriend who he's steadily trying to get closer with. Life is good for him. Until he realizes that dozens of women, who want to bear strong children, are all vying for his seed.\n\n(Source: LHTranslation)\n\nEpisode 1 was streamed in advance on July 4, 2020 on Docomo Anime Store. Regular broadcasting began on July 11, 2020.",
+      "description": "Peter Grill is known throughout the land as the world's strongest fighter. He has a girlfriend who he's steadily trying to get closer with. Life is good for him. Until he realizes that dozens of women, who want to bear strong children, are all vying for his seed.\n\n(Source: LHTranslation)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1076/106693.jpg",
-      "date": "Jul 4, 2020, 01:35 (JST)",
+      "date": "Jul 11, 2020, 01:35 (JST)",
       "producer": "-",
       "eps": null,
       "genres": [
@@ -487,8 +487,8 @@
       "producer": "CloverWorks",
       "eps": 11,
       "genres": [
-        "Comedy",
         "Mystery",
+        "Comedy",
         "Police"
       ],
       "category": "TV (Continuing)"
@@ -1587,7 +1587,7 @@
     },
     {
       "title": "Mo Dao Zu Shi Q",
-      "description": "(No synopsis yet.)",
+      "description": "The chibi spin-off series of Mo Dao Zu Shi.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1108/106706.jpg",
       "date": "Jul 31, 2020",
       "producer": "-",
@@ -2067,6 +2067,18 @@
         "Supernatural",
         "Magic",
         "Fantasy"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Date A Bullet: Dead or Bullet",
+      "description": "This is the story of Tokisaki Kurumi that shouldn't have been told——\n\nThe amnesiac young girl, Empty, who woke up in the neighboring world encounters Tokisaki Kurumi. Led by her, the place she arrived at was the school's classroom. In order to kill each other, the girls known as semi-Spirits gathered. Now then——Let's begin our battle (date). \n\n(Source: Date A Live Wiki)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1173/106581.jpg",
+      "date": "Aug 14, 2020",
+      "producer": "GEEKTOYS",
+      "eps": 1,
+      "genres": [
+        "Sci-Fi"
       ],
       "category": "Movie"
     },
