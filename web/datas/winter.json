@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-07-11",
+  "lastUpdate": "2020-07-12",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -2606,7 +2606,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1896/102829.jpg",
       "date": "Feb 21, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 1,
       "genres": [
         "Comedy",
         "Drama",
