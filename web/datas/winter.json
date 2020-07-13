@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-07-12",
+  "lastUpdate": "2020-07-13",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -73,10 +73,11 @@
       "eps": 12,
       "genres": [
         "Action",
+        "Game",
+        "Sci-Fi",
         "Adventure",
         "Comedy",
-        "Fantasy",
-        "Sci-Fi"
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -1837,10 +1838,10 @@
     },
     {
       "title": "Katarina Nounai Kaigi",
-      "description": "Short specials posted on the official twitter account where the \"Katarina Five\" will introduce HameFura.",
+      "description": "Short specials posted on the official twitter account where the \"Katarina Five\" will introduce Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1067/106344.jpg",
       "date": "Feb 29, 2020",
-      "producer": "Silver Link.",
+      "producer": "AQUA ARIS",
       "eps": 26,
       "genres": [
         "Comedy"
@@ -2190,6 +2191,18 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Eizouken Mini Anime",
+      "description": "Short episodes with super-deformed characters posted in official Twitter account and later released with the BD Box.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1873/106472.jpg",
+      "date": "Jan 8, 2020",
+      "producer": "AQUA ARIS",
+      "eps": 12,
+      "genres": [
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2563,7 +2576,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1834/106107.jpg",
       "date": "Mar 27, 2020",
       "producer": "Production I.G",
-      "eps": 1,
+      "eps": 3,
       "genres": [
         "Action",
         "Sci-Fi",

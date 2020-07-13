@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-07-12",
+  "lastUpdate": "2020-07-13",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -203,7 +203,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1710/106614.jpg",
       "date": "Apr 10, 2020, 21:30 (JST)",
       "producer": "P.A. Works",
-      "eps": null,
+      "eps": 13,
       "genres": [
         "Comedy",
         "Historical"
@@ -457,7 +457,7 @@
       "category": "TV (New)"
     },
     {
-      "title": "Olympia Kyklos",
+      "title": "Bessatsu Olympia Kyklos",
       "description": "Demetrios, a timid and kind vase painter in Ancient Greece who dislikes sports and competitions, is one day forced to come up with a game to compete with the mayor of the neighboring town in order to save his village. While hiding inside a large vase outside his workshop, lightning strikes the vase Demetrios is in, transferring him to Tokyo, Japan, during the 1964 Summer Olympics.\n \n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1543/107116.jpg",
       "date": "Apr 20, 2020, 21:54 (JST)",
@@ -2185,6 +2185,18 @@
       "category": "ONA"
     },
     {
+      "title": "Katarina to Manabou",
+      "description": "Short specials posted on the official Twitter account focused on main cast of Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1229/107958.jpg",
+      "date": "May 10, 2020",
+      "producer": "-",
+      "eps": 9,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Strike the Blood IV",
       "description": "Fourth season of Strike the Blood.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1792/104833.jpg",
@@ -2454,9 +2466,9 @@
     },
     {
       "title": "Majutsushi Orphen Hagure Tabi: Tennin no Isan",
-      "description": "Unaired episode included in the 2nd volume of the Blu-ray/DVD box.\n\nThe episode was streamed in advance on April 7, 2020. The official release of the episode was on May 8, 2020.",
+      "description": "Unaired episode included in the 2nd volume of the Blu-ray/DVD box.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1319/106804.jpg",
-      "date": "Apr 7, 2020",
+      "date": "May 8, 2020",
       "producer": "Studio Deen",
       "eps": 1,
       "genres": [

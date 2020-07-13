@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-12",
+  "lastUpdate": "2020-07-13",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -84,7 +84,7 @@
     },
     {
       "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e",
-      "description": "After 2000 years has passed, the ruthless demon lord has just been reincarnated! But his aptitude at an academy for nurturing candidates for demon lords is, “inept”!?\n\nHaving the capability to destroy humans, elementals, and gods, after a long period of countless wars and strife, Arnos the demon lord became sick and tired of all that and longed for a peaceful world, so he decided to reincarnate to the future.\n\nHowever, what awaited him after his reincarnation is a world too used to peace that his descendants became too weak due to a huge weakening in magical powers. \n\n(Source: MU)",
+      "description": "After 2000 years have passed, the ruthless demon lord has just been reincarnated! But his aptitude at an academy for nurturing candidates for demon lords is, “inept”!?\n\nHaving the capability to destroy humans, elementals, and gods, after a long period of countless wars and strife, Arnos the demon lord became sick and tired of all that and longed for a peaceful world, so he decided to reincarnate to the future.\n\nHowever, what awaited him after his reincarnation is a world too used to peace that his descendants became too weak due to a huge weakening in magical powers. \n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1388/105332.jpg",
       "date": "Jul 4, 2020, 23:30 (JST)",
       "producer": "Silver Link.",
@@ -296,7 +296,9 @@
       "date": "Jul 12, 2020, 03:05 (JST)",
       "producer": "DRAWIZ, ILCA, Toho Interactive Animation",
       "eps": null,
-      "genres": [],
+      "genres": [
+        "Supernatural"
+      ],
       "category": "TV (New)"
     },
     {
@@ -720,11 +722,11 @@
       "producer": "-",
       "eps": 24,
       "genres": [
+        "Slice of Life",
         "Comedy",
         "Historical",
-        "Seinen",
-        "Slice of Life",
-        "Sports"
+        "Sports",
+        "Seinen"
       ],
       "category": "TV (Continuing)"
     },
@@ -1588,9 +1590,9 @@
     {
       "title": "Mo Dao Zu Shi Q",
       "description": "The chibi spin-off series of Mo Dao Zu Shi.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1108/106706.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108467.jpg",
       "date": "Jul 31, 2020",
-      "producer": "-",
+      "producer": "B.CMAY PICTURES",
       "eps": null,
       "genres": [
         "Action",
@@ -1850,7 +1852,7 @@
       "description": "Due to the dissipation of the heavenly scripture powers, Dunhuang will face adversity. Wu Tianji is ordered to repair the heavenly scriptures. In order to perfect the heavenly scripture powers, you need to relive the story originally recorded in the heavenly scripture. Wu Tianji took the god beast, the angel pig, to the ancient city of Dunhuang. Just when she had no idea how to start repairing the scriptures, she accidentally strayed into the world of frescoes in the Mogao Caves...\n\n(Source: bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1611/108293.jpg",
       "date": "Jul 6, 2020",
-      "producer": "-",
+      "producer": "Painting Dream",
       "eps": 5,
       "genres": [
         "Comedy",
