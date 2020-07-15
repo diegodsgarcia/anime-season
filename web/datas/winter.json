@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-07-14",
+  "lastUpdate": "2020-07-15",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -533,18 +533,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "ARP Backstage Pass",
-      "description": "ARP: A 4-member dance and vocal group created by the latest AR technology. This popular group got their start with Avex, and are unique for their interactive concerts which combine highly-skilled song and dance routines with a format that changes based on how much the fans are cheering them on.\n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1025/104231.jpg",
-      "date": "Jan 13, 2020, 23:00 (JST)",
-      "producer": "Dynamo Pictures",
-      "eps": 10,
-      "genres": [
-        "Music"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Healin' Good♡Precure",
       "description": "The Healin' Garden, a secret world where Earth is healed, is under attack by the Byougenzu, who are trying to infect the Earth.\nIn order to salve it, three medical trainees of Earth, the Healin' Animals, along with Latte, the little princess of the Healin' Garden who holds a special power, escaped in search of their partners!\nNow, three ordinary girls are able to transform into Pretty Cure with the power of the Healin' Animals and fight against the Byougenzu!\nThe Pretty Cure are in charge of defending Latte and the precious Earth and all her creatures by taking care of them.\n\n(Source: Asahi TV)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1401/105084.jpg",
@@ -556,6 +544,18 @@
         "Magic",
         "Fantasy",
         "Shoujo"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "ARP Backstage Pass",
+      "description": "ARP: A 4-member dance and vocal group created by the latest AR technology. This popular group got their start with Avex, and are unique for their interactive concerts which combine highly-skilled song and dance routines with a format that changes based on how much the fans are cheering them on.\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1025/104231.jpg",
+      "date": "Jan 13, 2020, 23:00 (JST)",
+      "producer": "Dynamo Pictures",
+      "eps": 10,
+      "genres": [
+        "Music"
       ],
       "category": "TV (New)"
     },
@@ -601,19 +601,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Hulaing Babies Petit",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/104460.jpg",
-      "date": "Jan 8, 2020, 07:30 (JST)",
-      "producer": "Gaina",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu",
       "description": "",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1276/104362.jpg",
@@ -626,6 +613,19 @@
         "Kids",
         "Supernatural",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Hulaing Babies Petit",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/104460.jpg",
+      "date": "Jan 8, 2020, 07:30 (JST)",
+      "producer": "Gaina",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -1513,6 +1513,18 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Konigiri-kun",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Otoppe",
       "description": "The series follows a young girl named Shina who hopes to become the world's best DJ, and is interested in new sounds. Shina explores a mysterious world filled with Otoppe, strange creatures capable of unique sounds.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
@@ -1523,18 +1535,6 @@
         "Music",
         "Kids",
         "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Konigiri-kun",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -2013,6 +2013,22 @@
       "category": "ONA"
     },
     {
+      "title": "Wu Shen Zhu Zai",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
+      "date": "Mar 8, 2020",
+      "producer": "Ruo Hong Culture",
+      "eps": 80,
+      "genres": [
+        "Action",
+        "Historical",
+        "Drama",
+        "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Kyouryuu Shoujo Gauko 2nd Season",
       "description": "The comedy series is set in Japan and follows Naoko Watanabe, a typical tween girl aside from the fact that she possesses strange and sometimes troubling powers. When her anger exceeds a maximum level, she turns into Gauko, the fire-breathing dinosaur girl.\n\n(Source: Variety)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1284/106412.jpg",
@@ -2034,22 +2050,6 @@
       "eps": 1,
       "genres": [
         "Hentai"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Wu Shen Zhu Zai",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
-      "date": "Mar 8, 2020",
-      "producer": "Ruo Hong Culture",
-      "eps": 80,
-      "genres": [
-        "Action",
-        "Historical",
-        "Drama",
-        "Martial Arts",
-        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2371,6 +2371,18 @@
       "category": "OVA"
     },
     {
+      "title": "Hime-sama Love Life!",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1487/103719.jpg",
+      "date": "May 31, 2019",
+      "producer": "PoRO",
+      "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
       "title": "Youma Shoukan e Youkoso",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1230/106167.jpg",
@@ -2382,18 +2394,6 @@
         "Demons",
         "Supernatural",
         "Fantasy"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "Hime-sama Love Life!",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1487/103719.jpg",
-      "date": "May 31, 2019",
-      "producer": "PoRO",
-      "eps": null,
-      "genres": [
-        "Hentai"
       ],
       "category": "OVA"
     },
