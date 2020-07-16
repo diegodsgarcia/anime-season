@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-07-15",
+  "lastUpdate": "2020-07-16",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -237,7 +237,7 @@
     {
       "title": "Kamisama ni Natta Hi",
       "description": "The anime series centers on Hina, a girl who awakens as a God and foresees the \"end of the world.\" She chooses a lone boy as her companion, who will spend time with her till the very end.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1274/107463.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1367/108500.jpg",
       "date": "Oct ??, 2020",
       "producer": "P.A. Works",
       "eps": null,
@@ -385,6 +385,23 @@
         "Adventure",
         "Slice of Life",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Maou-jou de Oyasumi",
+      "description": "Sshhh! Princess Syalis is trying to get a good night's sleep. Some shut-eye. Forty winks. Catch some Z's. Long ago in olden times when people and demons lived together in—well, disharmony, really—a demon king kidnaps a human princess and imprisons her in his castle. Bereft, the princess's subjects beat their chests in anguish…until a hero arises to spearhead Project Rescue Our Princess! While waiting for her knight in shining armor, what's an imprisoned princess to do...? Teddy-bear guards with bat wings are all very well, but her dungeon cell is bo-o-o-ring! So, she decides to wile away the long hours by sleeping. Now if only she could get comfortable…and didn't suffer from insomnia...\n\n(Source: VIZ Media)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Doga Kobo",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Supernatural",
+        "Magic",
+        "Fantasy",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -587,6 +604,19 @@
         "Slice of Life",
         "Fantasy",
         "Shounen"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Kimi wa Kanata",
+      "description": "Mio has feelings for her childhood friend Arata, but can't convey her feelings. One day, as they continue their delicate relationship, the two fight over something trivial. After letting tensions settle, Mio goes to make up with him in the pouring rain. While on her way, she gets into a traffic accident. When she regains consciousness, a mysterious and unfamiliar world appears before her eyes.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1415/108509.jpg",
+      "date": "Nov 27, 2020",
+      "producer": "Digital Network Animation",
+      "eps": 1,
+      "genres": [
+        "Drama",
+        "Fantasy"
       ],
       "category": "Movie"
     },

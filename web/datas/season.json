@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-15",
+  "lastUpdate": "2020-07-16",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -9,18 +9,18 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1444/108005.jpg",
       "date": "Jul 8, 2020, 22:30 (JST)",
       "producer": "White Fox",
-      "eps": null,
+      "eps": 13,
       "genres": [
-        "Psychological",
         "Drama",
-        "Thriller",
-        "Fantasy"
+        "Fantasy",
+        "Psychological",
+        "Thriller"
       ],
       "category": "TV (New)"
     },
     {
       "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
-      "description": "Third season of Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+      "description": "Third season of Yahari Ore no Seishun Love Comedy wa Machigatteiru.\n\nAs the members of the Service Club band together to host a school prom, Hachiman, Yukino and Yui will have to put their feelings into words and truly learn to understand each other at long last… if the Service Club can even stay afloat, that is!\n\n(Source: Sentai Filmworks)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1958/107912.jpg",
       "date": "Jul 10, 2020, 01:58 (JST)",
       "producer": "feel.",
@@ -252,20 +252,20 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1944/108276.jpg",
       "date": "Jul 16, 2020, 00:00 (JST)",
       "producer": "MAPPA",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Music",
-        "Slice of Life",
-        "Super Power",
         "Romance",
-        "Shoujo"
+        "Shoujo",
+        "Slice of Life",
+        "Super Power"
       ],
       "category": "TV (New)"
     },
     {
       "title": "Umayon",
       "description": "It's a \"pop\" and cute everyday anime based on the 4-koma manga featuring the characters from Uma Musume: Pretty Derby.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108013.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1630/108499.jpg",
       "date": "Jul 7, 2020, 21:54 (JST)",
       "producer": "DMM.futureworks, W-Toon Studio",
       "eps": null,
@@ -1632,8 +1632,22 @@
       "category": "ONA"
     },
     {
+      "title": "Dragon's Dogma",
+      "description": "Based on a world-famous action RPG set in an open world, Dragon's Dogma from Capcom will be brought to life as a Netflix original anime series. The story follows a man's journey seeking revenge on a dragon who stole his heart. On his way, the man is brought back to life as an \"Arisen.\" An action adventure about a man challenged by demons who represent the seven deadly sins of humans. \n\n(Source: Netflix)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1410/108510.jpg",
+      "date": "Sep 17, 2020",
+      "producer": "Sublimation",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Tian Bao Fuyao Lu",
-      "description": "Tianbao Period.\n\nKong Hongjun, a young man who was ignorant of worldly affairs, came to Chang’an with three important tasks and entered the Great Tang’s Exorcist Department. Inside the department, he led a ragtag group of yao-vanquishing experts together with Li Jinglong, commander of the Longwu Army.\n\nAnd this, is the story of how they wrote out the Great Tang’s Yao-vanquishing Records.\n\n(Source: Chrysanthemum Garden)",
+      "description": "In the twelve years of Tianbao, Kong Hongjun, a handsome young man who is not familiar with the world, left the Yaojin Palace on the Taihang Mountain with three important tasks, and came to Chang'an, which is full of prosperity. Kong Hongjun first entered the Datang Exorcism Division, and the head supervisor was actually Long Wujun general Li Jinglong who had dealt with it not long ago. But he accidentally broke the Chen's heart lamp, and the heart lamp entered Li Jinglong's body. In the light and shadow of the lamp, there are the bright red lights of Pingkangli, the exorcism of the sycamore in the summer sunshine, the vast sky and sand and flying snow, the peaceful singing of Artai. Mo Rigen and Lu Xu picked off early morning leaves, Qiu Yongsi's flying strokes.\n\n(Source: V2Anime)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1432/105225.jpg",
       "date": "Jul 5, 2020",
       "producer": "Sparkly Key Animation Studio",
@@ -1765,8 +1779,24 @@
       "category": "ONA"
     },
     {
-      "title": "Yuan Long",
+      "title": "Battle Spirits: Kakumei no Galette",
       "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1330/105615.jpg",
+      "date": "Aug 28, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Demons",
+        "Game",
+        "Military",
+        "Sci-Fi"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Yuan Long",
+      "description": "The soul world is magical. The ace sniper Wang Sheng has traveled here from his clan, to a world of towering ancestors, where powerful players come out, masters of the clouds. However, he bumped into the stray carp remnant and became a waste of deception. He must fight against the strong beam in the forest, defeat the giant wolf, and jump the dragon gate overlooking the living beings in the clouds!\n\n(Source: V2Anime)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
       "date": "Jul 11, 2020",
       "producer": "CG Year",
@@ -1863,7 +1893,7 @@
     },
     {
       "title": "Dahua Zhi Shaonian You",
-      "description": "(No synopsis yet.)",
+      "description": "Rookie Jianghu and swordsman Xiao Yao Sheng have defeated the baby-eater that caused Chang'an, but they now find themselves falling into a bigger mystery. They traveled to the distant Spirit Beast Village and met the beautiful Demon Fox Girl, the Bone Elves, and people of all kinds inhabiting rivers and lakes along the way. They gained growth and friendship, but are now entangled in a greater crisis: a dispute between immortals and demons. The animation will combine elements such as martial arts, fantasy, blood, adventure, and more, to present to the audience a tale of ups and downs in legendary stories!\n\n(Source: V2Anime)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/107440.jpg",
       "date": "Aug 15, 2020",
       "producer": "-",
@@ -1888,7 +1918,7 @@
     },
     {
       "title": "Yi Nian Yong Heng",
-      "description": "(No synopsis yet.)",
+      "description": "One will to create oceans. One will to summon the mulberry fields.\n\nOne will to slaughter countless devils. One will to eradicate innumerable immortals.\n\nOnly my will… is eternal.\n\nA Will Eternal tells the tale of Bai Xiaochun, an endearing but exasperating young man who is driven primarily by his fear of death and desire to live forever, but who deeply values friendship and family.\n\n(Source: Anilist)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1712/108161.jpg",
       "date": "Jul ??, 2020",
       "producer": "B.CMAY PICTURES",
@@ -2045,7 +2075,7 @@
     },
     {
       "title": "Violet Evergarden Movie",
-      "description": "(No synopsis yet.)",
+      "description": "An original sequel to the TV anime which aired in 2018, the movie will follow \"auto memory doll\" Violet, still unable to forget about her former employer Gilbert, who taught her of love. One day, she meets his older brother Dietfried, who tells her that she should forget about Gilbert and move on - but it is impossible for her. Shortly after, Violet receives a call from a young client, while the post office discovers a letter with no address sitting in their warehouse.\n\n(Source: otakumode)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1225/106549.jpg",
       "date": "Sep 18, 2020",
       "producer": "Kyoto Animation",
