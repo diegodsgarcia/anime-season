@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-07-16",
+  "lastUpdate": "2020-07-17",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1166,18 +1166,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Yasamura Yasashi no Yasashii Sekai",
-      "description": "The series follows a mysterious but gentle-hearted man named Yasashi Yasamura who spreads warmth and human kindness wherever he goes.\n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/81641.jpg",
-      "date": "Sep 2, 2016",
-      "producer": "DLE",
-      "eps": null,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Yodel no Onna",
       "description": "The sound of yodeling will appear when you least expect it.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/11/87843.jpg",
@@ -1223,8 +1211,8 @@
       "producer": "Kachidoki Studio",
       "eps": null,
       "genres": [
-        "Comedy",
-        "Slice of Life"
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -2207,6 +2195,20 @@
       "category": "ONA"
     },
     {
+      "title": "Fei Ren Zai 2nd Season",
+      "description": "Second season of Fei Ren Zai.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1401/108475.jpg",
+      "date": "Jan 8, 2020",
+      "producer": "Tencent Penguin Pictures",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Supernatural"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Haikyuu!!: Riku vs. Kuu",
       "description": "An intense battle rages on at the Tokyo Qualifiers for the three remaining spots in the national volleyball competition. Nekoma High School, Fukurodani High School, Nohebi Academy, and Itachiyama Academy all passionately strive to participate in the tournament. Despite various issues on the court, Nekoma especially wishes to prove they are worthy of moving on to the national level. \n\nAs the teams aim to secure their place by overcoming both their opponents and their own weaknesses, the Tokyo Qualifiers determine which teams will reign victorious and join the national competition.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1527/102671.jpg",
@@ -2751,6 +2753,19 @@
         "Historical",
         "Kids",
         "Parody"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Wu Sheng Guan Gong",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1631/108526.jpg",
+      "date": "Jan 11, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Historical"
       ],
       "category": "Movie"
     },

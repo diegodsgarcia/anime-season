@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-07-16",
+  "lastUpdate": "2020-07-17",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -1195,18 +1195,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Yasamura Yasashi no Yasashii Sekai",
-      "description": "The series follows a mysterious but gentle-hearted man named Yasashi Yasamura who spreads warmth and human kindness wherever he goes.\n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/81641.jpg",
-      "date": "Sep 2, 2016",
-      "producer": "DLE",
-      "eps": null,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Yodel no Onna",
       "description": "The sound of yodeling will appear when you least expect it.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/11/87843.jpg",
@@ -1266,8 +1254,8 @@
       "producer": "Kachidoki Studio",
       "eps": null,
       "genres": [
-        "Comedy",
-        "Slice of Life"
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -2193,6 +2181,20 @@
       "eps": 12,
       "genres": [
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Fei Ren Zai 3rd Season",
+      "description": "Third season of Fei Ren Zai.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1096/108476.jpg",
+      "date": "Jun 17, 2020",
+      "producer": "Fenz, Tencent Penguin Pictures",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Supernatural"
       ],
       "category": "ONA"
     },

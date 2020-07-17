@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-07-16",
+  "lastUpdate": "2020-07-17",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -700,6 +700,19 @@
       "eps": 1,
       "genres": [
         "Sci-Fi"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Grisaia: Phantom Trigger - The Animation: Stargazer",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1730/108516.jpg",
+      "date": "Nov 27, 2020",
+      "producer": "Bibury Animation Studios",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "School"
       ],
       "category": "Movie"
     }
