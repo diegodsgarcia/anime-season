@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-07-17",
+  "lastUpdate": "2020-07-18",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -2001,7 +2001,7 @@
       "category": "ONA"
     },
     {
-      "title": "Wu Shen Zhu Zai",
+      "title": "Wushen Zhuzai",
       "description": "The protagonist Qin Chen, who was originally the top genius in the military domain, was conspired by the people to fall into the death canyon in the forbidden land of the mainland. Qin Chen, who was inevitably dead, unexpectedly triggered the power of the mysterious ancient sword.\n\nThree hundred years later, in a remote part of the Tianwu mainland, a boy of the same name accidentally inherited Qin Chen’s will. As the beloved grandson of King Dingwu of the Daqi National Army, due to the birth father’s birth, the mother and son were treated coldly in Dingwu’s palace and lived together. In order to rewrite the myth of the strong man in hope of the sun, and to protect everything he loves, Qin Chen resolutely took up the responsibility of maintaining the five kingdoms of the world and set foot on the road of martial arts again.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
       "date": "Mar 8, 2020",
@@ -2154,7 +2154,7 @@
     {
       "title": "Ninja Box 3rd Season",
       "description": "A new mini season of Ninja Box. They expand upon the random everyday encounters of the kids. According to the official YouTube channels, this is the \"season 3\" of the franchise and the episodes will have irregular release schedule.",
-      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1021/108530.jpg",
       "date": "Mar 26, 2020",
       "producer": "-",
       "eps": null,
@@ -2205,6 +2205,45 @@
         "Slice of Life",
         "Comedy",
         "Supernatural"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Gonfu Tu Yu Cai Bao Gou 2nd Season",
+      "description": "Second season of Gonfu Tu Yu Cai Bao Gou.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1040/108479.jpg",
+      "date": "Jan 22, 2020",
+      "producer": "Benlai Pictures",
+      "eps": 10,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Xiao Cangshu Di Di de Chi Bo Richang",
+      "description": "Food broadcast newcomer, Little Hamster Flute, can rack its brains for ideas for his live broadcast. Although the food broadcast contents it has come up with is not very good, the videos are often clicked on due to some of the incredible live broadcast accidents and unexpected funny events. This makes the hamster very troubled.\n\n(Source: bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1052/108483.jpg",
+      "date": "Jan 17, 2020",
+      "producer": "-",
+      "eps": 52,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Xing You Ji: Fengbao Famila 2",
+      "description": "In the future where the entire universe can be traveled freely, the competitive reality show \"Storm Familla\" held on Jupiter is all the rage in the solar system. This year's championship will begin with a match between McDonald and Aurora.\n\n(Source: Anilist)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1495/108481.jpg",
+      "date": "Mar 28, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
       ],
       "category": "ONA"
     },

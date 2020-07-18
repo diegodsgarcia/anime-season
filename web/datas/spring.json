@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-07-17",
+  "lastUpdate": "2020-07-18",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -2195,6 +2195,22 @@
         "Slice of Life",
         "Comedy",
         "Supernatural"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Guan Hai Ce Zhi Tie Qi Xiong Guan",
+      "description": "Second season of Guan Hai Ce.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1686/108542.jpg",
+      "date": "Apr 26, 2020",
+      "producer": "Tong Ming Xuan",
+      "eps": 16,
+      "genres": [
+        "Action",
+        "Military",
+        "Historical",
+        "Martial Arts",
+        "Fantasy"
       ],
       "category": "ONA"
     },
