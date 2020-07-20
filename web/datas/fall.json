@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-07-18",
+  "lastUpdate": "2020-07-20",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -547,6 +547,19 @@
         "Sci-Fi",
         "Harem",
         "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Seizei Ganbare! Mahou Shoujo Kurumi 3rd Season",
+      "description": "Third season of Seizei Ganbare! Mahou Shoujo Kurumi.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1097/108552.jpg",
+      "date": "Oct 7, 2020, 23:54 (JST)",
+      "producer": "Pie in the sky",
+      "eps": null,
+      "genres": [
+        "Parody",
+        "Magic"
       ],
       "category": "TV (New)"
     },

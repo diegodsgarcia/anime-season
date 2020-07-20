@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-07-18",
+  "lastUpdate": "2020-07-20",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1384,7 +1384,7 @@
       "description": "A short anime about Taeko Shinbou who is an office worker that is patient with everything and greets everything that comes her way with cheer. An announcement was made that a \"regular person\" from Kantou will voice Taeko rather than an industry professional.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1583/103149.jpg",
       "date": "Oct 6, 2019, 01:00 (JST)",
-      "producer": "-",
+      "producer": "DLE",
       "eps": 26,
       "genres": [
         "Slice of Life"
@@ -2183,6 +2183,23 @@
       "category": "ONA"
     },
     {
+      "title": "Douluo Dalu: Qian Hua Xi Jin",
+      "description": "Fourth part of Douluo Dalu.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/108562.jpg",
+      "date": "Feb 22, 2020",
+      "producer": "Sparkly Key Animation Studio",
+      "eps": 13,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Historical",
+        "Romance",
+        "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Eizouken Mini Anime",
       "description": "Short episodes with super-deformed characters posted in official Twitter account and later released with the BD Box.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1873/106472.jpg",
@@ -2281,7 +2298,7 @@
     },
     {
       "title": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? OVA",
-      "description": "(No synopsis yet.)",
+      "description": "Unaired 13th episode.\n\nTo thank the group for all their hard work in the past, Shirase invites the party to enjoy the sunny beach. While enjoying the wonderful weather and pristine waters, an accident causes Masato to lose all his memories, including those of Mamako!\n\n(Source: Funimation)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1599/106464.jpg",
       "date": "Mar 25, 2020",
       "producer": "J.C.Staff",
@@ -2792,6 +2809,20 @@
         "Historical",
         "Kids",
         "Parody"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Detective Conan: The Burning Galactic Railway",
+      "description": "Ran, Sonoko, Conan, and the detective boys board the galactic railway train of Ihatov World, a theme park that reproduces the world of Kenji Miyazawa. While they are enjoying the fantastic starry sky, suddenly a notice from Kid arrives. It's time for a battle for treasure with Kid! But there was an unexpected trap...",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1318/108547.jpg",
+      "date": "Feb 1, 2020",
+      "producer": "D & D Pictures",
+      "eps": 1,
+      "genres": [
+        "Adventure",
+        "Mystery",
+        "Kids"
       ],
       "category": "Movie"
     },
