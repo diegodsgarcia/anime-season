@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-07-21",
+  "lastUpdate": "2020-07-22",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -97,21 +97,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Eizouken ni wa Te wo Dasu na!",
-      "description": "Midori Asakusa sees the world a bit differently. Always having her nose in a sketchbook, Asakusa draws detailed landscapes and backgrounds of both the world around her and the one within her boundless imagination. Even the simple act of doodling on a wall evolves into an emergency repair on the outer hull of her spaceship. She is only brought back to reality by her best friend Sayaka Kanamori. The pair are stark opposites, with Asakusa's childlike wonder contrasted by Kanamori's calculated approach to life. \n\nAfter a chance encounter where the two \"save\" the young model Tsubame Misuzaki from her overprotective bodyguard, a connection instantly sparks between Asakusa and Misuzaki, as both share an intense passion for art and animation. Whereas Asakusa is interested in backgrounds and settings, Misuzaki loves drawing the human form. Sensing a money-making opportunity, Kanamori suggests that they start an animation club, which they disguise as a motion picture club since the school already has an anime club. Thus begins the trio's journey of producing animation that will awe the world. \n\nFrom the brilliant mind of Masaaki Yuasa, Eizouken ni wa Te wo Dasu na! is a love letter to animation, wildly creative in its approach, and a testament to the potential of the medium.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1561/106329.jpg",
-      "date": "Jan 6, 2020, 00:10 (JST)",
-      "producer": "Science SARU",
-      "eps": 12,
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "School",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Plunderer",
       "description": "Alcia is a world governed by \"Count\": numbers engraved on a person's body, representing any number related to their life. These Counts determine a person's social status and power in Alcia. If a Count reaches zero, the person is sent to the Abyss, a place rumored to be worse than death.\n\nHina, a traveler whose Count is based on the distance she traveled, witnessed her mother get dragged down into the Abyss. Determined to fulfill her mother's last wishes, she sets off on a journey in search of the legendary Aces—heroes of the war that happened three hundred years ago, bearing a white star next to their Count.\n\nWhile wandering around, Hina encounters Licht Bach, a mysterious masked man with negative Count, and Nana, the owner of a tavern. In the midst of having a good time, Hina is tricked into a battle with a military soldier. However, despite his negative count, Licht rescues Hina and reveals that he has another count, one with a white star, one of a legendary Ace.\n\nPlunderer follows the journey of Hina and other inhabitants of Alcia as they discover the truth about their world, the Abyss, and the legendary Aces.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1534/104784.jpg",
@@ -123,6 +108,21 @@
         "Ecchi",
         "Fantasy",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Eizouken ni wa Te wo Dasu na!",
+      "description": "Midori Asakusa sees the world a bit differently. Always having her nose in a sketchbook, Asakusa draws detailed landscapes and backgrounds of both the world around her and the one within her boundless imagination. Even the simple act of doodling on a wall evolves into an emergency repair on the outer hull of her spaceship. She is only brought back to reality by her best friend Sayaka Kanamori. The pair are stark opposites, with Asakusa's childlike wonder contrasted by Kanamori's calculated approach to life. \n\nAfter a chance encounter where the two \"save\" the young model Tsubame Misuzaki from her overprotective bodyguard, a connection instantly sparks between Asakusa and Misuzaki, as both share an intense passion for art and animation. Whereas Asakusa is interested in backgrounds and settings, Misuzaki loves drawing the human form. Sensing a money-making opportunity, Kanamori suggests that they start an animation club, which they disguise as a motion picture club since the school already has an anime club. Thus begins the trio's journey of producing animation that will awe the world. \n\nFrom the brilliant mind of Masaaki Yuasa, Eizouken ni wa Te wo Dasu na! is a love letter to animation, wildly creative in its approach, and a testament to the potential of the medium.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1561/106329.jpg",
+      "date": "Jan 6, 2020, 00:10 (JST)",
+      "producer": "Science SARU",
+      "eps": 12,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "School",
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -279,10 +279,10 @@
       "producer": "Ezόla",
       "eps": 12,
       "genres": [
+        "Slice of Life",
         "Drama",
         "School",
-        "Shounen",
-        "Slice of Life"
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -466,6 +466,18 @@
       "category": "TV (New)"
     },
     {
+      "title": "A3! Season Spring & Summer",
+      "description": "\"Director! Please help us bloom!\"\n\nIn Tokyo, there is a place called Velude Way. It is a district notorious for its performers and theatrical groups. Izumi Tachibana, who was previously a stage actress, arrives with a letter that reads, \"Full of debt! Zero customers! Only one actor!\" It describes the current state of the once-popular theater group Mankai Company. Her task is to rebuild the company to its former glory as the new owner and chief director.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1421/105605.jpg",
+      "date": "Jan 14, 2020, 00:00 (JST)",
+      "producer": "P.A. Works, Studio 3Hz",
+      "eps": 12,
+      "genres": [
+        "Music"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Oda Cinnamon Nobunaga",
       "description": "In the \"one-of-a-kind samurai-general-reincarnated-as-a-canine comedy,\" Nobunaga perishes at Honnouji as in history, and reincarnates in modern-day Japan as a dog named Shinamon. Other Warring States era warlords such as Takeda Shingen eventually join him, also as dogs.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1004/106819.jpg",
@@ -477,18 +489,6 @@
         "Comedy",
         "Historical",
         "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "A3! Season Spring & Summer",
-      "description": "\"Director! Please help us bloom!\"\n\nIn Tokyo, there is a place called Velude Way. It is a district notorious for its performers and theatrical groups. Izumi Tachibana, who was previously a stage actress, arrives with a letter that reads, \"Full of debt! Zero customers! Only one actor!\" It describes the current state of the once-popular theater group Mankai Company. Her task is to rebuild the company to its former glory as the new owner and chief director.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1421/105605.jpg",
-      "date": "Jan 14, 2020, 00:00 (JST)",
-      "producer": "P.A. Works, Studio 3Hz",
-      "eps": 12,
-      "genres": [
-        "Music"
       ],
       "category": "TV (New)"
     },
@@ -1392,20 +1392,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Pikachin-Kit",
-      "description": "A fifth-year elementary student named Eiji Tōmatsu, and his \"inspiration\" buddy, a dog named Pochirou. One day Eiji finds a mysterious book called the \"Pikachin Research Book,\" and learns about the seven tools that make up the Pikachin Kit. Eiji presses a button inside the research book, and immediately a \"Future Amazon\" delivery arrives at his door with the kit. Eiji uses the blueprints included in the box to assemble the kit, but it seems as though 1% part of the kit is still missing. \n\nIn the franchise, the word \"Pikachin\" means the flash of inspiration or insight one gets about a new project, similar to the visual of a lightbulb turning on above one's head when someone has an idea. The concept of the franchise is \"invention is 99% plastic models, 1% inspiration.\" \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88334.jpg",
-      "date": "Jan 6, 2018, 09:30 (JST)",
-      "producer": "OLM, Shin-Ei Animation",
-      "eps": 115,
-      "genres": [
-        "Sci-Fi",
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Shimajirou no Wow!",
       "description": "Fourth season of the Shimajirou children's television series.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/50737.jpg",
@@ -1418,6 +1404,20 @@
         "Fantasy",
         "Kids",
         "Magic"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Pikachin-Kit",
+      "description": "A fifth-year elementary student named Eiji Tōmatsu, and his \"inspiration\" buddy, a dog named Pochirou. One day Eiji finds a mysterious book called the \"Pikachin Research Book,\" and learns about the seven tools that make up the Pikachin Kit. Eiji presses a button inside the research book, and immediately a \"Future Amazon\" delivery arrives at his door with the kit. Eiji uses the blueprints included in the box to assemble the kit, but it seems as though 1% part of the kit is still missing. \n\nIn the franchise, the word \"Pikachin\" means the flash of inspiration or insight one gets about a new project, similar to the visual of a lightbulb turning on above one's head when someone has an idea. The concept of the franchise is \"invention is 99% plastic models, 1% inspiration.\" \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88334.jpg",
+      "date": "Jan 6, 2018, 09:30 (JST)",
+      "producer": "OLM, Shin-Ei Animation",
+      "eps": 115,
+      "genres": [
+        "Sci-Fi",
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1786,6 +1786,19 @@
       "category": "ONA"
     },
     {
+      "title": "Digimon Adventure: 20 Shuunen Memorial Story",
+      "description": "A crowdfunding campaign opened for the \"Digimon Adventure Memorial Story Project.\" It was for 5 shorts that included a prequel of the upcoming film and side stories about the daily lives of the Digimon characters and their partners, which are stories that did not make it into the film. \n\nThe campaign was successfully backed.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1554/105788.jpg",
+      "date": "Feb 1, 2020",
+      "producer": "Toei Animation",
+      "eps": 5,
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Mobile Suit Gundam G40",
       "description": "U.C. 0079 - A squadron of Zakus from the Principality of Zeon invades a neutral space colony. Amuro Ray reluctantly pilots the Gundam G40 prototype mobile suit to combat the threat, as well as Zeon ace pilot Char Aznable and his custom red Zaku II.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1770/105718.jpg",
@@ -1796,19 +1809,6 @@
         "Action",
         "Sci-Fi",
         "Mecha"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Digimon Adventure: 20 Shuunen Memorial Story",
-      "description": "A crowdfunding campaign opened for the \"Digimon Adventure Memorial Story Project.\" It was for 5 shorts that included a prequel of the upcoming film and side stories about the daily lives of the Digimon characters and their partners, which are stories that did not make it into the film. \n\nThe campaign was successfully backed.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1554/105788.jpg",
-      "date": "Feb 1, 2020",
-      "producer": "Toei Animation",
-      "eps": 5,
-      "genres": [
-        "Adventure",
-        "Drama"
       ],
       "category": "ONA"
     },
@@ -1904,18 +1904,6 @@
       "category": "ONA"
     },
     {
-      "title": "Niplheim no Karyuudo",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1409/105799.jpg",
-      "date": "Jan 25, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Aikatsu on Parade! (ONA)",
       "description": "\"Dream School Grand Prix\" to decide the No.1 idol school among five schools representing the Aikatsu world will be held! In this competition where top idols representing each school compete on stage, Dream Academy's new idol Noel Otoshiro is selected as one of them?! For each idol's dream, a new story starts running into the shining future! \n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1704/106781.jpg",
@@ -1927,6 +1915,18 @@
         "Slice of Life",
         "School",
         "Shoujo"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Niplheim no Karyuudo",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1409/105799.jpg",
+      "date": "Jan 25, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai"
       ],
       "category": "ONA"
     },
@@ -2017,6 +2017,23 @@
       "category": "ONA"
     },
     {
+      "title": "Douluo Dalu: Qian Hua Xi Jin",
+      "description": "Fourth part of Douluo Dalu.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/108562.jpg",
+      "date": "Feb 22, 2020",
+      "producer": "Sparkly Key Animation Studio",
+      "eps": 13,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Historical",
+        "Romance",
+        "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Kyouryuu Shoujo Gauko 2nd Season",
       "description": "The comedy series is set in Japan and follows Naoko Watanabe, a typical tween girl aside from the fact that she possesses strange and sometimes troubling powers. When her anger exceeds a maximum level, she turns into Gauko, the fire-breathing dinosaur girl.\n\n(Source: Variety)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1284/106412.jpg",
@@ -2042,6 +2059,19 @@
       "category": "ONA"
     },
     {
+      "title": "Wan Jie Shen Zhu 2nd Season",
+      "description": "Second season of Wan Jie She Zhu.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1600/105797.jpg",
+      "date": "Feb 1, 2020",
+      "producer": "Ruo Hong Culture",
+      "eps": 48,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Dream",
       "description": "The short follows the dream of a young boy in which strange whale teleports him to a fantasy land where a happy cat named Pero (modeled after the character in the Nagagutsu wo Haita Neko anime that serves as Toei Animation's mascot) appears.\n\nThe piece is entirely dialogueless.\n\n(Source: ANN edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1227/105610.jpg",
@@ -2052,19 +2082,6 @@
         "Adventure",
         "Music",
         "Kids",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Wan Jie Shen Zhu 2nd Season",
-      "description": "Second season of Wan Jie She Zhu.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1600/105797.jpg",
-      "date": "Feb 1, 2020",
-      "producer": "Ruo Hong Culture",
-      "eps": 48,
-      "genres": [
-        "Adventure",
         "Fantasy"
       ],
       "category": "ONA"
@@ -2111,19 +2128,6 @@
       "category": "ONA"
     },
     {
-      "title": "Kore ga Masakano Are Deshita: Wakamono no Shoushisha Higai",
-      "description": "The adult age in japan will be reduced from 20 years of age to 18 years of age in April 2022. Some teenagers may suffer from poor financial decisions as they legally can enter contracts. If they need help, they can call 188 (Consumer Hotline). This hotline was launched in July 1, 2015 by the Department of Consumer Affairs and is run by local governments.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/106483.jpg",
-      "date": "Mar 12, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Drama",
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Sita Wihayeo",
       "description": "For her sake, he would sacrifice anything...\n\nWhile volunteering in Nepal, a Korean medical student named Sangmin Han encounters the beautiful yet tragic Sita. Previously, she was a Kumari—a prepubescent girl worshipped as the vessel of a goddess. But she has since been forsaken as a Kumari, and cast out from society. Falling in love, they marry and move to Korea, but their blissful love is short-lived; Sita dies only a year later.\n\nLosing the woman dearest to him, Sangmin desperately begs the gods to bring Sita back. His prayers are answered but in exchange for a sacrifice, and he awakens in the streets of Nepal. However, something is amiss—his body has suddenly aged, and standing in front of him is a young Sita, with no memory of him.\n\nThrough two lovers bound together by a destiny running deeper than it first appears, For the Sake of Sita is the story of Sita growing up as a Kumari, and Sangmin's tribulations in trying to avert her terrible fate.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1180/107339.jpg",
@@ -2135,6 +2139,19 @@
         "Magic",
         "Romance",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Kore ga Masakano Are Deshita: Wakamono no Shoushisha Higai",
+      "description": "The adult age in japan will be reduced from 20 years of age to 18 years of age in April 2022. Some teenagers may suffer from poor financial decisions as they legally can enter contracts. If they need help, they can call 188 (Consumer Hotline). This hotline was launched in July 1, 2015 by the Department of Consumer Affairs and is run by local governments.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/106483.jpg",
+      "date": "Mar 12, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Drama",
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2183,19 +2200,15 @@
       "category": "ONA"
     },
     {
-      "title": "Douluo Dalu: Qian Hua Xi Jin",
-      "description": "Fourth part of Douluo Dalu.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/108562.jpg",
-      "date": "Feb 22, 2020",
-      "producer": "Sparkly Key Animation Studio",
-      "eps": 13,
+      "title": "Xiao Cangshu Di Di de Chi Bo Richang",
+      "description": "Food broadcast newcomer, Little Hamster Flute, can rack its brains for ideas for his live broadcast. Although the food broadcast contents it has come up with is not very good, the videos are often clicked on due to some of the incredible live broadcast accidents and unexpected funny events. This makes the hamster very troubled.\n\n(Source: bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1052/108483.jpg",
+      "date": "Jan 17, 2020",
+      "producer": "-",
+      "eps": 52,
       "genres": [
-        "Action",
-        "Adventure",
-        "Historical",
-        "Romance",
-        "Martial Arts",
-        "Fantasy"
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2233,19 +2246,6 @@
       "producer": "Benlai Pictures",
       "eps": 10,
       "genres": [
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Xiao Cangshu Di Di de Chi Bo Richang",
-      "description": "Food broadcast newcomer, Little Hamster Flute, can rack its brains for ideas for his live broadcast. Although the food broadcast contents it has come up with is not very good, the videos are often clicked on due to some of the incredible live broadcast accidents and unexpected funny events. This makes the hamster very troubled.\n\n(Source: bilibili, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1052/108483.jpg",
-      "date": "Jan 17, 2020",
-      "producer": "-",
-      "eps": 52,
-      "genres": [
-        "Slice of Life",
         "Comedy"
       ],
       "category": "ONA"
@@ -2471,6 +2471,18 @@
       "category": "OVA"
     },
     {
+      "title": "Onii-chan Asa made Zutto Gyutte Shite!",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/103712.jpg",
+      "date": "Mar 6, 2020",
+      "producer": "Studio 1st",
+      "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
       "title": "Shikijou Kyoudan",
       "description": "A middle-aged man who has lost his job and home because of his arrogant nature. Leading a vagrant lifestyle, he became embittered and aggressive towards society. One day he meets a mysterious beauty Shima Itski, who invites him to become the founder of the sex cult \"Ishin No Kai\" and in addition to this, she offers him a huge amount of money, a house, and a car. Of course, our hero just could not refuse the sultry beauty and now he has become the \"Lord\" of a mad sex cult with unimaginably depraved rituals…",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/105665.jpg",
@@ -2489,18 +2501,6 @@
       "date": "Jan 31, 2020",
       "producer": "-",
       "eps": 1,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "Onii-chan Asa made Zutto Gyutte Shite!",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/103712.jpg",
-      "date": "Mar 6, 2020",
-      "producer": "Studio 1st",
-      "eps": null,
       "genres": [
         "Hentai"
       ],
@@ -2548,11 +2548,11 @@
       "category": "OVA"
     },
     {
-      "title": "Inmou",
-      "description": "After being childhood friends for many years, she sees more in him than just a friend. She wants a more intimate relationship... It just so happens her parents won't be home and she convinces him to come over.\n\n(Source: hanime)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1398/105660.jpg",
-      "date": "Mar 27, 2020",
-      "producer": "Seven",
+      "title": "Aisei Tenshi Love Mary: Akusei Jutai - The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1023/105664.jpg",
+      "date": "Feb 28, 2020",
+      "producer": "-",
       "eps": null,
       "genres": [
         "Hentai"
@@ -2560,11 +2560,11 @@
       "category": "OVA"
     },
     {
-      "title": "Aisei Tenshi Love Mary: Akusei Jutai - The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1023/105664.jpg",
-      "date": "Feb 28, 2020",
-      "producer": "-",
+      "title": "Inmou",
+      "description": "After being childhood friends for many years, she sees more in him than just a friend. She wants a more intimate relationship... It just so happens her parents won't be home and she convinces him to come over.\n\n(Source: hanime)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1398/105660.jpg",
+      "date": "Mar 27, 2020",
+      "producer": "Seven",
       "eps": null,
       "genres": [
         "Hentai"

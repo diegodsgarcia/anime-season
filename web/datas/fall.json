@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-07-21",
+  "lastUpdate": "2020-07-22",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -291,7 +291,7 @@
     {
       "title": "Strike Witches: Road to Berlin",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1379/101518.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/108577.jpg",
       "date": "Oct ??, 2020",
       "producer": "David Production",
       "eps": null,
@@ -511,6 +511,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "Seizei Ganbare! Mahou Shoujo Kurumi 3rd Season",
+      "description": "Third season of Seizei Ganbare! Mahou Shoujo Kurumi.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1097/108552.jpg",
+      "date": "Oct 7, 2020, 23:54 (JST)",
+      "producer": "Pie in the sky",
+      "eps": null,
+      "genres": [
+        "Parody",
+        "Magic"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Eternity: Shinya no Nurekoi Channel ♡",
       "description": "Anime adaptation of 12 romantic works from the Eternity Books manga label.\n\nThe complete edition with explicit scenes was distributed online via the official website for Eternity Books. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1899/108400.jpg",
@@ -551,19 +564,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Seizei Ganbare! Mahou Shoujo Kurumi 3rd Season",
-      "description": "Third season of Seizei Ganbare! Mahou Shoujo Kurumi.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1097/108552.jpg",
-      "date": "Oct 7, 2020, 23:54 (JST)",
-      "producer": "Pie in the sky",
-      "eps": null,
-      "genres": [
-        "Parody",
-        "Magic"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Mo Du Zhe",
       "description": "Childhood, upbringing, family background, social relations, traumatic experiences...\n\nWe keep reviewing and seeking out the motives of criminals, exploring the subtlest emotions driving them. It’s not to put ourselves in their shoes and sympathize, or even forgive them; it’s not to find some reasons to exculpate their crimes; it’s not to kneel down before the so-called \"complexity of human nature\"; nor to introspect social conflicts, much less to alienate ourselves into monsters.\n\nWe just want to have a fair trial – for ourselves and for those who still have hope for the world.\n\n(Source: NovelUpdates)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1229/107439.jpg",
@@ -593,6 +593,18 @@
       "category": "Movie"
     },
     {
+      "title": "Date A Bullet: Nightmare or Queen",
+      "description": "Second part of the Date A Bullet films.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1002/108424.jpg",
+      "date": "Nov 13, 2020",
+      "producer": "GEEKTOYS",
+      "eps": 1,
+      "genres": [
+        "Sci-Fi"
+      ],
+      "category": "Movie"
+    },
+    {
       "title": "Wave!!: Surfing Yappe!!",
       "description": "Masaki Hinaoka, who grew up near the coast of Ooarai in Ibaraki Prefecture, meets a prince-like transfer student Shou Akitsuki before the summer break, who introduces him to the world of surfing. Through surfing, Masaki meets irreplaceable friends and experiences farewell as he becomes an adult. It is the beginning of a never-ending story of boys fascinated by the charm of surfing.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1656/108451.jpg",
@@ -606,17 +618,15 @@
       "category": "Movie"
     },
     {
-      "title": "Aria",
+      "title": "Grisaia: Phantom Trigger The Animation - Stargazer",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1752/107019.jpg",
-      "date": "Dec ??, 2020",
-      "producer": "-",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1730/108516.jpg",
+      "date": "Nov 27, 2020",
+      "producer": "Bibury Animation Studios",
       "eps": 1,
       "genres": [
-        "Sci-Fi",
-        "Slice of Life",
-        "Fantasy",
-        "Shounen"
+        "Action",
+        "School"
       ],
       "category": "Movie"
     },
@@ -701,31 +711,6 @@
       "eps": 1,
       "genres": [
         "Yaoi"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Date A Bullet: Nightmare or Queen",
-      "description": "Second part of the Date A Bullet films.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1002/108424.jpg",
-      "date": "Nov 13, 2020",
-      "producer": "GEEKTOYS",
-      "eps": 1,
-      "genres": [
-        "Sci-Fi"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Grisaia: Phantom Trigger The Animation - Stargazer",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1730/108516.jpg",
-      "date": "Nov 27, 2020",
-      "producer": "Bibury Animation Studios",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "School"
       ],
       "category": "Movie"
     }

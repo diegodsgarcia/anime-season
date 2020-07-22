@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-21",
+  "lastUpdate": "2020-07-22",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -1601,6 +1601,19 @@
       "category": "ONA"
     },
     {
+      "title": "Aggressive Retsuko (ONA) 3rd Season",
+      "description": "Third Season of Aggressive Retsuko.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1529/102444.jpg",
+      "date": "Aug 27, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Mo Dao Zu Shi Q",
       "description": "The chibi spin-off series of Mo Dao Zu Shi.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108467.jpg",
@@ -1930,6 +1943,19 @@
       "category": "ONA"
     },
     {
+      "title": "Tadaima! Chibi Godzilla",
+      "description": "The \"Chibi Godzilla\" project was launched to celebrate the 65th anniversary of Toho's Godzilla franchise.\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/108564.jpg",
+      "date": "Jul 15, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Yi Nian Yong Heng",
       "description": "One will to create oceans. One will to summon the mulberry fields.\n\nOne will to slaughter countless devils. One will to eradicate innumerable immortals.\n\nOnly my will… is eternal.\n\nA Will Eternal tells the tale of Bai Xiaochun, an endearing but exasperating young man who is driven primarily by his fear of death and desire to live forever, but who deeply values friendship and family.\n\n(Source: Novel Updates)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1712/108161.jpg",
@@ -2087,6 +2113,18 @@
       "category": "OVA"
     },
     {
+      "title": "Uwaki to Honki The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1794/108580.jpg",
+      "date": "Sep 29, 2020",
+      "producer": "Seven",
+      "eps": 1,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
       "title": "Violet Evergarden Movie",
       "description": "An original sequel to the TV anime which aired in 2018, the movie will follow \"auto memory doll\" Violet, still unable to forget about her former employer Gilbert, who taught her of love. One day, she meets his older brother Dietfried, who tells her that she should forget about Gilbert and move on - but it is impossible for her. Shortly after, Violet receives a call from a young client, while the post office discovers a letter with no address sitting in their warehouse.\n\n(Source: otakumode)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1225/106549.jpg",
@@ -2172,6 +2210,21 @@
         "Slice of Life",
         "Romance",
         "Shounen Ai"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Omoi, Omoware, Furi, Furare",
+      "description": "Yuna and Akari are two high school girls with very different views on love: Yuna dreams about romance through rose-coloured glasses, while Akari is down-to-earth and practical. Meanwhile, high school boys Kazuomi and Rio also have different views on love: Kazuomi is an airhead who can't grasp the concept of love, while Rio grabs onto any confession as an opportunity—so long as the girl looks cute. Will these four classmates end up leading a youthful romance that meets their expectations?\n \n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1975/106423.jpg",
+      "date": "Sep 18, 2020",
+      "producer": "A-1 Pictures",
+      "eps": 1,
+      "genres": [
+        "Drama",
+        "Romance",
+        "School",
+        "Shoujo"
       ],
       "category": "Movie"
     },
