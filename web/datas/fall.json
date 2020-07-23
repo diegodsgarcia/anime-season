@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-07-22",
+  "lastUpdate": "2020-07-23",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -498,6 +498,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Rail Romanesque",
+      "description": "Set in Hinomoto, a fictional version of Japan, where for a long time railway travel served as the most important form of transport. Each locomotive was paired with a humanoid control module, so-called Raillord, that aided the train operator. However, many rail lines had been discontinued due to the rising popularity of 'aerocrafts,' a safe and convenient aerial mode of transport. As such, their accompanying railroads also went into a deep sleep.\n\nSoutetsu had lost his entire family in a rail accident and was adopted into the Migita household, which runs a shochu brewery in the city of Ohitoyo. He returned to his hometown to save it from the potential water pollution that would occur if they accepted the proposal to build an aerocraft factory nearby. He woke up the Raillord Hachiroku by accident and became her owner. For different purposes, they agreed to help find her lost locomotive, with the help of his stepsister Hibiki, the town’s mayor and local railway chief, Paulette and others. \n\n(Source: VNDB, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/108605.jpg",
+      "date": "Oct 3, 2020, 01:00 (JST)",
+      "producer": "Saetta",
+      "eps": 12,
+      "genres": [
+        "Sci-Fi",
+        "Harem",
+        "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Inu to Neko Docchi mo Katteru to Mainichi Tanoshii",
       "description": "Matsumoto-san owns an innocent dog and an adorably devious cat. Laughing and crying ensue as they all live daily life together.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1788/106525.jpg",
@@ -524,12 +538,37 @@
       "category": "TV (New)"
     },
     {
+      "title": "Animation Kapibara-san",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1708/108612.jpg",
+      "date": "Oct 9, 2020, 07:30 (JST)",
+      "producer": "Lesprit, Shin-Ei Animation",
+      "eps": null,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Eternity: Shinya no Nurekoi Channel ♡",
       "description": "Anime adaptation of 12 romantic works from the Eternity Books manga label.\n\nThe complete edition with explicit scenes was distributed online via the official website for Eternity Books. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1899/108400.jpg",
       "date": "Oct ??, 2020",
       "producer": "Seven",
       "eps": 12,
+      "genres": [
+        "Romance",
+        "Ecchi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Ookami-san wa Taberaretai",
+      "description": "\"I want Akagashira-sensei to be my first!\"\n\nHaving a run in with the \"skirt bandit,\" Ookami almost has her skirt stolen. Her teacher, Akagashira, passes by and becomes her hero after stopping the theft. As thanks, Ookami invites Akagashira to her home, but she has another reason for bringing him over. \n\n(Source: WWWave Corporation, edited)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX an hour later.\n\nThis database entry reflects censored TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1020/108606.jpg",
+      "date": "Sep 6, 2020, 01:00 (JST)",
+      "producer": "Peak Hunt",
+      "eps": null,
       "genres": [
         "Romance",
         "Ecchi"
@@ -546,20 +585,6 @@
       "genres": [
         "Comedy",
         "Parody"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Rail Romanesque",
-      "description": "Set in Hinomoto, a fictional version of Japan, where for a long time railway travel served as the most important form of transport. Each locomotive was paired with a humanoid control module, so-called Raillord, that aided the train operator. However, many rail lines had been discontinued due to the rising popularity of 'aerocrafts,' a safe and convenient aerial mode of transport. As such, their accompanying railroads also went into a deep sleep.\n\nSoutetsu had lost his entire family in a rail accident and was adopted into the Migita household, which runs a shochu brewery in the city of Ohitoyo. He returned to his hometown to save it from the potential water pollution that would occur if they accepted the proposal to build an aerocraft factory nearby. He woke up the Raillord Hachiroku by accident and became her owner. For different purposes, they agreed to help find her lost locomotive, with the help of his stepsister Hibiki, the town’s mayor and local railway chief, Paulette and others. \n\n(Source: VNDB, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1986/108226.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Saetta",
-      "eps": 12,
-      "genres": [
-        "Sci-Fi",
-        "Harem",
-        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -597,7 +622,7 @@
       "description": "Second part of the Date A Bullet films.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1002/108424.jpg",
       "date": "Nov 13, 2020",
-      "producer": "GEEKTOYS",
+      "producer": "GEEK TOYS",
       "eps": 1,
       "genres": [
         "Sci-Fi"

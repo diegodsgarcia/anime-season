@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-07-22",
+  "lastUpdate": "2020-07-23",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -731,21 +731,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Norimono Man: Mobile Land no Car-kun",
-      "description": "The anime will depict various vehicles as characters in the \"Mobile Land\" island. The protagonist Car-kun arrives at the island as a delivery worker. Through his deliveries, he gets to know the residents of Mobile Land, all while following traffic rules and having his deliveries stopped by the meddling Sabibi. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1612/106288.jpg",
-      "date": "Apr 2, 2020",
-      "producer": "CloverWorks",
-      "eps": null,
-      "genres": [
-        "Cars",
-        "Comedy",
-        "Kids",
-        "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Neko Neko Nihonshi 5th Season",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
@@ -757,6 +742,21 @@
         "Parody",
         "Kids",
         "Samurai"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Norimono Man: Mobile Land no Car-kun",
+      "description": "The anime will depict various vehicles as characters in the \"Mobile Land\" island. The protagonist Car-kun arrives at the island as a delivery worker. Through his deliveries, he gets to know the residents of Mobile Land, all while following traffic rules and having his deliveries stopped by the meddling Sabibi. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1612/106288.jpg",
+      "date": "Apr 2, 2020",
+      "producer": "CloverWorks",
+      "eps": null,
+      "genres": [
+        "Cars",
+        "Comedy",
+        "Kids",
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -916,7 +916,7 @@
       "description": "Alcia is a world governed by \"Count\": numbers engraved on a person's body, representing any number related to their life. These Counts determine a person's social status and power in Alcia. If a Count reaches zero, the person is sent to the Abyss, a place rumored to be worse than death.\n\nHina, a traveler whose Count is based on the distance she traveled, witnessed her mother get dragged down into the Abyss. Determined to fulfill her mother's last wishes, she sets off on a journey in search of the legendary Aces—heroes of the war that happened three hundred years ago, bearing a white star next to their Count.\n\nWhile wandering around, Hina encounters Licht Bach, a mysterious masked man with negative Count, and Nana, the owner of a tavern. In the midst of having a good time, Hina is tricked into a battle with a military soldier. However, despite his negative count, Licht rescues Hina and reveals that he has another count, one with a white star, one of a legendary Ace.\n\nPlunderer follows the journey of Hina and other inhabitants of Alcia as they discover the truth about their world, the Abyss, and the legendary Aces.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1534/104784.jpg",
       "date": "Jan 9, 2020, 01:05 (JST)",
-      "producer": "GEEKTOYS",
+      "producer": "GEEK TOYS",
       "eps": 24,
       "genres": [
         "Action",
@@ -1928,6 +1928,18 @@
       "category": "ONA"
     },
     {
+      "title": "Zuruggu to Mimikkyu",
+      "description": "Silent animation released on YouTube resembling typical slapstick American cartoons.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108582.jpg",
+      "date": "Jun 4, 2020",
+      "producer": "DandeLion Animation Studio",
+      "eps": 1,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Beyblade Burst Super King",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1332/106530.jpg",
@@ -1940,18 +1952,6 @@
         "Adventure",
         "Sports",
         "Shounen"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Zuruggu to Mimikkyu",
-      "description": "Silent animation released on YouTube resembling typical slapstick American cartoons.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108582.jpg",
-      "date": "Jun 4, 2020",
-      "producer": "DandeLion Animation Studio",
-      "eps": 1,
-      "genres": [
-        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2406,24 +2406,24 @@
       "category": "OVA"
     },
     {
-      "title": "Kutsujoku 2 The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1765/107915.jpg",
-      "date": "Jun 26, 2020",
-      "producer": "-",
-      "eps": 2,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Shihai no Kyoudan",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1239/106367.jpg",
       "date": "May 29, 2020",
       "producer": "PoRO",
       "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Kutsujoku 2 The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1765/107915.jpg",
+      "date": "Jun 26, 2020",
+      "producer": "-",
+      "eps": 2,
       "genres": [
         "Hentai"
       ],
@@ -2462,6 +2462,21 @@
       "eps": null,
       "genres": [
         "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Bokutachi wa Benkyou ga Dekinai!: Chapel no Kane wa [X] wo Shukufuku Suru",
+      "description": "Bundled with the limited edition volume 16.\n\nThe episode features an original premise where Fumino, Mafuyu, Uruka, Rizu, and Asumi are taking part in a wedding ceremony.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1917/108615.jpg",
+      "date": "Apr 3, 2020",
+      "producer": "Arvo Animation, Silver",
+      "eps": 1,
+      "genres": [
+        "Harem",
+        "Comedy",
+        "Romance",
+        "Shounen"
       ],
       "category": "OVA"
     },
@@ -2511,7 +2526,7 @@
       "title": "Wasureta Furi wo Shite",
       "description": "Animation film celebrating the 50th anniversary of the Senba Center Building. Based on the manga \"A manga in the Semba Center Building\" by You Machida.\n\nOne day, manga artist YOU Machida received a request to draw the Semba Center Building, which was celebrating its 50th anniversary. This is the story of a quiet dialogue between a manga artist who has suffered from depression in the past and the Senba Center Building, a generous old commercial facility that has lived for 50 years in the middle of Osaka, over a four-day period.\n\n(Source: Vimeo)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1384/108596.jpg",
-      "date": "Jun 29, 2020",
+      "date": "Jun 30, 2020",
       "producer": "Calf Studio",
       "eps": 1,
       "genres": [

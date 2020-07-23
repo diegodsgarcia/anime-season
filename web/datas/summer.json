@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-22",
+  "lastUpdate": "2020-07-23",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -35,6 +35,24 @@
       "category": "TV (New)"
     },
     {
+      "title": "The God of High School",
+      "description": "It all began as a fighting tournament to seek out for the best fighter among all high school students in Korea. Mori Jin, a Taekwondo specialist and a high school student, soon learns that there is something much greater beneath the stage of the tournament.\n\n(Source: LINE Webtoon)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1722/107269.jpg",
+      "date": "Jul 6, 2020, 23:30 (JST)",
+      "producer": "MAPPA",
+      "eps": 13,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure",
+        "Comedy",
+        "Supernatural",
+        "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
       "description": "Second part of Sword Art Online: Alicization - War of Underworld.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1438/105106.jpg",
@@ -47,24 +65,6 @@
         "Adventure",
         "Romance",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "The God of High School",
-      "description": "It all began as a fighting tournament to seek out for the best fighter among all high school students in Korea. Mori Jin, a Taekwondo specialist and a high school student, soon learns that there is something much greater beneath the stage of the tournament.\n\n(Source: LINE Webtoon)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1722/107269.jpg",
-      "date": "Jul 6, 2020, 23:30 (JST)",
-      "producer": "MAPPA",
-      "eps": 13,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy",
-        "Martial Arts",
-        "Sci-Fi",
-        "Supernatural"
       ],
       "category": "TV (New)"
     },
@@ -85,7 +85,7 @@
     {
       "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e",
       "description": "After 2000 years have passed, the ruthless demon lord has just been reincarnated! But his aptitude at an academy for nurturing candidates for demon lords is, “inept”!?\n\nHaving the capability to destroy humans, elementals, and gods, after a long period of countless wars and strife, Arnos the demon lord became sick and tired of all that and longed for a peaceful world, so he decided to reincarnate to the future.\n\nHowever, what awaited him after his reincarnation is a world too used to peace that his descendants became too weak due to a huge weakening in magical powers. \n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1388/105332.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1126/108573.jpg",
       "date": "Jul 4, 2020, 23:30 (JST)",
       "producer": "Silver Link.",
       "eps": 13,
@@ -230,6 +230,22 @@
       "category": "TV (New)"
     },
     {
+      "title": "Koi to Producer: EVOL×LOVE",
+      "description": "A girl inherits a company that is almost bankrupt from her late father. Lacking the funds, she must now become the producer herself in order to save the company from collapse.\nDuring her work, she meets four boys—financial expert Zen, the idol Kira, police officer Haku, and leading neuroscientist Simon—and is suddenly involved with the conspiracies and mysteries over the existence of special powers known as \"Evol.\"\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1944/108276.jpg",
+      "date": "Jul 16, 2020, 00:00 (JST)",
+      "producer": "MAPPA",
+      "eps": 12,
+      "genres": [
+        "Music",
+        "Romance",
+        "Shoujo",
+        "Slice of Life",
+        "Super Power"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
       "description": "Second season of Muhyo to Rouji no Mahouritsu Soudan Jimusho.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1962/108429.jpg",
@@ -243,22 +259,6 @@
         "Supernatural",
         "Drama",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Koi to Producer: EVOL×LOVE",
-      "description": "A girl inherits a company that is almost bankrupt from her late father. Lacking the funds, she must now become the producer herself in order to save the company from collapse.\nDuring her work, she meets four boys—financial expert Zen, the idol Kira, police officer Haku, and leading neuroscientist Simon—and is suddenly involved with the conspiracies and mysteries over the existence of special powers known as \"Evol.\"\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1944/108276.jpg",
-      "date": "Jul 16, 2020, 00:00 (JST)",
-      "producer": "MAPPA",
-      "eps": 12,
-      "genres": [
-        "Music",
-        "Romance",
-        "Shoujo",
-        "Slice of Life",
-        "Super Power"
       ],
       "category": "TV (New)"
     },
@@ -371,6 +371,18 @@
       "category": "TV (New)"
     },
     {
+      "title": "Taeko no Nichijou 2nd Season",
+      "description": "Sequel of Taeko no Nichijou",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/108538.jpg",
+      "date": "Jul 1, 2020, 17:59 (JST)",
+      "producer": "DLE",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Lalalacoco II",
       "description": "Second season of Lalalacoco.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1354/107937.jpg",
@@ -380,18 +392,6 @@
       "genres": [
         "Comedy",
         "Kids",
-        "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Taeko no Nichijou 2nd Season",
-      "description": "Sequel of Taeko no Nichijou",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/108538.jpg",
-      "date": "Jul 1, 2020, 17:59 (JST)",
-      "producer": "DLE",
-      "eps": null,
-      "genres": [
         "Slice of Life"
       ],
       "category": "TV (New)"
@@ -908,18 +908,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Super Shiro",
-      "description": "Spin-off series of Crayon Shin-chan franchise, featuring Shiro.  Commemorates 60th Anniversary of TV Asahi.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1555/103542.jpg",
-      "date": "Oct 14, 2019",
-      "producer": "Science SARU",
-      "eps": 48,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Cardfight!! Vanguard Gaiden: If",
       "description": "The series will explore an alternate universe to the main series, and will focus on Kouji Ibuki, an antagonist in the Cardfight!! Vanguard Movie: Neon Messiah, and Suiko Tatsunagi.\n\n(Source: ANN, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1992/106795.jpg",
@@ -931,6 +919,18 @@
         "Game",
         "Adventure",
         "Demons"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Super Shiro",
+      "description": "Spin-off series of Crayon Shin-chan franchise, featuring Shiro.  Commemorates 60th Anniversary of TV Asahi.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1555/103542.jpg",
+      "date": "Oct 14, 2019",
+      "producer": "Science SARU",
+      "eps": 48,
+      "genres": [
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -950,19 +950,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Yodel no Onna",
-      "description": "The sound of yodeling will appear when you least expect it.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/87843.jpg",
-      "date": "Sep 22, 2017",
-      "producer": "DLE",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Gal-gaku.: Hijiri Girls Square Gakuin",
       "description": "The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/106284.jpg",
@@ -972,6 +959,19 @@
       "genres": [
         "Music",
         "School"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Yodel no Onna",
+      "description": "The sound of yodeling will appear when you least expect it.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/87843.jpg",
+      "date": "Sep 22, 2017",
+      "producer": "DLE",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -989,18 +989,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Neko Konogoro",
-      "description": "Based on the characters created by Study.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1877/91297.jpg",
-      "date": "Jun 8, 2016, 00:00 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Bakugan: Armored Alliance",
       "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
@@ -1011,6 +999,18 @@
         "Action",
         "Game",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Neko Konogoro",
+      "description": "Based on the characters created by Study.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1877/91297.jpg",
+      "date": "Jun 8, 2016, 00:00 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1075,19 +1075,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Kamiusagi Rope: Warau Asa ni wa Fukuraitaru tte Maji ssuka!?",
-      "description": "Fourth season of Kamiusagi Rope, events occur after the feature film. Airs on Mezamashi TV instead of the theaters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/72182.jpg",
-      "date": "Nov 16, 2012, 06:45 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
       "description": "Third season of TV Yarou Nanaana.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1201/106347.jpg",
@@ -1096,6 +1083,19 @@
       "eps": null,
       "genres": [
         "Adventure",
+        "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Kamiusagi Rope: Warau Asa ni wa Fukuraitaru tte Maji ssuka!?",
+      "description": "Fourth season of Kamiusagi Rope, events occur after the feature film. Airs on Mezamashi TV instead of the theaters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/72182.jpg",
+      "date": "Nov 16, 2012, 06:45 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
         "Comedy"
       ],
       "category": "TV (Continuing)"
@@ -1184,6 +1184,20 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Motto! Majime ni Fumajime Kaiketsu Zorori",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1401/106017.jpg",
+      "date": "Apr 5, 2020, 19:00 (JST)",
+      "producer": "Ajia-Do, Bandai Namco Pictures",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Pittanko!! Nekozakana",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1058/102001.jpg",
@@ -1209,20 +1223,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Motto! Majime ni Fumajime Kaiketsu Zorori",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1401/106017.jpg",
-      "date": "Apr 5, 2020, 19:00 (JST)",
-      "producer": "Ajia-Do, Bandai Namco Pictures",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Hakushon Daimaou 2020",
       "description": "50 years have passed since the events of the original Hakushon Daimaou series. Akubi is training to become queen when she meets Kantarou Yodama, the grandson of the genie bottle's original owner, Kan-chan. Together, Akubi and Kantarou take on many jobs in the human world and learn the importance of having a dream.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1621/105178.jpg",
@@ -1236,11 +1236,11 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Akita Kenritsu Iburi Gakkou Chuutou-bu",
-      "description": "A tourism promotional anime for the Akita prefecture. Highlighting Akita cuisine, actors, landmarks, etc. through the banter of two high school friends who are a red oni and an akita (dog breed).",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/84867.jpg",
-      "date": "Mar 14, 2017",
-      "producer": "-",
+      "title": "Marumaru Manul",
+      "description": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
+      "date": "Jan 6, 2020, 00:30 (JST)",
+      "producer": "Kachidoki Studio",
       "eps": null,
       "genres": [
         "Comedy"
@@ -1248,11 +1248,11 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Marumaru Manul",
-      "description": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
-      "date": "Jan 6, 2020, 00:30 (JST)",
-      "producer": "Kachidoki Studio",
+      "title": "Akita Kenritsu Iburi Gakkou Chuutou-bu",
+      "description": "A tourism promotional anime for the Akita prefecture. Highlighting Akita cuisine, actors, landmarks, etc. through the banter of two high school friends who are a red oni and an akita (dog breed).",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/84867.jpg",
+      "date": "Mar 14, 2017",
+      "producer": "-",
       "eps": null,
       "genres": [
         "Comedy"
@@ -1422,6 +1422,19 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Poccolies",
+      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
+      "date": "Apr 6, 2020, 23:29 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Unicorn no Kyupi",
       "description": "Unicorn no Kyupi is a helpful sprite that lives in the kitchen and polishes dirty pots and pans clean with its fluffy white body. Harigorou, a rival sprite shaped like a hedgehog, tries to interfere. \n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1165/91319.jpg",
@@ -1450,15 +1463,32 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Poccolies",
-      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
-      "date": "Apr 6, 2020, 23:29 (JST)",
-      "producer": "Kachidoki Studio",
+      "title": "Neko Neko Nihonshi 5th Season",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
+      "date": "Apr 8, 2020, 06:45 (JST)",
+      "producer": "-",
       "eps": null,
       "genres": [
-        "Slice of Life",
-        "Kids"
+        "Historical",
+        "Parody",
+        "Kids",
+        "Samurai"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Norimono Man: Mobile Land no Car-kun",
+      "description": "The anime will depict various vehicles as characters in the \"Mobile Land\" island. The protagonist Car-kun arrives at the island as a delivery worker. Through his deliveries, he gets to know the residents of Mobile Land, all while following traffic rules and having his deliveries stopped by the meddling Sabibi. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1612/106288.jpg",
+      "date": "Apr 2, 2020",
+      "producer": "CloverWorks",
+      "eps": null,
+      "genres": [
+        "Cars",
+        "Comedy",
+        "Kids",
+        "Slice of Life"
       ],
       "category": "TV (Continuing)"
     },
@@ -1498,36 +1528,6 @@
       "genres": [
         "Comedy",
         "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Neko Neko Nihonshi 5th Season",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
-      "date": "Apr 8, 2020, 06:45 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Historical",
-        "Parody",
-        "Kids",
-        "Samurai"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Norimono Man: Mobile Land no Car-kun",
-      "description": "The anime will depict various vehicles as characters in the \"Mobile Land\" island. The protagonist Car-kun arrives at the island as a delivery worker. Through his deliveries, he gets to know the residents of Mobile Land, all while following traffic rules and having his deliveries stopped by the meddling Sabibi. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1612/106288.jpg",
-      "date": "Apr 2, 2020",
-      "producer": "CloverWorks",
-      "eps": null,
-      "genres": [
-        "Cars",
-        "Comedy",
-        "Kids",
-        "Slice of Life"
       ],
       "category": "TV (Continuing)"
     },
@@ -1645,19 +1645,6 @@
       "category": "ONA"
     },
     {
-      "title": "Nu Wushen de Canzhuo II",
-      "description": "Second season of Nu Wushen de Canzhuo.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/108206.jpg",
-      "date": "Jul 17, 2020",
-      "producer": "Blade, Thundray",
-      "eps": 8,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Dragon's Dogma",
       "description": "Based on a world-famous action RPG set in an open world, Dragon's Dogma from Capcom will be brought to life as a Netflix original anime series. The story follows a man's journey seeking revenge on a dragon who stole his heart. On his way, the man is brought back to life as an \"Arisen.\" An action adventure about a man challenged by demons who represent the seven deadly sins of humans. \n\n(Source: Netflix)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1410/108510.jpg",
@@ -1668,6 +1655,19 @@
         "Action",
         "Adventure",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Nu Wushen de Canzhuo II",
+      "description": "Second season of Nu Wushen de Canzhuo.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/108206.jpg",
+      "date": "Jul 17, 2020",
+      "producer": "Blade, Thundray",
+      "eps": 8,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -1758,6 +1758,20 @@
       "category": "ONA"
     },
     {
+      "title": "Liu Yi Chuanqi",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1297/108295.jpg",
+      "date": "Jul 22, 2020",
+      "producer": "Wei Chuang Jiang Xin",
+      "eps": 26,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Mei Chuxi de Yinyangshi Yijia 2",
       "description": "Second season of Mei Chuxi de Yinyangshi Yijia.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/108286.jpg",
@@ -1774,15 +1788,29 @@
       "category": "ONA"
     },
     {
-      "title": "Liu Yi Chuanqi",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1297/108295.jpg",
-      "date": "Jul 22, 2020",
-      "producer": "Wei Chuang Jiang Xin",
-      "eps": 26,
+      "title": "Yuan Long",
+      "description": "The soul world is magical. The ace sniper Wang Sheng has traveled here from his clan, to a world of towering ancestors, where powerful players come out, masters of the clouds. However, he bumped into the stray carp remnant and became a waste of deception. He must fight against the strong beam in the forest, defeat the giant wolf, and jump the dragon gate overlooking the living beings in the clouds!\n\n(Source: V2Anime)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
+      "date": "Jul 11, 2020",
+      "producer": "CG Year",
+      "eps": 16,
       "genres": [
         "Action",
-        "Comedy",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Xian Feng Jian Yu Lu",
+      "description": "In ancient Shenzhou, humans and demons had been in constant dispute for thousands of years. The demon princess from Tushan, Bai Binglan, and the human Zhang Kuangyun met each other due to a misunderstanding. In order to investigate the enemy country, Bai Binglan became Zhang Kuangyun's companion. As they travel together, Zhang Kuangyun discovers a conspiracy...",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/108195.jpg",
+      "date": "Jul 11, 2020",
+      "producer": "Ruo Hong Culture",
+      "eps": 70,
+      "genres": [
+        "Action",
+        "Supernatural",
         "Fantasy"
       ],
       "category": "ONA"
@@ -1817,34 +1845,6 @@
         "Sci-Fi",
         "Adventure",
         "Demons"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Yuan Long",
-      "description": "The soul world is magical. The ace sniper Wang Sheng has traveled here from his clan, to a world of towering ancestors, where powerful players come out, masters of the clouds. However, he bumped into the stray carp remnant and became a waste of deception. He must fight against the strong beam in the forest, defeat the giant wolf, and jump the dragon gate overlooking the living beings in the clouds!\n\n(Source: V2Anime)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
-      "date": "Jul 11, 2020",
-      "producer": "CG Year",
-      "eps": 16,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Xian Feng Jian Yu Lu",
-      "description": "In ancient Shenzhou, humans and demons had been in constant dispute for thousands of years. The demon princess from Tushan, Bai Binglan, and the human Zhang Kuangyun met each other due to a misunderstanding. In order to investigate the enemy country, Bai Binglan became Zhang Kuangyun's companion. As they travel together, Zhang Kuangyun discovers a conspiracy...",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/108195.jpg",
-      "date": "Jul 11, 2020",
-      "producer": "Ruo Hong Culture",
-      "eps": 70,
-      "genres": [
-        "Action",
-        "Supernatural",
-        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -1891,6 +1891,18 @@
       "category": "ONA"
     },
     {
+      "title": "Dahua Zhi Shaonian You",
+      "description": "Rookie Jianghu and swordsman Xiao Yao Sheng have defeated the baby-eater that caused Chang'an, but they now find themselves falling into a bigger mystery. They traveled to the distant Spirit Beast Village and met the beautiful Demon Fox Girl, the Bone Elves, and people of all kinds inhabiting rivers and lakes along the way. They gained growth and friendship, but are now entangled in a greater crisis: a dispute between immortals and demons. The animation will combine elements such as martial arts, fantasy, blood, adventure, and more, to present to the audience a tale of ups and downs in legendary stories!\n\n(Source: V2Anime)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/107440.jpg",
+      "date": "Aug 15, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Qing Chi Hong Xiaodou Ba! 4th Season",
       "description": "Fourth season of Qing Chi Hong Xiaodou Ba!",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108288.jpg",
@@ -1914,18 +1926,6 @@
         "Comedy",
         "Historical",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Dahua Zhi Shaonian You",
-      "description": "Rookie Jianghu and swordsman Xiao Yao Sheng have defeated the baby-eater that caused Chang'an, but they now find themselves falling into a bigger mystery. They traveled to the distant Spirit Beast Village and met the beautiful Demon Fox Girl, the Bone Elves, and people of all kinds inhabiting rivers and lakes along the way. They gained growth and friendship, but are now entangled in a greater crisis: a dispute between immortals and demons. The animation will combine elements such as martial arts, fantasy, blood, adventure, and more, to present to the audience a tale of ups and downs in legendary stories!\n\n(Source: V2Anime)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/107440.jpg",
-      "date": "Aug 15, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Action"
       ],
       "category": "ONA"
     },
@@ -2229,20 +2229,6 @@
       "category": "Movie"
     },
     {
-      "title": "Kud Wafter",
-      "description": "This anime adapts Key's visual novel Kud Wafter, which follows the romantic relationship between Riki Naoe and Kudryavka Noumi from the game Little Busters!",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/86916.jpg",
-      "date": "Sep ??, 2020",
-      "producer": "J.C.Staff",
-      "eps": 1,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "School"
-      ],
-      "category": "Movie"
-    },
-    {
       "title": "Hataraku Saibou!!: Saikyou no Teki, Futatabi. Karada no Naka wa \"Chou\" Oosawagi!",
       "description": "The theatrical episode will cover events from the fifth volume of the manga.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1413/108382.jpg",
@@ -2253,6 +2239,20 @@
         "Action",
         "Comedy",
         "Shounen"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Kud Wafter",
+      "description": "This anime adapts Key's visual novel Kud Wafter, which follows the romantic relationship between Riki Naoe and Kudryavka Noumi from the game Little Busters!",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/86916.jpg",
+      "date": "Sep ??, 2020",
+      "producer": "J.C.Staff",
+      "eps": 1,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "School"
       ],
       "category": "Movie"
     },
@@ -2337,6 +2337,20 @@
       "genres": [
         "Mystery",
         "Kids"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Miao Xiansheng",
+      "description": "Adapted from a short tale from self-made animator Bu Sifan, writer and director of Dahufa, the feature introduces a fictional golden-colored flower, which possesses the magical ability to debauch humans who get too close to it.\n\nAs the flower only chooses kindhearted people as hosts, a group of martial artists who want to eradicate the plants face a dilemma: Should one kill good people for rescuing men from sin?\n\n(Source: China Daily)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1001/108593.jpg",
+      "date": "Jul 31, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
       ],
       "category": "Movie"
     },
