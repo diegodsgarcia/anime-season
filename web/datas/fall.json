@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-07-23",
+  "lastUpdate": "2020-07-24",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -483,6 +483,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Rail Romanesque",
+      "description": "Set in Hinomoto, a fictional version of Japan, where for a long time railway travel served as the most important form of transport. Each locomotive was paired with a humanoid control module, so-called Raillord, that aided the train operator. However, many rail lines had been discontinued due to the rising popularity of 'aerocrafts,' a safe and convenient aerial mode of transport. As such, their accompanying railroads also went into a deep sleep.\n\nSoutetsu had lost his entire family in a rail accident and was adopted into the Migita household, which runs a shochu brewery in the city of Ohitoyo. He returned to his hometown to save it from the potential water pollution that would occur if they accepted the proposal to build an aerocraft factory nearby. He woke up the Raillord Hachiroku by accident and became her owner. For different purposes, they agreed to help find her lost locomotive, with the help of his stepsister Hibiki, the town’s mayor and local railway chief, Paulette and others. \n\n(Source: VNDB, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/108605.jpg",
+      "date": "Oct 3, 2020, 01:00 (JST)",
+      "producer": "Saetta",
+      "eps": 12,
+      "genres": [
+        "Sci-Fi",
+        "Harem",
+        "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Munou na Nana",
       "description": "It is the year 20XX. Earth was assaulted by monsters that would come to be known as \"the Enemy of Humanity.\" In order to deal with this threat, special schools composed of teenagers with extraordinary abilities were formed. These people, who came to be known as \"the Talented,\" had abilities that could defy the rules of reality.\n\nAmong these people with supernatural powers was an outlier, an individual who was sent to one of these schools despite having no innate special abilities whatsoever. This is the story of our protagonist, who attempts to defeat the Enemies of Humanity through the use of intelligence and manipulation alone. \n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1786/108399.jpg",
@@ -498,20 +512,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Rail Romanesque",
-      "description": "Set in Hinomoto, a fictional version of Japan, where for a long time railway travel served as the most important form of transport. Each locomotive was paired with a humanoid control module, so-called Raillord, that aided the train operator. However, many rail lines had been discontinued due to the rising popularity of 'aerocrafts,' a safe and convenient aerial mode of transport. As such, their accompanying railroads also went into a deep sleep.\n\nSoutetsu had lost his entire family in a rail accident and was adopted into the Migita household, which runs a shochu brewery in the city of Ohitoyo. He returned to his hometown to save it from the potential water pollution that would occur if they accepted the proposal to build an aerocraft factory nearby. He woke up the Raillord Hachiroku by accident and became her owner. For different purposes, they agreed to help find her lost locomotive, with the help of his stepsister Hibiki, the town’s mayor and local railway chief, Paulette and others. \n\n(Source: VNDB, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/108605.jpg",
-      "date": "Oct 3, 2020, 01:00 (JST)",
-      "producer": "Saetta",
-      "eps": 12,
-      "genres": [
-        "Sci-Fi",
-        "Harem",
-        "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Inu to Neko Docchi mo Katteru to Mainichi Tanoshii",
       "description": "Matsumoto-san owns an innocent dog and an adorably devious cat. Laughing and crying ensue as they all live daily life together.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1788/106525.jpg",
@@ -521,6 +521,19 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Ookami-san wa Taberaretai",
+      "description": "\"I want Akagashira-sensei to be my first!\"\n\nHaving a run in with the \"skirt bandit,\" Ookami almost has her skirt stolen. Her teacher, Akagashira, passes by and becomes her hero after stopping the theft. As thanks, Ookami invites Akagashira to her home, but she has another reason for bringing him over. \n\n(Source: WWWave Corporation, edited)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX an hour later.\n\nThis database entry reflects censored TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1020/108606.jpg",
+      "date": "Sep 6, 2020, 01:00 (JST)",
+      "producer": "Peak Hunt",
+      "eps": null,
+      "genres": [
+        "Romance",
+        "Ecchi"
       ],
       "category": "TV (New)"
     },
@@ -556,19 +569,6 @@
       "date": "Oct ??, 2020",
       "producer": "Seven",
       "eps": 12,
-      "genres": [
-        "Romance",
-        "Ecchi"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Ookami-san wa Taberaretai",
-      "description": "\"I want Akagashira-sensei to be my first!\"\n\nHaving a run in with the \"skirt bandit,\" Ookami almost has her skirt stolen. Her teacher, Akagashira, passes by and becomes her hero after stopping the theft. As thanks, Ookami invites Akagashira to her home, but she has another reason for bringing him over. \n\n(Source: WWWave Corporation, edited)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX an hour later.\n\nThis database entry reflects censored TV version of the anime.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1020/108606.jpg",
-      "date": "Sep 6, 2020, 01:00 (JST)",
-      "producer": "Peak Hunt",
-      "eps": null,
       "genres": [
         "Romance",
         "Ecchi"
