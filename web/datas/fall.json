@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-07-24",
+  "lastUpdate": "2020-07-25",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -479,6 +479,20 @@
         "Adventure",
         "Magic",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Iwa Kakeru!: Sport Climbing Girls",
+      "description": "Konomi Kasahara, a junior high school girl, has made a big name after winning numerous competitive puzzle game tournaments. The story begins when she finds a sports climbing club in her high school. Using special skills other than that of puzzle games, Kasahara becomes fascinated with climbing.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1110/107213.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Blade",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Sports",
+        "School"
       ],
       "category": "TV (New)"
     },

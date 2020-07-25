@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-07-24",
+  "lastUpdate": "2020-07-25",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -1139,20 +1139,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Sore Ike! Anpanman",
-      "description": "One night, a Star of Life falls down the chimney of a bakery nestled deep in the forest, causing the dough in the oven to come to life. The dough becomes Anpanman, a superhero made of anpan (a sweet roll with bean jam filling). Together with his friends, Anpanman fights his rival Baikinman and helps the malnourished. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1/1960.jpg",
-      "date": "Oct 3, 1988, 16:20 (JST)",
-      "producer": "TMS Entertainment",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Zoids Wild Zero",
       "description": "Sequel of Zoids Wild.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1131/104980.jpg",
@@ -1164,6 +1150,20 @@
         "Sci-Fi",
         "Adventure",
         "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Sore Ike! Anpanman",
+      "description": "One night, a Star of Life falls down the chimney of a bakery nestled deep in the forest, causing the dough in the oven to come to life. The dough becomes Anpanman, a superhero made of anpan (a sweet roll with bean jam filling). Together with his friends, Anpanman fights his rival Baikinman and helps the malnourished. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1/1960.jpg",
+      "date": "Oct 3, 1988, 16:20 (JST)",
+      "producer": "TMS Entertainment",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids",
+        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1694,7 +1694,7 @@
       "category": "ONA"
     },
     {
-      "title": "Yesterday wo Utatte Haishin-ban Episode",
+      "title": "Yesterday wo Utatte: Haishin-ban Episode",
       "description": "Special episodes released on AbemaTV.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1919/107275.jpg",
       "date": "Apr 5, 2020",
@@ -2049,23 +2049,6 @@
       "category": "ONA"
     },
     {
-      "title": "Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1324/103548.jpg",
-      "date": "Apr 10, 2020",
-      "producer": "Studio Live",
-      "eps": 9,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Adventure",
-        "Comedy",
-        "Mecha",
-        "Shounen"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Douluo Dalu: Xiaowu Juebie",
       "description": "Fifth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/108563.jpg",
@@ -2083,6 +2066,23 @@
       "category": "ONA"
     },
     {
+      "title": "Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1324/103548.jpg",
+      "date": "Apr 10, 2020",
+      "producer": "Studio Live",
+      "eps": 9,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure",
+        "Comedy",
+        "Mecha",
+        "Shounen"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Wuxian Shaonu 48",
       "description": "The story takes place in 2047. We follow the story of several young girls, each coming from different dimensions. All of them want to join the new project group 48.\n\n(Source: Nautiljon)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1863/107433.jpg",
@@ -2091,20 +2091,6 @@
       "eps": 12,
       "genres": [
         "Music",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Wangu Xian Qiong IV: Yin Yue Cheng Pian",
-      "description": "Fourth season of Wangu Xian Qiong.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1374/107900.jpg",
-      "date": "Apr 16, 2020",
-      "producer": "ASK Animation Studio",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Adventure",
         "Fantasy"
       ],
       "category": "ONA"
@@ -2121,6 +2107,20 @@
         "Adventure",
         "Supernatural",
         "Magic"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Wangu Xian Qiong IV: Yin Yue Cheng Pian",
+      "description": "Fourth season of Wangu Xian Qiong.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1374/107900.jpg",
+      "date": "Apr 16, 2020",
+      "producer": "ASK Animation Studio",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2216,18 +2216,6 @@
       "category": "ONA"
     },
     {
-      "title": "Mottainai Baasan",
-      "description": "In the books, the titular Grandma seeks to explore the true meaning of the Japanese phrase \"mottainai\" after her son asked her what it meant and she couldn't answer. \"Mottainai\" is a commonly used exclamation that roughly translates to \"what a waste!\", expressing regret over wastefulness. The Grandma seeks to explore the meaning and importance of \"mottainai\" in the story.\n\n(Source: Anime News Network)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1652/108053.jpg",
-      "date": "Jun 4, 2020",
-      "producer": "LIDENFILMS",
-      "eps": 4,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Bai Gui Youeryuan 3rd Season",
       "description": "Third season of Bai Gui Youeryuan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/108463.jpg",
@@ -2236,6 +2224,18 @@
       "eps": 12,
       "genres": [
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Mottainai Baasan",
+      "description": "In the books, the titular Grandma seeks to explore the true meaning of the Japanese phrase \"mottainai\" after her son asked her what it meant and she couldn't answer. \"Mottainai\" is a commonly used exclamation that roughly translates to \"what a waste!\", expressing regret over wastefulness. The Grandma seeks to explore the meaning and importance of \"mottainai\" in the story.\n\n(Source: Anime News Network)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1652/108053.jpg",
+      "date": "Jun 4, 2020",
+      "producer": "LIDENFILMS",
+      "eps": 4,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2256,19 +2256,6 @@
       "category": "ONA"
     },
     {
-      "title": "Menghuan Shuyuan 3rd Season",
-      "description": "Third season of Menghuan Shuyuan.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1799/108466.jpg",
-      "date": "Apr 6, 2020",
-      "producer": "Painting Dream",
-      "eps": 14,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Mamoru Hikitsugu Watashitachi no Kurashi",
       "description": "A young man who has left his parents' home follows the path of a customs officer. And what lies ahead is...\n\n(Source: Anilist)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1785/108594.jpg",
@@ -2278,6 +2265,19 @@
       "genres": [
         "Music",
         "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Menghuan Shuyuan 3rd Season",
+      "description": "Third season of Menghuan Shuyuan.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1799/108466.jpg",
+      "date": "Apr 6, 2020",
+      "producer": "Painting Dream",
+      "eps": 14,
+      "genres": [
+        "Comedy",
+        "Fantasy"
       ],
       "category": "ONA"
     },

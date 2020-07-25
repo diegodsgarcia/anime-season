@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-24",
+  "lastUpdate": "2020-07-25",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -117,7 +117,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1627/107552.jpg",
       "date": "Jul 8, 2020, 23:30 (JST)",
       "producer": "Nut",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Action",
         "Sci-Fi",
@@ -218,18 +218,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Lapis Re:LiGHTs",
-      "description": "Based on a mixed media project that blends fantasy, magical girl, and idol elements, Lapis Re:LiGHTs will follow a group of students as they train to become idols. Together, they'll use the magic of music and the magic of... well, literal magic... in their performances.\n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1880/107611.jpg",
-      "date": "Jul 4, 2020, 22:00 (JST)",
-      "producer": "Yokohama Animation Lab",
-      "eps": 12,
-      "genres": [
-        "Music"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Koi to Producer: EVOL×LOVE",
       "description": "A girl inherits a company that is almost bankrupt from her late father. Lacking the funds, she must now become the producer herself in order to save the company from collapse.\nDuring her work, she meets four boys—financial expert Zen, the idol Kira, police officer Haku, and leading neuroscientist Simon—and is suddenly involved with the conspiracies and mysteries over the existence of special powers known as \"Evol.\"\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1944/108276.jpg",
@@ -242,6 +230,18 @@
         "Super Power",
         "Romance",
         "Shoujo"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Lapis Re:LiGHTs",
+      "description": "Based on a mixed media project that blends fantasy, magical girl, and idol elements, Lapis Re:LiGHTs will follow a group of students as they train to become idols. Together, they'll use the magic of music and the magic of... well, literal magic... in their performances.\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1880/107611.jpg",
+      "date": "Jul 4, 2020, 22:00 (JST)",
+      "producer": "Yokohama Animation Lab",
+      "eps": 12,
+      "genres": [
+        "Music"
       ],
       "category": "TV (New)"
     },
@@ -879,20 +879,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Sore Ike! Anpanman",
-      "description": "One night, a Star of Life falls down the chimney of a bakery nestled deep in the forest, causing the dough in the oven to come to life. The dough becomes Anpanman, a superhero made of anpan (a sweet roll with bean jam filling). Together with his friends, Anpanman fights his rival Baikinman and helps the malnourished. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1/1960.jpg",
-      "date": "Oct 3, 1988, 16:20 (JST)",
-      "producer": "TMS Entertainment",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Zoids Wild Zero",
       "description": "Sequel of Zoids Wild.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1131/104980.jpg",
@@ -904,6 +890,20 @@
         "Sci-Fi",
         "Adventure",
         "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Sore Ike! Anpanman",
+      "description": "One night, a Star of Life falls down the chimney of a bakery nestled deep in the forest, causing the dough in the oven to come to life. The dough becomes Anpanman, a superhero made of anpan (a sweet roll with bean jam filling). Together with his friends, Anpanman fights his rival Baikinman and helps the malnourished. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1/1960.jpg",
+      "date": "Oct 3, 1988, 16:20 (JST)",
+      "producer": "TMS Entertainment",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids",
+        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -950,19 +950,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Yodel no Onna",
-      "description": "The sound of yodeling will appear when you least expect it.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/87843.jpg",
-      "date": "Sep 22, 2017",
-      "producer": "DLE",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Gal-gaku.: Hijiri Girls Square Gakuin",
       "description": "The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/106284.jpg",
@@ -972,6 +959,19 @@
       "genres": [
         "Music",
         "School"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Yodel no Onna",
+      "description": "The sound of yodeling will appear when you least expect it.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/87843.jpg",
+      "date": "Sep 22, 2017",
+      "producer": "DLE",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1154,19 +1154,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Hanakappa",
-      "description": "Story about Kappa with flowers on their heads.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/90503.jpg",
-      "date": "Mar 29, 2010",
-      "producer": "OLM, Xebec",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Go! Go! Atom",
       "description": "The eco-systems of planet Earth are endangered. Lucky for us, a super-powered robot boy is flying to rescue! astro in on a mission to help anyone anywhere in the world with a problem involving natural phenomena. Go little Astro Boy! GO! \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1793/107568.jpg",
@@ -1180,6 +1167,19 @@
         "Kids",
         "Mecha",
         "Sci-Fi"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Hanakappa",
+      "description": "Story about Kappa with flowers on their heads.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/90503.jpg",
+      "date": "Mar 29, 2010",
+      "producer": "OLM, Xebec",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1744,20 +1744,6 @@
       "category": "ONA"
     },
     {
-      "title": "Ling Jian Zun 4th Season",
-      "description": "Fourth season of Ling Jian Zun.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1972/108157.jpg",
-      "date": "Sep 11, 2020",
-      "producer": "Soyep",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Romance",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Liu Yi Chuanqi",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1297/108295.jpg",
@@ -1767,6 +1753,20 @@
       "genres": [
         "Action",
         "Comedy",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ling Jian Zun 4th Season",
+      "description": "Fourth season of Ling Jian Zun.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1972/108157.jpg",
+      "date": "Sep 11, 2020",
+      "producer": "Soyep",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Romance",
         "Fantasy"
       ],
       "category": "ONA"
@@ -1789,7 +1789,7 @@
     },
     {
       "title": "Yuan Long",
-      "description": "The soul world is magical. The ace sniper Wang Sheng has traveled here from his clan, to a world of towering ancestors, where powerful players come out, masters of the clouds. However, he bumped into the stray carp remnant and became a waste of deception. He must fight against the strong beam in the forest, defeat the giant wolf, and jump the dragon gate overlooking the living beings in the clouds!\n\n(Source: V2Anime)",
+      "description": "Special Forces Wang Sheng traveled to the soul world and was possessed by the waste carp Yuan soul, becoming a veritable waste person in the soul world. Wang Sheng used the knowledge he had learned in the world of master spirits like Yun Yuan to pass the battle, and even found a way to evolve the waste carp Yuan soul! The sparrow becomes a phoenix, and the carp leaps to the dragon gate. Wang Sheng has embarked on a road of Jackie Chan from the sinister soul dispute!\n\n(Source: Immortal Sun Scans)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
       "date": "Jul 11, 2020",
       "producer": "CG Year",
@@ -1803,8 +1803,8 @@
     },
     {
       "title": "Xian Feng Jian Yu Lu",
-      "description": "In ancient Shenzhou, humans and demons had been in constant dispute for thousands of years. The demon princess from Tushan, Bai Binglan, and the human Zhang Kuangyun met each other due to a misunderstanding. In order to investigate the enemy country, Bai Binglan became Zhang Kuangyun's companion. As they travel together, Zhang Kuangyun discovers a conspiracy...",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/108195.jpg",
+      "description": "The ancient Shenzhou Mainland, the ancient Chinese dynasty, and the demon kingdom of Tushan had been in conflict for thousands of years. Zhang Kuangyun from China and Bai Binglan, Princess Tianhu from Tushan, met each other because of a misunderstanding.\n\nTo explore the details of the enemy, Bai Binglan lurked to Zhang Kuangyun’s side and became her follower. While identity gaps, differences in ideas, and emotional growth, with step-by-step exploration, Zhang Kuangyun slowly discovered that his aunt and teacher’s family were slaughtered and killed in the mountains only incidents that were covered up. An unprecedented great conspiracy gradually emerged from the surface.\n\n(Source: Narul Donghua)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1092/108634.jpg",
       "date": "Jul 11, 2020",
       "producer": "Ruo Hong Culture",
       "eps": 70,

@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-07-24",
+  "lastUpdate": "2020-07-25",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1066,20 +1066,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Sore Ike! Anpanman",
-      "description": "One night, a Star of Life falls down the chimney of a bakery nestled deep in the forest, causing the dough in the oven to come to life. The dough becomes Anpanman, a superhero made of anpan (a sweet roll with bean jam filling). Together with his friends, Anpanman fights his rival Baikinman and helps the malnourished. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1/1960.jpg",
-      "date": "Oct 3, 1988, 16:20 (JST)",
-      "producer": "TMS Entertainment",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Zoids Wild Zero",
       "description": "Sequel of Zoids Wild.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1131/104980.jpg",
@@ -1091,6 +1077,20 @@
         "Sci-Fi",
         "Adventure",
         "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Sore Ike! Anpanman",
+      "description": "One night, a Star of Life falls down the chimney of a bakery nestled deep in the forest, causing the dough in the oven to come to life. The dough becomes Anpanman, a superhero made of anpan (a sweet roll with bean jam filling). Together with his friends, Anpanman fights his rival Baikinman and helps the malnourished. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1/1960.jpg",
+      "date": "Oct 3, 1988, 16:20 (JST)",
+      "producer": "TMS Entertainment",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids",
+        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1991,21 +1991,6 @@
       "category": "ONA"
     },
     {
-      "title": "Pianoman",
-      "description": "The still, white space expands as far as the eye can see. A man who's lost his memory awakens. An enormous door stands before him, and there's an old temple in the distance. The building seems to be calling to him, and the man approaches it. There's an old piano there. The moment he touches it, horrifying memories return to him. Who is this man, really? And what is the truth of this space...?\n\n(Source: YouTube)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1181/105817.jpg",
-      "date": "Jan 17, 2020",
-      "producer": "Echoes",
-      "eps": 1,
-      "genres": [
-        "Music",
-        "Demons",
-        "Psychological",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Wushen Zhuzai",
       "description": "The protagonist Qin Chen, who was originally the top genius in the military domain, was conspired by the people to fall into the death canyon in the forbidden land of the mainland. Qin Chen, who was inevitably dead, unexpectedly triggered the power of the mysterious ancient sword.\n\nThree hundred years later, in a remote part of the Tianwu mainland, a boy of the same name accidentally inherited Qin Chen’s will. As the beloved grandson of King Dingwu of the Daqi National Army, due to the birth father’s birth, the mother and son were treated coldly in Dingwu’s palace and lived together. In order to rewrite the myth of the strong man in hope of the sun, and to protect everything he loves, Qin Chen resolutely took up the responsibility of maintaining the five kingdoms of the world and set foot on the road of martial arts again.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
@@ -2017,6 +2002,21 @@
         "Historical",
         "Drama",
         "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Pianoman",
+      "description": "The still, white space expands as far as the eye can see. A man who's lost his memory awakens. An enormous door stands before him, and there's an old temple in the distance. The building seems to be calling to him, and the man approaches it. There's an old piano there. The moment he touches it, horrifying memories return to him. Who is this man, really? And what is the truth of this space...?\n\n(Source: YouTube)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1181/105817.jpg",
+      "date": "Jan 17, 2020",
+      "producer": "Echoes",
+      "eps": 1,
+      "genres": [
+        "Music",
+        "Demons",
+        "Psychological",
         "Fantasy"
       ],
       "category": "ONA"
