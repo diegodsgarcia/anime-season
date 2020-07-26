@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-07-25",
+  "lastUpdate": "2020-07-26",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -417,7 +417,7 @@
     },
     {
       "title": "number24",
-      "description": "Natsusa Yuzuki entered university expecting to be the rugby club's ace, but he can no longer play rugby due to certain circumstances. Ibuki Ueoka is a senior who also quit playing rugby. There is also Yasunari Tsuru, Natsusa's junior who finds him disagreeable. On the other hand, another junior, Yuu Mashiro looks up to Natsusa and follows in his footsteps. Last, there is Seiichirou Shingyouji, Natsusa's childhood best friend. This is an original rugby anime of former teammates who fight together in matches of Kansai's university rugby league.\n\n(Source: MAL News)",
+      "description": "Natsuza Yuzuki has been playing rugby as a left-winger ever since he was a child. After enrolling in Doushisha University, he quickly becomes a rising star in the Kansai University League.\n\nHis dreams are shattered, however, when a nasty motorbike accident leaves him with a spinal hernia—making him unable to be able to play rugby ever again. With no role available other than the position of manager, he accepts his new post and hopes his squad can obtain a league title.\n\nYuzuki's team is an unlikely group, including his stoic best friend and full-back Seiichirou Jingyouji; hot-headed first-year Yasunari Tsuru, who harbors a strong dislike for Natsuza, filling his senior's old position as left wing; and Yuu Mashiro, who is struggling to hold his ground as a scrum half.\n\nDespite Natsuza putting his all into training his team for a league title, their squad still feels incomplete. A year ago, Ibuki Ueka, the genius fly-half that was once Doushisha's ace, suddenly quit rugby—and now Natsuza is determined to get him back.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1885/102374.jpg",
       "date": "Jan 8, 2020, 22:30 (JST)",
       "producer": "PRA",
@@ -1285,19 +1285,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Hanakappa",
-      "description": "Story about Kappa with flowers on their heads.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/90503.jpg",
-      "date": "Mar 29, 2010",
-      "producer": "OLM, Xebec",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Go! Go! Atom",
       "description": "The eco-systems of planet Earth are endangered. Lucky for us, a super-powered robot boy is flying to rescue! astro in on a mission to help anyone anywhere in the world with a problem involving natural phenomena. Go little Astro Boy! GO! \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1793/107568.jpg",
@@ -1311,6 +1298,19 @@
         "Kids",
         "Mecha",
         "Sci-Fi"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Hanakappa",
+      "description": "Story about Kappa with flowers on their heads.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/90503.jpg",
+      "date": "Mar 29, 2010",
+      "producer": "OLM, Xebec",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },

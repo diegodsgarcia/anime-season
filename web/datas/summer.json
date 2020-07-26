@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-25",
+  "lastUpdate": "2020-07-26",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -1154,6 +1154,19 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Hanakappa",
+      "description": "Story about Kappa with flowers on their heads.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/90503.jpg",
+      "date": "Mar 29, 2010",
+      "producer": "OLM, Xebec",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Go! Go! Atom",
       "description": "The eco-systems of planet Earth are endangered. Lucky for us, a super-powered robot boy is flying to rescue! astro in on a mission to help anyone anywhere in the world with a problem involving natural phenomena. Go little Astro Boy! GO! \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1793/107568.jpg",
@@ -1167,19 +1180,6 @@
         "Kids",
         "Mecha",
         "Sci-Fi"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Hanakappa",
-      "description": "Story about Kappa with flowers on their heads.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/90503.jpg",
-      "date": "Mar 29, 2010",
-      "producer": "OLM, Xebec",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1463,21 +1463,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Neko Neko Nihonshi 5th Season",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
-      "date": "Apr 8, 2020, 06:45 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Historical",
-        "Parody",
-        "Kids",
-        "Samurai"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Norimono Man: Mobile Land no Car-kun",
       "description": "The anime will depict various vehicles as characters in the \"Mobile Land\" island. The protagonist Car-kun arrives at the island as a delivery worker. Through his deliveries, he gets to know the residents of Mobile Land, all while following traffic rules and having his deliveries stopped by the meddling Sabibi. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1612/106288.jpg",
@@ -1489,6 +1474,21 @@
         "Comedy",
         "Kids",
         "Slice of Life"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Neko Neko Nihonshi 5th Season",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
+      "date": "Apr 8, 2020, 06:45 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Historical",
+        "Parody",
+        "Kids",
+        "Samurai"
       ],
       "category": "TV (Continuing)"
     },
@@ -1758,15 +1758,15 @@
       "category": "ONA"
     },
     {
-      "title": "Ling Jian Zun 4th Season",
-      "description": "Fourth season of Ling Jian Zun.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1972/108157.jpg",
-      "date": "Sep 11, 2020",
-      "producer": "Soyep",
-      "eps": null,
+      "title": "Yuan Long",
+      "description": "Special Forces Wang Sheng traveled to the soul world and was possessed by the waste carp Yuan soul, becoming a veritable waste person in the soul world. Wang Sheng used the knowledge he had learned in the world of master spirits like Yun Yuan to pass the battle, and even found a way to evolve the waste carp Yuan soul! The sparrow becomes a phoenix, and the carp leaps to the dragon gate. Wang Sheng has embarked on a road of Jackie Chan from the sinister soul dispute!\n\n(Source: Immortal Sun Scans)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
+      "date": "Jul 11, 2020",
+      "producer": "CG Year",
+      "eps": 16,
       "genres": [
         "Action",
-        "Romance",
+        "Adventure",
         "Fantasy"
       ],
       "category": "ONA"
@@ -1788,15 +1788,15 @@
       "category": "ONA"
     },
     {
-      "title": "Yuan Long",
-      "description": "Special Forces Wang Sheng traveled to the soul world and was possessed by the waste carp Yuan soul, becoming a veritable waste person in the soul world. Wang Sheng used the knowledge he had learned in the world of master spirits like Yun Yuan to pass the battle, and even found a way to evolve the waste carp Yuan soul! The sparrow becomes a phoenix, and the carp leaps to the dragon gate. Wang Sheng has embarked on a road of Jackie Chan from the sinister soul dispute!\n\n(Source: Immortal Sun Scans)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
-      "date": "Jul 11, 2020",
-      "producer": "CG Year",
-      "eps": 16,
+      "title": "Ling Jian Zun 4th Season",
+      "description": "Fourth season of Ling Jian Zun.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1972/108157.jpg",
+      "date": "Sep 11, 2020",
+      "producer": "Soyep",
+      "eps": null,
       "genres": [
         "Action",
-        "Adventure",
+        "Romance",
         "Fantasy"
       ],
       "category": "ONA"
@@ -1952,6 +1952,33 @@
       "genres": [
         "Slice of Life",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Kamen Rider Zero-One: Short Anime - Everyone's Daily Life",
+      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
+      "date": "Jul 23, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Min Diao Ju Yi Wen Lu",
+      "description": "In the task of catching drug lords in the Yunnan border, a special forces team accidentally enters the ancient caves of the ancient Shu, and intruded on ancient rituals. The squad was almost completely annihilated. Only Shen Shuang and the anti-drug police Sun Desheng survived, as they were rescued by a mysterious white-haired man named Wu Hao. After this incident, the two men accidentally entered the \"Civil Affairs Investigation and Research Bureau\" and gradually became entangled in more supernatural events, revealing the veil of another world.\n\n(Source: AniList)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1919/108128.jpg",
+      "date": "Aug 7, 2020",
+      "producer": "B.CMAY PICTURES",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Supernatural",
+        "Thriller"
       ],
       "category": "ONA"
     },
@@ -2333,7 +2360,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1487/108213.jpg",
       "date": "Aug 14, 2020",
       "producer": "Toei Animation",
-      "eps": null,
+      "eps": 1,
       "genres": [
         "Mystery",
         "Kids"
