@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-07-26",
+  "lastUpdate": "2020-07-27",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1960,20 +1960,6 @@
       "category": "ONA"
     },
     {
-      "title": "Ze Tian Ji 5th Season",
-      "description": "The fifth season of Ze Tian Ji.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
-      "date": "Mar 16, 2020",
-      "producer": "Shanghai Foch Film Culture Investment",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Douluo Dalu: Qian Hua Xi Jin",
       "description": "Fourth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/108562.jpg",
@@ -1986,6 +1972,20 @@
         "Historical",
         "Romance",
         "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ze Tian Ji 5th Season",
+      "description": "The fifth season of Ze Tian Ji.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
+      "date": "Mar 16, 2020",
+      "producer": "Shanghai Foch Film Culture Investment",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Adventure",
         "Fantasy"
       ],
       "category": "ONA"

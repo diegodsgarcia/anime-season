@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-26",
+  "lastUpdate": "2020-07-27",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -90,8 +90,10 @@
       "producer": "Silver Link.",
       "eps": 13,
       "genres": [
-        "Fantasy",
+        "Action",
+        "Demons",
         "Magic",
+        "Fantasy",
         "School"
       ],
       "category": "TV (New)"
@@ -358,15 +360,15 @@
       "title": "Obake Zukan",
       "description": "The Obake Zukan series illustrates various monsters and spirits and explains why they are scary. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1885/106287.jpg",
-      "date": "Jul 1, 2020",
+      "date": "Jul 1, 2020, 07:20 (JST)",
       "producer": "Fanworks",
       "eps": null,
       "genres": [
         "Comedy",
         "Demons",
-        "Fantasy",
         "Kids",
-        "Supernatural"
+        "Supernatural",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -558,6 +560,7 @@
       "producer": "P.A. Works",
       "eps": 13,
       "genres": [
+        "Cars",
         "Comedy",
         "Historical"
       ],
@@ -976,19 +979,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Puzzle & Dragon",
-      "description": "The story is set in modern day Japan following the growth of the protagonist Taiga Akashi, an elementary school kid who wants to be a professional gamer someday. \n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1535/95070.jpg",
-      "date": "Apr 2, 2018, 18:25 (JST)",
-      "producer": "Studio Pierrot",
-      "eps": null,
-      "genres": [
-        "Game",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Bakugan: Armored Alliance",
       "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
@@ -999,6 +989,19 @@
         "Action",
         "Game",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Puzzle & Dragon",
+      "description": "The story is set in modern day Japan following the growth of the protagonist Taiga Akashi, an elementary school kid who wants to be a professional gamer someday. \n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1535/95070.jpg",
+      "date": "Apr 2, 2018, 18:25 (JST)",
+      "producer": "Studio Pierrot",
+      "eps": null,
+      "genres": [
+        "Game",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1154,19 +1157,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Hanakappa",
-      "description": "Story about Kappa with flowers on their heads.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/90503.jpg",
-      "date": "Mar 29, 2010",
-      "producer": "OLM, Xebec",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Go! Go! Atom",
       "description": "The eco-systems of planet Earth are endangered. Lucky for us, a super-powered robot boy is flying to rescue! astro in on a mission to help anyone anywhere in the world with a problem involving natural phenomena. Go little Astro Boy! GO! \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1793/107568.jpg",
@@ -1180,6 +1170,19 @@
         "Kids",
         "Mecha",
         "Sci-Fi"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Hanakappa",
+      "description": "Story about Kappa with flowers on their heads.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/90503.jpg",
+      "date": "Mar 29, 2010",
+      "producer": "OLM, Xebec",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1422,6 +1425,19 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Poccolies",
+      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
+      "date": "Apr 6, 2020, 23:29 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Egg Car",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
@@ -1437,19 +1453,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Poccolies",
-      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
-      "date": "Apr 6, 2020, 23:29 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Unicorn no Kyupi",
       "description": "Unicorn no Kyupi is a helpful sprite that lives in the kitchen and polishes dirty pots and pans clean with its fluffy white body. Harigorou, a rival sprite shaped like a hedgehog, tries to interfere. \n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1165/91319.jpg",
@@ -1459,21 +1462,6 @@
       "genres": [
         "Kids",
         "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Norimono Man: Mobile Land no Car-kun",
-      "description": "The anime will depict various vehicles as characters in the \"Mobile Land\" island. The protagonist Car-kun arrives at the island as a delivery worker. Through his deliveries, he gets to know the residents of Mobile Land, all while following traffic rules and having his deliveries stopped by the meddling Sabibi. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1612/106288.jpg",
-      "date": "Apr 2, 2020",
-      "producer": "CloverWorks",
-      "eps": null,
-      "genres": [
-        "Cars",
-        "Comedy",
-        "Kids",
-        "Slice of Life"
       ],
       "category": "TV (Continuing)"
     },
@@ -1493,6 +1481,21 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Norimono Man: Mobile Land no Car-kun",
+      "description": "The anime will depict various vehicles as characters in the \"Mobile Land\" island. The protagonist Car-kun arrives at the island as a delivery worker. Through his deliveries, he gets to know the residents of Mobile Land, all while following traffic rules and having his deliveries stopped by the meddling Sabibi. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1612/106288.jpg",
+      "date": "Apr 2, 2020",
+      "producer": "CloverWorks",
+      "eps": null,
+      "genres": [
+        "Cars",
+        "Comedy",
+        "Kids",
+        "Slice of Life"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Pakkororin",
       "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
@@ -1500,6 +1503,19 @@
       "producer": "-",
       "eps": null,
       "genres": [
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Zo Zo Zo Zombie-kun (TV)",
+      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
+      "date": "Apr 15, 2020",
+      "producer": "J.C.Staff",
+      "eps": 100,
+      "genres": [
+        "Comedy",
         "Kids"
       ],
       "category": "TV (Continuing)"
@@ -1515,19 +1531,6 @@
         "Comedy",
         "Kids",
         "Parody"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Zo Zo Zo Zombie-kun (TV)",
-      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
-      "date": "Apr 15, 2020",
-      "producer": "J.C.Staff",
-      "eps": 100,
-      "genres": [
-        "Comedy",
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1686,11 +1689,11 @@
       "category": "ONA"
     },
     {
-      "title": "Fanren Xiu Xian Chuan",
+      "title": "Fanren Xiu Xian Chuan Zhi Fanren Feng Qi Tian Nan",
       "description": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.\n\n(Source: Wuxia World)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1022/105820.jpg",
       "date": "Jul 25, 2020",
-      "producer": "Original Force",
+      "producer": "Original Force, Wan Wei Mao Donghua",
       "eps": 16,
       "genres": [
         "Action",
@@ -1812,6 +1815,21 @@
         "Action",
         "Supernatural",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Min Diao Ju Yi Wen Lu",
+      "description": "In the task of catching drug lords in the Yunnan border, a special forces team accidentally enters the ancient caves of the ancient Shu, and intruded on ancient rituals. The squad was almost completely annihilated. Only Shen Shuang and the anti-drug police Sun Desheng survived, as they were rescued by a mysterious white-haired man named Wu Hao. After this incident, the two men accidentally entered the \"Civil Affairs Investigation and Research Bureau\" and gradually became entangled in more supernatural events, revealing the veil of another world.\n\n(Source: AniList)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1919/108128.jpg",
+      "date": "Aug 7, 2020",
+      "producer": "B.CMAY PICTURES",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Supernatural",
+        "Thriller"
       ],
       "category": "ONA"
     },
@@ -1964,21 +1982,6 @@
       "eps": null,
       "genres": [
         "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Min Diao Ju Yi Wen Lu",
-      "description": "In the task of catching drug lords in the Yunnan border, a special forces team accidentally enters the ancient caves of the ancient Shu, and intruded on ancient rituals. The squad was almost completely annihilated. Only Shen Shuang and the anti-drug police Sun Desheng survived, as they were rescued by a mysterious white-haired man named Wu Hao. After this incident, the two men accidentally entered the \"Civil Affairs Investigation and Research Bureau\" and gradually became entangled in more supernatural events, revealing the veil of another world.\n\n(Source: AniList)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1919/108128.jpg",
-      "date": "Aug 7, 2020",
-      "producer": "B.CMAY PICTURES",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Supernatural",
-        "Thriller"
       ],
       "category": "ONA"
     },
@@ -2327,15 +2330,15 @@
     {
       "title": "Doraemon Movie 40: Nobita no Shin Kyouryuu",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1358/104464.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1745/108659.jpg",
       "date": "Aug 7, 2020",
       "producer": "-",
       "eps": 1,
       "genres": [
+        "Sci-Fi",
         "Adventure",
         "Comedy",
         "Kids",
-        "Sci-Fi",
         "Shounen"
       ],
       "category": "Movie"
@@ -2357,13 +2360,13 @@
     {
       "title": "Fushigi Dagashiya: Zenitendou Movie - Tsuri Taiyaki",
       "description": "The movie will adapt the first volume following an eight-year-old boy Keiji getting a mysterious snack that can make him fish taiyaki (Japanese fish-shaped cake).\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1487/108213.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1524/108656.jpg",
       "date": "Aug 14, 2020",
       "producer": "Toei Animation",
       "eps": 1,
       "genres": [
-        "Mystery",
-        "Kids"
+        "Kids",
+        "Mystery"
       ],
       "category": "Movie"
     },
