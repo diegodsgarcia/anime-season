@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-07-27",
+  "lastUpdate": "2020-07-28",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1931,6 +1931,23 @@
       "category": "ONA"
     },
     {
+      "title": "Douluo Dalu: Qian Hua Xi Jin",
+      "description": "Fourth part of Douluo Dalu.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/108562.jpg",
+      "date": "Feb 22, 2020",
+      "producer": "Sparkly Key Animation Studio",
+      "eps": 13,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Historical",
+        "Romance",
+        "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Xue Ying Ling Zhu 2nd Season",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1520/105226.jpg",
@@ -1956,23 +1973,6 @@
       "eps": null,
       "genres": [
         "Music"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Douluo Dalu: Qian Hua Xi Jin",
-      "description": "Fourth part of Douluo Dalu.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/108562.jpg",
-      "date": "Feb 22, 2020",
-      "producer": "Sparkly Key Animation Studio",
-      "eps": 13,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Historical",
-        "Romance",
-        "Martial Arts",
-        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2214,11 +2214,11 @@
     },
     {
       "title": "Eizouken Mini Anime",
-      "description": "Short episodes with super-deformed characters posted in official Twitter account and later released with the BD Box.",
+      "description": "Short episodes with super-deformed characters posted in official Twitter account and later released with the BD Box. Includes one recap episode of the first 4 episodes of the main series",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1873/106472.jpg",
       "date": "Jan 8, 2020",
       "producer": "AQUA ARIS",
-      "eps": 12,
+      "eps": 13,
       "genres": [
         "Comedy"
       ],
@@ -2247,6 +2247,18 @@
       "eps": 10,
       "genres": [
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Kyokou Uranai",
+      "description": "Short episodes of Kotoko doing fortune telling posted on the official Twitter account.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1422/108679.jpg",
+      "date": "Jan 17, 2020",
+      "producer": "AQUA ARIS",
+      "eps": 10,
+      "genres": [
+        "Supernatural"
       ],
       "category": "ONA"
     },

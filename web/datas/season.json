@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-27",
+  "lastUpdate": "2020-07-28",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -1775,6 +1775,20 @@
       "category": "ONA"
     },
     {
+      "title": "Ling Jian Zun 4th Season",
+      "description": "Fourth season of Ling Jian Zun.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1972/108157.jpg",
+      "date": "Sep 11, 2020",
+      "producer": "Soyep",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Romance",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Mei Chuxi de Yinyangshi Yijia 2",
       "description": "Second season of Mei Chuxi de Yinyangshi Yijia.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/108286.jpg",
@@ -1787,20 +1801,6 @@
         "Historical",
         "Demons",
         "Supernatural"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Ling Jian Zun 4th Season",
-      "description": "Fourth season of Ling Jian Zun.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1972/108157.jpg",
-      "date": "Sep 11, 2020",
-      "producer": "Soyep",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Romance",
-        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2094,18 +2094,6 @@
       "category": "OVA"
     },
     {
-      "title": "Kohakuiro no Hunter The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
-      "date": "Jul 31, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Oujo & Onna Kishi W Do Gehin Roshutsu",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1427/108043.jpg",
@@ -2115,6 +2103,18 @@
       "genres": [
         "Hentai",
         "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Kohakuiro no Hunter The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
+      "date": "Jul 31, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Hentai"
       ],
       "category": "OVA"
     },
@@ -2344,6 +2344,19 @@
       "category": "Movie"
     },
     {
+      "title": "Fushigi Dagashiya: Zenitendou Movie - Tsuri Taiyaki",
+      "description": "The movie will adapt the first volume following an eight-year-old boy Keiji getting a mysterious snack that can make him fish taiyaki (Japanese fish-shaped cake).\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1524/108656.jpg",
+      "date": "Aug 14, 2020",
+      "producer": "Toei Animation",
+      "eps": 1,
+      "genres": [
+        "Kids",
+        "Mystery"
+      ],
+      "category": "Movie"
+    },
+    {
       "title": "Jintai no Survival!",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1419/108415.jpg",
@@ -2354,19 +2367,6 @@
         "Action",
         "Comedy",
         "Shounen"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Fushigi Dagashiya: Zenitendou Movie - Tsuri Taiyaki",
-      "description": "The movie will adapt the first volume following an eight-year-old boy Keiji getting a mysterious snack that can make him fish taiyaki (Japanese fish-shaped cake).\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1524/108656.jpg",
-      "date": "Aug 14, 2020",
-      "producer": "Toei Animation",
-      "eps": 1,
-      "genres": [
-        "Kids",
-        "Mystery"
       ],
       "category": "Movie"
     },
