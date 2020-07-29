@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-07-28",
+  "lastUpdate": "2020-07-29",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -237,7 +237,7 @@
     {
       "title": "Kamisama ni Natta Hi",
       "description": "At the end of the last summer vacation of high school, Youta Narukami spends his days preparing for the university entrance exams, when a young girl named Hina suddenly appears, proclaiming herself as the \"god of omniscience.\" Youta is confused and does not believe Hina when she tells him \"The world will end in 30 days.\" After witnessing Hina's God-like predictive ability, Youta begins to believe her powers are real. Hina, who is innocent and childlike despite her supernatural powers, decides for some reason to stay at Youta's home. Thus begins the start of their lively summer before the end of the world.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1367/108500.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1564/108648.jpg",
       "date": "Oct ??, 2020",
       "producer": "P.A. Works",
       "eps": null,
@@ -333,7 +333,7 @@
     {
       "title": "Ochikobore Fruit Tart",
       "description": "Fourth dormitory of the Rat Production (commonly known as Nezumi-sou)—the place where dropout idol girls live: the former child actor Sekino Roko, musician Nukui Hayu, and model Maehara Nina. Sakura Ino, who always dreamed of becoming an idol, moves in. At the same time, the decision is made to demolish the dormitory. Due to the project launched by the manager Kajino Hoho, \"Ochikobore Fruit Tart,\" occupants of the dormitory form a new idol group called \"Fruit Tart\" and start their activities in order to repay a one hundred million yen debt. \n\n(Source: MU, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1511/104769.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1851/108683.jpg",
       "date": "Oct ??, 2020",
       "producer": "feel.",
       "eps": null,
@@ -552,6 +552,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "Fushigi Dagashiya: Zenitendou",
+      "description": "Zenitendo is a mysterious candy store that only lucky people can reach. All the candy recommended by Beniko, the owner of the store, is perfectly suited to the buyer's troubles. However, it depends on whether the candy will be used or eaten correctly that it can bring happiness or misfortune.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1994/108212.jpg",
+      "date": "Sep 8, 2020, 18:45 (JST)",
+      "producer": "Toei Animation",
+      "eps": null,
+      "genres": [
+        "Mystery",
+        "Kids"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Seizei Ganbare! Mahou Shoujo Kurumi 3rd Season",
       "description": "Third season of Seizei Ganbare! Mahou Shoujo Kurumi.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1097/108552.jpg",
@@ -752,6 +765,18 @@
         "Yaoi"
       ],
       "category": "Movie"
+    },
+    {
+      "title": "D4DJ: First Mix",
+      "description": "A new media mix project by Bushiroad.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1567/108303.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "SANZIGEN",
+      "eps": null,
+      "genres": [
+        "Music"
+      ],
+      "category": "Unknown"
     }
   ]
 }

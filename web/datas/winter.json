@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-07-28",
+  "lastUpdate": "2020-07-29",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -2256,7 +2256,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1422/108679.jpg",
       "date": "Jan 17, 2020",
       "producer": "AQUA ARIS",
-      "eps": 10,
+      "eps": 12,
       "genres": [
         "Supernatural"
       ],
@@ -2454,7 +2454,7 @@
     },
     {
       "title": "Youma Shoukan e Youkoso",
-      "description": "(No synopsis yet.)",
+      "description": "The protagonist (interpreted by the spectators in a subjective view) shows up at the Palace of the Mystic Courtesans to savor strong pleasures, choosing from a wide variety of courtesans of various species. The protagonist will be guided by Marina of the receptionist to find the right courtesans who can satisfy him.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1230/106167.jpg",
       "date": "Feb 7, 2020",
       "producer": "-",
@@ -2508,7 +2508,7 @@
     },
     {
       "title": "Tonari no Ie no Anette-san The Animation",
-      "description": "(No synopsis yet.)",
+      "description": "A dark skinned beauty moves in nextdoor and our protagonist just can't seem to contain himself...\n\nHe ends up heading next door and asking for some lewd favors, one thing leads to another and they end up being more than neighbors.\n\n(Source: hanime)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1767/103913.jpg",
       "date": "Jan 31, 2020",
       "producer": "-",
@@ -2531,6 +2531,18 @@
       "category": "OVA"
     },
     {
+      "title": "Jitaku Keibiin 2",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1761/105097.jpg",
+      "date": "Mar 27, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
       "title": "Tenchi Muyou! Ryououki 5th Season",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1026/106375.jpg",
@@ -2544,18 +2556,6 @@
         "Space",
         "Comedy",
         "Shounen"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "Jitaku Keibiin 2",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1761/105097.jpg",
-      "date": "Mar 27, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
       ],
       "category": "OVA"
     },
