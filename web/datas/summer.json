@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-29",
+  "lastUpdate": "2020-07-30",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -278,6 +278,18 @@
       "category": "TV (New)"
     },
     {
+      "title": "Ninja Collection",
+      "description": "Set in modern-day Tokyo where dreams and desires are afloat, a group of ninjas called \"Toukeshuu\" is set to stop the spread of \"darkness\" that prevails in the world using ancient techniques passed down through generations.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1997/108104.jpg",
+      "date": "Jul 12, 2020, 03:05 (JST)",
+      "producer": "DRAWIZ, ILCA, Toho Interactive Animation",
+      "eps": null,
+      "genres": [
+        "Supernatural"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Umayon",
       "description": "It's a \"pop\" and cute everyday anime based on the 4-koma manga featuring the characters from Uma Musume: Pretty Derby.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1630/108499.jpg",
@@ -288,18 +300,6 @@
         "Slice of Life",
         "Comedy",
         "Sports"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Ninja Collection",
-      "description": "Set in modern-day Tokyo where dreams and desires are afloat, a group of ninjas called \"Toukeshuu\" is set to stop the spread of \"darkness\" that prevails in the world using ancient techniques passed down through generations.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1997/108104.jpg",
-      "date": "Jul 12, 2020, 03:05 (JST)",
-      "producer": "DRAWIZ, ILCA, Toho Interactive Animation",
-      "eps": null,
-      "genres": [
-        "Supernatural"
       ],
       "category": "TV (New)"
     },
@@ -1425,19 +1425,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Poccolies",
-      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
-      "date": "Apr 6, 2020, 23:29 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Egg Car",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
@@ -1449,6 +1436,19 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Poccolies",
+      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
+      "date": "Apr 6, 2020, 23:29 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1508,19 +1508,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Zo Zo Zo Zombie-kun (TV)",
-      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
-      "date": "Apr 15, 2020",
-      "producer": "J.C.Staff",
-      "eps": 100,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Reizouko no Tsukenosuke!",
       "description": "A gag anime about foods in a refrigerator. The anime airs within the Oha Suta children's morning TV program and will receive a simultaneous manga serialization by Kazumata Oguri.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1884/95217.jpg",
@@ -1531,6 +1518,19 @@
         "Comedy",
         "Kids",
         "Parody"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Zo Zo Zo Zombie-kun (TV)",
+      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
+      "date": "Apr 15, 2020",
+      "producer": "J.C.Staff",
+      "eps": 100,
+      "genres": [
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1805,20 +1805,6 @@
       "category": "ONA"
     },
     {
-      "title": "Xian Feng Jian Yu Lu",
-      "description": "The ancient Shenzhou Mainland, the ancient Chinese dynasty, and the demon kingdom of Tushan had been in conflict for thousands of years. Zhang Kuangyun from China and Bai Binglan, Princess Tianhu from Tushan, met each other because of a misunderstanding.\n\nTo explore the details of the enemy, Bai Binglan lurked to Zhang Kuangyun’s side and became her follower. While identity gaps, differences in ideas, and emotional growth, with step-by-step exploration, Zhang Kuangyun slowly discovered that his aunt and teacher’s family were slaughtered and killed in the mountains only incidents that were covered up. An unprecedented great conspiracy gradually emerged from the surface.\n\n(Source: Narul Donghua)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1092/108634.jpg",
-      "date": "Jul 11, 2020",
-      "producer": "Ruo Hong Culture",
-      "eps": 70,
-      "genres": [
-        "Action",
-        "Supernatural",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Min Diao Ju Yi Wen Lu",
       "description": "In the task of catching drug lords in the Yunnan border, a special forces team accidentally enters the ancient caves of the ancient Shu, and intruded on ancient rituals. The squad was almost completely annihilated. Only Shen Shuang and the anti-drug police Sun Desheng survived, as they were rescued by a mysterious white-haired man named Wu Hao. After this incident, the two men accidentally entered the \"Civil Affairs Investigation and Research Bureau\" and gradually became entangled in more supernatural events, revealing the veil of another world.\n\n(Source: AniList)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1919/108128.jpg",
@@ -1830,6 +1816,20 @@
         "Adventure",
         "Supernatural",
         "Thriller"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Xian Feng Jian Yu Lu",
+      "description": "The ancient Shenzhou Mainland, the ancient Chinese dynasty, and the demon kingdom of Tushan had been in conflict for thousands of years. Zhang Kuangyun from China and Bai Binglan, Princess Tianhu from Tushan, met each other because of a misunderstanding.\n\nTo explore the details of the enemy, Bai Binglan lurked to Zhang Kuangyun’s side and became her follower. While identity gaps, differences in ideas, and emotional growth, with step-by-step exploration, Zhang Kuangyun slowly discovered that his aunt and teacher’s family were slaughtered and killed in the mountains only incidents that were covered up. An unprecedented great conspiracy gradually emerged from the surface.\n\n(Source: Narul Donghua)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1092/108634.jpg",
+      "date": "Jul 11, 2020",
+      "producer": "Ruo Hong Culture",
+      "eps": 70,
+      "genres": [
+        "Action",
+        "Supernatural",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -1934,6 +1934,19 @@
       "category": "ONA"
     },
     {
+      "title": "Hulaing Babies Aratame - Staying Babies: Chikyuu wo Mamore! Staying Babies with Yuusha Hayami-san",
+      "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
+      "date": "Jul 19, 2020",
+      "producer": "Gaina",
+      "eps": 1,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Mengyou Dunhuang",
       "description": "Due to the dissipation of the heavenly scripture powers, Dunhuang will face adversity. Wu Tianji is ordered to repair the heavenly scriptures. In order to perfect the heavenly scripture powers, you need to relive the story originally recorded in the heavenly scripture. Wu Tianji took the god beast, the angel pig, to the ancient city of Dunhuang. Just when she had no idea how to start repairing the scriptures, she accidentally strayed into the world of frescoes in the Mogao Caves...\n\n(Source: bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1611/108293.jpg",
@@ -1982,19 +1995,6 @@
       "eps": null,
       "genres": [
         "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Hulaing Babies Aratame - Staying Babies: Chikyuu wo Mamore! Staying Babies with Yuusha Hayami-san",
-      "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
-      "date": "Jul 19, 2020",
-      "producer": "Gaina",
-      "eps": 1,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
       ],
       "category": "ONA"
     },
