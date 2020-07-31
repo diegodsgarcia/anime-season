@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-07-30",
+  "lastUpdate": "2020-07-31",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -193,6 +193,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Assault Lily: Bouquet",
+      "description": "In the near future, humanity faces imminent destruction from mysterious creatures known as \"Huge.\" The world wages war against the Huge, and develops the anti-weapon \"CHARM\" (Counter Huge Arms) by combining science and magic. CHARM works more effectively when used by teenage girls, and those who use the weapons are revered as \"Lilies.\" The Lilies are trained at military academies called \"Gardens,\" which also serve as bases to protect and advise people. This is a story about girls who aim to become Lilies so they can protect Earth. \n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1024/108413.jpg",
+      "date": "Oct 1, 2020",
+      "producer": "Shaft",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Magic",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Majo no Tabitabi",
       "description": "Once upon a time, there was a witch named Elaina, who set off on a journey across the world. Along the way, she would meet all kinds of people, from a country full of witches to a giant in love with his own muscles—but with each meeting, Elaina would become a small part of their story, and her own world would get a little bit bigger. \n\n(Source: Yen Press)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg",
@@ -201,20 +215,6 @@
       "eps": null,
       "genres": [
         "Adventure",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Assault Lily: Bouquet",
-      "description": "In the near future, humanity faces imminent destruction from mysterious creatures known as \"Huge.\" The world wages war against the Huge, and develops the anti-weapon \"CHARM\" (Counter Huge Arms) by combining science and magic. CHARM works more effectively when used by teenage girls, and those who use the weapons are revered as \"Lilies.\" The Lilies are trained at military academies called \"Gardens,\" which also serve as bases to protect and advise people. This is a story about girls who aim to become Lilies so they can protect Earth. \n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1024/108413.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Shaft",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Magic",
         "Fantasy"
       ],
       "category": "TV (New)"

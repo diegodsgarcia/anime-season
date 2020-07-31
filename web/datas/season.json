@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-30",
+  "lastUpdate": "2020-07-31",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -1425,6 +1425,19 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Poccolies",
+      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
+      "date": "Apr 6, 2020, 23:29 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Egg Car",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
@@ -1440,19 +1453,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Poccolies",
-      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
-      "date": "Apr 6, 2020, 23:29 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Unicorn no Kyupi",
       "description": "Unicorn no Kyupi is a helpful sprite that lives in the kitchen and polishes dirty pots and pans clean with its fluffy white body. Harigorou, a rival sprite shaped like a hedgehog, tries to interfere. \n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1165/91319.jpg",
@@ -1462,6 +1462,21 @@
       "genres": [
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Norimono Man: Mobile Land no Car-kun",
+      "description": "The anime will depict various vehicles as characters in the \"Mobile Land\" island. The protagonist Car-kun arrives at the island as a delivery worker. Through his deliveries, he gets to know the residents of Mobile Land, all while following traffic rules and having his deliveries stopped by the meddling Sabibi. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1612/106288.jpg",
+      "date": "Apr 2, 2020",
+      "producer": "CloverWorks",
+      "eps": null,
+      "genres": [
+        "Cars",
+        "Comedy",
+        "Kids",
+        "Slice of Life"
       ],
       "category": "TV (Continuing)"
     },
@@ -1481,17 +1496,15 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Norimono Man: Mobile Land no Car-kun",
-      "description": "The anime will depict various vehicles as characters in the \"Mobile Land\" island. The protagonist Car-kun arrives at the island as a delivery worker. Through his deliveries, he gets to know the residents of Mobile Land, all while following traffic rules and having his deliveries stopped by the meddling Sabibi. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1612/106288.jpg",
-      "date": "Apr 2, 2020",
-      "producer": "CloverWorks",
-      "eps": null,
+      "title": "Zo Zo Zo Zombie-kun (TV)",
+      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
+      "date": "Apr 15, 2020",
+      "producer": "J.C.Staff",
+      "eps": 100,
       "genres": [
-        "Cars",
         "Comedy",
-        "Kids",
-        "Slice of Life"
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1518,19 +1531,6 @@
         "Comedy",
         "Kids",
         "Parody"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Zo Zo Zo Zombie-kun (TV)",
-      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
-      "date": "Apr 15, 2020",
-      "producer": "J.C.Staff",
-      "eps": 100,
-      "genres": [
-        "Comedy",
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1921,12 +1921,12 @@
       "category": "ONA"
     },
     {
-      "title": "Qing Chi Hong Xiaodou Ba! 4th Season",
-      "description": "Fourth season of Qing Chi Hong Xiaodou Ba!",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108288.jpg",
-      "date": "Jul 10, 2020",
-      "producer": "Making Animation",
-      "eps": 12,
+      "title": "Hulaing Babies Aratame - Staying Babies: Chikyuu wo Mamore! Staying Babies with Yuusha Hayami-san",
+      "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
+      "date": "Jul 19, 2020",
+      "producer": "Gaina",
+      "eps": 1,
       "genres": [
         "Slice of Life",
         "Comedy"
@@ -1934,12 +1934,12 @@
       "category": "ONA"
     },
     {
-      "title": "Hulaing Babies Aratame - Staying Babies: Chikyuu wo Mamore! Staying Babies with Yuusha Hayami-san",
-      "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
-      "date": "Jul 19, 2020",
-      "producer": "Gaina",
-      "eps": 1,
+      "title": "Qing Chi Hong Xiaodou Ba! 4th Season",
+      "description": "Fourth season of Qing Chi Hong Xiaodou Ba!",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108288.jpg",
+      "date": "Jul 10, 2020",
+      "producer": "Making Animation",
+      "eps": 12,
       "genres": [
         "Slice of Life",
         "Comedy"
@@ -1974,6 +1974,18 @@
       "category": "ONA"
     },
     {
+      "title": "Kamen Rider Zero-One: Short Anime - Everyone's Daily Life",
+      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
+      "date": "Jul 23, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Tadaima! Chibi Godzilla",
       "description": "The \"Chibi Godzilla\" project was launched to celebrate the 65th anniversary of Toho's Godzilla franchise.\n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/108564.jpg",
@@ -1983,18 +1995,6 @@
       "genres": [
         "Slice of Life",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Kamen Rider Zero-One: Short Anime - Everyone's Daily Life",
-      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
-      "date": "Jul 23, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "ONA"
     },
