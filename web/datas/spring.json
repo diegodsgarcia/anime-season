@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-07-31",
+  "lastUpdate": "2020-08-01",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -1872,20 +1872,6 @@
       "category": "ONA"
     },
     {
-      "title": "Huangli Shi",
-      "description": "Huangli Shi, according to legends, refers to a Fangshi who can alter the effects of seasonal solstices, solar terms, and festivals, and is able to predict each day's fortune. Xiao Nanzhu, an unemployed young man, decided to take on his usual job that has been passed down for generations, after being inspired by his childhood friend. Now he just wants to call 110. Chuxi: What are you looking at? You don't want to live past new year's eve? Chuba: Today's fortune is terrible, nothing's going to turn out right. I'm afraid there might be a… bloody disaster.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1444/100629.jpg",
-      "date": "May 7, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Mystery",
-        "Supernatural"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Zuruggu to Mimikkyu",
       "description": "Silent animation released on YouTube resembling typical slapstick American cartoons.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108582.jpg",
@@ -1894,6 +1880,20 @@
       "eps": 1,
       "genres": [
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Li Shi",
+      "description": "Huangli Shi, according to legends, refers to a Fangshi who can alter the effects of seasonal solstices, solar terms, and festivals, and is able to predict each day's fortune. Xiao Nanzhu, an unemployed young man, decided to take on his usual job that has been passed down for generations, after being inspired by his childhood friend. Now he just wants to call 110. Chuxi: What are you looking at? You don't want to live past new year's eve? Chuba: Today's fortune is terrible, nothing's going to turn out right. I'm afraid there might be a… bloody disaster.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/108710.jpg",
+      "date": "May 7, 2020",
+      "producer": "-",
+      "eps": 16,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Supernatural"
       ],
       "category": "ONA"
     },
@@ -2347,24 +2347,24 @@
       "category": "OVA"
     },
     {
-      "title": "Tenioha! 2: Limit Over - Mada Mada Ippai, Ecchi Shiyo? The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1070/105981.jpg",
-      "date": "Apr 24, 2020",
-      "producer": "Studio 1st",
-      "eps": 1,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Chiisana Tsubomi no Sono Oku ni...",
       "description": "A beautiful young girl, small and innocent, hiding behind her single mother. She is a career women with no boyfriend and a straight-forward outlook on life. They have a neighbor who is quite...obvious with his sexual escapades.. She asks him to stop having such loud and obnoxious sex but can't help herself from finding out how good he is for herself.. \n\n(Source: hanime)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1605/107864.jpg",
       "date": "Apr 24, 2020",
       "producer": "-",
       "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Tenioha! 2: Limit Over - Mada Mada Ippai, Ecchi Shiyo? The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1070/105981.jpg",
+      "date": "Apr 24, 2020",
+      "producer": "Studio 1st",
+      "eps": 1,
       "genres": [
         "Hentai"
       ],

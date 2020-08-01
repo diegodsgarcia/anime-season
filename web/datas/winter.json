@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-07-31",
+  "lastUpdate": "2020-08-01",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1965,18 +1965,6 @@
       "category": "ONA"
     },
     {
-      "title": "Microphone Soul Spinners: Kotodama Shoujo",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/102079.jpg",
-      "date": "Jan 11, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Music"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Ze Tian Ji 5th Season",
       "description": "The fifth season of Ze Tian Ji.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
@@ -1987,6 +1975,18 @@
         "Action",
         "Adventure",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Microphone Soul Spinners: Kotodama Shoujo",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/102079.jpg",
+      "date": "Jan 11, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Music"
       ],
       "category": "ONA"
     },
@@ -2047,18 +2047,6 @@
       "category": "ONA"
     },
     {
-      "title": "Ushichichi Tabehoudai! The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
-      "date": "Mar 11, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Wan Jie Shen Zhu 2nd Season",
       "description": "Second season of Wan Jie She Zhu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1600/105797.jpg",
@@ -2068,6 +2056,18 @@
       "genres": [
         "Adventure",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ushichichi Tabehoudai! The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
+      "date": "Mar 11, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Hentai"
       ],
       "category": "ONA"
     },

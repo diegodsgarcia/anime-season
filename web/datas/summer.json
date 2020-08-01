@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-07-31",
+  "lastUpdate": "2020-08-01",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -826,6 +826,20 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Mewkledreamy",
+      "description": "The story begins when a middle school girl named Yume sees something fall from the sky, and meets a pale violet-colored kitten named Mew. It turns out that Mew has the power of \"Yume Synchro\" (Dream Synchro), the power to enter dreams. In the dream world, the girl and Mew collect Dream Stones. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105775.jpg",
+      "date": "Apr 5, 2020, 10:30 (JST)",
+      "producer": "J.C.Staff",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Kids",
+        "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Chibi Maruko-chan (1995)",
       "description": "Momoko Sakura is an elementary school student who likes popular idol Momoe Yamaguchi and mangas. She is often called \"Chibi Maruko-chan\" due to her young age and small size. She lives together with her parents, her grandparents and her elder sister in a little town. In school, she has many friends with whom she studies and plays together everyday, including her close pal, Tama-chan; the student committee members, Maruo-kun and Migiwa-san; and the B-class trio: 'little master' Hanawa-kun, Hamaji-Bu Taro and Sekiguchi-kun. This is a fun-loving and enjoyable anime that portrays the simple things in life.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1108/100604.jpg",
@@ -837,20 +851,6 @@
         "Comedy",
         "Kids",
         "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Mewkledreamy",
-      "description": "The story begins when a middle school girl named Yume sees something fall from the sky, and meets a pale violet-colored kitten named Mew. It turns out that Mew has the power of \"Yume Synchro\" (Dream Synchro), the power to enter dreams. In the dream world, the girl and Mew collect Dream Stones. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105775.jpg",
-      "date": "Apr 5, 2020, 10:30 (JST)",
-      "producer": "J.C.Staff",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Kids",
-        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1425,19 +1425,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Poccolies",
-      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
-      "date": "Apr 6, 2020, 23:29 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Egg Car",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
@@ -1449,6 +1436,19 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Poccolies",
+      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
+      "date": "Apr 6, 2020, 23:29 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1622,7 +1622,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108467.jpg",
       "date": "Jul 31, 2020",
       "producer": "B.CMAY PICTURES",
-      "eps": null,
+      "eps": 30,
       "genres": [
         "Action",
         "Comedy",
@@ -1909,18 +1909,6 @@
       "category": "ONA"
     },
     {
-      "title": "Dahua Zhi Shaonian You",
-      "description": "Rookie Jianghu and swordsman Xiao Yao Sheng have defeated the baby-eater that caused Chang'an, but they now find themselves falling into a bigger mystery. They traveled to the distant Spirit Beast Village and met the beautiful Demon Fox Girl, the Bone Elves, and people of all kinds inhabiting rivers and lakes along the way. They gained growth and friendship, but are now entangled in a greater crisis: a dispute between immortals and demons. The animation will combine elements such as martial arts, fantasy, blood, adventure, and more, to present to the audience a tale of ups and downs in legendary stories!\n\n(Source: V2Anime)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/107440.jpg",
-      "date": "Aug 15, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Action"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Hulaing Babies Aratame - Staying Babies: Chikyuu wo Mamore! Staying Babies with Yuusha Hayami-san",
       "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
@@ -1930,6 +1918,18 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Dahua Zhi Shaonian You",
+      "description": "Rookie Jianghu and swordsman Xiao Yao Sheng have defeated the baby-eater that caused Chang'an, but they now find themselves falling into a bigger mystery. They traveled to the distant Spirit Beast Village and met the beautiful Demon Fox Girl, the Bone Elves, and people of all kinds inhabiting rivers and lakes along the way. They gained growth and friendship, but are now entangled in a greater crisis: a dispute between immortals and demons. The animation will combine elements such as martial arts, fantasy, blood, adventure, and more, to present to the audience a tale of ups and downs in legendary stories!\n\n(Source: V2Anime)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/107440.jpg",
+      "date": "Aug 15, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action"
       ],
       "category": "ONA"
     },
