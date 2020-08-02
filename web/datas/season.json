@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-01",
+  "lastUpdate": "2020-08-02",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -142,21 +142,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Monster Musume no Oishasan",
-      "description": "In the town of Lindworm where monsters and humans coexist, Dr. Glenn runs an exemplary medical clinic for monster girls with his lamia assistant, Sapphee. Whether receiving a marriage proposal by a centaur injured in battle, palpating the injury of a mermaid, or suturing the delicate wounds of a flesh golem, Dr. Glenn performs his job with grace and confidence. But when an unsavory character seeks to steal a harpy egg, how will the unflappable Dr. Glenn respond...?\n \n(Source: Seven Seas Entertainment)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106598.jpg",
-      "date": "Jul 12, 2020, 23:00 (JST)",
-      "producer": "Arvo Animation",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Ecchi",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Peter Grill to Kenja no Jikan",
       "description": "Peter Grill is known throughout the land as the world's strongest fighter. He has a girlfriend who he's steadily trying to get closer with. Life is good for him. Until he realizes that dozens of women, who want to bear strong children, are all vying for his seed.\n\n(Source: LHTranslation)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1368/108441.jpg",
@@ -166,6 +151,21 @@
       "genres": [
         "Harem",
         "Comedy",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Monster Musume no Oishasan",
+      "description": "In the town of Lindworm where monsters and humans coexist, Dr. Glenn runs an exemplary medical clinic for monster girls with his lamia assistant, Sapphee. Whether receiving a marriage proposal by a centaur injured in battle, palpating the injury of a mermaid, or suturing the delicate wounds of a flesh golem, Dr. Glenn performs his job with grace and confidence. But when an unsavory character seeks to steal a harpy egg, how will the unflappable Dr. Glenn respond...?\n \n(Source: Seven Seas Entertainment)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106598.jpg",
+      "date": "Jul 12, 2020, 23:00 (JST)",
+      "producer": "Arvo Animation",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Romance",
         "Ecchi",
         "Fantasy"
       ],
@@ -1144,19 +1144,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Anoyo no Subete wa, Obake-gumi!",
-      "description": "The gag anime takes place at a school for youkai and other supernatural beings. A vampire named Rakuru transfers to the school from the West, and she tries to change the school as the class representative.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106451.jpg",
-      "date": "Apr 7, 2020",
-      "producer": "-",
-      "eps": 13,
-      "genres": [
-        "Comedy",
-        "Supernatural"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Go! Go! Atom",
       "description": "The eco-systems of planet Earth are endangered. Lucky for us, a super-powered robot boy is flying to rescue! astro in on a mission to help anyone anywhere in the world with a problem involving natural phenomena. Go little Astro Boy! GO! \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1793/107568.jpg",
@@ -1170,6 +1157,19 @@
         "Kids",
         "Mecha",
         "Sci-Fi"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Anoyo no Subete wa, Obake-gumi!",
+      "description": "The gag anime takes place at a school for youkai and other supernatural beings. A vampire named Rakuru transfers to the school from the West, and she tries to change the school as the class representative.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106451.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "-",
+      "eps": 13,
+      "genres": [
+        "Comedy",
+        "Supernatural"
       ],
       "category": "TV (Continuing)"
     },
@@ -1481,6 +1481,19 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Zo Zo Zo Zombie-kun (TV)",
+      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
+      "date": "Apr 15, 2020",
+      "producer": "J.C.Staff",
+      "eps": 100,
+      "genres": [
+        "Comedy",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Neko Neko Nihonshi 5th Season",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
@@ -1492,19 +1505,6 @@
         "Parody",
         "Kids",
         "Samurai"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Zo Zo Zo Zombie-kun (TV)",
-      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
-      "date": "Apr 15, 2020",
-      "producer": "J.C.Staff",
-      "eps": 100,
-      "genres": [
-        "Comedy",
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1961,6 +1961,18 @@
       "category": "ONA"
     },
     {
+      "title": "Kamen Rider Zero-One: Short Anime - Everyone's Daily Life",
+      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
+      "date": "Jul 23, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Sansan de Ezuoju Chufang",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
@@ -1970,18 +1982,6 @@
       "genres": [
         "Slice of Life",
         "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Kamen Rider Zero-One: Short Anime - Everyone's Daily Life",
-      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
-      "date": "Jul 23, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2080,6 +2080,18 @@
       "category": "OVA"
     },
     {
+      "title": "Natsu ga Owaru made The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1065/107875.jpg",
+      "date": "Jul 22, 2020",
+      "producer": "-",
+      "eps": 2,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
       "title": "Succubus Stayed Life The Animation",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1776/107906.jpg",
@@ -2093,12 +2105,12 @@
       "category": "OVA"
     },
     {
-      "title": "Natsu ga Owaru made The Animation",
+      "title": "Kohakuiro no Hunter The Animation",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1065/107875.jpg",
-      "date": "Jul 22, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
+      "date": "Jul 31, 2020",
       "producer": "-",
-      "eps": 2,
+      "eps": 1,
       "genres": [
         "Hentai"
       ],
@@ -2114,18 +2126,6 @@
       "genres": [
         "Hentai",
         "Fantasy"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "Kohakuiro no Hunter The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
-      "date": "Jul 31, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
       ],
       "category": "OVA"
     },

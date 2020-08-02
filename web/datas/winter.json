@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-08-01",
+  "lastUpdate": "2020-08-02",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1919,18 +1919,6 @@
       "category": "ONA"
     },
     {
-      "title": "Niplheim no Karyuudo",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1409/105799.jpg",
-      "date": "Jan 25, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Douluo Dalu: Qian Hua Xi Jin",
       "description": "Fourth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/108562.jpg",
@@ -1944,6 +1932,18 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Niplheim no Karyuudo",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1409/105799.jpg",
+      "date": "Jan 25, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai"
       ],
       "category": "ONA"
     },
@@ -2034,19 +2034,6 @@
       "category": "ONA"
     },
     {
-      "title": "Kyouryuu Shoujo Gauko 2nd Season",
-      "description": "The comedy series is set in Japan and follows Naoko Watanabe, a typical tween girl aside from the fact that she possesses strange and sometimes troubling powers. When her anger exceeds a maximum level, she turns into Gauko, the fire-breathing dinosaur girl.\n\n(Source: Variety)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1284/106412.jpg",
-      "date": "Mar 20, 2020",
-      "producer": "-",
-      "eps": 19,
-      "genres": [
-        "Comedy",
-        "Super Power"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Wan Jie Shen Zhu 2nd Season",
       "description": "Second season of Wan Jie She Zhu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1600/105797.jpg",
@@ -2056,6 +2043,19 @@
       "genres": [
         "Adventure",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Kyouryuu Shoujo Gauko 2nd Season",
+      "description": "The comedy series is set in Japan and follows Naoko Watanabe, a typical tween girl aside from the fact that she possesses strange and sometimes troubling powers. When her anger exceeds a maximum level, she turns into Gauko, the fire-breathing dinosaur girl.\n\n(Source: Variety)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1284/106412.jpg",
+      "date": "Mar 20, 2020",
+      "producer": "-",
+      "eps": 19,
+      "genres": [
+        "Comedy",
+        "Super Power"
       ],
       "category": "ONA"
     },
