@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-08-02",
+  "lastUpdate": "2020-08-03",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1904,21 +1904,6 @@
       "category": "ONA"
     },
     {
-      "title": "Aikatsu on Parade! (ONA)",
-      "description": "\"Dream School Grand Prix\" to decide the No.1 idol school among five schools representing the Aikatsu world will be held! In this competition where top idols representing each school compete on stage, Dream Academy's new idol Noel Otoshiro is selected as one of them?! For each idol's dream, a new story starts running into the shining future! \n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1704/106781.jpg",
-      "date": "Mar 28, 2020",
-      "producer": "Bandai Namco Pictures",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Slice of Life",
-        "School",
-        "Shoujo"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Douluo Dalu: Qian Hua Xi Jin",
       "description": "Fourth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/108562.jpg",
@@ -1932,6 +1917,21 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Aikatsu on Parade! (ONA)",
+      "description": "\"Dream School Grand Prix\" to decide the No.1 idol school among five schools representing the Aikatsu world will be held! In this competition where top idols representing each school compete on stage, Dream Academy's new idol Noel Otoshiro is selected as one of them?! For each idol's dream, a new story starts running into the shining future! \n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1704/106781.jpg",
+      "date": "Mar 28, 2020",
+      "producer": "Bandai Namco Pictures",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Slice of Life",
+        "School",
+        "Shoujo"
       ],
       "category": "ONA"
     },

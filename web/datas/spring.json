@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-08-02",
+  "lastUpdate": "2020-08-03",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -142,19 +142,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Hachi-nan tte, Sore wa Nai deshou!",
-      "description": "Waking up in a new world, 25-year-old Shingo Ichinomiya realizes that he is in the body of a six-year-old. Retaining memories of his stressful life working at a firm company, Shingo learns that the person he is occupying is Wendelin Von Benno Baumeister, the eighth son of a poor noble family living in the countryside. Awoken to his bizarre situation, Wendelin strives to change his financial and social status for the better. His newly discovered great magical aptitude may prove to be just what he needs to achieve that goal.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1146/106370.jpg",
-      "date": "Apr 2, 2020, 21:00 (JST)",
-      "producer": "Shin-Ei Animation, SynergySP",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Princess Connect! Re:Dive",
       "description": "In the continent of Astraea, a man falls from the sky, possessing no memories other than his name, Yuuki. An elf named Kokkoro finds him, introducing herself as his guide in the world they are about to traverse. With Kokkoro's guidance, Yuuki is able to learn how this world works, from battling monsters to handling currency.\n\nTo earn money for their journey, Yuuki and Kokkoro decide to go to a nearby guild association to accept a simple quest. In their expedition, they meet Pecorine, a somewhat gluttonous but charming girl skilled in battle. The next day, they also meet Karyl, a cat girl specializing in magic.\n\nAfter some time, a bond of friendship and camaraderie forms between them, and the four decide to create a guild of their own. As they continue their adventures, they explore the world, meet new people, and will perhaps uncover the mysteries behind Yuuki's missing memories.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/106070.jpg",
@@ -164,6 +151,19 @@
       "genres": [
         "Action",
         "Adventure",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Hachi-nan tte, Sore wa Nai deshou!",
+      "description": "Waking up in a new world, 25-year-old Shingo Ichinomiya realizes that he is in the body of a six-year-old. Retaining memories of his stressful life working at a firm company, Shingo learns that the person he is occupying is Wendelin Von Benno Baumeister, the eighth son of a poor noble family living in the countryside. Awoken to his bizarre situation, Wendelin strives to change his financial and social status for the better. His newly discovered great magical aptitude may prove to be just what he needs to achieve that goal.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1146/106370.jpg",
+      "date": "Apr 2, 2020, 21:00 (JST)",
+      "producer": "Shin-Ei Animation, SynergySP",
+      "eps": 12,
+      "genres": [
+        "Action",
         "Fantasy"
       ],
       "category": "TV (New)"
@@ -512,6 +512,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Mewkledreamy",
+      "description": "The story begins when a middle school girl named Yume sees something fall from the sky, and meets a pale violet-colored kitten named Mew. It turns out that Mew has the power of \"Yume Synchro\" (Dream Synchro), the power to enter dreams. In the dream world, the girl and Mew collect Dream Stones. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105775.jpg",
+      "date": "Apr 5, 2020, 10:30 (JST)",
+      "producer": "J.C.Staff",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Kids",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Komatta Jiisan",
       "description": "The comedy centers on an old man who pulls stereotypical ikemen (handsome man) actions on similarly old women and makes their hearts flutter. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1227/106465.jpg",
@@ -525,20 +539,6 @@
         "Drama",
         "Romance",
         "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Mewkledreamy",
-      "description": "The story begins when a middle school girl named Yume sees something fall from the sky, and meets a pale violet-colored kitten named Mew. It turns out that Mew has the power of \"Yume Synchro\" (Dream Synchro), the power to enter dreams. In the dream world, the girl and Mew collect Dream Stones. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105775.jpg",
-      "date": "Apr 5, 2020, 10:30 (JST)",
-      "producer": "J.C.Staff",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Kids",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -732,15 +732,17 @@
       "category": "TV (New)"
     },
     {
-      "title": "Zo Zo Zo Zombie-kun (TV)",
-      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
-      "date": "Apr 15, 2020",
-      "producer": "J.C.Staff",
-      "eps": 100,
+      "title": "Neko Neko Nihonshi 5th Season",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
+      "date": "Apr 8, 2020, 06:45 (JST)",
+      "producer": "-",
+      "eps": null,
       "genres": [
-        "Comedy",
-        "Kids"
+        "Historical",
+        "Parody",
+        "Kids",
+        "Samurai"
       ],
       "category": "TV (New)"
     },
@@ -760,17 +762,15 @@
       "category": "TV (New)"
     },
     {
-      "title": "Neko Neko Nihonshi 5th Season",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
-      "date": "Apr 8, 2020, 06:45 (JST)",
-      "producer": "-",
-      "eps": null,
+      "title": "Zo Zo Zo Zombie-kun (TV)",
+      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
+      "date": "Apr 15, 2020",
+      "producer": "J.C.Staff",
+      "eps": 100,
       "genres": [
-        "Historical",
-        "Parody",
-        "Kids",
-        "Samurai"
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (New)"
     },
@@ -1974,21 +1974,6 @@
       "category": "ONA"
     },
     {
-      "title": "Dixia Cheng Yu Yongshi: Nizhuan Zhi Lun",
-      "description": "Sequel to Arad: Suming Zhi Men.\n\nThe Japanese broadcast premiered on July 4, 2020 at 1:53 a.m. on TV Tokyo.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1090/108165.jpg",
-      "date": "Apr 23, 2020",
-      "producer": "LIDENFILMS",
-      "eps": 16,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Huyao Xiao Hongniang: Jin Chenxi",
       "description": "The 9th season of Huyao Xiao Hongniang.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1323/108278.jpg",
@@ -2001,6 +1986,21 @@
         "Supernatural",
         "Drama",
         "Romance"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Dixia Cheng Yu Yongshi: Nizhuan Zhi Lun",
+      "description": "Sequel to Arad: Suming Zhi Men.\n\nThe Japanese broadcast premiered on July 4, 2020 at 1:53 a.m. on TV Tokyo.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1090/108165.jpg",
+      "date": "Apr 23, 2020",
+      "producer": "LIDENFILMS",
+      "eps": 16,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2191,18 +2191,6 @@
       "category": "ONA"
     },
     {
-      "title": "BIGOTRE Capture Mission",
-      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
-      "date": "Apr 6, 2020",
-      "producer": "-",
-      "eps": 3,
-      "genres": [
-        "Game"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Fei Ren Zai 3rd Season",
       "description": "Third season of Fei Ren Zai.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1096/108476.jpg",
@@ -2213,6 +2201,18 @@
         "Slice of Life",
         "Comedy",
         "Supernatural"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "BIGOTRE Capture Mission",
+      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
+      "date": "Apr 6, 2020",
+      "producer": "-",
+      "eps": 3,
+      "genres": [
+        "Game"
       ],
       "category": "ONA"
     },

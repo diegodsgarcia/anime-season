@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-02",
+  "lastUpdate": "2020-08-03",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -15,22 +15,6 @@
         "Fantasy",
         "Psychological",
         "Thriller"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
-      "description": "Third season of Yahari Ore no Seishun Love Comedy wa Machigatteiru.\n\nAs the members of the Service Club band together to host a school prom, Hachiman, Yukino and Yui will have to put their feelings into words and truly learn to understand each other at long last… if the Service Club can even stay afloat, that is!\n\n(Source: Sentai Filmworks)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1958/107912.jpg",
-      "date": "Jul 10, 2020, 01:58 (JST)",
-      "producer": "feel.",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Drama",
-        "Romance",
-        "School"
       ],
       "category": "TV (New)"
     },
@@ -49,6 +33,22 @@
         "Supernatural",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+      "description": "Third season of Yahari Ore no Seishun Love Comedy wa Machigatteiru.\n\nAs the members of the Service Club band together to host a school prom, Hachiman, Yukino and Yui will have to put their feelings into words and truly learn to understand each other at long last… if the Service Club can even stay afloat, that is!\n\n(Source: Sentai Filmworks)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1958/107912.jpg",
+      "date": "Jul 10, 2020, 01:58 (JST)",
+      "producer": "feel.",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -189,21 +189,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "No Guns Life 2nd Season",
-      "description": "Second half of No Guns Life.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/106613.jpg",
-      "date": "Jul 10, 2020, 01:28 (JST)",
-      "producer": "Madhouse",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Drama",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Gibiate",
       "description": "The story takes place in Japan. The year is 2030 and Earth has been completely overrun by a viral disease named \"Gibia\" that turns infected people into various different monsters, based on their age, sex, and race.\n\nA samurai and a ninja from the early Edo period travel together through time and arrive in a ruined Japan to aid a professor working on a cure for the virus.\n\nTogether, they fight countless Gibia monsters, outlaws, and other fierce foes on their journey to save mankind.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1769/107880.jpg",
@@ -216,6 +201,21 @@
         "Horror",
         "Martial Arts",
         "Samurai"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "No Guns Life 2nd Season",
+      "description": "Second half of No Guns Life.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/106613.jpg",
+      "date": "Jul 10, 2020, 01:28 (JST)",
+      "producer": "Madhouse",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Drama",
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -1425,6 +1425,19 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Poccolies",
+      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
+      "date": "Apr 6, 2020, 23:29 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Egg Car",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
@@ -1440,19 +1453,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Poccolies",
-      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
-      "date": "Apr 6, 2020, 23:29 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Unicorn no Kyupi",
       "description": "Unicorn no Kyupi is a helpful sprite that lives in the kitchen and polishes dirty pots and pans clean with its fluffy white body. Harigorou, a rival sprite shaped like a hedgehog, tries to interfere. \n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1165/91319.jpg",
@@ -1462,6 +1462,21 @@
       "genres": [
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Neko Neko Nihonshi 5th Season",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
+      "date": "Apr 8, 2020, 06:45 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Historical",
+        "Parody",
+        "Kids",
+        "Samurai"
       ],
       "category": "TV (Continuing)"
     },
@@ -1490,21 +1505,6 @@
       "genres": [
         "Comedy",
         "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Neko Neko Nihonshi 5th Season",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
-      "date": "Apr 8, 2020, 06:45 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Historical",
-        "Parody",
-        "Kids",
-        "Samurai"
       ],
       "category": "TV (Continuing)"
     },
@@ -1618,13 +1618,12 @@
     },
     {
       "title": "Mo Dao Zu Shi Q",
-      "description": "The chibi spin-off series of Mo Dao Zu Shi.",
+      "description": "The chibi spin-off takes place during the three periods of Wei Wuxian's life (adolescence, adulthood, and rebirth after death), selecting the cute, warm, and healing parts as the main contents. This series hopes to heal the audience who loves the main story of Mo Dao Zu Shi, but were “injured” by the melancholy plot of the drama.\n\n(Source: Official Youtube, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108467.jpg",
       "date": "Jul 31, 2020",
       "producer": "B.CMAY PICTURES",
       "eps": 30,
       "genres": [
-        "Action",
         "Comedy",
         "Historical",
         "Supernatural",
