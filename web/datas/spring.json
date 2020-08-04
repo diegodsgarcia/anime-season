@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-08-03",
+  "lastUpdate": "2020-08-04",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -732,6 +732,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "Zo Zo Zo Zombie-kun (TV)",
+      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
+      "date": "Apr 15, 2020",
+      "producer": "J.C.Staff",
+      "eps": 100,
+      "genres": [
+        "Comedy",
+        "Kids"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Neko Neko Nihonshi 5th Season",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
@@ -758,19 +771,6 @@
         "Comedy",
         "Kids",
         "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Zo Zo Zo Zombie-kun (TV)",
-      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
-      "date": "Apr 15, 2020",
-      "producer": "J.C.Staff",
-      "eps": 100,
-      "genres": [
-        "Comedy",
-        "Kids"
       ],
       "category": "TV (New)"
     },
@@ -1626,7 +1626,7 @@
     },
     {
       "title": "Nakitai Watashi wa Neko wo Kaburu",
-      "description": "Miyo Sasaki, nicknamed \"Muge\" meaning \"infinitely mysterious,\" has a bright personality and is full of energy at school and at home. She is also in love with her classmate Kento Hinode. Miyo tries repeatedly to get Kento's attention, but he takes no notice of her. She realizes that the only way to get close to him is to transform into a cat, but at some point, the boundary between herself and the cat becomes ambiguous.\n\n(Source: MAL News)",
+      "description": "Miyo Sasaki is an energetic high school girl who comes from a broken family consisting of her unconfident father and an overly invested stepmother, whose attempts at connecting with Miyo come across as bothersome. Seeing Kento Hinode as a refuge from all her personal issues, she can't help herself from forcing her unorthodox demonstrations of love onto her crush.\n\nWhile Miyo is unable to get Kento's attention as herself, she manages to succeed by interacting with him in the form of a white cat, affectionately nicknamed \"Tarou\" by Kento. But Miyo soon realizes that she can't help Kento with the various problems she overhears in her cat form and is now caught between two tough choices. Will she continue her relationship with him as a cat, or will she reveal her identity and risk what they have, in order to help him as her human self?\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1045/106389.jpg",
       "date": "Jun 18, 2020",
       "producer": "Studio Colorido",
@@ -2005,19 +2005,6 @@
       "category": "ONA"
     },
     {
-      "title": "Wang Gu Shenhua Zhi Tian Xuanzhe",
-      "description": "In the year 2115 of the Fortress, Wei Qin, commander of the border troops, went to the Fortress to participate in the selection of the elected official and to secretly investigate those responsible for the Border incident.  At the same time, the No. 1 public enemy, Yuan Yi, launched a major revolt.  As the plot progresses, all parties are involved in this quest.  How is Wei Qin going to sort out the true from the false and bring the truth out?\n\n(Source: Exodus Chaos)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1915/106921.jpg",
-      "date": "Apr 7, 2020",
-      "producer": "Congzhuo Animation",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Sci-Fi"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Douluo Dalu: Xiaowu Juebie",
       "description": "Fifth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/108563.jpg",
@@ -2035,16 +2022,15 @@
       "category": "ONA"
     },
     {
-      "title": "Puso Ni Comi: Okawari",
-      "description": "A second season of Puso Ni Comi, once again following the in-game avatars of the cast.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1466/106923.jpg",
+      "title": "Wang Gu Shenhua Zhi Tian Xuanzhe",
+      "description": "In the year 2115 of the Fortress, Wei Qin, commander of the border troops, went to the Fortress to participate in the selection of the elected official and to secretly investigate those responsible for the Border incident.  At the same time, the No. 1 public enemy, Yuan Yi, launched a major revolt.  As the plot progresses, all parties are involved in this quest.  How is Wei Qin going to sort out the true from the false and bring the truth out?\n\n(Source: Exodus Chaos)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1915/106921.jpg",
       "date": "Apr 7, 2020",
-      "producer": "-",
-      "eps": null,
+      "producer": "Congzhuo Animation",
+      "eps": 12,
       "genres": [
-        "Game",
-        "Comedy",
-        "Parody"
+        "Action",
+        "Sci-Fi"
       ],
       "category": "ONA"
     },
@@ -2063,6 +2049,20 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Puso Ni Comi: Okawari",
+      "description": "A second season of Puso Ni Comi, once again following the in-game avatars of the cast.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1466/106923.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Game",
+        "Comedy",
+        "Parody"
       ],
       "category": "ONA"
     },

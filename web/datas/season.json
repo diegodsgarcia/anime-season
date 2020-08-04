@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-03",
+  "lastUpdate": "2020-08-04",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -394,19 +394,6 @@
       "genres": [
         "Comedy",
         "Kids",
-        "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Utau Soccer Panda Mifanda",
-      "description": "Short anime based on Mifanda from MIFA (Music Interact Football for All).",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1296/108533.jpg",
-      "date": "Jul ??, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Music",
         "Slice of Life"
       ],
       "category": "TV (New)"
@@ -1466,6 +1453,19 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Zo Zo Zo Zombie-kun (TV)",
+      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
+      "date": "Apr 15, 2020",
+      "producer": "J.C.Staff",
+      "eps": 100,
+      "genres": [
+        "Comedy",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Neko Neko Nihonshi 5th Season",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
@@ -1492,19 +1492,6 @@
         "Comedy",
         "Kids",
         "Slice of Life"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Zo Zo Zo Zombie-kun (TV)",
-      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
-      "date": "Apr 15, 2020",
-      "producer": "J.C.Staff",
-      "eps": 100,
-      "genres": [
-        "Comedy",
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1548,6 +1535,19 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Origami Ninja Koyankinte",
+      "description": "Koyan, the Origami Ninja, came to Earth from his planet Origamio to find the magical stone \"Hapiton\" that has the ability to make people happy. On the way, he was joined by childhood friend Namin anda new friend Lublin. One day, a villain called Evilrun appeared. Evilrun has a black hole in her stomach and tries to inhale anything. Every time an event happens, Evilrun gets in the way of Koyan and friends. But what Evilrun's aim is remains a mystery...",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1860/106477.jpg",
+      "date": "Apr 7, 2020, 07:30 (JST)",
+      "producer": "Directions",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Onigiri ni Naritai Cogimyun",
       "description": "A prequel to Cogimyun covering her life at flour school before she runs her grandfather's apartment complex. Episodes air within the \"Millenia Girl\" live action program and then get released for a limited time later in the day on Sanrio's official YouTube channel.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1755/105960.jpg",
@@ -1558,19 +1558,6 @@
         "Fantasy",
         "Kids",
         "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Origami Ninja Koyankinte",
-      "description": "Koyan, the Origami Ninja, came to Earth from his planet Origamio to find the magical stone \"Hapiton\" that has the ability to make people happy. On the way, he was joined by childhood friend Namin anda new friend Lublin. One day, a villain called Evilrun appeared. Evilrun has a black hole in her stomach and tries to inhale anything. Every time an event happens, Evilrun gets in the way of Koyan and friends. But what Evilrun's aim is remains a mystery...",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1860/106477.jpg",
-      "date": "Apr 7, 2020, 07:30 (JST)",
-      "producer": "Directions",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1604,6 +1591,22 @@
       "category": "ONA"
     },
     {
+      "title": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren",
+      "description": "In this brand-new adventure, some Class 1-A students are sent to hone their survival skills at a training course. Having yet to receive their provisional licenses, they're eager to cut loose and have a little fun.\n\nThey quickly discover that the danger they face is no simulation! It's going to take their combined training, teamwork, and quick thinking if they're going to pass this assignment! \n\n(Source: Funimation)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108741.jpg",
+      "date": "Aug 16, 2020",
+      "producer": "Bones",
+      "eps": 2,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Super Power",
+        "School",
+        "Shounen"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Aggressive Retsuko (ONA) 3rd Season",
       "description": "Third Season of Aggressive Retsuko.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1049/108692.jpg",
@@ -1613,6 +1616,22 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Hakumei no Tsubasa",
+      "description": "Galar is a region where Pokemon battles have developed into a cultural sensation. Over the span of seven episodes, Pokemon: Twilight Wings will show in detail the dreams of Galar's residents, the realities they face, the challenges they must overcome and the conflicts they must resolve. In addition to these new stories, fans can expect to see a variety of Pokemon originally discovered in the Galar region appearing in the capsule series. \n\n(Source: Press Release)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1399/104762.jpg",
+      "date": "Jan 15, 2020",
+      "producer": "Studio Colorido",
+      "eps": 7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Kids",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -1690,7 +1709,7 @@
     {
       "title": "Fanren Xiu Xian Chuan Zhi Fanren Feng Qi Tian Nan",
       "description": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.\n\n(Source: Wuxia World)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1022/105820.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1910/108227.jpg",
       "date": "Jul 25, 2020",
       "producer": "Original Force, Wan Wei Mao Donghua",
       "eps": 16,
@@ -1972,19 +1991,6 @@
       "category": "ONA"
     },
     {
-      "title": "Sansan de Ezuoju Chufang",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
-      "date": "Jul 30, 2020",
-      "producer": "-",
-      "eps": 10,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Tadaima! Chibi Godzilla",
       "description": "The \"Chibi Godzilla\" project was launched to celebrate the 65th anniversary of Toho's Godzilla franchise.\n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/108564.jpg",
@@ -1994,6 +2000,19 @@
       "genres": [
         "Slice of Life",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Sansan de Ezuoju Chufang",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
+      "date": "Jul 30, 2020",
+      "producer": "-",
+      "eps": 10,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },

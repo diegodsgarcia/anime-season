@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-08-03",
+  "lastUpdate": "2020-08-04",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1891,19 +1891,6 @@
       "category": "ONA"
     },
     {
-      "title": "Cinderella Girls Gekijou: Extra Stage",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/106098.jpg",
-      "date": "Mar 24, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Douluo Dalu: Qian Hua Xi Jin",
       "description": "Fourth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/108562.jpg",
@@ -1917,6 +1904,19 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Cinderella Girls Gekijou: Extra Stage",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/106098.jpg",
+      "date": "Mar 24, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2025,7 +2025,7 @@
       "title": "Ogaki Matsuri ni Ikou yo!",
       "description": "A tourism promotion anime for Ogaki City in the Gifu Prefecture. The story's script was written by Kou Nakamura, a famous novelist from Ogaki City.\n\nA love story set during the Ogaki Festival preparations. The festival itself is held in May.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1425/106763.jpg",
-      "date": "Mar 20, 2020",
+      "date": "Mar 30, 2020",
       "producer": "-",
       "eps": 1,
       "genres": [
@@ -2209,6 +2209,19 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Blue: Line Step Brush",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1469/108739.jpg",
+      "date": "Feb 14, 2020",
+      "producer": "Wit Studio",
+      "eps": 1,
+      "genres": [
+        "Slice of Life",
+        "Drama"
       ],
       "category": "ONA"
     },
