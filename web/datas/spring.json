@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-08-04",
+  "lastUpdate": "2020-08-05",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -1990,21 +1990,6 @@
       "category": "ONA"
     },
     {
-      "title": "Dixia Cheng Yu Yongshi: Nizhuan Zhi Lun",
-      "description": "Sequel to Arad: Suming Zhi Men.\n\nThe Japanese broadcast premiered on July 4, 2020 at 1:53 a.m. on TV Tokyo.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1090/108165.jpg",
-      "date": "Apr 23, 2020",
-      "producer": "LIDENFILMS",
-      "eps": 16,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Douluo Dalu: Xiaowu Juebie",
       "description": "Fifth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/108563.jpg",
@@ -2017,6 +2002,21 @@
         "Historical",
         "Romance",
         "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Dixia Cheng Yu Yongshi: Nizhuan Zhi Lun",
+      "description": "Sequel to Arad: Suming Zhi Men.\n\nThe Japanese broadcast premiered on July 4, 2020 at 1:53 a.m. on TV Tokyo.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1090/108165.jpg",
+      "date": "Apr 23, 2020",
+      "producer": "LIDENFILMS",
+      "eps": 16,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
         "Fantasy"
       ],
       "category": "ONA"

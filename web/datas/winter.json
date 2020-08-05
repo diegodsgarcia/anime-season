@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-08-04",
+  "lastUpdate": "2020-08-05",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1926,7 +1926,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1704/106781.jpg",
       "date": "Mar 28, 2020",
       "producer": "Bandai Namco Pictures",
-      "eps": null,
+      "eps": 6,
       "genres": [
         "Music",
         "Slice of Life",
@@ -1948,6 +1948,20 @@
       "category": "ONA"
     },
     {
+      "title": "Ze Tian Ji 5th Season",
+      "description": "The fifth season of Ze Tian Ji.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
+      "date": "Mar 16, 2020",
+      "producer": "Shanghai Foch Film Culture Investment",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Xue Ying Ling Zhu 2nd Season",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1520/105226.jpg",
@@ -1960,20 +1974,6 @@
         "Historical",
         "Romance",
         "Martial Arts",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Ze Tian Ji 5th Season",
-      "description": "The fifth season of Ze Tian Ji.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
-      "date": "Mar 16, 2020",
-      "producer": "Shanghai Foch Film Culture Investment",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Adventure",
         "Fantasy"
       ],
       "category": "ONA"

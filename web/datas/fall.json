@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-08-04",
+  "lastUpdate": "2020-08-05",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -103,6 +103,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Tonikaku Kawaii",
+      "description": "Having grown up ridiculed for his bizarre name, Nasa Yuzaki strives to be remembered for something more. Fortunately, it seems he's on the right path, ranking first in the nation's mock exams and set to enter his high school of choice.\n\nHowever, everything changes in a single night when he notices a girl across the street on his way home. Enraptured by her overwhelming cuteness, it's love at first sight for Nasa. But in his infatuated daze, he fails to notice the approaching danger speeding down the road and finds himself at death's door. Barely alive thanks to the girl's intervention, Nasa musters the courage to confess his love to her, fearing she might otherwise vanish from his life. She accepts his proposal on one condition: marriage, to which Nasa gladly accepts before passing out from his injuries. Upon waking, however, the girl is nowhere to be found.\n\nAfter recovering from his injuries, Nasa tosses his previous ambitions aside and dedicates his life to finding the girl that captured his heart, yet several years pass to no avail. But one night, when an unexpected visitor comes knocking on his door, Nasa finds himself facing a woman that would forever change his world: his wife.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1279/106298.jpg",
+      "date": "Oct 3, 2020",
+      "producer": "Seven Arcs",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Fumetsu no Anata e",
       "description": "It, a mysterious immortal being, is sent to the Earth with no emotions nor identity. However, It is able to take the shape of those around that have a strong impetus.\n \nAt first, It is a sphere. Then, It imitates the form of a rock. As the temperature drops and snow falls atop the moss, It inherits the moss. When an injured, lone wolf comes limping by and lays down to die, It takes on the form of the animal. Finally, It gains consciousness and begins to traverse the empty tundra until It meets a boy.\n \nThe boy lives alone in a ghost town, which the adults abandoned long ago in search of the paradise said to exist far beyond the endless sea of white tundra. However, their efforts were for naught, and now the boy is in a critical state.\n \nAcquiring the form of the boy, It sets off on a never-ending journey, in search of new experiences, places, and people.\n \n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/105306.jpg",
@@ -146,20 +160,6 @@
       "genres": [
         "Slice of Life",
         "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Tonikaku Kawaii",
-      "description": "Having grown up ridiculed for his bizarre name, Nasa Yuzaki strives to be remembered for something more. Fortunately, it seems he's on the right path, ranking first in the nation's mock exams and set to enter his high school of choice.\n\nHowever, everything changes in a single night when he notices a girl across the street on his way home. Enraptured by her overwhelming cuteness, it's love at first sight for Nasa. But in his infatuated daze, he fails to notice the approaching danger speeding down the road and finds himself at death's door. Barely alive thanks to the girl's intervention, Nasa musters the courage to confess his love to her, fearing she might otherwise vanish from his life. She accepts his proposal on one condition: marriage, to which Nasa gladly accepts before passing out from his injuries. Upon waking, however, the girl is nowhere to be found.\n\nAfter recovering from his injuries, Nasa tosses his previous ambitions aside and dedicates his life to finding the girl that captured his heart, yet several years pass to no avail. But one night, when an unexpected visitor comes knocking on his door, Nasa finds himself facing a woman that would forever change his world: his wife.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1279/106298.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Seven Arcs",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -627,6 +627,18 @@
         "Drama"
       ],
       "category": "ONA"
+    },
+    {
+      "title": "Toshoshitsu no Kanojo: Seiso na Kimi ga Ochiru made - The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1991/108753.jpg",
+      "date": "Oct 30, 2020",
+      "producer": "-",
+      "eps": 2,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
     },
     {
       "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",

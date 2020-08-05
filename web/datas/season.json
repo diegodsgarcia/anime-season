@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-04",
+  "lastUpdate": "2020-08-05",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -1412,19 +1412,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Poccolies",
-      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
-      "date": "Apr 6, 2020, 23:29 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Egg Car",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
@@ -1436,6 +1423,19 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Poccolies",
+      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
+      "date": "Apr 6, 2020, 23:29 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1535,19 +1535,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Origami Ninja Koyankinte",
-      "description": "Koyan, the Origami Ninja, came to Earth from his planet Origamio to find the magical stone \"Hapiton\" that has the ability to make people happy. On the way, he was joined by childhood friend Namin anda new friend Lublin. One day, a villain called Evilrun appeared. Evilrun has a black hole in her stomach and tries to inhale anything. Every time an event happens, Evilrun gets in the way of Koyan and friends. But what Evilrun's aim is remains a mystery...",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1860/106477.jpg",
-      "date": "Apr 7, 2020, 07:30 (JST)",
-      "producer": "Directions",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Onigiri ni Naritai Cogimyun",
       "description": "A prequel to Cogimyun covering her life at flour school before she runs her grandfather's apartment complex. Episodes air within the \"Millenia Girl\" live action program and then get released for a limited time later in the day on Sanrio's official YouTube channel.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1755/105960.jpg",
@@ -1558,6 +1545,19 @@
         "Fantasy",
         "Kids",
         "School"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Origami Ninja Koyankinte",
+      "description": "Koyan, the Origami Ninja, came to Earth from his planet Origamio to find the magical stone \"Hapiton\" that has the ability to make people happy. On the way, he was joined by childhood friend Namin anda new friend Lublin. One day, a villain called Evilrun appeared. Evilrun has a black hole in her stomach and tries to inhale anything. Every time an event happens, Evilrun gets in the way of Koyan and friends. But what Evilrun's aim is remains a mystery...",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1860/106477.jpg",
+      "date": "Apr 7, 2020, 07:30 (JST)",
+      "producer": "Directions",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -2110,6 +2110,18 @@
       "category": "OVA"
     },
     {
+      "title": "Kohakuiro no Hunter The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
+      "date": "Jul 31, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
       "title": "Succubus Stayed Life The Animation",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1776/107906.jpg",
@@ -2119,18 +2131,6 @@
       "genres": [
         "Hentai",
         "School"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "Kohakuiro no Hunter The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
-      "date": "Jul 31, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
       ],
       "category": "OVA"
     },
@@ -2275,7 +2275,7 @@
     {
       "title": "Omoi, Omoware, Furi, Furare",
       "description": "Yuna and Akari are two high school girls with very different views on love: Yuna dreams about romance through rose-coloured glasses, while Akari is down-to-earth and practical. Meanwhile, high school boys Kazuomi and Rio also have different views on love: Kazuomi is an airhead who can't grasp the concept of love, while Rio grabs onto any confession as an opportunity—so long as the girl looks cute. Will these four classmates end up leading a youthful romance that meets their expectations?\n \n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1975/106423.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1418/108748.jpg",
       "date": "Sep 18, 2020",
       "producer": "A-1 Pictures",
       "eps": 1,
@@ -2369,6 +2369,19 @@
         "Comedy",
         "Kids",
         "Shounen"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Crayon Shin-chan Movie 28: Gekitotsu! Rakugaki Kingdom to Hobo Yonin no Yuusha",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1659/104900.jpg",
+      "date": "Sep 11, 2020",
+      "producer": "Shin-Ei Animation",
+      "eps": 1,
+      "genres": [
+        "Comedy",
+        "Seinen"
       ],
       "category": "Movie"
     },
@@ -2473,7 +2486,7 @@
       "title": "ARP Backstage Pass Special",
       "description": "Unaired episode included with volume 4 of the Bluray/DVD.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1108/107861.jpg",
-      "date": "Aug 26, 2020",
+      "date": "Jul 13, 2020",
       "producer": "Dynamo Pictures",
       "eps": 1,
       "genres": [
