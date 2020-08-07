@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-08-05",
+  "lastUpdate": "2020-08-07",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -117,25 +117,10 @@
       "category": "TV (New)"
     },
     {
-      "title": "Fumetsu no Anata e",
-      "description": "It, a mysterious immortal being, is sent to the Earth with no emotions nor identity. However, It is able to take the shape of those around that have a strong impetus.\n \nAt first, It is a sphere. Then, It imitates the form of a rock. As the temperature drops and snow falls atop the moss, It inherits the moss. When an injured, lone wolf comes limping by and lays down to die, It takes on the form of the animal. Finally, It gains consciousness and begins to traverse the empty tundra until It meets a boy.\n \nThe boy lives alone in a ghost town, which the adults abandoned long ago in search of the paradise said to exist far beyond the endless sea of white tundra. However, their efforts were for naught, and now the boy is in a critical state.\n \nAcquiring the form of the boy, It sets off on a never-ending journey, in search of new experiences, places, and people.\n \n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/105306.jpg",
-      "date": "Oct ??, 2020, 22:50 (JST)",
-      "producer": "Brain's Base",
-      "eps": 20,
-      "genres": [
-        "Adventure",
-        "Supernatural",
-        "Drama",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Hanyou no Yashahime: Sengoku Otogizoushi",
       "description": "The daughters of Sesshoumaru and Inuyasha set out on a journey transcending time!\n\nIn Feudal Japan, Half-Demon twins Towa and Setsuna are separated from each other during a forest fire. While desperately searching for her younger sister, Towa wanders into a mysterious tunnel that sends her into present-day Japan, where she is found and raised by Kagome Higurashi's brother, Souta, and his family.\n\nTen years later, the tunnel that connects the two eras has reopened, allowing Towa to be reunited with Setsuna, who is now a Demon Slayer working for Kohaku. But to Towa's shock, Setsuna appears to have lost all memories of her older sister.\n\nJoined by Moroha, the daughter of Inuyasha and Kagome, the three young women travel between the two eras on an adventure to regain their missing past. \n\n(Source: VIZ Media)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1773/107431.jpg",
-      "date": "Oct ??, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1783/108783.jpg",
+      "date": "Oct 3, 2020, 17:30 (JST)",
       "producer": "Sunrise",
       "eps": null,
       "genres": [
@@ -147,6 +132,21 @@
         "Supernatural",
         "Magic",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Fumetsu no Anata e",
+      "description": "It, a mysterious immortal being, is sent to the Earth with no emotions nor identity. However, It is able to take the shape of those around that have a strong impetus.\n \nAt first, It is a sphere. Then, It imitates the form of a rock. As the temperature drops and snow falls atop the moss, It inherits the moss. When an injured, lone wolf comes limping by and lays down to die, It takes on the form of the animal. Finally, It gains consciousness and begins to traverse the empty tundra until It meets a boy.\n \nThe boy lives alone in a ghost town, which the adults abandoned long ago in search of the paradise said to exist far beyond the endless sea of white tundra. However, their efforts were for naught, and now the boy is in a critical state.\n \nAcquiring the form of the boy, It sets off on a never-ending journey, in search of new experiences, places, and people.\n \n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/105306.jpg",
+      "date": "Oct ??, 2020, 22:50 (JST)",
+      "producer": "Brain's Base",
+      "eps": 20,
+      "genres": [
+        "Adventure",
+        "Supernatural",
+        "Drama",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -657,6 +657,21 @@
       "category": "Movie"
     },
     {
+      "title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram",
+      "description": "An adaptation of the the Sixth Singularity, The Sacred Round Table Realm Camelot Singularity of Fate/Grand Order.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1535/103385.jpg",
+      "date": "Dec 5, 2020",
+      "producer": "Signal.MD",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Supernatural",
+        "Magic",
+        "Fantasy"
+      ],
+      "category": "Movie"
+    },
+    {
       "title": "Date A Bullet: Nightmare or Queen",
       "description": "Second part of the Date A Bullet films.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1002/108424.jpg",
@@ -691,6 +706,23 @@
       "genres": [
         "Action",
         "School"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Pokemon Movie 23: Coco",
+      "description": "The new film's story is set in Okoya Forest, a Pokémon paradise protected by strict rules that forbid outsiders from setting foot inside. The film centers on Coco, a boy who was raised by Pokémon and also considers himself as one, treating the Mythical Pokémon Zarude as his father. Ash and Pikachu encounter Coco during an adventure. The film focuses on the theme of a \"human raised by Pokémon,\" instead of the previous films' focus of the \"bond between a human trainer and their Pokémon.\"\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1029/106237.jpg",
+      "date": "Dec 25, 2020",
+      "producer": "OLM",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Game",
+        "Adventure",
+        "Comedy",
+        "Kids",
+        "Fantasy"
       ],
       "category": "Movie"
     },

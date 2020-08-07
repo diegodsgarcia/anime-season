@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-08-05",
+  "lastUpdate": "2020-08-07",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -151,6 +151,7 @@
       "genres": [
         "Action",
         "Adventure",
+        "Comedy",
         "Fantasy"
       ],
       "category": "TV (New)"
@@ -565,6 +566,8 @@
         "Action",
         "Game",
         "Adventure",
+        "Comedy",
+        "Parody",
         "Demons"
       ],
       "category": "TV (New)"
@@ -1974,22 +1977,6 @@
       "category": "ONA"
     },
     {
-      "title": "Huyao Xiao Hongniang: Jin Chenxi",
-      "description": "The 9th season of Huyao Xiao Hongniang.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1323/108278.jpg",
-      "date": "Jun 19, 2020",
-      "producer": "Haoliners Animation League",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Historical",
-        "Supernatural",
-        "Drama",
-        "Romance"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Douluo Dalu: Xiaowu Juebie",
       "description": "Fifth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/108563.jpg",
@@ -2003,6 +1990,22 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Huyao Xiao Hongniang: Jin Chenxi",
+      "description": "The 9th season of Huyao Xiao Hongniang.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1323/108278.jpg",
+      "date": "Jun 19, 2020",
+      "producer": "Haoliners Animation League",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Historical",
+        "Supernatural",
+        "Drama",
+        "Romance"
       ],
       "category": "ONA"
     },

@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-06",
+  "lastUpdate": "2020-08-07",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -717,19 +717,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Gudetama",
-      "description": "Gudetama, an egg that is dead to the world and completely lacks motivation. No matter what cooking method you use, Gudetama remains unmoved.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/79996.jpg",
-      "date": "Mar 31, 2014",
-      "producer": "Gathering",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Bessatsu Olympia Kyklos",
       "description": "Demetrios, a timid and kind vase painter in Ancient Greece who dislikes sports and competitions, is one day forced to come up with a game to compete with the mayor of the neighboring town in order to save his village. While hiding inside a large vase outside his workshop, lightning strikes the vase Demetrios is in, transferring him to Tokyo, Japan, during the 1964 Summer Olympics.\n \n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1543/107116.jpg",
@@ -742,6 +729,19 @@
         "Historical",
         "Sports",
         "Seinen"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Gudetama",
+      "description": "Gudetama, an egg that is dead to the world and completely lacks motivation. No matter what cooking method you use, Gudetama remains unmoved.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/79996.jpg",
+      "date": "Mar 31, 2014",
+      "producer": "Gathering",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1914,12 +1914,12 @@
       "category": "ONA"
     },
     {
-      "title": "Renlei Bowuguan",
-      "description": "After the end of the world, there is a mysterious museum left in the world. No one knows where the collection came from. Are these seemingly funny \"historical relics\" proof of the existence of real humans?\n\n(Source: bilibili, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1604/108296.jpg",
-      "date": "Aug 25, 2020",
-      "producer": "-",
-      "eps": 36,
+      "title": "Hulaing Babies Aratame - Staying Babies: Chikyuu wo Mamore! Staying Babies with Yuusha Hayami-san",
+      "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
+      "date": "Jul 19, 2020",
+      "producer": "Gaina",
+      "eps": 1,
       "genres": [
         "Slice of Life",
         "Comedy"
@@ -1927,12 +1927,12 @@
       "category": "ONA"
     },
     {
-      "title": "Hulaing Babies Aratame - Staying Babies: Chikyuu wo Mamore! Staying Babies with Yuusha Hayami-san",
-      "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
-      "date": "Jul 19, 2020",
-      "producer": "Gaina",
-      "eps": 1,
+      "title": "Renlei Bowuguan",
+      "description": "After the end of the world, there is a mysterious museum left in the world. No one knows where the collection came from. Are these seemingly funny \"historical relics\" proof of the existence of real humans?\n\n(Source: bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1604/108296.jpg",
+      "date": "Aug 25, 2020",
+      "producer": "-",
+      "eps": 36,
       "genres": [
         "Slice of Life",
         "Comedy"
@@ -1965,6 +1965,18 @@
       "category": "ONA"
     },
     {
+      "title": "Kamen Rider Zero-One: Short Anime - Everyone's Daily Life",
+      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
+      "date": "Jul 23, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Mengyou Dunhuang",
       "description": "Due to the dissipation of the heavenly scripture powers, Dunhuang will face adversity. Wu Tianji is ordered to repair the heavenly scriptures. In order to perfect the heavenly scripture powers, you need to relive the story originally recorded in the heavenly scripture. Wu Tianji took the god beast, the angel pig, to the ancient city of Dunhuang. Just when she had no idea how to start repairing the scriptures, she accidentally strayed into the world of frescoes in the Mogao Caves...\n\n(Source: bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1611/108293.jpg",
@@ -1975,18 +1987,6 @@
         "Comedy",
         "Historical",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Kamen Rider Zero-One: Short Anime - Everyone's Daily Life",
-      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
-      "date": "Jul 23, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2312,20 +2312,6 @@
         "Comedy",
         "Romance",
         "School"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Shika no Ou",
-      "description": "Van is the head of a group of soldiers who expected to die fighting for their lands against a large empire looking to incorporate their home into its kingdom. Instead of dying, however, Van is taken as a slave and thrown into a salt mine. One night, a pack of strange dogs attacks the salt mine, and a mysterious illness breaks out. During the attack, Van takes the opportunity to escape, and he meets a young girl. Elsewhere, rumor is spreading that only immigrants are coming down with this mysterious illness. The medical scientist Hossal risks his life to search for a cure. Doctors also study a father and child who seem to have survived the illness. The novels tell the interconnecting stories and bonds of those who fight against a cruel fate.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1863/105366.jpg",
-      "date": "Sep 18, 2020",
-      "producer": "Production I.G",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
       ],
       "category": "Movie"
     },
