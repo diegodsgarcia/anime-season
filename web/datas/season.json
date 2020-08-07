@@ -227,8 +227,8 @@
       "producer": "MAPPA",
       "eps": 12,
       "genres": [
-        "Music",
-        "Slice of Life",
+        "Sci-Fi",
+        "Mystery",
         "Super Power",
         "Romance",
         "Shoujo"
@@ -243,7 +243,9 @@
       "producer": "Yokohama Animation Lab",
       "eps": 12,
       "genres": [
-        "Music"
+        "Music",
+        "Magic",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -908,6 +910,8 @@
         "Action",
         "Game",
         "Adventure",
+        "Comedy",
+        "Parody",
         "Demons"
       ],
       "category": "TV (Continuing)"
@@ -1734,6 +1738,20 @@
       "category": "ONA"
     },
     {
+      "title": "Shi Zhi Ge: Hua Yu Yan De Kuangxiang Shi",
+      "description": "On the far side of the Milky Way, there is a planet gestating magical power-Wilhallen. There are four very different countries on this magical continent: the ancient and mysterious eastern empire—Huang; the free and open Nanyang island country—Tapaz; the iron-clad western republic—Vrsaris; and, Civilized and elegant Beilian Gang-Agnesa. All countries enshrine the High God and obtain the gift of divine power. Although there are occasional conflicts, most people enjoy a peaceful life. Until the era of 3836, when a mysterious man in black suddenly came with an unknown dark force, but found himself in the wrong place at the wrong time. Fortunately, the established fate was as recorded in the time document in his hand. Verhallen opened a new parallel world...\n\n(Source: bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1261/108209.jpg",
+      "date": "Jul 16, 2020",
+      "producer": "-",
+      "eps": 13,
+      "genres": [
+        "Action",
+        "Music",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Wu Dong Qian Kun 2nd Season",
       "description": "Second season of Wu Dong Qian Kun.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/108277.jpg",
@@ -1746,20 +1764,6 @@
         "Historical",
         "Romance",
         "Martial Arts",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Shi Zhi Ge: Hua Yu Yan De Kuangxiang Shi",
-      "description": "On the far side of the Milky Way, there is a planet gestating magical power-Wilhallen. There are four very different countries on this magical continent: the ancient and mysterious eastern empire—Huang; the free and open Nanyang island country—Tapaz; the iron-clad western republic—Vrsaris; and, Civilized and elegant Beilian Gang-Agnesa. All countries enshrine the High God and obtain the gift of divine power. Although there are occasional conflicts, most people enjoy a peaceful life. Until the era of 3836, when a mysterious man in black suddenly came with an unknown dark force, but found himself in the wrong place at the wrong time. Fortunately, the established fate was as recorded in the time document in his hand. Verhallen opened a new parallel world...\n\n(Source: bilibili, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1261/108209.jpg",
-      "date": "Jul 16, 2020",
-      "producer": "-",
-      "eps": 13,
-      "genres": [
-        "Action",
-        "Music",
         "Fantasy"
       ],
       "category": "ONA"
@@ -2213,18 +2217,6 @@
       "category": "Movie"
     },
     {
-      "title": "Date A Bullet: Dead or Bullet",
-      "description": "This is the story of Tokisaki Kurumi that shouldn't have been told——\n\nThe amnesiac young girl, Empty, who woke up in the neighboring world encounters Tokisaki Kurumi. Led by her, the place she arrived at was the school's classroom. In order to kill each other, the girls known as semi-Spirits gathered. Now then——Let's begin our battle (date). \n\n(Source: Date A Live Wiki)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/108425.jpg",
-      "date": "Aug 14, 2020",
-      "producer": "GEEK TOYS",
-      "eps": 1,
-      "genres": [
-        "Sci-Fi"
-      ],
-      "category": "Movie"
-    },
-    {
       "title": "Given Movie",
       "description": "",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1706/106042.jpg",
@@ -2237,6 +2229,18 @@
         "Drama",
         "Romance",
         "Shounen Ai"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Date A Bullet: Dead or Bullet",
+      "description": "This is the story of Tokisaki Kurumi that shouldn't have been told——\n\nThe amnesiac young girl, Empty, who woke up in the neighboring world encounters Tokisaki Kurumi. Led by her, the place she arrived at was the school's classroom. In order to kill each other, the girls known as semi-Spirits gathered. Now then——Let's begin our battle (date). \n\n(Source: Date A Live Wiki)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/108425.jpg",
+      "date": "Aug 14, 2020",
+      "producer": "GEEK TOYS",
+      "eps": 1,
+      "genres": [
+        "Sci-Fi"
       ],
       "category": "Movie"
     },
@@ -2325,6 +2329,18 @@
       "genres": [
         "Music",
         "School"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Kesshouban: Eigakan e Iku",
+      "description": "An anime short screened along with the Hataraku Saibou!!: Saikyou no Teki, Futatabi. Karada no Naka wa \"Chou\" Oosawagi! (Cells at Work!! The Return of the Strongest Enemy. A Huge Uproar in the Body’s Bowels!) theatrical anime.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1971/108781.jpg",
+      "date": "Sep 5, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Comedy"
       ],
       "category": "Movie"
     },
