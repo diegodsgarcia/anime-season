@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-08-07",
+  "lastUpdate": "2020-08-08",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -1649,7 +1649,11 @@
       "producer": "Wit Studio",
       "eps": 23,
       "genres": [
-        "Action"
+        "Action",
+        "Adventure",
+        "Mystery",
+        "Comedy",
+        "Psychological"
       ],
       "category": "ONA"
     },
@@ -1731,19 +1735,6 @@
       "category": "ONA"
     },
     {
-      "title": "Sol Levante",
-      "description": "A young warrior and her familiar search for the sacred place said to fulfill wishes. It's best not to anger the ancient guardians and spirits.\n\n(Source: Netflix)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1980/108459.jpg",
-      "date": "Apr 2, 2020",
-      "producer": "Production I.G",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Quanzhi Fashi IV",
       "description": "Fourth season of Quanzhi Fashi.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1925/105375.jpg",
@@ -1755,6 +1746,19 @@
         "Magic",
         "Fantasy",
         "School"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Sol Levante",
+      "description": "A young warrior and her familiar search for the sacred place said to fulfill wishes. It's best not to anger the ancient guardians and spirits.\n\n(Source: Netflix)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1980/108459.jpg",
+      "date": "Apr 2, 2020",
+      "producer": "Production I.G",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2232,18 +2236,6 @@
       "category": "ONA"
     },
     {
-      "title": "Mottainai Baasan",
-      "description": "In the books, the titular Grandma seeks to explore the true meaning of the Japanese phrase \"mottainai\" after her son asked her what it meant and she couldn't answer. \"Mottainai\" is a commonly used exclamation that roughly translates to \"what a waste!\", expressing regret over wastefulness. The Grandma seeks to explore the meaning and importance of \"mottainai\" in the story.\n\n(Source: Anime News Network)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1652/108053.jpg",
-      "date": "Jun 4, 2020",
-      "producer": "LIDENFILMS",
-      "eps": 4,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Guan Hai Ce Zhi Tie Qi Xiong Guan",
       "description": "Second season of Guan Hai Ce.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1686/108542.jpg",
@@ -2256,6 +2248,18 @@
         "Historical",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Mottainai Baasan",
+      "description": "In the books, the titular Grandma seeks to explore the true meaning of the Japanese phrase \"mottainai\" after her son asked her what it meant and she couldn't answer. \"Mottainai\" is a commonly used exclamation that roughly translates to \"what a waste!\", expressing regret over wastefulness. The Grandma seeks to explore the meaning and importance of \"mottainai\" in the story.\n\n(Source: Anime News Network)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1652/108053.jpg",
+      "date": "Jun 4, 2020",
+      "producer": "LIDENFILMS",
+      "eps": 4,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "ONA"
     },
