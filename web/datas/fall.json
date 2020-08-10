@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-08-09",
+  "lastUpdate": "2020-08-10",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -753,20 +753,6 @@
       "category": "Movie"
     },
     {
-      "title": "Monster Strike the Movie: Lucifer - Zetsubou no Yoake",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1347/106737.jpg",
-      "date": "Nov ??, 2020",
-      "producer": "Anima, Dynamo Pictures",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Game",
-        "Fantasy"
-      ],
-      "category": "Movie"
-    },
-    {
       "title": "Entotsu Machi no Poupelle",
       "description": "There is a town surrounded by a wall that stands 4,000 meters tall. Because the town is full of chimneys, the air is always full of smoke. No one in the town knows what the sky looks like. On one night of the town's Halloween festival, a deliveryman accidentally drops the heart he is supposed to deliver. He cannot find the heart in the smoke and gives up. The heart continues to beat where it fell in the town of chimneys.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/105018.jpg",
@@ -776,6 +762,20 @@
       "genres": [
         "Adventure",
         "Magic",
+        "Fantasy"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Monster Strike the Movie: Lucifer - Zetsubou no Yoake",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1347/106737.jpg",
+      "date": "Nov ??, 2020",
+      "producer": "Anima, Dynamo Pictures",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Game",
         "Fantasy"
       ],
       "category": "Movie"

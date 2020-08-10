@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-08-09",
+  "lastUpdate": "2020-08-10",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -388,18 +388,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "22/7",
-      "description": "Miu Takigawa views the world from behind the safety of her bangs, content with peacefully passing unnoticed through life. Reserved and timid, Miu struggles to converse with or even smile at customers when at her part time job, but she works tirelessly to support her mother and precious little sister, Haru. It is a shock when a letter arrives from the entertainment company GIP, announcing that she has been chosen as a candidate for their new project. \n\nMiu decides to accept the invitation and heads to the meeting spot where the eccentric ensemble of other candidates filter in, all summoned by their own letters. Not long after, the girls are escorted by a manager to a luxurious secret facility, where it is explained that they must follow the mysterious directions of \"The Wall,\" whose orders are absolute. \n\nThe 24th of December, 2016, will see the birth of idols like no other; on that day, the group 22/7 will debut, whether or not Miu and the other members are ready to take the stage.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1485/108385.jpg",
-      "date": "Jan 11, 2020, 23:00 (JST)",
-      "producer": "A-1 Pictures",
-      "eps": 12,
-      "genres": [
-        "Music"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Oshi ga Budoukan Ittekuretara Shinu",
       "description": "A girl is obsessed with her favorite idol, a minor member of a less popular group, enough that she says she'd die to see her play at Budoukan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/104708.jpg",
@@ -412,6 +400,18 @@
         "Seinen",
         "Shoujo Ai",
         "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "22/7",
+      "description": "Miu Takigawa views the world from behind the safety of her bangs, content with peacefully passing unnoticed through life. Reserved and timid, Miu struggles to converse with or even smile at customers when at her part time job, but she works tirelessly to support her mother and precious little sister, Haru. It is a shock when a letter arrives from the entertainment company GIP, announcing that she has been chosen as a candidate for their new project. \n\nMiu decides to accept the invitation and heads to the meeting spot where the eccentric ensemble of other candidates filter in, all summoned by their own letters. Not long after, the girls are escorted by a manager to a luxurious secret facility, where it is explained that they must follow the mysterious directions of \"The Wall,\" whose orders are absolute. \n\nThe 24th of December, 2016, will see the birth of idols like no other; on that day, the group 22/7 will debut, whether or not Miu and the other members are ready to take the stage.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1485/108385.jpg",
+      "date": "Jan 11, 2020, 23:00 (JST)",
+      "producer": "A-1 Pictures",
+      "eps": 12,
+      "genres": [
+        "Music"
       ],
       "category": "TV (New)"
     },
@@ -1392,6 +1392,20 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Pikachin-Kit",
+      "description": "A fifth-year elementary student named Eiji Tōmatsu, and his \"inspiration\" buddy, a dog named Pochirou. One day Eiji finds a mysterious book called the \"Pikachin Research Book,\" and learns about the seven tools that make up the Pikachin Kit. Eiji presses a button inside the research book, and immediately a \"Future Amazon\" delivery arrives at his door with the kit. Eiji uses the blueprints included in the box to assemble the kit, but it seems as though 1% part of the kit is still missing. \n\nIn the franchise, the word \"Pikachin\" means the flash of inspiration or insight one gets about a new project, similar to the visual of a lightbulb turning on above one's head when someone has an idea. The concept of the franchise is \"invention is 99% plastic models, 1% inspiration.\" \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88334.jpg",
+      "date": "Jan 6, 2018, 09:30 (JST)",
+      "producer": "OLM, Shin-Ei Animation",
+      "eps": 115,
+      "genres": [
+        "Sci-Fi",
+        "Comedy",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Shimajirou no Wow!",
       "description": "Fourth season of the Shimajirou children's television series.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/50737.jpg",
@@ -1404,20 +1418,6 @@
         "Fantasy",
         "Kids",
         "Magic"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Pikachin-Kit",
-      "description": "A fifth-year elementary student named Eiji Tōmatsu, and his \"inspiration\" buddy, a dog named Pochirou. One day Eiji finds a mysterious book called the \"Pikachin Research Book,\" and learns about the seven tools that make up the Pikachin Kit. Eiji presses a button inside the research book, and immediately a \"Future Amazon\" delivery arrives at his door with the kit. Eiji uses the blueprints included in the box to assemble the kit, but it seems as though 1% part of the kit is still missing. \n\nIn the franchise, the word \"Pikachin\" means the flash of inspiration or insight one gets about a new project, similar to the visual of a lightbulb turning on above one's head when someone has an idea. The concept of the franchise is \"invention is 99% plastic models, 1% inspiration.\" \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88334.jpg",
-      "date": "Jan 6, 2018, 09:30 (JST)",
-      "producer": "OLM, Shin-Ei Animation",
-      "eps": 115,
-      "genres": [
-        "Sci-Fi",
-        "Comedy",
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1866,6 +1866,23 @@
       "category": "ONA"
     },
     {
+      "title": "Douluo Dalu: Qian Hua Xi Jin",
+      "description": "Fourth part of Douluo Dalu.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/108562.jpg",
+      "date": "Feb 22, 2020",
+      "producer": "Sparkly Key Animation Studio",
+      "eps": 13,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Historical",
+        "Romance",
+        "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Hataraku Saibou Black",
       "description": "A special animated commercial first released on Twitter to promote the manga. It was then released on Kodansha's official YouTube channel on January 15.\n\nSet inside an unhealthy body, Hataraku Saibou Black features the anthropomorphized cells of the human immune system as they attempt to keep their ailing world alive.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1914/106749.jpg",
@@ -1887,23 +1904,6 @@
       "eps": null,
       "genres": [
         "Hentai"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Douluo Dalu: Qian Hua Xi Jin",
-      "description": "Fourth part of Douluo Dalu.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/108562.jpg",
-      "date": "Feb 22, 2020",
-      "producer": "Sparkly Key Animation Studio",
-      "eps": 13,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Historical",
-        "Romance",
-        "Martial Arts",
-        "Fantasy"
       ],
       "category": "ONA"
     },

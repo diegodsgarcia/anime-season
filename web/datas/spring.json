@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-08-09",
+  "lastUpdate": "2020-08-10",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -243,21 +243,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Listeners",
-      "description": "Set in a world where the concept of music ceases to exist. The story begins when a boy encounters Myuu, a mysterious girl who possesses an audio input jack in her body. The two intermingle with the history of rock music and embark on an unforgettable journey.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1589/106391.jpg",
-      "date": "Apr 4, 2020, 01:55 (JST)",
-      "producer": "MAPPA",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Mecha",
-        "Music",
-        "Sci-Fi"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Tsugu Tsugumomo",
       "description": "When \"ordinary boy\" Kagami Kazuya meets the beautiful tsukumogami Kiriha, his life gets turned upside-down. As a \"Taboo Child\" who draws the supernatural towards him, he receives orders from the God of the Land, Kukuri, to become an exorcist and defeat these evil forces. And so, he and Kiriha do battle.\n\nTo find out information on these supernatural beings, Kazuya and his friends set up a counselor's club at school. But behind the typical-seeming troubles he hears about, he uncovers a major plot to target Kukuri...\n\nIn addition to the sadistic-yet-beautiful tsukumogami Kiriha, the situation draws other girls to Kazuya to join the fray!\n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1997/106184.jpg",
@@ -271,6 +256,21 @@
         "Ecchi",
         "School",
         "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Listeners",
+      "description": "Set in a world where the concept of music ceases to exist. The story begins when a boy encounters Myuu, a mysterious girl who possesses an audio input jack in her body. The two intermingle with the history of rock music and embark on an unforgettable journey.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1589/106391.jpg",
+      "date": "Apr 4, 2020, 01:55 (JST)",
+      "producer": "MAPPA",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Mecha",
+        "Music",
+        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
