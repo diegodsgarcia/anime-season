@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-08-10",
+  "lastUpdate": "2020-08-11",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -70,6 +70,23 @@
       "category": "TV (New)"
     },
     {
+      "title": "Jujutsu Kaisen (TV)",
+      "description": "In a world where demons feed on unsuspecting humans, fragments of the legendary and feared demon Ryoumen Sukuna were lost and scattered about. Should any demon consume Sukuna's body parts, the power they gain could destroy the world as we know it. Fortunately, there exists a mysterious school of Jujutsu Sorcerers who exist to protect the precarious existence of the living from the undead!\n\nYuuji Itadori is high schooler who spends his days visiting his bedridden grandfather. Although he looks like your average teenager, his immense physical strength is something to behold! Every sports club wants him to join, but Itadori would rather hang out with the school outcasts in the Occult Club. One day, the club manages to get their hands on a sealed cursed object, but little do they know the terror they'll unleash when they break the seal... \n\n(Source: VIZ Media, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1046/107701.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "MAPPA",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Horror",
+        "Demons",
+        "Supernatural",
+        "School",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Golden Kamuy 3rd Season",
       "description": "Third season of Golden Kamuy.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
@@ -86,18 +103,16 @@
       "category": "TV (New)"
     },
     {
-      "title": "Jujutsu Kaisen (TV)",
-      "description": "In a world where demons feed on unsuspecting humans, fragments of the legendary and feared demon Ryoumen Sukuna were lost and scattered about. Should any demon consume Sukuna's body parts, the power they gain could destroy the world as we know it. Fortunately, there exists a mysterious school of Jujutsu Sorcerers who exist to protect the precarious existence of the living from the undead!\n\nYuuji Itadori is high schooler who spends his days visiting his bedridden grandfather. Although he looks like your average teenager, his immense physical strength is something to behold! Every sports club wants him to join, but Itadori would rather hang out with the school outcasts in the Occult Club. One day, the club manages to get their hands on a sealed cursed object, but little do they know the terror they'll unleash when they break the seal... \n\n(Source: VIZ Media, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1046/107701.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "MAPPA",
-      "eps": null,
+      "title": "Fumetsu no Anata e",
+      "description": "It, a mysterious immortal being, is sent to the Earth with no emotions nor identity. However, It is able to take the shape of those around that have a strong impetus.\n \nAt first, It is a sphere. Then, It imitates the form of a rock. As the temperature drops and snow falls atop the moss, It inherits the moss. When an injured, lone wolf comes limping by and lays down to die, It takes on the form of the animal. Finally, It gains consciousness and begins to traverse the empty tundra until It meets a boy.\n \nThe boy lives alone in a ghost town, which the adults abandoned long ago in search of the paradise said to exist far beyond the endless sea of white tundra. However, their efforts were for naught, and now the boy is in a critical state.\n \nAcquiring the form of the boy, It sets off on a never-ending journey, in search of new experiences, places, and people.\n \n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/105306.jpg",
+      "date": "Oct ??, 2020, 22:50 (JST)",
+      "producer": "Brain's Base",
+      "eps": 20,
       "genres": [
-        "Action",
-        "Horror",
-        "Demons",
+        "Adventure",
         "Supernatural",
-        "School",
+        "Drama",
         "Shounen"
       ],
       "category": "TV (New)"
@@ -136,34 +151,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Fumetsu no Anata e",
-      "description": "It, a mysterious immortal being, is sent to the Earth with no emotions nor identity. However, It is able to take the shape of those around that have a strong impetus.\n \nAt first, It is a sphere. Then, It imitates the form of a rock. As the temperature drops and snow falls atop the moss, It inherits the moss. When an injured, lone wolf comes limping by and lays down to die, It takes on the form of the animal. Finally, It gains consciousness and begins to traverse the empty tundra until It meets a boy.\n \nThe boy lives alone in a ghost town, which the adults abandoned long ago in search of the paradise said to exist far beyond the endless sea of white tundra. However, their efforts were for naught, and now the boy is in a critical state.\n \nAcquiring the form of the boy, It sets off on a never-ending journey, in search of new experiences, places, and people.\n \n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/105306.jpg",
-      "date": "Oct ??, 2020, 22:50 (JST)",
-      "producer": "Brain's Base",
-      "eps": 20,
-      "genres": [
-        "Adventure",
-        "Supernatural",
-        "Drama",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Gochuumon wa Usagi Desu ka? Bloom",
-      "description": "Third season of Gochuumon wa Usagi Desu ka.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1423/106509.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Encourage Films",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Ikebukuro West Gate Park",
       "description": "Living in an area known for its juvenile crime, 21-year-old Makoto is a friend of King, the leader of a youth gang called the G-Boys, though he himself does not want to join as a member. Known for his cool head and ability to get things done, Makoto becomes a key trouble-shooter for the gang by diffusing tense situations and keeping his friends out of harm's way. However, the death of his girlfriend and an escalating turf war with a rival gang threaten to be more than Makoto can handle.\n\n(Source: AsianWiki)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1277/108376.jpg",
@@ -193,16 +180,28 @@
       "category": "TV (New)"
     },
     {
-      "title": "Assault Lily: Bouquet",
-      "description": "In the near future, humanity faces imminent destruction from mysterious creatures known as \"Huge.\" The world wages war against the Huge, and develops the anti-weapon \"CHARM\" (Counter Huge Arms) by combining science and magic. CHARM works more effectively when used by teenage girls, and those who use the weapons are revered as \"Lilies.\" The Lilies are trained at military academies called \"Gardens,\" which also serve as bases to protect and advise people. This is a story about girls who aim to become Lilies so they can protect Earth. \n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1024/108413.jpg",
-      "date": "Oct 2, 2020, 01:28 (JST)",
-      "producer": "Shaft",
+      "title": "Kamisama ni Natta Hi",
+      "description": "At the end of the last summer vacation of high school, Youta Narukami spends his days preparing for the university entrance exams, when a young girl named Hina suddenly appears, proclaiming herself as the \"god of omniscience.\" Youta is confused and does not believe Hina when she tells him \"The world will end in 30 days.\" After witnessing Hina's God-like predictive ability, Youta begins to believe her powers are real. Hina, who is innocent and childlike despite her supernatural powers, decides for some reason to stay at Youta's home. Thus begins the start of their lively summer before the end of the world.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1564/108648.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "P.A. Works",
       "eps": null,
       "genres": [
-        "Action",
-        "Magic",
+        "Drama",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Gochuumon wa Usagi Desu ka? Bloom",
+      "description": "Third season of Gochuumon wa Usagi Desu ka.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1423/106509.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Encourage Films",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -215,6 +214,21 @@
       "eps": null,
       "genres": [
         "Adventure",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+      "description": "A great war has raged for years between the scientifically advanced Empire and Nebulis, the realm of the witches―until the youngest knight ever to receive the title of the Empire's strongest meets the princess of the rival nation. Though they are sworn enemies, the knight is taken by her beauty and dignity, and the princess is moved by his strength and way of life. Will the fighting between them ever be allowed to end? \n\n(Source: Yen Press)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1157/107048.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Silver Link.",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Military",
+        "Romance",
         "Fantasy"
       ],
       "category": "TV (New)"
@@ -235,14 +249,15 @@
       "category": "TV (New)"
     },
     {
-      "title": "Kamisama ni Natta Hi",
-      "description": "At the end of the last summer vacation of high school, Youta Narukami spends his days preparing for the university entrance exams, when a young girl named Hina suddenly appears, proclaiming herself as the \"god of omniscience.\" Youta is confused and does not believe Hina when she tells him \"The world will end in 30 days.\" After witnessing Hina's God-like predictive ability, Youta begins to believe her powers are real. Hina, who is innocent and childlike despite her supernatural powers, decides for some reason to stay at Youta's home. Thus begins the start of their lively summer before the end of the world.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1564/108648.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "P.A. Works",
+      "title": "Assault Lily: Bouquet",
+      "description": "In the near future, humanity faces imminent destruction from mysterious creatures known as \"Huge.\" The world wages war against the Huge, and develops the anti-weapon \"CHARM\" (Counter Huge Arms) by combining science and magic. CHARM works more effectively when used by teenage girls, and those who use the weapons are revered as \"Lilies.\" The Lilies are trained at military academies called \"Gardens,\" which also serve as bases to protect and advise people. This is a story about girls who aim to become Lilies so they can protect Earth. \n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1024/108413.jpg",
+      "date": "Oct 2, 2020, 01:28 (JST)",
+      "producer": "Shaft",
       "eps": null,
       "genres": [
-        "Drama",
+        "Action",
+        "Magic",
         "Fantasy"
       ],
       "category": "TV (New)"
@@ -261,21 +276,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
-      "description": "A great war has raged for years between the scientifically advanced Empire and Nebulis, the realm of the witches―until the youngest knight ever to receive the title of the Empire's strongest meets the princess of the rival nation. Though they are sworn enemies, the knight is taken by her beauty and dignity, and the princess is moved by his strength and way of life. Will the fighting between them ever be allowed to end? \n\n(Source: Yen Press)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1157/107048.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Silver Link.",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Military",
-        "Romance",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
       "description": "Lloyd is a novice adventurer whose dream is to discover \"true strength\" in the capital he's always admired, despite growing up with neighbors who always considered him weak. The story starts with him departing from his hometown, which just so happens to be located right next to...one of the most dangerous dungeons in the world?! Lloyd may think of himself as powerless, but when he goes to the city that serves as the starter town for adventurers, the difference between him and everyone else couldn't be starker! \n\n(Source: Yen Press, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1282/106599.jpg",
@@ -285,76 +285,6 @@
       "genres": [
         "Adventure",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Strike Witches: Road to Berlin",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/108577.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "David Production",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Ecchi",
-        "Magic",
-        "Military",
-        "Sci-Fi"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima",
-      "description": "In a world where women now dominate the government, the creation and use of weapons is strictly forbidden. However, by no means has conflict been brought to an end; instead of weapons, war is waged through words. With the power of the \"Hypnosis Mic,\" lyrics can affect one's opponent in various ways and cause real damage. Those in the divisions outside the women-only Chuou Ward thus use it for fierce rap battles as their weapon in the constant clash for territory. \n\n(Source: Tokyo Otaku Mode)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1677/106540.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "A-1 Pictures",
-      "eps": null,
-      "genres": [
-        "Music"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Kuma Kuma Kuma Bear",
-      "description": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has! \n\n(Source: Seven Seas Entertainment)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1062/107803.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "EMT Squared",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Ochikobore Fruit Tart",
-      "description": "Fourth dormitory of the Rat Production (commonly known as Nezumi-sou)—the place where dropout idol girls live: the former child actor Sekino Roko, musician Nukui Hayu, and model Maehara Nina. Sakura Ino, who always dreamed of becoming an idol, moves in. At the same time, the decision is made to demolish the dormitory. Due to the project launched by the manager Kajino Hoho, \"Ochikobore Fruit Tart,\" occupants of the dormitory form a new idol group called \"Fruit Tart\" and start their activities in order to repay a one hundred million yen debt. \n\n(Source: MU, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1851/108683.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "feel.",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Dragon Quest: Dai no Daibouken (2020)",
-      "description": "A long time ago, there was a valiant swordsman who came to be known simply as \"the hero.\" There was a demon who has caused people suffering. The hero and his companions arrived to challenge the demon to a battle and by combining their powers, the battle was brought swift conclusion. With no one around to cause trouble, the island became a quiet place where everyone could live together in peace.\n\nSeveral years later, the demon is revived. Our present-day protagonist, Dai, lives on a remote island in the southern seas and dreams of becoming a great hero. When he hears about the demon's revival, Dai and his friends take it upon themselves to stop him and the evil force that revived him. Along the way, Dai discovers the identity of \"the hero,\" the truth behind the evil force who revived the demon, and Dai's own hidden powers that surface in times of peril.\n\n(Source: MU, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1839/104933.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Toei Animation",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -389,19 +319,28 @@
       "category": "TV (New)"
     },
     {
-      "title": "Maou-jou de Oyasumi",
-      "description": "Sshhh! Princess Syalis is trying to get a good night's sleep. Some shut-eye. Forty winks. Catch some Z's. Long ago in olden times when people and demons lived together in—well, disharmony, really—a demon king kidnaps a human princess and imprisons her in his castle. Bereft, the princess's subjects beat their chests in anguish…until a hero arises to spearhead Project Rescue Our Princess! While waiting for her knight in shining armor, what's an imprisoned princess to do...? Teddy-bear guards with bat wings are all very well, but her dungeon cell is bo-o-o-ring! So, she decides to wile away the long hours by sleeping. Now if only she could get comfortable…and didn't suffer from insomnia...\n\n(Source: VIZ Media)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg",
+      "title": "Kuma Kuma Kuma Bear",
+      "description": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has! \n\n(Source: Seven Seas Entertainment)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1062/107803.jpg",
       "date": "Oct ??, 2020",
-      "producer": "Doga Kobo",
+      "producer": "EMT Squared",
       "eps": null,
       "genres": [
-        "Slice of Life",
+        "Adventure",
         "Comedy",
-        "Supernatural",
-        "Magic",
-        "Fantasy",
-        "Shounen"
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima",
+      "description": "In a world where women now dominate the government, the creation and use of weapons is strictly forbidden. However, by no means has conflict been brought to an end; instead of weapons, war is waged through words. With the power of the \"Hypnosis Mic,\" lyrics can affect one's opponent in various ways and cause real damage. Those in the divisions outside the women-only Chuou Ward thus use it for fierce rap battles as their weapon in the constant clash for territory. \n\n(Source: Tokyo Otaku Mode)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1677/106540.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "A-1 Pictures",
+      "eps": null,
+      "genres": [
+        "Music"
       ],
       "category": "TV (New)"
     },
@@ -416,6 +355,67 @@
         "Mystery",
         "Historical",
         "Psychological",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Dragon Quest: Dai no Daibouken (2020)",
+      "description": "A long time ago, there was a valiant swordsman who came to be known simply as \"the hero.\" There was a demon who has caused people suffering. The hero and his companions arrived to challenge the demon to a battle and by combining their powers, the battle was brought swift conclusion. With no one around to cause trouble, the island became a quiet place where everyone could live together in peace.\n\nSeveral years later, the demon is revived. Our present-day protagonist, Dai, lives on a remote island in the southern seas and dreams of becoming a great hero. When he hears about the demon's revival, Dai and his friends take it upon themselves to stop him and the evil force that revived him. Along the way, Dai discovers the identity of \"the hero,\" the truth behind the evil force who revived the demon, and Dai's own hidden powers that surface in times of peril.\n\n(Source: MU, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1839/104933.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Toei Animation",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Strike Witches: Road to Berlin",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/108577.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "David Production",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Ecchi",
+        "Magic",
+        "Military",
+        "Sci-Fi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Ochikobore Fruit Tart",
+      "description": "Fourth dormitory of the Rat Production (commonly known as Nezumi-sou)—the place where dropout idol girls live: the former child actor Sekino Roko, musician Nukui Hayu, and model Maehara Nina. Sakura Ino, who always dreamed of becoming an idol, moves in. At the same time, the decision is made to demolish the dormitory. Due to the project launched by the manager Kajino Hoho, \"Ochikobore Fruit Tart,\" occupants of the dormitory form a new idol group called \"Fruit Tart\" and start their activities in order to repay a one hundred million yen debt. \n\n(Source: MU, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1851/108683.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "feel.",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Maou-jou de Oyasumi",
+      "description": "Sshhh! Princess Syalis is trying to get a good night's sleep. Some shut-eye. Forty winks. Catch some Z's. Long ago in olden times when people and demons lived together in—well, disharmony, really—a demon king kidnaps a human princess and imprisons her in his castle. Bereft, the princess's subjects beat their chests in anguish…until a hero arises to spearhead Project Rescue Our Princess! While waiting for her knight in shining armor, what's an imprisoned princess to do...? Teddy-bear guards with bat wings are all very well, but her dungeon cell is bo-o-o-ring! So, she decides to wile away the long hours by sleeping. Now if only she could get comfortable…and didn't suffer from insomnia...\n\n(Source: VIZ Media)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Doga Kobo",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Supernatural",
+        "Magic",
+        "Fantasy",
         "Shounen"
       ],
       "category": "TV (New)"
@@ -443,6 +443,49 @@
       "category": "TV (New)"
     },
     {
+      "title": "Osomatsu-san 3rd Season",
+      "description": "Third season of Osomatsu-san.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108392.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Studio Pierrot",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Parody"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Munou na Nana",
+      "description": "It is the year 20XX. Earth was assaulted by monsters that would come to be known as \"the Enemy of Humanity.\" In order to deal with this threat, special schools composed of teenagers with extraordinary abilities were formed. These people, who came to be known as \"the Talented,\" had abilities that could defy the rules of reality.\n\nAmong these people with supernatural powers was an outlier, an individual who was sent to one of these schools despite having no innate special abilities whatsoever. This is the story of our protagonist, who attempts to defeat the Enemies of Humanity through the use of intelligence and manipulation alone. \n\n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1786/108399.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Bridge",
+      "eps": null,
+      "genres": [
+        "Psychological",
+        "Supernatural",
+        "Thriller",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "King's Raid: Ishi wo Tsugumono-tachi",
+      "description": "It's been 100 years since King Kyle buried Ang Mundo. Now in a time of peace, the apprentice knight Kasel enjoys his life without worry. His fate begins to change, however, with news of demon appearances infesting the neighborhood. Guided by a wise man, Kasel finds friends he can rely on and sets off on his mission to seek a holy sword, capable of slaying his newfound enemies.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1686/107300.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Sunrise Beyond, OLM",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Magic",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Guraburu!",
       "description": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106812.jpg",
@@ -452,6 +495,20 @@
       "genres": [
         "Adventure",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Iwa Kakeru!: Sport Climbing Girls",
+      "description": "Konomi Kasahara, a junior high school girl, has made a big name after winning numerous competitive puzzle game tournaments. The story begins when she finds a sports climbing club in her high school. Using special skills other than that of puzzle games, Kasahara becomes fascinated with climbing.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1110/107213.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Blade",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Sports",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -481,21 +538,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "King's Raid: Ishi wo Tsugumono-tachi",
-      "description": "It's been 100 years since King Kyle buried Ang Mundo. Now in a time of peace, the apprentice knight Kasel enjoys his life without worry. His fate begins to change, however, with news of demon appearances infesting the neighborhood. Guided by a wise man, Kasel finds friends he can rely on and sets off on his mission to seek a holy sword, capable of slaying his newfound enemies.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1686/107300.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Sunrise Beyond, OLM",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Magic",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Rail Romanesque",
       "description": "Set in Hinomoto, a fictional version of Japan, where for a long time railway travel served as the most important form of transport. Each locomotive was paired with a humanoid control module, so-called Raillord, that aided the train operator. However, many rail lines had been discontinued due to the rising popularity of 'aerocrafts,' a safe and convenient aerial mode of transport. As such, their accompanying railroads also went into a deep sleep.\n\nSoutetsu had lost his entire family in a rail accident and was adopted into the Migita household, which runs a shochu brewery in the city of Ohitoyo. He returned to his hometown to save it from the potential water pollution that would occur if they accepted the proposal to build an aerocraft factory nearby. He woke up the Raillord Hachiroku by accident and became her owner. For different purposes, they agreed to help find her lost locomotive, with the help of his stepsister Hibiki, the town’s mayor and local railway chief, Paulette and others. \n\n(Source: VNDB, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/108605.jpg",
@@ -506,20 +548,6 @@
         "Sci-Fi",
         "Harem",
         "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Iwa Kakeru!: Sport Climbing Girls",
-      "description": "Konomi Kasahara, a junior high school girl, has made a big name after winning numerous competitive puzzle game tournaments. The story begins when she finds a sports climbing club in her high school. Using special skills other than that of puzzle games, Kasahara becomes fascinated with climbing.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1110/107213.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Blade",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Sports",
-        "School"
       ],
       "category": "TV (New)"
     },
@@ -537,21 +565,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Munou na Nana",
-      "description": "It is the year 20XX. Earth was assaulted by monsters that would come to be known as \"the Enemy of Humanity.\" In order to deal with this threat, special schools composed of teenagers with extraordinary abilities were formed. These people, who came to be known as \"the Talented,\" had abilities that could defy the rules of reality.\n\nAmong these people with supernatural powers was an outlier, an individual who was sent to one of these schools despite having no innate special abilities whatsoever. This is the story of our protagonist, who attempts to defeat the Enemies of Humanity through the use of intelligence and manipulation alone. \n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1786/108399.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Bridge",
-      "eps": null,
-      "genres": [
-        "Psychological",
-        "Supernatural",
-        "Thriller",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Inu to Neko Docchi mo Katteru to Mainichi Tanoshii",
       "description": "Matsumoto-san owns an innocent dog and an adorably devious cat. Laughing and crying ensue as they all live daily life together.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1788/106525.jpg",
@@ -561,6 +574,19 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Eternity: Shinya no Nurekoi Channel ♡",
+      "description": "Anime adaptation of 12 romantic works from the Eternity Books manga label.\n\nThe complete edition with explicit scenes was distributed online via the official website for Eternity Books. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1899/108400.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Seven",
+      "eps": 12,
+      "genres": [
+        "Romance",
+        "Ecchi"
       ],
       "category": "TV (New)"
     },
@@ -599,32 +625,6 @@
       "eps": null,
       "genres": [
         "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Eternity: Shinya no Nurekoi Channel ♡",
-      "description": "Anime adaptation of 12 romantic works from the Eternity Books manga label.\n\nThe complete edition with explicit scenes was distributed online via the official website for Eternity Books. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1899/108400.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Seven",
-      "eps": 12,
-      "genres": [
-        "Romance",
-        "Ecchi"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Osomatsu-san 3rd Season",
-      "description": "Third season of Osomatsu-san.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108392.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Studio Pierrot",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Parody"
       ],
       "category": "TV (New)"
     },
@@ -753,20 +753,6 @@
       "category": "Movie"
     },
     {
-      "title": "Entotsu Machi no Poupelle",
-      "description": "There is a town surrounded by a wall that stands 4,000 meters tall. Because the town is full of chimneys, the air is always full of smoke. No one in the town knows what the sky looks like. On one night of the town's Halloween festival, a deliveryman accidentally drops the heart he is supposed to deliver. He cannot find the heart in the smoke and gives up. The heart continues to beat where it fell in the town of chimneys.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/105018.jpg",
-      "date": "Dec ??, 2020",
-      "producer": "Studio 4°C",
-      "eps": 1,
-      "genres": [
-        "Adventure",
-        "Magic",
-        "Fantasy"
-      ],
-      "category": "Movie"
-    },
-    {
       "title": "Monster Strike the Movie: Lucifer - Zetsubou no Yoake",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1347/106737.jpg",
@@ -776,6 +762,20 @@
       "genres": [
         "Action",
         "Game",
+        "Fantasy"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Entotsu Machi no Poupelle",
+      "description": "There is a town surrounded by a wall that stands 4,000 meters tall. Because the town is full of chimneys, the air is always full of smoke. No one in the town knows what the sky looks like. On one night of the town's Halloween festival, a deliveryman accidentally drops the heart he is supposed to deliver. He cannot find the heart in the smoke and gives up. The heart continues to beat where it fell in the town of chimneys.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/105018.jpg",
+      "date": "Dec ??, 2020",
+      "producer": "Studio 4°C",
+      "eps": 1,
+      "genres": [
+        "Adventure",
+        "Magic",
         "Fantasy"
       ],
       "category": "Movie"
@@ -832,6 +832,18 @@
       "eps": null,
       "genres": [
         "Music"
+      ],
+      "category": "Unknown"
+    },
+    {
+      "title": "Saikyou Kamizmode!",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1162/108655.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action"
       ],
       "category": "Unknown"
     }
