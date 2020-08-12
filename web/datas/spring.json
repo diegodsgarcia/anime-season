@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-08-11",
+  "lastUpdate": "2020-08-12",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -2159,19 +2159,6 @@
       "category": "ONA"
     },
     {
-      "title": "Condom Battler Gorou",
-      "description": "The show follows Gorou, a 24-year-old man who dreams of becoming the greatest Condom Battler. His go-to weapon is a 0.01 mm condom which he loads into an arm dispenser, and it opens to reveal a red rubbery armor that Gorou wears in battle. It also gives the hero the ability to summon sperm and created an attack out of the sticky substance.\n\nThere are other characters in the anime like Miku and Hayato who duel using their own condoms. The anime is filled with absurd dialogue and fights, but these heroes always make sure to teach a sex education lesson along the way. \n\n(Source: Comicbook.com)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1305/108045.jpg",
-      "date": "Jun 11, 2020",
-      "producer": "-",
-      "eps": 4,
-      "genres": [
-        "Action",
-        "Parody"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Yi Shijie Zhongyao Pu",
       "description": "After graduating from the University of Traditional Chinese Medicine, Sun Jiayou returned home to inherit a traditional Chinese medicine shop. He found that although the people here would not use medicine as a treatment, they had own spiritual system. To realize his grandfather’s dream, he plans to promote Chinese medicine in a different world. However, the spirit messenger considers it a big threat. In some confrontations with the spirit messenger, he discovers a greater mystery.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1789/108202.jpg",
@@ -2182,6 +2169,19 @@
         "Drama",
         "Magic",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Condom Battler Gorou",
+      "description": "The show follows Gorou, a 24-year-old man who dreams of becoming the greatest Condom Battler. His go-to weapon is a 0.01 mm condom which he loads into an arm dispenser, and it opens to reveal a red rubbery armor that Gorou wears in battle. It also gives the hero the ability to summon sperm and created an attack out of the sticky substance.\n\nThere are other characters in the anime like Miku and Hayato who duel using their own condoms. The anime is filled with absurd dialogue and fights, but these heroes always make sure to teach a sex education lesson along the way. \n\n(Source: Comicbook.com)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1305/108045.jpg",
+      "date": "Jun 11, 2020",
+      "producer": "-",
+      "eps": 4,
+      "genres": [
+        "Action",
+        "Parody"
       ],
       "category": "ONA"
     },

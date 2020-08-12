@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-11",
+  "lastUpdate": "2020-08-12",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -1202,6 +1202,19 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Hakushon Daimaou 2020",
+      "description": "50 years have passed since the events of the original Hakushon Daimaou series. Akubi is training to become queen when she meets Kantarou Yodama, the grandson of the genie bottle's original owner, Kan-chan. Together, Akubi and Kantarou take on many jobs in the human world and learn the importance of having a dream.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1621/105178.jpg",
+      "date": "Apr 11, 2020, 17:30 (JST)",
+      "producer": "Nippon Animation, Tatsunoko Production",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Aware! Meisaku-kun",
       "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
@@ -1213,19 +1226,6 @@
         "Parody",
         "Kids",
         "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Hakushon Daimaou 2020",
-      "description": "50 years have passed since the events of the original Hakushon Daimaou series. Akubi is training to become queen when she meets Kantarou Yodama, the grandson of the genie bottle's original owner, Kan-chan. Together, Akubi and Kantarou take on many jobs in the human world and learn the importance of having a dream.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1621/105178.jpg",
-      "date": "Apr 11, 2020, 17:30 (JST)",
-      "producer": "Nippon Animation, Tatsunoko Production",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1873,20 +1873,6 @@
       "category": "ONA"
     },
     {
-      "title": "Xian Feng Jian Yu Lu",
-      "description": "The ancient Shenzhou Mainland, the ancient Chinese dynasty, and the demon kingdom of Tushan had been in conflict for thousands of years. Zhang Kuangyun from China and Bai Binglan, Princess Tianhu from Tushan, met each other because of a misunderstanding.\n\nTo explore the details of the enemy, Bai Binglan lurked to Zhang Kuangyun’s side and became her follower. While identity gaps, differences in ideas, and emotional growth, with step-by-step exploration, Zhang Kuangyun slowly discovered that his aunt and teacher’s family were slaughtered and killed in the mountains only incidents that were covered up. An unprecedented great conspiracy gradually emerged from the surface.\n\n(Source: Narul Donghua)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1092/108634.jpg",
-      "date": "Jul 11, 2020",
-      "producer": "Ruo Hong Culture",
-      "eps": 70,
-      "genres": [
-        "Action",
-        "Supernatural",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Ling Long: Incarnation Part 2",
       "description": "Second half of Ling Long: Incarnation.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/108194.jpg",
@@ -1900,6 +1886,20 @@
         "Demons",
         "Drama",
         "Thriller"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Xian Feng Jian Yu Lu",
+      "description": "The ancient Shenzhou Mainland, the ancient Chinese dynasty, and the demon kingdom of Tushan had been in conflict for thousands of years. Zhang Kuangyun from China and Bai Binglan, Princess Tianhu from Tushan, met each other because of a misunderstanding.\n\nTo explore the details of the enemy, Bai Binglan lurked to Zhang Kuangyun’s side and became her follower. While identity gaps, differences in ideas, and emotional growth, with step-by-step exploration, Zhang Kuangyun slowly discovered that his aunt and teacher’s family were slaughtered and killed in the mountains only incidents that were covered up. An unprecedented great conspiracy gradually emerged from the surface.\n\n(Source: Narul Donghua)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1092/108634.jpg",
+      "date": "Jul 11, 2020",
+      "producer": "Ruo Hong Culture",
+      "eps": 70,
+      "genres": [
+        "Action",
+        "Supernatural",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2107,18 +2107,6 @@
       "category": "OVA"
     },
     {
-      "title": "Muramata-san no Himitsu",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1845/107859.jpg",
-      "date": "Jul 17, 2020",
-      "producer": "-",
-      "eps": 2,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Isekai Harem Monogatari",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/107872.jpg",
@@ -2129,6 +2117,18 @@
         "Harem",
         "Hentai",
         "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Muramata-san no Himitsu",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1845/107859.jpg",
+      "date": "Jul 17, 2020",
+      "producer": "-",
+      "eps": 2,
+      "genres": [
+        "Hentai"
       ],
       "category": "OVA"
     },

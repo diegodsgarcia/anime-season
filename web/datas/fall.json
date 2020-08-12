@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-08-11",
+  "lastUpdate": "2020-08-12",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -120,7 +120,7 @@
     {
       "title": "Tonikaku Kawaii",
       "description": "Having grown up ridiculed for his bizarre name, Nasa Yuzaki strives to be remembered for something more. Fortunately, it seems he's on the right path, ranking first in the nation's mock exams and set to enter his high school of choice.\n\nHowever, everything changes in a single night when he notices a girl across the street on his way home. Enraptured by her overwhelming cuteness, it's love at first sight for Nasa. But in his infatuated daze, he fails to notice the approaching danger speeding down the road and finds himself at death's door. Barely alive thanks to the girl's intervention, Nasa musters the courage to confess his love to her, fearing she might otherwise vanish from his life. She accepts his proposal on one condition: marriage, to which Nasa gladly accepts before passing out from his injuries. Upon waking, however, the girl is nowhere to be found.\n\nAfter recovering from his injuries, Nasa tosses his previous ambitions aside and dedicates his life to finding the girl that captured his heart, yet several years pass to no avail. But one night, when an unexpected visitor comes knocking on his door, Nasa finds himself facing a woman that would forever change his world: his wife.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1279/106298.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1613/108722.jpg",
       "date": "Oct 3, 2020",
       "producer": "Seven Arcs",
       "eps": null,
@@ -456,6 +456,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Iwa Kakeru!: Sport Climbing Girls",
+      "description": "Konomi Kasahara, a junior high school girl, has made a big name after winning numerous competitive puzzle game tournaments. The story begins when she finds a sports climbing club in her high school. Using special skills other than that of puzzle games, Kasahara becomes fascinated with climbing.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1626/108849.jpg",
+      "date": "Oct 4, 2020, 02:00 (JST)",
+      "producer": "Blade",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Sports",
+        "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Munou na Nana",
       "description": "It is the year 20XX. Earth was assaulted by monsters that would come to be known as \"the Enemy of Humanity.\" In order to deal with this threat, special schools composed of teenagers with extraordinary abilities were formed. These people, who came to be known as \"the Talented,\" had abilities that could defy the rules of reality.\n\nAmong these people with supernatural powers was an outlier, an individual who was sent to one of these schools despite having no innate special abilities whatsoever. This is the story of our protagonist, who attempts to defeat the Enemies of Humanity through the use of intelligence and manipulation alone. \n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1786/108399.jpg",
@@ -495,20 +509,6 @@
       "genres": [
         "Adventure",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Iwa Kakeru!: Sport Climbing Girls",
-      "description": "Konomi Kasahara, a junior high school girl, has made a big name after winning numerous competitive puzzle game tournaments. The story begins when she finds a sports climbing club in her high school. Using special skills other than that of puzzle games, Kasahara becomes fascinated with climbing.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1110/107213.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Blade",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Sports",
-        "School"
       ],
       "category": "TV (New)"
     },
@@ -625,6 +625,20 @@
       "eps": null,
       "genres": [
         "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Himitsukessha Taka no Tsume: Golden Spell",
+      "description": "Latest Himitsukessha Taka no Tsume series to be aired on TV.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1824/108847.jpg",
+      "date": "Oct 5, 2020, 01:20 (JST)",
+      "producer": "DLE",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Parody",
+        "Super Power"
       ],
       "category": "TV (New)"
     },
@@ -749,6 +763,19 @@
       "genres": [
         "Drama",
         "Fantasy"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Yes ka No ka Hanbun ka",
+      "description": "Kunieda Kei is a popular, young TV announcer whose public and private personas are so different, they might be called extreme. On the outside, he is the picture of perfection, affectionately nicknamed \"The Prince,\" while on the inside he is constantly cursing at all of the incompetence around him. Of course, no one knows this secret of his.\n\nOne day, Kei meets animation artist Tsuzuki Ushio for a work assignment. While Kei is in \"inside mode,\" he later runs into Tsuzuki, who doesn't recognize him in his worn-out sweats and a facemask, but as compensation for injuring Tsuzuki's arm, Kei gets roped into helping out with his work.\n\n(Source: Novel Updates, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/108850.jpg",
+      "date": "Dec ??, 2020",
+      "producer": "Lesprit",
+      "eps": 1,
+      "genres": [
+        "Drama",
+        "Shounen Ai"
       ],
       "category": "Movie"
     },
