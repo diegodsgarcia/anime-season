@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-08-12",
+  "lastUpdate": "2020-08-13",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -417,6 +417,18 @@
       "category": "TV (New)"
     },
     {
+      "title": "IDOLiSH7: Second Beat!",
+      "description": "Second season of IDOLiSH7.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1962/106361.jpg",
+      "date": "Apr 5, 2020, 22:30 (JST)",
+      "producer": "TROYCA",
+      "eps": 15,
+      "genres": [
+        "Music"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Yu☆Gi☆Oh!: Sevens",
       "description": "In the ever-growing world of Duel Monsters, as duelists improve their skills and rise up the ranks, duels become increasingly complex. By adhering to strict rules, in addition to using and learning proven strategies, one can develop into a strong duelist. However, as a boy who loves inventions and discovering new possibilities, elementary school student Yuuga Oudou finds the current way of dueling predictable and rigid—in other words, boring.\n\nThus, he aims to craft a new path in dueling with his exhilarating new invention: Rush Duels. His ambition soon catches the attention of Tatsuhisa Kamijou, a fellow elementary school student, who brings him to a mysterious place in an attempt to discover the potential of the new system. \n\nWhile Yuuga aims to implement Rush Duels as the new dueling standard and overthrow the conventions of the game, he opens the door to his ultimate goal—to make dueling exciting again.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1148/106883.jpg",
@@ -428,18 +440,6 @@
         "Game",
         "Fantasy",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "IDOLiSH7: Second Beat!",
-      "description": "Second season of IDOLiSH7.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1962/106361.jpg",
-      "date": "Apr 5, 2020, 22:30 (JST)",
-      "producer": "TROYCA",
-      "eps": 15,
-      "genres": [
-        "Music"
       ],
       "category": "TV (New)"
     },
@@ -614,6 +614,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
+      "description": "Third season of TV Yarou Nanaana.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1201/106347.jpg",
+      "date": "Apr 16, 2020, 19:53 (JST)",
+      "producer": "Studio Crocodile",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Tomica Kizuna Gattai: Earth Granner",
       "description": "The anime centers on the battles between the mysterious alien enemy Dark Spinner and the secret defense unit Earth Granner over Earth Energy, the energy generated from the Earth's rotation. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1597/105401.jpg",
@@ -625,19 +638,6 @@
         "Adventure",
         "Mecha",
         "Sci-Fi"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
-      "description": "Third season of TV Yarou Nanaana.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1201/106347.jpg",
-      "date": "Apr 16, 2020, 19:53 (JST)",
-      "producer": "Studio Crocodile",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Comedy"
       ],
       "category": "TV (New)"
     },

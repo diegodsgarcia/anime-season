@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-08-12",
+  "lastUpdate": "2020-08-13",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -321,7 +321,7 @@
     {
       "title": "Kuma Kuma Kuma Bear",
       "description": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has! \n\n(Source: Seven Seas Entertainment)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1062/107803.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/108852.jpg",
       "date": "Oct ??, 2020",
       "producer": "EMT Squared",
       "eps": null,
@@ -443,19 +443,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Osomatsu-san 3rd Season",
-      "description": "Third season of Osomatsu-san.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108392.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Studio Pierrot",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Parody"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Iwa Kakeru!: Sport Climbing Girls",
       "description": "Konomi Kasahara, a junior high school girl, has made a big name after winning numerous competitive puzzle game tournaments. The story begins when she finds a sports climbing club in her high school. Using special skills other than that of puzzle games, Kasahara becomes fascinated with climbing.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1626/108849.jpg",
@@ -466,6 +453,19 @@
         "Comedy",
         "Sports",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Osomatsu-san 3rd Season",
+      "description": "Third season of Osomatsu-san.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108392.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Studio Pierrot",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Parody"
       ],
       "category": "TV (New)"
     },
@@ -763,6 +763,20 @@
       "genres": [
         "Drama",
         "Fantasy"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Josee to Tora to Sakana-tachi",
+      "description": "A youth romantic drama with themes of growing up, the story focuses on college student Tsuneo and dreamer Josee, who lives her life stuck in a wheelchair. Josee—named after the heroine in Françoise Sagan's Wonderful Clouds—spends most of her days reading and painting until by chance she encounters Tsuneo, and decides it's time to face the real world.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1186/108864.jpg",
+      "date": "Dec 25, 2020",
+      "producer": "Bones",
+      "eps": 1,
+      "genres": [
+        "Slice of Life",
+        "Drama",
+        "Romance"
       ],
       "category": "Movie"
     },

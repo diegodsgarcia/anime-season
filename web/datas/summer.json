@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-12",
+  "lastUpdate": "2020-08-13",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -1038,6 +1038,19 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
+      "description": "Third season of TV Yarou Nanaana.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1201/106347.jpg",
+      "date": "Apr 16, 2020, 19:53 (JST)",
+      "producer": "Studio Crocodile",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Tomica Kizuna Gattai: Earth Granner",
       "description": "The anime centers on the battles between the mysterious alien enemy Dark Spinner and the secret defense unit Earth Granner over Earth Energy, the energy generated from the Earth's rotation. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1597/105401.jpg",
@@ -1049,19 +1062,6 @@
         "Adventure",
         "Mecha",
         "Sci-Fi"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
-      "description": "Third season of TV Yarou Nanaana.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1201/106347.jpg",
-      "date": "Apr 16, 2020, 19:53 (JST)",
-      "producer": "Studio Crocodile",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -2026,6 +2026,20 @@
       "category": "ONA"
     },
     {
+      "title": "Kyoshin to Hyouka no Shiro",
+      "description": "The story is set in Nagasaki prefecture in Minami Shimabara city, the fabled origin of the Shimabara Rebellion that sent shockwaves through all of Japan in the early Edo period. It is also where a third-year junior high school student named Shirou spends his days with his school friends.\n\nOne summer day, Shirou's older childhood friend Akane returns to Minami Shimabara from Tokyo. Shirou and Akane take a stroll around Minami Shimabara with another longtime friend, Tokiya. While these friends are dealing with nostalgia and more complex feelings, a mysterious creature named Goron suddenly appears before them. This encounter with a mere little creature causes great events to unfold once more in this city...\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/107681.jpg",
+      "date": "Aug 8, 2020",
+      "producer": "TriF Studio",
+      "eps": 4,
+      "genres": [
+        "Mystery",
+        "Supernatural",
+        "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Tadaima! Chibi Godzilla",
       "description": "The \"Chibi Godzilla\" project was launched to celebrate the 65th anniversary of Toho's Godzilla franchise.\n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/108564.jpg",
@@ -2062,20 +2076,6 @@
         "Action",
         "Sci-Fi",
         "Music"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Kyoshin to Hyouka no Shiro",
-      "description": "The story is set in Nagasaki prefecture in Minami Shimabara city, the fabled origin of the Shimabara Rebellion that sent shockwaves through all of Japan in the early Edo period. It is also where a third-year junior high school student named Shirou spends his days with his school friends.\n\nOne summer day, Shirou's older childhood friend Akane returns to Minami Shimabara from Tokyo. Shirou and Akane take a stroll around Minami Shimabara with another longtime friend, Tokiya. While these friends are dealing with nostalgia and more complex feelings, a mysterious creature named Goron suddenly appears before them. This encounter with a mere little creature causes great events to unfold once more in this city...\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/107681.jpg",
-      "date": "Aug 8, 2020",
-      "producer": "TriF Studio",
-      "eps": 4,
-      "genres": [
-        "Mystery",
-        "Supernatural",
-        "Drama"
       ],
       "category": "ONA"
     },
@@ -2180,6 +2180,18 @@
       "genres": [
         "Hentai",
         "School"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Yuutousei Ayaka no Uraomote",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/106369.jpg",
+      "date": "Sep 25, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai"
       ],
       "category": "OVA"
     },
