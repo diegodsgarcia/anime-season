@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-08-13",
+  "lastUpdate": "2020-08-14",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -2252,18 +2252,6 @@
       "category": "ONA"
     },
     {
-      "title": "Mottainai Baasan",
-      "description": "In the books, the titular Grandma seeks to explore the true meaning of the Japanese phrase \"mottainai\" after her son asked her what it meant and she couldn't answer. \"Mottainai\" is a commonly used exclamation that roughly translates to \"what a waste!\", expressing regret over wastefulness. The Grandma seeks to explore the meaning and importance of \"mottainai\" in the story.\n\n(Source: Anime News Network)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1652/108053.jpg",
-      "date": "Jun 4, 2020",
-      "producer": "LIDENFILMS",
-      "eps": 4,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Mamoru Hikitsugu Watashitachi no Kurashi",
       "description": "A young man who has left his parents' home follows the path of a customs officer. And what lies ahead is...\n\n(Source: Anilist)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1785/108594.jpg",
@@ -2272,6 +2260,18 @@
       "eps": 1,
       "genres": [
         "Music",
+        "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Mottainai Baasan",
+      "description": "In the books, the titular Grandma seeks to explore the true meaning of the Japanese phrase \"mottainai\" after her son asked her what it meant and she couldn't answer. \"Mottainai\" is a commonly used exclamation that roughly translates to \"what a waste!\", expressing regret over wastefulness. The Grandma seeks to explore the meaning and importance of \"mottainai\" in the story.\n\n(Source: Anime News Network)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1652/108053.jpg",
+      "date": "Jun 4, 2020",
+      "producer": "LIDENFILMS",
+      "eps": 4,
+      "genres": [
         "Slice of Life"
       ],
       "category": "ONA"

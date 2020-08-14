@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-08-13",
+  "lastUpdate": "2020-08-14",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -431,18 +431,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "A3! Season Autumn & Winter",
-      "description": "\"Director! Please help us bloom!\"\n\nIn Tokyo, there is a place called Velude Way. It is a district notorious for its performers and theatrical groups. Izumi Tachibana, who was previously a stage actress, arrives with a letter that reads, \"Full of debt! Zero customers! Only one actor!\" It describes the current state of the once-popular theater group Mankai Company. Her task is to rebuild the company to its former glory as the new owner and chief director.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1049/108197.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "P.A. Works, Studio 3Hz",
-      "eps": null,
-      "genres": [
-        "Music"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Iwa Kakeru!: Sport Climbing Girls",
       "description": "Konomi Kasahara, a junior high school girl, has made a big name after winning numerous competitive puzzle game tournaments. The story begins when she finds a sports climbing club in her high school. Using special skills other than that of puzzle games, Kasahara becomes fascinated with climbing.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1626/108849.jpg",
@@ -453,6 +441,18 @@
         "Comedy",
         "Sports",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "A3! Season Autumn & Winter",
+      "description": "\"Director! Please help us bloom!\"\n\nIn Tokyo, there is a place called Velude Way. It is a district notorious for its performers and theatrical groups. Izumi Tachibana, who was previously a stage actress, arrives with a letter that reads, \"Full of debt! Zero customers! Only one actor!\" It describes the current state of the once-popular theater group Mankai Company. Her task is to rebuild the company to its former glory as the new owner and chief director.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1049/108197.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "P.A. Works, Studio 3Hz",
+      "eps": null,
+      "genres": [
+        "Music"
       ],
       "category": "TV (New)"
     },
@@ -587,6 +587,18 @@
       "genres": [
         "Romance",
         "Ecchi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Taisou Zamurai",
+      "description": "Year 2002. Japan's gymnastics world was once strong. Former Japanese representative Shoutarou Aragaki (29), who devoted his time to gymnastics, was unable to perform as expected. Even so, after training on a daily basis, his coach Amakusa recommends Shoutarou to retire. However, the fate of the Aragaki family will change significantly due to a certain \"encounter.\"\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1856/108871.jpg",
+      "date": "Oct 11, 2020, 01:30 (JST)",
+      "producer": "MAPPA",
+      "eps": null,
+      "genres": [
+        "Sports"
       ],
       "category": "TV (New)"
     },
@@ -754,19 +766,6 @@
       "category": "Movie"
     },
     {
-      "title": "Kimi wa Kanata",
-      "description": "Mio has feelings for her childhood friend Arata, but can't convey her feelings. One day, as they continue their delicate relationship, the two fight over something trivial. After letting tensions settle, Mio goes to make up with him in the pouring rain. While on her way, she gets into a traffic accident. When she regains consciousness, a mysterious and unfamiliar world appears before her eyes.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1415/108509.jpg",
-      "date": "Nov 27, 2020",
-      "producer": "Digital Network Animation",
-      "eps": 1,
-      "genres": [
-        "Drama",
-        "Fantasy"
-      ],
-      "category": "Movie"
-    },
-    {
       "title": "Josee to Tora to Sakana-tachi",
       "description": "A youth romantic drama with themes of growing up, the story focuses on college student Tsuneo and dreamer Josee, who lives her life stuck in a wheelchair. Josee—named after the heroine in Françoise Sagan's Wonderful Clouds—spends most of her days reading and painting until by chance she encounters Tsuneo, and decides it's time to face the real world.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1186/108864.jpg",
@@ -777,6 +776,19 @@
         "Slice of Life",
         "Drama",
         "Romance"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Kimi wa Kanata",
+      "description": "Mio has feelings for her childhood friend Arata, but can't convey her feelings. One day, as they continue their delicate relationship, the two fight over something trivial. After letting tensions settle, Mio goes to make up with him in the pouring rain. While on her way, she gets into a traffic accident. When she regains consciousness, a mysterious and unfamiliar world appears before her eyes.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1415/108509.jpg",
+      "date": "Nov 27, 2020",
+      "producer": "Digital Network Animation",
+      "eps": 1,
+      "genres": [
+        "Drama",
+        "Fantasy"
       ],
       "category": "Movie"
     },
