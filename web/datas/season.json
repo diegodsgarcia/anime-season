@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-14",
+  "lastUpdate": "2020-08-15",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -83,6 +83,21 @@
       "category": "TV (New)"
     },
     {
+      "title": "Kanojo, Okarishimasu",
+      "description": "Dumped by his girlfriend, emotionally shattered college student Kazuya Kinoshita attempts to appease the void in his heart through a rental girlfriend from a mobile app. At first, Chizuru Mizuhara seems to be the perfect girl with everything he could possibly ask for: great looks and a cute, caring personality.\n \nUpon seeing mixed opinions on her profile after their first date, and still tormented by his previous relationship, Kazuya believes that Chizuru is just playing around with the hearts of men and leaves her a negative rating. Angry at her client's disrespect towards her, Chizuru reveals her true nature: sassy and temperamental, the complete opposite of Kazuya's first impression. At that very moment, Kazuya receives news of his grandmother's collapse and is forced to bring Chizuru along with him to the hospital.\n \nAlthough it turns out to be nothing serious, his grandmother is ecstatic that Kazuya has finally found a serious girlfriend, which had always been her wish. Unable to tell her the truth, Kazuya and Chizuru are forced into a fake relationship—acting as if they are truly lovers.\n \n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1485/107693.jpg",
+      "date": "Jul 11, 2020, 01:25 (JST)",
+      "producer": "TMS Entertainment",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "School",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e",
       "description": "After 2000 years have passed, the ruthless demon lord has just been reincarnated! But his aptitude at an academy for nurturing candidates for demon lords is, “inept”!?\n\nHaving the capability to destroy humans, elementals, and gods, after a long period of countless wars and strife, Arnos the demon lord became sick and tired of all that and longed for a peaceful world, so he decided to reincarnate to the future.\n\nHowever, what awaited him after his reincarnation is a world too used to peace that his descendants became too weak due to a huge weakening in magical powers. \n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1126/108573.jpg",
@@ -95,21 +110,6 @@
         "Magic",
         "Fantasy",
         "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Kanojo, Okarishimasu",
-      "description": "Dumped by his girlfriend, emotionally shattered college student Kazuya Kinoshita attempts to appease the void in his heart through a rental girlfriend from a mobile app. At first, Chizuru Mizuhara seems to be the perfect girl with everything he could possibly ask for: great looks and a cute, caring personality.\n \nUpon seeing mixed opinions on her profile after their first date, and still tormented by his previous relationship, Kazuya believes that Chizuru is just playing around with the hearts of men and leaves her a negative rating. Angry at her client's disrespect towards her, Chizuru reveals her true nature: sassy and temperamental, the complete opposite of Kazuya's first impression. At that very moment, Kazuya receives news of his grandmother's collapse and is forced to bring Chizuru along with him to the hospital.\n \nAlthough it turns out to be nothing serious, his grandmother is ecstatic that Kazuya has finally found a serious girlfriend, which had always been her wish. Unable to tell her the truth, Kazuya and Chizuru are forced into a fake relationship—acting as if they are truly lovers.\n \n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1485/107693.jpg",
-      "date": "Jul 11, 2020, 01:25 (JST)",
-      "producer": "TMS Entertainment",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "School",
-        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -1800,20 +1800,6 @@
       "category": "ONA"
     },
     {
-      "title": "Liu Yi Chuanqi",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1297/108295.jpg",
-      "date": "Jul 22, 2020",
-      "producer": "Wei Chuang Jiang Xin",
-      "eps": 26,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Yuan Long",
       "description": "Special Forces Wang Sheng traveled to the soul world and was possessed by the waste carp Yuan soul, becoming a veritable waste person in the soul world. Wang Sheng used the knowledge he had learned in the world of master spirits like Yun Yuan to pass the battle, and even found a way to evolve the waste carp Yuan soul! The sparrow becomes a phoenix, and the carp leaps to the dragon gate. Wang Sheng has embarked on a road of Jackie Chan from the sinister soul dispute!\n\n(Source: Immortal Sun Scans)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
@@ -1823,6 +1809,20 @@
       "genres": [
         "Action",
         "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Liu Yi Chuanqi",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1297/108295.jpg",
+      "date": "Jul 22, 2020",
+      "producer": "Wei Chuang Jiang Xin",
+      "eps": 26,
+      "genres": [
+        "Action",
+        "Comedy",
         "Fantasy"
       ],
       "category": "ONA"
@@ -1949,6 +1949,20 @@
       "category": "ONA"
     },
     {
+      "title": "Kyoshin to Hyouka no Shiro",
+      "description": "The story is set in Nagasaki prefecture in Minami Shimabara city, the fabled origin of the Shimabara Rebellion that sent shockwaves through all of Japan in the early Edo period. It is also where a third-year junior high school student named Shirou spends his days with his school friends.\n\nOne summer day, Shirou's older childhood friend Akane returns to Minami Shimabara from Tokyo. Shirou and Akane take a stroll around Minami Shimabara with another longtime friend, Tokiya. While these friends are dealing with nostalgia and more complex feelings, a mysterious creature named Goron suddenly appears before them. This encounter with a mere little creature causes great events to unfold once more in this city...\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/107681.jpg",
+      "date": "Aug 8, 2020",
+      "producer": "TriF Studio",
+      "eps": 4,
+      "genres": [
+        "Mystery",
+        "Supernatural",
+        "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Hulaing Babies Aratame - Staying Babies: Chikyuu wo Mamore! Staying Babies with Yuusha Hayami-san",
       "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
@@ -1983,20 +1997,6 @@
       "eps": null,
       "genres": [
         "Action"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Kyoshin to Hyouka no Shiro",
-      "description": "The story is set in Nagasaki prefecture in Minami Shimabara city, the fabled origin of the Shimabara Rebellion that sent shockwaves through all of Japan in the early Edo period. It is also where a third-year junior high school student named Shirou spends his days with his school friends.\n\nOne summer day, Shirou's older childhood friend Akane returns to Minami Shimabara from Tokyo. Shirou and Akane take a stroll around Minami Shimabara with another longtime friend, Tokiya. While these friends are dealing with nostalgia and more complex feelings, a mysterious creature named Goron suddenly appears before them. This encounter with a mere little creature causes great events to unfold once more in this city...\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/107681.jpg",
-      "date": "Aug 8, 2020",
-      "producer": "TriF Studio",
-      "eps": 4,
-      "genres": [
-        "Mystery",
-        "Supernatural",
-        "Drama"
       ],
       "category": "ONA"
     },
