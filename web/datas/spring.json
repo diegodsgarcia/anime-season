@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-08-15",
+  "lastUpdate": "2020-08-16",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -111,6 +111,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Fugou Keiji: Balance:Unlimited",
+      "description": "Daisuke Kanbe, a man of extraordinary wealth, is assigned to the Modern Crime Prevention Headquarters as a detective. It is there that he gets partnered with Haru Katou, a humane detective who values justice above all. The two are polar opposites, and their morals clash time and time again. Haru despises Daisuke for using monetary wealth to solve cases, as he believes that money isn't everything. The two will have to combine their efforts, however, to solve the mysteries that are coming their way.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1066/106556.jpg",
+      "date": "Apr 10, 2020, 00:55 (JST)",
+      "producer": "CloverWorks",
+      "eps": 11,
+      "genres": [
+        "Mystery",
+        "Comedy",
+        "Police"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Fruits Basket 2nd Season",
       "description": "A year has passed since Tooru Honda began living in the Souma residence, and she has since created stronger relationships with its inhabitants Shigure, Kyou, and Yuki. She has also grown closer to the rest of the Souma family and has become familiar with their ancestral secret, having helped them with many of their personal issues. The closer Tooru gets, however, the more she begins to realize that their secret holds a darker truth than she first presumed.\n\nSummer is approaching and Tooru is invited to spend her days with the Soumas, mainly Kyou and Yuki. Tooru wishes for an easy-going vacation, but her close relationships with the two boys and the rest of the Soumas may prove to cause trouble. As they grow more intimate, their carefree time together is hindered by older hardships and feelings from the past that begin to resurface. The Eternal Banquet also dawns on the members of the zodiac, and they must tend to their duties alongside the unnerving head of the family, Akito Souma.\n\nWith the banquet approaching and a plethora of feelings to be solved, will Tooru's life with the Soumas remain peaceful, or will she find herself in a situation from which she cannot escape?\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1486/106692.jpg",
@@ -124,20 +138,6 @@
         "Shoujo",
         "Slice of Life",
         "Supernatural"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Fugou Keiji: Balance:Unlimited",
-      "description": "Daisuke Kanbe, a man of extraordinary wealth, is assigned to the Modern Crime Prevention Headquarters as a detective. It is there that he gets partnered with Haru Katou, a humane detective who values justice above all. The two are polar opposites, and their morals clash time and time again. Haru despises Daisuke for using monetary wealth to solve cases, as he believes that money isn't everything. The two will have to combine their efforts, however, to solve the mysteries that are coming their way.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1066/106556.jpg",
-      "date": "Apr 10, 2020, 00:55 (JST)",
-      "producer": "CloverWorks",
-      "eps": 11,
-      "genres": [
-        "Mystery",
-        "Comedy",
-        "Police"
       ],
       "category": "TV (New)"
     },
@@ -1964,12 +1964,12 @@
       "category": "ONA"
     },
     {
-      "title": "Xing Chen Bian: Yu Li Cang Hai",
-      "description": "Second season of Xing Chen Bian.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1548/107365.jpg",
-      "date": "May 3, 2020",
-      "producer": "Shanghai Foch Film Culture Investment",
-      "eps": 12,
+      "title": "Douluo Dalu: Xiaowu Juebie",
+      "description": "Fifth part of Douluo Dalu.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/108563.jpg",
+      "date": "May 23, 2020",
+      "producer": "Sparkly Key Animation Studio",
+      "eps": null,
       "genres": [
         "Action",
         "Adventure",
@@ -1981,12 +1981,12 @@
       "category": "ONA"
     },
     {
-      "title": "Douluo Dalu: Xiaowu Juebie",
-      "description": "Fifth part of Douluo Dalu.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/108563.jpg",
-      "date": "May 23, 2020",
-      "producer": "Sparkly Key Animation Studio",
-      "eps": null,
+      "title": "Xing Chen Bian: Yu Li Cang Hai",
+      "description": "Second season of Xing Chen Bian.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1548/107365.jpg",
+      "date": "May 3, 2020",
+      "producer": "Shanghai Foch Film Culture Investment",
+      "eps": 12,
       "genres": [
         "Action",
         "Adventure",
