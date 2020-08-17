@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-08-16",
+  "lastUpdate": "2020-08-17",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1989,18 +1989,6 @@
       "category": "ONA"
     },
     {
-      "title": "Ushichichi Tabehoudai! The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
-      "date": "Mar 11, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Ze Tian Ji 5th Season",
       "description": "The fifth season of Ze Tian Ji.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
@@ -2015,12 +2003,24 @@
       "category": "ONA"
     },
     {
+      "title": "Ushichichi Tabehoudai! The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
+      "date": "Mar 11, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Microphone Soul Spinners: Kotodama Shoujo",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/102079.jpg",
       "date": "Jan 11, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 24,
       "genres": [
         "Music"
       ],
@@ -2454,6 +2454,18 @@
       "category": "OVA"
     },
     {
+      "title": "Hime-sama Love Life!",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1487/103719.jpg",
+      "date": "May 31, 2019",
+      "producer": "PoRO",
+      "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
       "title": "Youma Shoukan e Youkoso",
       "description": "The protagonist (interpreted by the spectators in a subjective view) shows up at the Palace of the Mystic Courtesans to savor strong pleasures, choosing from a wide variety of courtesans of various species. The protagonist will be guided by Marina of the receptionist to find the right courtesans who can satisfy him.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1230/106167.jpg",
@@ -2465,18 +2477,6 @@
         "Demons",
         "Supernatural",
         "Fantasy"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "Hime-sama Love Life!",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1487/103719.jpg",
-      "date": "May 31, 2019",
-      "producer": "PoRO",
-      "eps": null,
-      "genres": [
-        "Hentai"
       ],
       "category": "OVA"
     },
