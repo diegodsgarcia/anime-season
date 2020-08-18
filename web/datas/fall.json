@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-08-17",
+  "lastUpdate": "2020-08-18",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -151,16 +151,15 @@
       "category": "TV (New)"
     },
     {
-      "title": "Ikebukuro West Gate Park",
-      "description": "Living in an area known for its juvenile crime, 21-year-old Makoto is a friend of King, the leader of a youth gang called the G-Boys, though he himself does not want to join as a member. Known for his cool head and ability to get things done, Makoto becomes a key trouble-shooter for the gang by diffusing tense situations and keeping his friends out of harm's way. However, the death of his girlfriend and an escalating turf war with a rival gang threaten to be more than Makoto can handle.\n\n(Source: AsianWiki)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1277/108376.jpg",
+      "title": "Kamisama ni Natta Hi",
+      "description": "At the end of the last summer vacation of high school, Youta Narukami spends his days preparing for the university entrance exams, when a young girl named Hina suddenly appears, proclaiming herself as the \"god of omniscience.\" Youta is confused and does not believe Hina when she tells him \"The world will end in 30 days.\" After witnessing Hina's God-like predictive ability, Youta begins to believe her powers are real. Hina, who is innocent and childlike despite her supernatural powers, decides for some reason to stay at Youta's home. Thus begins the start of their lively summer before the end of the world.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1564/108648.jpg",
       "date": "Oct ??, 2020",
-      "producer": "Doga Kobo",
+      "producer": "P.A. Works",
       "eps": null,
       "genres": [
-        "Mystery",
         "Drama",
-        "Romance"
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -180,28 +179,16 @@
       "category": "TV (New)"
     },
     {
-      "title": "Gochuumon wa Usagi Desu ka? Bloom",
-      "description": "Third season of Gochuumon wa Usagi Desu ka.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1423/106509.jpg",
+      "title": "Ikebukuro West Gate Park",
+      "description": "Living in an area known for its juvenile crime, 21-year-old Makoto is a friend of King, the leader of a youth gang called the G-Boys, though he himself does not want to join as a member. Known for his cool head and ability to get things done, Makoto becomes a key trouble-shooter for the gang by diffusing tense situations and keeping his friends out of harm's way. However, the death of his girlfriend and an escalating turf war with a rival gang threaten to be more than Makoto can handle.\n\n(Source: AsianWiki)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1277/108376.jpg",
       "date": "Oct ??, 2020",
-      "producer": "Encourage Films",
+      "producer": "Doga Kobo",
       "eps": null,
       "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Kamisama ni Natta Hi",
-      "description": "At the end of the last summer vacation of high school, Youta Narukami spends his days preparing for the university entrance exams, when a young girl named Hina suddenly appears, proclaiming herself as the \"god of omniscience.\" Youta is confused and does not believe Hina when she tells him \"The world will end in 30 days.\" After witnessing Hina's God-like predictive ability, Youta begins to believe her powers are real. Hina, who is innocent and childlike despite her supernatural powers, decides for some reason to stay at Youta's home. Thus begins the start of their lively summer before the end of the world.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1564/108648.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "P.A. Works",
-      "eps": null,
-      "genres": [
+        "Mystery",
         "Drama",
-        "Fantasy"
+        "Romance"
       ],
       "category": "TV (New)"
     },
@@ -215,6 +202,19 @@
       "genres": [
         "Adventure",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Gochuumon wa Usagi Desu ka? Bloom",
+      "description": "Third season of Gochuumon wa Usagi Desu ka.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1423/106509.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Encourage Films",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -234,20 +234,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Assault Lily: Bouquet",
-      "description": "In the near future, humanity faces imminent destruction from mysterious creatures known as \"Huge.\" The world wages war against the Huge, and develops the anti-weapon \"CHARM\" (Counter Huge Arms) by combining science and magic. CHARM works more effectively when used by teenage girls, and those who use the weapons are revered as \"Lilies.\" The Lilies are trained at military academies called \"Gardens,\" which also serve as bases to protect and advise people. This is a story about girls who aim to become Lilies so they can protect Earth. \n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1024/108413.jpg",
-      "date": "Oct 2, 2020, 01:28 (JST)",
-      "producer": "Shaft",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Magic",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Ex-Arm",
       "description": "2014: Akira Natsume seems to almost have a phobia of electrical devices while also being very good at diagnosing them. He resolves to change himself for the better and get a girlfriend like his older brother did. ...But then Akira suddenly dies in an accident. 16 years later a special policewoman and her android partner retrieve and activate a highly advanced AI and superweapon called EX-ARM and put it into full control of their ship as a last resort. Turns out the AI is actually just Akira's brain!\n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1108/107696.jpg",
@@ -259,6 +245,20 @@
         "Sci-Fi",
         "Ecchi",
         "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Assault Lily: Bouquet",
+      "description": "In the near future, humanity faces imminent destruction from mysterious creatures known as \"Huge.\" The world wages war against the Huge, and develops the anti-weapon \"CHARM\" (Counter Huge Arms) by combining science and magic. CHARM works more effectively when used by teenage girls, and those who use the weapons are revered as \"Lilies.\" The Lilies are trained at military academies called \"Gardens,\" which also serve as bases to protect and advise people. This is a story about girls who aim to become Lilies so they can protect Earth. \n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1024/108413.jpg",
+      "date": "Oct 2, 2020, 01:28 (JST)",
+      "producer": "Shaft",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Magic",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -306,14 +306,17 @@
       "category": "TV (New)"
     },
     {
-      "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima",
-      "description": "In a world where women now dominate the government, the creation and use of weapons is strictly forbidden. However, by no means has conflict been brought to an end; instead of weapons, war is waged through words. With the power of the \"Hypnosis Mic,\" lyrics can affect one's opponent in various ways and cause real damage. Those in the divisions outside the women-only Chuou Ward thus use it for fierce rap battles as their weapon in the constant clash for territory. \n\n(Source: Tokyo Otaku Mode)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1677/106540.jpg",
-      "date": "Oct 3, 2020, 00:00 (JST)",
-      "producer": "A-1 Pictures",
+      "title": "Yuukoku no Moriarty",
+      "description": "In the late 19th century, the British Empire has become a global power. Due to the strict class stratification, the average citizen has little chance of successfully rising up to the top, where the despicable nobility rules over them all.\n\nWilliam James Moriarty, the second son of the Moriarty household, is a young mathematics professor who has displayed great cunning and intellect since he was a child. Along with his brothers Albert and Louis, he lives the simple life of a noble. Outside of school, William is a well-known private consultant willing to solve the problems of anyone in need. However, his gentle demeanor belies his position as the head of a group prepared to wreak havoc in pursuit of its desire—a new world built from the ashes of the old.\n\nYuukoku no Moriarty puts a new spin on Arthur Conan Doyle's original work by putting the spotlight on its main antagonist and exploring how he came to be the first and only \"criminal consultant.\"\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Production I.G",
       "eps": null,
       "genres": [
-        "Music"
+        "Mystery",
+        "Historical",
+        "Psychological",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -332,16 +335,28 @@
       "category": "TV (New)"
     },
     {
-      "title": "Yuukoku no Moriarty",
-      "description": "In the late 19th century, the British Empire has become a global power. Due to the strict class stratification, the average citizen has little chance of successfully rising up to the top, where the despicable nobility rules over them all.\n\nWilliam James Moriarty, the second son of the Moriarty household, is a young mathematics professor who has displayed great cunning and intellect since he was a child. Along with his brothers Albert and Louis, he lives the simple life of a noble. Outside of school, William is a well-known private consultant willing to solve the problems of anyone in need. However, his gentle demeanor belies his position as the head of a group prepared to wreak havoc in pursuit of its desire—a new world built from the ashes of the old.\n\nYuukoku no Moriarty puts a new spin on Arthur Conan Doyle's original work by putting the spotlight on its main antagonist and exploring how he came to be the first and only \"criminal consultant.\"\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Production I.G",
+      "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima",
+      "description": "In a world where women now dominate the government, the creation and use of weapons is strictly forbidden. However, by no means has conflict been brought to an end; instead of weapons, war is waged through words. With the power of the \"Hypnosis Mic,\" lyrics can affect one's opponent in various ways and cause real damage. Those in the divisions outside the women-only Chuou Ward thus use it for fierce rap battles as their weapon in the constant clash for territory. \n\n(Source: Tokyo Otaku Mode)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1677/106540.jpg",
+      "date": "Oct 3, 2020, 00:00 (JST)",
+      "producer": "A-1 Pictures",
       "eps": null,
       "genres": [
-        "Mystery",
-        "Historical",
-        "Psychological",
+        "Music"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Dragon Quest: Dai no Daibouken (2020)",
+      "description": "A long time ago, there was a valiant swordsman who came to be known simply as \"the hero.\" There was a demon who has caused people suffering. The hero and his companions arrived to challenge the demon to a battle and by combining their powers, the battle was brought swift conclusion. With no one around to cause trouble, the island became a quiet place where everyone could live together in peace.\n\nSeveral years later, the demon is revived. Our present-day protagonist, Dai, lives on a remote island in the southern seas and dreams of becoming a great hero. When he hears about the demon's revival, Dai and his friends take it upon themselves to stop him and the evil force that revived him. Along the way, Dai discovers the identity of \"the hero,\" the truth behind the evil force who revived the demon, and Dai's own hidden powers that surface in times of peril.\n\n(Source: MU, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1839/104933.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Toei Animation",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
         "Shounen"
       ],
       "category": "TV (New)"
@@ -372,21 +387,6 @@
         "Magic",
         "Military",
         "Sci-Fi"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Dragon Quest: Dai no Daibouken (2020)",
-      "description": "A long time ago, there was a valiant swordsman who came to be known simply as \"the hero.\" There was a demon who has caused people suffering. The hero and his companions arrived to challenge the demon to a battle and by combining their powers, the battle was brought swift conclusion. With no one around to cause trouble, the island became a quiet place where everyone could live together in peace.\n\nSeveral years later, the demon is revived. Our present-day protagonist, Dai, lives on a remote island in the southern seas and dreams of becoming a great hero. When he hears about the demon's revival, Dai and his friends take it upon themselves to stop him and the evil force that revived him. Along the way, Dai discovers the identity of \"the hero,\" the truth behind the evil force who revived the demon, and Dai's own hidden powers that surface in times of peril.\n\n(Source: MU, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1839/104933.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Toei Animation",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -725,6 +725,20 @@
       "category": "Movie"
     },
     {
+      "title": "Josee to Tora to Sakana-tachi",
+      "description": "A youth romantic drama with themes of growing up, the story focuses on college student Tsuneo and dreamer Josee, who lives her life stuck in a wheelchair. Josee—named after the heroine in Françoise Sagan's Wonderful Clouds—spends most of her days reading and painting until by chance she encounters Tsuneo, and decides it's time to face the real world.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1714/108892.jpg",
+      "date": "Dec 25, 2020",
+      "producer": "Bones",
+      "eps": 1,
+      "genres": [
+        "Slice of Life",
+        "Drama",
+        "Romance"
+      ],
+      "category": "Movie"
+    },
+    {
       "title": "Grisaia: Phantom Trigger The Animation - Stargazer",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1730/108516.jpg",
@@ -747,20 +761,6 @@
       "genres": [
         "Slice of Life",
         "Sports"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Josee to Tora to Sakana-tachi",
-      "description": "A youth romantic drama with themes of growing up, the story focuses on college student Tsuneo and dreamer Josee, who lives her life stuck in a wheelchair. Josee—named after the heroine in Françoise Sagan's Wonderful Clouds—spends most of her days reading and painting until by chance she encounters Tsuneo, and decides it's time to face the real world.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1714/108892.jpg",
-      "date": "Dec 25, 2020",
-      "producer": "Bones",
-      "eps": 1,
-      "genres": [
-        "Slice of Life",
-        "Drama",
-        "Romance"
       ],
       "category": "Movie"
     },
@@ -851,6 +851,20 @@
       "category": "Movie"
     },
     {
+      "title": "Jiang Ziya",
+      "description": "Jiang Ziya, a top commander in the divine army of the Kunlun Sect, is victorious in the battle between the Heavenly powers and the Shang dynasty. Before he can ascend to his new position among the Gods, he is ordered to execute the Nine-Tailed Fox Demon who threatens the mortals' very existence. But when the Fox Demon shows him the secret to her power, an innocent human girl, he is unable to complete his task resulting in his banishment to the mortal realm forever. Ten years later, atop the ruins of war, Jiang Ziya is once again given a task that will bring him back to the Heavenly realm – execute the Nine Tail Fox Demon regardless if the innocent life is lost. Now Jiang Ziya must decide – follow the will of heaven or find his own path to becoming a true god.   \n\n(Source: Well Go USA Entertainment)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1545/107810.jpg",
+      "date": "Oct 1, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "Movie"
+    },
+    {
       "title": "Soukyuu no Fafner: Dead Aggressor - The Beyond Part 3",
       "description": "Episodes 7-9 of the Soukyuu no Fafner: Dead Aggressor - The Beyond series.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1023/107083.jpg",
@@ -863,20 +877,6 @@
         "Sci-Fi",
         "Drama",
         "Mecha"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Jiang Ziya",
-      "description": "Jiang Ziya, a top commander in the divine army of the Kunlun Sect, is victorious in the battle between the Heavenly powers and the Shang dynasty. Before he can ascend to his new position among the Gods, he is ordered to execute the Nine-Tailed Fox Demon who threatens the mortals' very existence. But when the Fox Demon shows him the secret to her power, an innocent human girl, he is unable to complete his task resulting in his banishment to the mortal realm forever. Ten years later, atop the ruins of war, Jiang Ziya is once again given a task that will bring him back to the Heavenly realm – execute the Nine Tail Fox Demon regardless if the innocent life is lost. Now Jiang Ziya must decide – follow the will of heaven or find his own path to becoming a true god.   \n\n(Source: Well Go USA Entertainment)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1545/107810.jpg",
-      "date": "Oct 1, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
       ],
       "category": "Movie"
     },

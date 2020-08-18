@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-17",
+  "lastUpdate": "2020-08-18",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -114,20 +114,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Deca-Dence",
-      "description": "Many years have passed since humanity was driven to the brink of extinction by the sudden emergence of the unknown life forms Gadoll. Those humans that survived now dwell in a 3000m-high mobile fortress Deca-dence built to protect themselves from the Gadoll threat.\n\nDenizens of Deca-dence fall into two categories: Gears, warriors who fight the Gadoll daily, and Tankers, those without the skills to fight. One day, Natsume, a Tanker girl who dreams of becoming a Gear meets surly Kaburagi, an armor repairman of Deca-dence.\n\nThis chance meeting between the seemingly two opposites, the girl with a positive attitude who never gives up on her dreams and the realist who has given up on his, will eventually shake the future course of this world. \n\n(Source: Official Site)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1627/107552.jpg",
-      "date": "Jul 8, 2020, 23:30 (JST)",
-      "producer": "Nut",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Adventure"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Uzaki-chan wa Asobitai!",
       "description": "Sakurai Shinichi's one wish is for a little peace and quiet. But Uzaki Hana–his boisterous, well-endowed underclassman–has other plans. All she wants is to hang out and poke fun at him. With the help of her chipper charm and peppy persistence, this might just be the start of a beautiful relationship! \n\n(Source: Seven Seas Entertainment)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1540/108292.jpg",
@@ -138,6 +124,20 @@
         "Slice of Life",
         "Comedy",
         "Ecchi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Deca-Dence",
+      "description": "Many years have passed since humanity was driven to the brink of extinction by the sudden emergence of the unknown life forms Gadoll. Those humans that survived now dwell in a 3000m-high mobile fortress Deca-dence built to protect themselves from the Gadoll threat.\n\nDenizens of Deca-dence fall into two categories: Gears, warriors who fight the Gadoll daily, and Tankers, those without the skills to fight. One day, Natsume, a Tanker girl who dreams of becoming a Gear meets surly Kaburagi, an armor repairman of Deca-dence.\n\nThis chance meeting between the seemingly two opposites, the girl with a positive attitude who never gives up on her dreams and the realist who has given up on his, will eventually shake the future course of this world. \n\n(Source: Official Site)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1627/107552.jpg",
+      "date": "Jul 8, 2020, 23:30 (JST)",
+      "producer": "Nut",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
       ],
       "category": "TV (New)"
     },
@@ -2053,19 +2053,6 @@
       "category": "ONA"
     },
     {
-      "title": "Sansan de Ezuoju Chufang",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
-      "date": "Jul 30, 2020",
-      "producer": "-",
-      "eps": 10,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Huanji 45 Miao",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1240/108694.jpg",
@@ -2076,6 +2063,19 @@
         "Action",
         "Sci-Fi",
         "Music"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Sansan de Ezuoju Chufang",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
+      "date": "Jul 30, 2020",
+      "producer": "-",
+      "eps": 10,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2458,20 +2458,6 @@
       "category": "Movie"
     },
     {
-      "title": "Jintai no Survival!",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1419/108415.jpg",
-      "date": "Jul 31, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Shounen"
-      ],
-      "category": "Movie"
-    },
-    {
       "title": "Miao Xiansheng",
       "description": "Adapted from a short tale from self-made animator Bu Sifan, writer and director of Dahufa, the feature introduces a fictional golden-colored flower, which possesses the magical ability to debauch humans who get too close to it.\n\nAs the flower only chooses kindhearted people as hosts, a group of martial artists who want to eradicate the plants face a dilemma: Should one kill good people for rescuing men from sin?\n\n(Source: China Daily)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1001/108593.jpg",
@@ -2482,6 +2468,20 @@
         "Adventure",
         "Drama",
         "Fantasy"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Jintai no Survival!",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1419/108415.jpg",
+      "date": "Jul 31, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Shounen"
       ],
       "category": "Movie"
     },

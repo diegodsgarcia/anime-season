@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-08-17",
+  "lastUpdate": "2020-08-18",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1081,20 +1081,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Sore Ike! Anpanman",
-      "description": "One night, a Star of Life falls down the chimney of a bakery nestled deep in the forest, causing the dough in the oven to come to life. The dough becomes Anpanman, a superhero made of anpan (a sweet roll with bean jam filling). Together with his friends, Anpanman fights his rival Baikinman and helps the malnourished. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1/1960.jpg",
-      "date": "Oct 3, 1988, 16:20 (JST)",
-      "producer": "TMS Entertainment",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Cardfight!! Vanguard: Shinemon-hen",
       "description": "This is the story of \"Shinemon Nitta\", the future manager of Card Capital.\n\n10 years before the reunion of Aichi Sendou and Toshiki Kai, the card shop run by the Tokura family \"Card Capital\" was going out of business. Then came the attempt to take over the store by Esuka Hibino, the owner of a major card shop.\n\nIn order to protect Card Capital, Shinemon Nitta stands up as the \"Self-proclaimed Manager!\"\n\n(Source: Cardfight!! Vanguard Wiki)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1804/102281.jpg",
@@ -1105,6 +1091,20 @@
         "Action",
         "Game",
         "Shounen"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Sore Ike! Anpanman",
+      "description": "One night, a Star of Life falls down the chimney of a bakery nestled deep in the forest, causing the dough in the oven to come to life. The dough becomes Anpanman, a superhero made of anpan (a sweet roll with bean jam filling). Together with his friends, Anpanman fights his rival Baikinman and helps the malnourished. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1/1960.jpg",
+      "date": "Oct 3, 1988, 16:20 (JST)",
+      "producer": "TMS Entertainment",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids",
+        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1325,6 +1325,18 @@
       "category": "TV (Continuing)"
     },
     {
+      "title": "Kyou mo Tsuno ga Aru",
+      "description": "An everyday life of yellow frog with horn.  Based on the web manga of the same title.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1189/98233.jpg",
+      "date": "Feb 21, 2019, 21:54 (JST)",
+      "producer": "MMDGP",
+      "eps": 50,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
       "title": "Aware! Meisaku-kun",
       "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
@@ -1336,18 +1348,6 @@
         "Parody",
         "Kids",
         "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "Kyou mo Tsuno ga Aru",
-      "description": "An everyday life of yellow frog with horn.  Based on the web manga of the same title.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1189/98233.jpg",
-      "date": "Feb 21, 2019, 21:54 (JST)",
-      "producer": "MMDGP",
-      "eps": 50,
-      "genres": [
-        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1527,19 +1527,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Oidon to",
-      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
-      "date": "Dec 2, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Sports",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Neko Neko Nihonshi 4th Season",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1757/106368.jpg",
@@ -1551,6 +1538,19 @@
         "Parody",
         "Kids",
         "Samurai"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Oidon to",
+      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
+      "date": "Dec 2, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Sports",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1989,6 +1989,18 @@
       "category": "ONA"
     },
     {
+      "title": "Ushichichi Tabehoudai! The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
+      "date": "Mar 11, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Ze Tian Ji 5th Season",
       "description": "The fifth season of Ze Tian Ji.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
@@ -1999,18 +2011,6 @@
         "Action",
         "Adventure",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Ushichichi Tabehoudai! The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
-      "date": "Mar 11, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
       ],
       "category": "ONA"
     },
@@ -2207,6 +2207,19 @@
       "category": "ONA"
     },
     {
+      "title": "Blue: Line Step Brush",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1469/108739.jpg",
+      "date": "Feb 14, 2020",
+      "producer": "Wit Studio",
+      "eps": 1,
+      "genres": [
+        "Slice of Life",
+        "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Xing You Ji: Fengbao Famila 2",
       "description": "In the future where the entire universe can be traveled freely, the competitive reality show \"Storm Familla\" held on Jupiter is all the rage in the solar system. This year's championship will begin with a match between McDonald and Aurora.\n\n(Source: Anilist)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/108618.jpg",
@@ -2232,19 +2245,6 @@
         "Comedy",
         "Kids",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Blue: Line Step Brush",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1469/108739.jpg",
-      "date": "Feb 14, 2020",
-      "producer": "Wit Studio",
-      "eps": 1,
-      "genres": [
-        "Slice of Life",
-        "Drama"
       ],
       "category": "ONA"
     },
@@ -2382,6 +2382,20 @@
       "category": "OVA"
     },
     {
+      "title": "Nakanohito Genome [Jikkyouchuu]: Knots of Memories",
+      "description": "An original story included with volume 10 of the Nakanohito Genome [Jikkyouchuu] manga.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1118/103618.jpg",
+      "date": "Feb 27, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Game",
+        "Comedy",
+        "Drama"
+      ],
+      "category": "OVA"
+    },
+    {
       "title": "ACCA: 13-ku Kansatsu-ka - Regards",
       "description": "Set in the capital city of Badon one year after the events of the TV anime, Jean and the rest of the ACCA department are preparing for the one-year anniversary of the establishment of the new order. For the characters — caught between rumors of unrest, unchanging days, new crossroads, gazes remembered in memories, and days of new beginnings — time once again begins to move forward.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1878/101560.jpg",
@@ -2394,20 +2408,6 @@
         "Drama",
         "Fantasy",
         "Seinen"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "Nakanohito Genome [Jikkyouchuu]: Knots of Memories",
-      "description": "An original story included with volume 10 of the Nakanohito Genome [Jikkyouchuu] manga.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1118/103618.jpg",
-      "date": "Feb 27, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Game",
-        "Comedy",
-        "Drama"
       ],
       "category": "OVA"
     },
@@ -2454,18 +2454,6 @@
       "category": "OVA"
     },
     {
-      "title": "Hime-sama Love Life!",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1487/103719.jpg",
-      "date": "May 31, 2019",
-      "producer": "PoRO",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Youma Shoukan e Youkoso",
       "description": "The protagonist (interpreted by the spectators in a subjective view) shows up at the Palace of the Mystic Courtesans to savor strong pleasures, choosing from a wide variety of courtesans of various species. The protagonist will be guided by Marina of the receptionist to find the right courtesans who can satisfy him.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1230/106167.jpg",
@@ -2477,6 +2465,18 @@
         "Demons",
         "Supernatural",
         "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Hime-sama Love Life!",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1487/103719.jpg",
+      "date": "May 31, 2019",
+      "producer": "PoRO",
+      "eps": null,
+      "genres": [
+        "Hentai"
       ],
       "category": "OVA"
     },
@@ -2496,24 +2496,24 @@
       "category": "OVA"
     },
     {
-      "title": "Onii-chan Asa made Zutto Gyutte Shite!",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/103712.jpg",
-      "date": "Mar 6, 2020",
-      "producer": "Studio 1st",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Shikijou Kyoudan",
       "description": "A middle-aged man who has lost his job and home because of his arrogant nature. Leading a vagrant lifestyle, he became embittered and aggressive towards society. One day he meets a mysterious beauty Shima Itski, who invites him to become the founder of the sex cult \"Ishin No Kai\" and in addition to this, she offers him a huge amount of money, a house, and a car. Of course, our hero just could not refuse the sultry beauty and now he has become the \"Lord\" of a mad sex cult with unimaginably depraved rituals…",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/105665.jpg",
       "date": "Mar 6, 2020",
       "producer": "-",
       "eps": 2,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Onii-chan Asa made Zutto Gyutte Shite!",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/103712.jpg",
+      "date": "Mar 6, 2020",
+      "producer": "Studio 1st",
+      "eps": null,
       "genres": [
         "Hentai"
       ],
