@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-08-18",
+  "lastUpdate": "2020-08-19",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -121,7 +121,7 @@
       "title": "Tonikaku Kawaii",
       "description": "Having grown up ridiculed for his bizarre name, Nasa Yuzaki strives to be remembered for something more. Fortunately, it seems he's on the right path, ranking first in the nation's mock exams and set to enter his high school of choice.\n\nHowever, everything changes in a single night when he notices a girl across the street on his way home. Enraptured by her overwhelming cuteness, it's love at first sight for Nasa. But in his infatuated daze, he fails to notice the approaching danger speeding down the road and finds himself at death's door. Barely alive thanks to the girl's intervention, Nasa musters the courage to confess his love to her, fearing she might otherwise vanish from his life. She accepts his proposal on one condition: marriage, to which Nasa gladly accepts before passing out from his injuries. Upon waking, however, the girl is nowhere to be found.\n\nAfter recovering from his injuries, Nasa tosses his previous ambitions aside and dedicates his life to finding the girl that captured his heart, yet several years pass to no avail. But one night, when an unexpected visitor comes knocking on his door, Nasa finds himself facing a woman that would forever change his world: his wife.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1613/108722.jpg",
-      "date": "Oct 3, 2020",
+      "date": "Oct 3, 2020, 01:05 (JST)",
       "producer": "Seven Arcs",
       "eps": null,
       "genres": [
@@ -209,7 +209,7 @@
       "title": "Gochuumon wa Usagi Desu ka? Bloom",
       "description": "Third season of Gochuumon wa Usagi Desu ka.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1423/106509.jpg",
-      "date": "Oct ??, 2020",
+      "date": "Oct 10, 2020",
       "producer": "Encourage Films",
       "eps": null,
       "genres": [
@@ -408,16 +408,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Senyoku no Sigrdrifa",
-      "description": "The Pillars suddenly appeared above Earth, threatening all life. A god who called himself Odin came to the aid of humanity as it was driven to near complete defeat. To counter the Pillars, Odin declared a counterattack by bequeathing humanity with the battle maidens Walküres and the \"herocraft\" as their wings.\n\nSeveral years later, the battle between humanity and Pillars rages on, with men supporting the Walküres as they soar through the treacherous skies to save the world.\n\nJapan is no exception. Three Walküres confront the giant Pillar looming over sacred Mt. Fuji. Each Walküre is skilled, but each also has issues. And now, an ace pilot has arrived from Europe.\n\n\"Now is the time to fight back, humanity. The day of reckoning has arrived. The time of Ragnarok draws nears.\"\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1340/108221.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "A-1 Pictures",
-      "eps": null,
-      "genres": [],
-      "category": "TV (New)"
-    },
-    {
       "title": "Iwa Kakeru!: Sport Climbing Girls",
       "description": "Konomi Kasahara, a junior high school girl, has made a big name after winning numerous competitive puzzle game tournaments. The story begins when she finds a sports climbing club in her high school. Using special skills other than that of puzzle games, Kasahara becomes fascinated with climbing.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1626/108849.jpg",
@@ -429,6 +419,16 @@
         "Sports",
         "School"
       ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Senyoku no Sigrdrifa",
+      "description": "The Pillars suddenly appeared above Earth, threatening all life. A god who called himself Odin came to the aid of humanity as it was driven to near complete defeat. To counter the Pillars, Odin declared a counterattack by bequeathing humanity with the battle maidens Walküres and the \"herocraft\" as their wings.\n\nSeveral years later, the battle between humanity and Pillars rages on, with men supporting the Walküres as they soar through the treacherous skies to save the world.\n\nJapan is no exception. Three Walküres confront the giant Pillar looming over sacred Mt. Fuji. Each Walküre is skilled, but each also has issues. And now, an ace pilot has arrived from Europe.\n\n\"Now is the time to fight back, humanity. The day of reckoning has arrived. The time of Ragnarok draws nears.\"\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1340/108221.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "A-1 Pictures",
+      "eps": null,
+      "genres": [],
       "category": "TV (New)"
     },
     {
@@ -795,6 +795,22 @@
       "category": "Movie"
     },
     {
+      "title": "Dounika Naru Hibi",
+      "description": "A collection of short stories that take a refreshing and humorous look at the sexual relationships between young people in Japan.\n\n(Source: Kotonoha)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1924/106583.jpg",
+      "date": "Oct 23, 2020",
+      "producer": "LIDENFILMS",
+      "eps": 1,
+      "genres": [
+        "Slice of Life",
+        "Drama",
+        "Romance",
+        "Shoujo Ai",
+        "Shounen Ai"
+      ],
+      "category": "Movie"
+    },
+    {
       "title": "Yes ka No ka Hanbun ka",
       "description": "Kunieda Kei is a popular, young TV announcer whose public and private personas are so different, they might be called extreme. On the outside, he is the picture of perfection, affectionately nicknamed \"The Prince,\" while on the inside he is constantly cursing at all of the incompetence around him. Of course, no one knows this secret of his.\n\nOne day, Kei meets animation artist Tsuzuki Ushio for a work assignment. While Kei is in \"inside mode,\" he later runs into Tsuzuki, who doesn't recognize him in his worn-out sweats and a facemask, but as compensation for injuring Tsuzuki's arm, Kei gets roped into helping out with his work.\n\n(Source: Novel Updates, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/108850.jpg",
@@ -804,6 +820,20 @@
       "genres": [
         "Drama",
         "Shounen Ai"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Majo Minarai wo Sagashite",
+      "description": "27-year-old Tokyo office worker Mire Yoshizuki just returned to Japan, while 22-year-old fourth-year college student Sora Nagase aspires to be a teacher, and 20-year-old boyish Reika Kawatani is a part-time Hiroshima okonomiyaki shop worker and freelancer. What draws together these three women from completely different walks of life is a magic gem. A \"New Magical Story\" begins when they are mysteriously brought together by chance and embark on a journey.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1732/106488.jpg",
+      "date": "Nov 13, 2020",
+      "producer": "Toei Animation",
+      "eps": 1,
+      "genres": [
+        "Comedy",
+        "Magic",
+        "Shoujo"
       ],
       "category": "Movie"
     },

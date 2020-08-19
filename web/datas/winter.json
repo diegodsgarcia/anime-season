@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-08-18",
+  "lastUpdate": "2020-08-19",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -2496,24 +2496,24 @@
       "category": "OVA"
     },
     {
-      "title": "Shikijou Kyoudan",
-      "description": "A middle-aged man who has lost his job and home because of his arrogant nature. Leading a vagrant lifestyle, he became embittered and aggressive towards society. One day he meets a mysterious beauty Shima Itski, who invites him to become the founder of the sex cult \"Ishin No Kai\" and in addition to this, she offers him a huge amount of money, a house, and a car. Of course, our hero just could not refuse the sultry beauty and now he has become the \"Lord\" of a mad sex cult with unimaginably depraved rituals…",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/105665.jpg",
-      "date": "Mar 6, 2020",
-      "producer": "-",
-      "eps": 2,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Onii-chan Asa made Zutto Gyutte Shite!",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/103712.jpg",
       "date": "Mar 6, 2020",
       "producer": "Studio 1st",
       "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Shikijou Kyoudan",
+      "description": "A middle-aged man who has lost his job and home because of his arrogant nature. Leading a vagrant lifestyle, he became embittered and aggressive towards society. One day he meets a mysterious beauty Shima Itski, who invites him to become the founder of the sex cult \"Ishin No Kai\" and in addition to this, she offers him a huge amount of money, a house, and a car. Of course, our hero just could not refuse the sultry beauty and now he has become the \"Lord\" of a mad sex cult with unimaginably depraved rituals…",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/105665.jpg",
+      "date": "Mar 6, 2020",
+      "producer": "-",
+      "eps": 2,
       "genres": [
         "Hentai"
       ],
