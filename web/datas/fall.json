@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-08-19",
+  "lastUpdate": "2020-08-20",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -193,19 +193,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Majo no Tabitabi",
-      "description": "Once upon a time, there was a witch named Elaina, who set off on a journey across the world. Along the way, she would meet all kinds of people, from a country full of witches to a giant in love with his own muscles—but with each meeting, Elaina would become a small part of their story, and her own world would get a little bit bigger. \n\n(Source: Yen Press)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "C2C",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Gochuumon wa Usagi Desu ka? Bloom",
       "description": "Third season of Gochuumon wa Usagi Desu ka.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1423/106509.jpg",
@@ -215,6 +202,19 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Majo no Tabitabi",
+      "description": "Once upon a time, there was a witch named Elaina, who set off on a journey across the world. Along the way, she would meet all kinds of people, from a country full of witches to a giant in love with his own muscles—but with each meeting, Elaina would become a small part of their story, and her own world would get a little bit bigger. \n\n(Source: Yen Press)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "C2C",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -306,6 +306,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Kuma Kuma Kuma Bear",
+      "description": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has! \n\n(Source: Seven Seas Entertainment)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/108852.jpg",
+      "date": "Oct 7, 2020, 21:00 (JST)",
+      "producer": "EMT Squared",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Yuukoku no Moriarty",
       "description": "In the late 19th century, the British Empire has become a global power. Due to the strict class stratification, the average citizen has little chance of successfully rising up to the top, where the despicable nobility rules over them all.\n\nWilliam James Moriarty, the second son of the Moriarty household, is a young mathematics professor who has displayed great cunning and intellect since he was a child. Along with his brothers Albert and Louis, he lives the simple life of a noble. Outside of school, William is a well-known private consultant willing to solve the problems of anyone in need. However, his gentle demeanor belies his position as the head of a group prepared to wreak havoc in pursuit of its desire—a new world built from the ashes of the old.\n\nYuukoku no Moriarty puts a new spin on Arthur Conan Doyle's original work by putting the spotlight on its main antagonist and exploring how he came to be the first and only \"criminal consultant.\"\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
@@ -317,20 +331,6 @@
         "Historical",
         "Psychological",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Kuma Kuma Kuma Bear",
-      "description": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has! \n\n(Source: Seven Seas Entertainment)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/108852.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "EMT Squared",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -378,7 +378,7 @@
       "title": "Strike Witches: Road to Berlin",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/108577.jpg",
-      "date": "Oct ??, 2020",
+      "date": "Oct 8, 2020, 01:05 (JST)",
       "producer": "David Production",
       "eps": null,
       "genres": [
@@ -446,7 +446,7 @@
     {
       "title": "Osomatsu-san 3rd Season",
       "description": "Third season of Osomatsu-san.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108392.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1055/108887.jpg",
       "date": "Oct ??, 2020",
       "producer": "Studio Pierrot",
       "eps": null,
@@ -919,6 +919,21 @@
       "eps": 1,
       "genres": [
         "Yaoi"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Bem Movie: Become Human",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1078/108925.jpg",
+      "date": "Oct 2, 2020",
+      "producer": "Production I.G",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Horror",
+        "Demons",
+        "Supernatural"
       ],
       "category": "Movie"
     },

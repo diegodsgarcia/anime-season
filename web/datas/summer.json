@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-19",
+  "lastUpdate": "2020-08-20",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -2053,6 +2053,19 @@
       "category": "ONA"
     },
     {
+      "title": "Sansan de Ezuoju Chufang",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
+      "date": "Jul 30, 2020",
+      "producer": "-",
+      "eps": 10,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Huanji 45 Miao",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1240/108694.jpg",
@@ -2063,19 +2076,6 @@
         "Action",
         "Sci-Fi",
         "Music"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Sansan de Ezuoju Chufang",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
-      "date": "Jul 30, 2020",
-      "producer": "-",
-      "eps": 10,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2247,7 +2247,7 @@
     {
       "title": "Violet Evergarden Movie",
       "description": "An original sequel to the TV anime which aired in 2018, the movie will follow \"auto memory doll\" Violet, still unable to forget about her former employer Gilbert, who taught her of love. One day, she meets his older brother Dietfried, who tells her that she should forget about Gilbert and move on - but it is impossible for her. Shortly after, Violet receives a call from a young client, while the post office discovers a letter with no address sitting in their warehouse.\n\n(Source: otakumode)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1225/106549.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1616/108909.jpg",
       "date": "Sep 18, 2020",
       "producer": "Kyoto Animation",
       "eps": 1,
