@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-20",
+  "lastUpdate": "2020-08-21",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -329,6 +329,19 @@
       "genres": [
         "Comedy",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Ookami-san wa Taberaretai",
+      "description": "\"I want Akagashira-sensei to be my first!\"\n\nHaving a run in with the \"skirt bandit,\" Ookami almost has her skirt stolen. Her teacher, Akagashira, passes by and becomes her hero after stopping the theft. As thanks, Ookami invites Akagashira to her home, but she has another reason for bringing him over. \n\n(Source: WWWave Corporation, edited)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX an hour later.\n\nThis database entry reflects censored TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1020/108606.jpg",
+      "date": "Sep 6, 2020, 01:00 (JST)",
+      "producer": "Peak Hunt",
+      "eps": 3,
+      "genres": [
+        "Ecchi",
+        "Romance"
       ],
       "category": "TV (New)"
     },
@@ -1603,10 +1616,21 @@
       "eps": 2,
       "genres": [
         "Action",
-        "Comedy",
-        "Super Power",
-        "School",
-        "Shounen"
+        "Shounen",
+        "Super Power"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Aggressive Retsuko (ONA) 3rd Season",
+      "description": "Third Season of Aggressive Retsuko.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1049/108692.jpg",
+      "date": "Aug 27, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -1623,19 +1647,6 @@
         "Comedy",
         "Kids",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Aggressive Retsuko (ONA) 3rd Season",
-      "description": "Third Season of Aggressive Retsuko.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1049/108692.jpg",
-      "date": "Aug 27, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
       ],
       "category": "ONA"
     },
@@ -1657,7 +1668,7 @@
     {
       "title": "Wu Shan Wu Xing",
       "description": "A legend tells that a long time ago, monsters could give the ability to certain elected officials to master the five elements. But for that, you have to go through the dangerous foggy mountains...\n\nWe follow the adventures of one of these elected officials.\n\n(Source: Nautiljon)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1628/108279.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1335/108930.jpg",
       "date": "Jul 26, 2020",
       "producer": "Nice Boat Animation, Samsara Animation Studio",
       "eps": 3,
@@ -1976,6 +1987,18 @@
       "category": "ONA"
     },
     {
+      "title": "Dahua Zhi Shaonian You",
+      "description": "Rookie Jianghu and swordsman Xiao Yao Sheng have defeated the baby-eater that caused Chang'an, but they now find themselves falling into a bigger mystery. They traveled to the distant Spirit Beast Village and met the beautiful Demon Fox Girl, the Bone Elves, and people of all kinds inhabiting rivers and lakes along the way. They gained growth and friendship, but are now entangled in a greater crisis: a dispute between immortals and demons. The animation will combine elements such as martial arts, fantasy, blood, adventure, and more, to present to the audience a tale of ups and downs in legendary stories!\n\n(Source: V2Anime)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/107440.jpg",
+      "date": "Aug 15, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Renlei Bowuguan",
       "description": "After the end of the world, there is a mysterious museum left in the world. No one knows where the collection came from. Are these seemingly funny \"historical relics\" proof of the existence of real humans?\n\n(Source: bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1604/108296.jpg",
@@ -1985,18 +2008,6 @@
       "genres": [
         "Slice of Life",
         "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Dahua Zhi Shaonian You",
-      "description": "Rookie Jianghu and swordsman Xiao Yao Sheng have defeated the baby-eater that caused Chang'an, but they now find themselves falling into a bigger mystery. They traveled to the distant Spirit Beast Village and met the beautiful Demon Fox Girl, the Bone Elves, and people of all kinds inhabiting rivers and lakes along the way. They gained growth and friendship, but are now entangled in a greater crisis: a dispute between immortals and demons. The animation will combine elements such as martial arts, fantasy, blood, adventure, and more, to present to the audience a tale of ups and downs in legendary stories!\n\n(Source: V2Anime)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/107440.jpg",
-      "date": "Aug 15, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Action"
       ],
       "category": "ONA"
     },
@@ -2550,6 +2561,23 @@
       "eps": 1,
       "genres": [
         "Music"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "Dokyuu Hentai HxEros: HxEros Report",
+      "description": "Recap of the first seven episodes of Dokyuu Hentai HxEros",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1284/108937.jpg",
+      "date": "Aug 21, 2020",
+      "producer": "Project No.9",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Supernatural",
+        "Ecchi",
+        "School",
+        "Shounen"
       ],
       "category": "Special"
     }

@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-08-20",
+  "lastUpdate": "2020-08-21",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -55,8 +55,8 @@
     {
       "title": "Higurashi no Naku Koro ni (2020)",
       "description": "New Higurashi no Naku Koro ni anime project.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1808/105271.jpg",
-      "date": "Oct ??, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1520/108936.jpg",
+      "date": "Oct 1, 2020, 23:30 (JST)",
       "producer": "Passione",
       "eps": null,
       "genres": [
@@ -391,7 +391,7 @@
       "category": "TV (New)"
     },
     {
-      "title": "Maou-jou de Oyasumi",
+      "title": "Maoujou de Oyasumi",
       "description": "Sshhh! Princess Syalis is trying to get a good night's sleep. Some shut-eye. Forty winks. Catch some Z's. Long ago in olden times when people and demons lived together in—well, disharmony, really—a demon king kidnaps a human princess and imprisons her in his castle. Bereft, the princess's subjects beat their chests in anguish…until a hero arises to spearhead Project Rescue Our Princess! While waiting for her knight in shining armor, what's an imprisoned princess to do...? Teddy-bear guards with bat wings are all very well, but her dungeon cell is bo-o-o-ring! So, she decides to wile away the long hours by sleeping. Now if only she could get comfortable…and didn't suffer from insomnia...\n\n(Source: VIZ Media)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg",
       "date": "Oct ??, 2020",
@@ -525,19 +525,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Ookami-san wa Taberaretai",
-      "description": "\"I want Akagashira-sensei to be my first!\"\n\nHaving a run in with the \"skirt bandit,\" Ookami almost has her skirt stolen. Her teacher, Akagashira, passes by and becomes her hero after stopping the theft. As thanks, Ookami invites Akagashira to her home, but she has another reason for bringing him over. \n\n(Source: WWWave Corporation, edited)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX an hour later.\n\nThis database entry reflects censored TV version of the anime.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1020/108606.jpg",
-      "date": "Sep 6, 2020, 01:00 (JST)",
-      "producer": "Peak Hunt",
-      "eps": null,
-      "genres": [
-        "Romance",
-        "Ecchi"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Rail Romanesque",
       "description": "Set in Hinomoto, a fictional version of Japan, where for a long time railway travel served as the most important form of transport. Each locomotive was paired with a humanoid control module, so-called Raillord, that aided the train operator. However, many rail lines had been discontinued due to the rising popularity of 'aerocrafts,' a safe and convenient aerial mode of transport. As such, their accompanying railroads also went into a deep sleep.\n\nSoutetsu had lost his entire family in a rail accident and was adopted into the Migita household, which runs a shochu brewery in the city of Ohitoyo. He returned to his hometown to save it from the potential water pollution that would occur if they accepted the proposal to build an aerocraft factory nearby. He woke up the Raillord Hachiroku by accident and became her owner. For different purposes, they agreed to help find her lost locomotive, with the help of his stepsister Hibiki, the town’s mayor and local railway chief, Paulette and others. \n\n(Source: VNDB, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/108605.jpg",
@@ -580,7 +567,7 @@
       "title": "Eternity: Shinya no Nurekoi Channel ♡",
       "description": "Anime adaptation of 12 romantic works from the Eternity Books manga label.\n\nThe complete edition with explicit scenes was distributed online via the official website for Eternity Books. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1899/108400.jpg",
-      "date": "Oct ??, 2020",
+      "date": "Oct 5, 2020, 01:05 (JST)",
       "producer": "Seven",
       "eps": 12,
       "genres": [
@@ -653,6 +640,19 @@
         "School",
         "Supernatural",
         "Vampire"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Otona nya Koi no Shikata ga Wakaranee!",
+      "description": "Mio Sudou, a 30-year-old office lady has gone 5 years without a boyfriend and has forgotten all about love. Shuuji Mashima, a foreign-affiliated consultant has not had a girlfriend in 7 years and has lost almost all interest in women. Meeting at a matchmaking party, Mio is disgusted by Shuuji as he states, \"I am not into women.\" However, when Mio makes a provocative comment towards Shuuji, things take an unexpected direction.\n\n(Source: MAL News)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1603/108938.jpg",
+      "date": "Oct ??, 2020, 01:00 (JST)",
+      "producer": "Ether Kitten",
+      "eps": null,
+      "genres": [
+        "Romance",
+        "Ecchi"
       ],
       "category": "TV (New)"
     },
