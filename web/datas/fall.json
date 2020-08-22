@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-08-21",
+  "lastUpdate": "2020-08-22",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -320,6 +320,18 @@
       "category": "TV (New)"
     },
     {
+      "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima",
+      "description": "In a world where women now dominate the government, the creation and use of weapons is strictly forbidden. However, by no means has conflict been brought to an end; instead of weapons, war is waged through words. With the power of the \"Hypnosis Mic,\" lyrics can affect one's opponent in various ways and cause real damage. Those in the divisions outside the women-only Chuou Ward thus use it for fierce rap battles as their weapon in the constant clash for territory. \n\n(Source: Tokyo Otaku Mode)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1677/106540.jpg",
+      "date": "Oct 3, 2020, 00:00 (JST)",
+      "producer": "A-1 Pictures",
+      "eps": null,
+      "genres": [
+        "Music"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Yuukoku no Moriarty",
       "description": "In the late 19th century, the British Empire has become a global power. Due to the strict class stratification, the average citizen has little chance of successfully rising up to the top, where the despicable nobility rules over them all.\n\nWilliam James Moriarty, the second son of the Moriarty household, is a young mathematics professor who has displayed great cunning and intellect since he was a child. Along with his brothers Albert and Louis, he lives the simple life of a noble. Outside of school, William is a well-known private consultant willing to solve the problems of anyone in need. However, his gentle demeanor belies his position as the head of a group prepared to wreak havoc in pursuit of its desire—a new world built from the ashes of the old.\n\nYuukoku no Moriarty puts a new spin on Arthur Conan Doyle's original work by putting the spotlight on its main antagonist and exploring how he came to be the first and only \"criminal consultant.\"\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
@@ -331,18 +343,6 @@
         "Historical",
         "Psychological",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima",
-      "description": "In a world where women now dominate the government, the creation and use of weapons is strictly forbidden. However, by no means has conflict been brought to an end; instead of weapons, war is waged through words. With the power of the \"Hypnosis Mic,\" lyrics can affect one's opponent in various ways and cause real damage. Those in the divisions outside the women-only Chuou Ward thus use it for fierce rap battles as their weapon in the constant clash for territory. \n\n(Source: Tokyo Otaku Mode)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1677/106540.jpg",
-      "date": "Oct 3, 2020, 00:00 (JST)",
-      "producer": "A-1 Pictures",
-      "eps": null,
-      "genres": [
-        "Music"
       ],
       "category": "TV (New)"
     },
@@ -625,6 +625,18 @@
         "Comedy",
         "Parody",
         "Super Power"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Kaeru no Pickles: Kimochi no Iro",
+      "description": "",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1850/108933.jpg",
+      "date": "Oct 4, 2020, 09:55 (JST)",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },

@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-21",
+  "lastUpdate": "2020-08-22",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -1416,19 +1416,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Fuwafuwa Hour: Pui Pui & Muu Muu",
-      "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
-      "date": "Jul 12, 2017",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Egg Car",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
@@ -1438,6 +1425,19 @@
       "genres": [
         "Adventure",
         "Comedy",
+        "Kids",
+        "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Fuwafuwa Hour: Pui Pui & Muu Muu",
+      "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
+      "date": "Jul 12, 2017",
+      "producer": "-",
+      "eps": null,
+      "genres": [
         "Kids",
         "Fantasy"
       ],
@@ -2553,18 +2553,6 @@
       "category": "Special"
     },
     {
-      "title": "ARP Backstage Pass Special",
-      "description": "Unaired episode included with volume 4 of the Bluray/DVD.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1108/107861.jpg",
-      "date": "Jul 13, 2020",
-      "producer": "Dynamo Pictures",
-      "eps": 1,
-      "genres": [
-        "Music"
-      ],
-      "category": "Special"
-    },
-    {
       "title": "Dokyuu Hentai HxEros: HxEros Report",
       "description": "Recap of the first seven episodes of Dokyuu Hentai HxEros",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1284/108937.jpg",
@@ -2578,6 +2566,18 @@
         "Ecchi",
         "School",
         "Shounen"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "ARP Backstage Pass Special",
+      "description": "Unaired episode included with volume 4 of the Bluray/DVD.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1108/107861.jpg",
+      "date": "Jul 13, 2020",
+      "producer": "Dynamo Pictures",
+      "eps": 1,
+      "genres": [
+        "Music"
       ],
       "category": "Special"
     }
