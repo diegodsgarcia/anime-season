@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-22",
+  "lastUpdate": "2020-08-23",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -42,7 +42,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1958/107912.jpg",
       "date": "Jul 10, 2020, 01:58 (JST)",
       "producer": "feel.",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Slice of Life",
         "Comedy",
@@ -513,14 +513,14 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1486/106692.jpg",
       "date": "Apr 7, 2020, 01:30 (JST)",
       "producer": "TMS Entertainment",
-      "eps": null,
+      "eps": 25,
       "genres": [
+        "Slice of Life",
         "Comedy",
+        "Supernatural",
         "Drama",
         "Romance",
-        "Shoujo",
-        "Slice of Life",
-        "Supernatural"
+        "Shoujo"
       ],
       "category": "TV (Continuing)"
     },
@@ -736,7 +736,7 @@
       "description": "Demetrios, a timid and kind vase painter in Ancient Greece who dislikes sports and competitions, is one day forced to come up with a game to compete with the mayor of the neighboring town in order to save his village. While hiding inside a large vase outside his workshop, lightning strikes the vase Demetrios is in, transferring him to Tokyo, Japan, during the 1964 Summer Olympics.\n \n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1543/107116.jpg",
       "date": "Apr 20, 2020, 21:54 (JST)",
-      "producer": "-",
+      "producer": "Gosay Studio",
       "eps": 24,
       "genres": [
         "Slice of Life",
@@ -1205,16 +1205,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Pittanko!! Nekozakana",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1058/102001.jpg",
-      "date": "Oct 9, 2017",
-      "producer": "-",
-      "eps": null,
-      "genres": [],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Hakushon Daimaou 2020",
       "description": "50 years have passed since the events of the original Hakushon Daimaou series. Akubi is training to become queen when she meets Kantarou Yodama, the grandson of the genie bottle's original owner, Kan-chan. Together, Akubi and Kantarou take on many jobs in the human world and learn the importance of having a dream.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1621/105178.jpg",
@@ -1225,6 +1215,16 @@
         "Comedy",
         "Fantasy"
       ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Pittanko!! Nekozakana",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1058/102001.jpg",
+      "date": "Oct 9, 2017",
+      "producer": "-",
+      "eps": null,
+      "genres": [],
       "category": "TV (Continuing)"
     },
     {
