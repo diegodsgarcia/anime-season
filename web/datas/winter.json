@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-08-23",
+  "lastUpdate": "2020-08-24",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1273,7 +1273,7 @@
     },
     {
       "title": "B Rappers Street",
-      "description": "A multimedia project collaboration between Shogakukan, Sony Interactive Entertainment, Sony Music Entertainment, and Sony Music Communications, and features a theme of rap and hip-hop.\n\nThe story follows Yo!Hey, a boy who raps to the beat of his farts. \n\nThe anime will air withing the Ota-Suta (\"Good Morning Star\") children's television program and the manga counterpart will be published in March.\n\n(Source: ANN)",
+      "description": "A multimedia project collaboration between Shogakukan, Sony Interactive Entertainment, Sony Music Entertainment, and Sony Music Communications, and features a theme of rap and hip-hop.\n\nThe story follows Yo!Hey, a boy who raps to the beat of his farts.\n\nThe anime will air withing the Ota-Suta (\"Good Morning Star\") children's television program and the manga counterpart will be published in March.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1126/99095.jpg",
       "date": "Apr 11, 2019, 07:05 (JST)",
       "producer": "Pie in the sky",
@@ -1337,21 +1337,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Aware! Meisaku-kun",
-      "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
-      "date": "Apr 8, 2016, 18:20 (JST)",
-      "producer": "Pie in the sky",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Parody",
-        "Kids",
-        "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Kedama no Gonjirou",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1952/99800.jpg",
@@ -1364,6 +1349,21 @@
         "Comedy",
         "Fantasy",
         "Shounen"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Aware! Meisaku-kun",
+      "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
+      "date": "Apr 8, 2016, 18:20 (JST)",
+      "producer": "Pie in the sky",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Parody",
+        "Kids",
+        "School"
       ],
       "category": "TV (Continuing)"
     },
@@ -2194,19 +2194,6 @@
       "category": "ONA"
     },
     {
-      "title": "Qing Chi Hong Xiaodou Ba! 3rd Season",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1669/106653.jpg",
-      "date": "Jan 12, 2020",
-      "producer": "Making Animation",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Blue: Line Step Brush",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1469/108739.jpg",
@@ -2216,6 +2203,19 @@
       "genres": [
         "Slice of Life",
         "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Qing Chi Hong Xiaodou Ba! 3rd Season",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1669/106653.jpg",
+      "date": "Jan 12, 2020",
+      "producer": "Making Animation",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2249,6 +2249,19 @@
       "category": "ONA"
     },
     {
+      "title": "Xiao Cangshu Di Di de Chi Bo Richang",
+      "description": "Food broadcast newcomer, Little Hamster Flute, can rack its brains for ideas for his live broadcast. Although the food broadcast contents it has come up with is not very good, the videos are often clicked on due to some of the incredible live broadcast accidents and unexpected funny events. This makes the hamster very troubled.\n\n(Source: bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1052/108483.jpg",
+      "date": "Jan 17, 2020",
+      "producer": "-",
+      "eps": 52,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Jingju Mao Zhi Jiaota Shidi",
       "description": "Fourth season of Jingju Mao.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1930/107868.jpg",
@@ -2261,19 +2274,6 @@
         "Comedy",
         "Kids",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Xiao Cangshu Di Di de Chi Bo Richang",
-      "description": "Food broadcast newcomer, Little Hamster Flute, can rack its brains for ideas for his live broadcast. Although the food broadcast contents it has come up with is not very good, the videos are often clicked on due to some of the incredible live broadcast accidents and unexpected funny events. This makes the hamster very troubled.\n\n(Source: bilibili, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1052/108483.jpg",
-      "date": "Jan 17, 2020",
-      "producer": "-",
-      "eps": 52,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2454,18 +2454,6 @@
       "category": "OVA"
     },
     {
-      "title": "Hime-sama Love Life!",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1487/103719.jpg",
-      "date": "May 31, 2019",
-      "producer": "PoRO",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Youma Shoukan e Youkoso",
       "description": "The protagonist (interpreted by the spectators in a subjective view) shows up at the Palace of the Mystic Courtesans to savor strong pleasures, choosing from a wide variety of courtesans of various species. The protagonist will be guided by Marina of the receptionist to find the right courtesans who can satisfy him.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1230/106167.jpg",
@@ -2477,6 +2465,18 @@
         "Demons",
         "Supernatural",
         "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Hime-sama Love Life!",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1487/103719.jpg",
+      "date": "May 31, 2019",
+      "producer": "PoRO",
+      "eps": null,
+      "genres": [
+        "Hentai"
       ],
       "category": "OVA"
     },

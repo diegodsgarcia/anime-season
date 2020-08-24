@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-08-23",
+  "lastUpdate": "2020-08-24",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -193,15 +193,17 @@
       "category": "TV (New)"
     },
     {
-      "title": "Gochuumon wa Usagi Desu ka? Bloom",
-      "description": "Third season of Gochuumon wa Usagi Desu ka.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1423/106509.jpg",
-      "date": "Oct 10, 2020",
-      "producer": "Encourage Films",
+      "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+      "description": "A great war has raged for years between the scientifically advanced Empire and Nebulis, the realm of the witches―until the youngest knight ever to receive the title of the Empire's strongest meets the princess of the rival nation. Though they are sworn enemies, the knight is taken by her beauty and dignity, and the princess is moved by his strength and way of life. Will the fighting between them ever be allowed to end? \n\n(Source: Yen Press)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1157/107048.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Silver Link.",
       "eps": null,
       "genres": [
-        "Slice of Life",
-        "Comedy"
+        "Action",
+        "Military",
+        "Romance",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -219,17 +221,15 @@
       "category": "TV (New)"
     },
     {
-      "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
-      "description": "A great war has raged for years between the scientifically advanced Empire and Nebulis, the realm of the witches―until the youngest knight ever to receive the title of the Empire's strongest meets the princess of the rival nation. Though they are sworn enemies, the knight is taken by her beauty and dignity, and the princess is moved by his strength and way of life. Will the fighting between them ever be allowed to end? \n\n(Source: Yen Press)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1157/107048.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Silver Link.",
+      "title": "Gochuumon wa Usagi Desu ka? Bloom",
+      "description": "Third season of Gochuumon wa Usagi Desu ka.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1423/106509.jpg",
+      "date": "Oct 10, 2020",
+      "producer": "Encourage Films",
       "eps": null,
       "genres": [
-        "Action",
-        "Military",
-        "Romance",
-        "Fantasy"
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -263,6 +263,21 @@
       "category": "TV (New)"
     },
     {
+      "title": "Noblesse",
+      "description": "Raizel awakens from his 820-year slumber. He holds the special title of Noblesse which is a pure-blooded Noble and protector of all other Nobles. In an attempt to protect Raizel, his servant Frankenstein enrolls him at Ye-Ran High School, where Raizel learn the simple and quotidian routines of the human world through his classmates.\n \nHowever, the Union—a mighty secret organization with strings around the globe and a goal to rule the world—dispatches modified humans and gradually encroaches on Raizel’s life progressively—which causes him to wield his mighty power to protect those around him.\n \nAfter 820 years of intrigue, the secrets behind his slumber are finally revealed and Raizel’s absolute protection as the Noblesse begins.\n\n(Source: Crunchyroll, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/108874.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Production I.G",
+      "eps": null,
+      "genres": [
+        "Action",
+        "School",
+        "Supernatural",
+        "Vampire"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Akudama Drive",
       "description": "Long ago, a war broke out in Japan that pitted Kantou against Kansai and divided the country. Kansai became dependent on Kantou, but slowly the police and government began losing control of Kansai to criminals known as Akudama.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1361/107944.jpg",
@@ -272,6 +287,20 @@
       "genres": [
         "Action",
         "Sci-Fi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Kami-tachi ni Hirowareta Otoko",
+      "description": "Ryouma Takebayashi dies in his sleep at the age of 39 after leading a life of misfortune. Taking pity on him, three deities offer him the chance to reincarnate in a world of magic where he has only one mission: to be himself and enjoy life. They bestow upon Ryouma powerful physical abilities as well as the affinity to master all elements, and promise to watch over him. His new life as a young child officially starts when he is teleported into a forest.\n\nThree years go by. Having spent most of his time researching slimes, Ryouma has managed to evolve unique kinds of slimes, training an army of them while developing his magic abilities. Although the young boy is happy with his hermit existence and comfortable cave home, he somewhat misses the company of humans. But after healing an injured member of a passing group of travelers from a duke's household, Ryouma is persuaded to go with them and exit the forest accompanied by his menagerie of slimes. A whole new world awaits him, where his skills as a magic user and slime tamer continue to elicit surprise and admiration. \n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Maho Film",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Slice of Life",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -292,20 +321,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Kami-tachi ni Hirowareta Otoko",
-      "description": "Ryouma Takebayashi dies in his sleep at the age of 39 after leading a life of misfortune. Taking pity on him, three deities offer him the chance to reincarnate in a world of magic where he has only one mission: to be himself and enjoy life. They bestow upon Ryouma powerful physical abilities as well as the affinity to master all elements, and promise to watch over him. His new life as a young child officially starts when he is teleported into a forest.\n\nThree years go by. Having spent most of his time researching slimes, Ryouma has managed to evolve unique kinds of slimes, training an army of them while developing his magic abilities. Although the young boy is happy with his hermit existence and comfortable cave home, he somewhat misses the company of humans. But after healing an injured member of a passing group of travelers from a duke's household, Ryouma is persuaded to go with them and exit the forest accompanied by his menagerie of slimes. A whole new world awaits him, where his skills as a magic user and slime tamer continue to elicit surprise and admiration. \n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Maho Film",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Slice of Life",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Kuma Kuma Kuma Bear",
       "description": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has! \n\n(Source: Seven Seas Entertainment)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/108852.jpg",
@@ -316,18 +331,6 @@
         "Adventure",
         "Comedy",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima",
-      "description": "In a world where women now dominate the government, the creation and use of weapons is strictly forbidden. However, by no means has conflict been brought to an end; instead of weapons, war is waged through words. With the power of the \"Hypnosis Mic,\" lyrics can affect one's opponent in various ways and cause real damage. Those in the divisions outside the women-only Chuou Ward thus use it for fierce rap battles as their weapon in the constant clash for territory. \n\n(Source: Tokyo Otaku Mode)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1677/106540.jpg",
-      "date": "Oct 3, 2020, 00:00 (JST)",
-      "producer": "A-1 Pictures",
-      "eps": null,
-      "genres": [
-        "Music"
       ],
       "category": "TV (New)"
     },
@@ -343,6 +346,18 @@
         "Historical",
         "Psychological",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima",
+      "description": "In a world where women now dominate the government, the creation and use of weapons is strictly forbidden. However, by no means has conflict been brought to an end; instead of weapons, war is waged through words. With the power of the \"Hypnosis Mic,\" lyrics can affect one's opponent in various ways and cause real damage. Those in the divisions outside the women-only Chuou Ward thus use it for fierce rap battles as their weapon in the constant clash for territory. \n\n(Source: Tokyo Otaku Mode)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1677/106540.jpg",
+      "date": "Oct 3, 2020, 00:00 (JST)",
+      "producer": "A-1 Pictures",
+      "eps": null,
+      "genres": [
+        "Music"
       ],
       "category": "TV (New)"
     },
@@ -375,22 +390,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Strike Witches: Road to Berlin",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/108577.jpg",
-      "date": "Oct 8, 2020, 01:05 (JST)",
-      "producer": "David Production",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Ecchi",
-        "Magic",
-        "Military",
-        "Sci-Fi"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Maoujou de Oyasumi",
       "description": "Sshhh! Princess Syalis is trying to get a good night's sleep. Some shut-eye. Forty winks. Catch some Z's. Long ago in olden times when people and demons lived together in—well, disharmony, really—a demon king kidnaps a human princess and imprisons her in his castle. Bereft, the princess's subjects beat their chests in anguish…until a hero arises to spearhead Project Rescue Our Princess! While waiting for her knight in shining armor, what's an imprisoned princess to do...? Teddy-bear guards with bat wings are all very well, but her dungeon cell is bo-o-o-ring! So, she decides to wile away the long hours by sleeping. Now if only she could get comfortable…and didn't suffer from insomnia...\n\n(Source: VIZ Media)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg",
@@ -404,6 +403,22 @@
         "Magic",
         "Fantasy",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Strike Witches: Road to Berlin",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/108577.jpg",
+      "date": "Oct 8, 2020, 01:05 (JST)",
+      "producer": "David Production",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Ecchi",
+        "Magic",
+        "Military",
+        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
@@ -641,21 +656,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Noblesse",
-      "description": "Raizel awakens from his 820-year slumber. He holds the special title of Noblesse which is a pure-blooded Noble and protector of all other Nobles. In an attempt to protect Raizel, his servant Frankenstein enrolls him at Ye-Ran High School, where Raizel learn the simple and quotidian routines of the human world through his classmates.\n \nHowever, the Union—a mighty secret organization with strings around the globe and a goal to rule the world—dispatches modified humans and gradually encroaches on Raizel’s life progressively—which causes him to wield his mighty power to protect those around him.\n \nAfter 820 years of intrigue, the secrets behind his slumber are finally revealed and Raizel’s absolute protection as the Noblesse begins.\n\n(Source: Crunchyroll, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/108874.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Production I.G",
-      "eps": null,
-      "genres": [
-        "Action",
-        "School",
-        "Supernatural",
-        "Vampire"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Otona nya Koi no Shikata ga Wakaranee!",
       "description": "Mio Sudou, a 30-year-old office lady has gone 5 years without a boyfriend and has forgotten all about love. Shuuji Mashima, a foreign-affiliated consultant has not had a girlfriend in 7 years and has lost almost all interest in women. Meeting at a matchmaking party, Mio is disgusted by Shuuji as he states, \"I am not into women.\" However, when Mio makes a provocative comment towards Shuuji, things take an unexpected direction.\n\n(Source: MAL News)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1603/108938.jpg",
@@ -725,6 +725,21 @@
       "category": "Movie"
     },
     {
+      "title": "Burn the Witch",
+      "description": "Historically, 72% of all the deaths in London are related to dragons, fantastical beings invisible to the majority of the people. While unknown to most, some people have been standing up to these dragons.\n\nOnly inhabitants of Reverse London who live in the hidden \"reverse\" side of London can see the dragons. Even then, only a selected few become qualified enough as witches or wizards to make direct contact with them.\n\nThe protagonists of the story are witch duo Noel Niihashi and Ninny Spangcole. They are protection agents for Wing Bind (WB), an organization for dragon conservation and management. Their mission is to protect and manage the dragons within London on behalf of the people. \n\n(Source: Official Site)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1993/108967.jpg",
+      "date": "Oct 2, 2020",
+      "producer": "Studio Colorido",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Magic",
+        "Fantasy",
+        "Shounen"
+      ],
+      "category": "Movie"
+    },
+    {
       "title": "Date A Bullet: Nightmare or Queen",
       "description": "Second part of the Date A Bullet films.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1002/108424.jpg",
@@ -777,6 +792,19 @@
       "category": "Movie"
     },
     {
+      "title": "Kimi wa Kanata",
+      "description": "Mio has feelings for her childhood friend Arata, but can't convey her feelings. One day, as they continue their delicate relationship, the two fight over something trivial. After letting tensions settle, Mio goes to make up with him in the pouring rain. While on her way, she gets into a traffic accident. When she regains consciousness, a mysterious and unfamiliar world appears before her eyes.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1415/108509.jpg",
+      "date": "Nov 27, 2020",
+      "producer": "Digital Network Animation",
+      "eps": 1,
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "category": "Movie"
+    },
+    {
       "title": "Pokemon Movie 23: Coco",
       "description": "The new film's story is set in Okoya Forest, a Pokémon paradise protected by strict rules that forbid outsiders from setting foot inside. The film centers on Coco, a boy who was raised by Pokémon and also considers himself as one, treating the Mythical Pokémon Zarude as his father. Ash and Pikachu encounter Coco during an adventure. The film focuses on the theme of a \"human raised by Pokémon,\" instead of the previous films' focus of the \"bond between a human trainer and their Pokémon.\"\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1029/106237.jpg",
@@ -789,19 +817,6 @@
         "Adventure",
         "Comedy",
         "Kids",
-        "Fantasy"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Kimi wa Kanata",
-      "description": "Mio has feelings for her childhood friend Arata, but can't convey her feelings. One day, as they continue their delicate relationship, the two fight over something trivial. After letting tensions settle, Mio goes to make up with him in the pouring rain. While on her way, she gets into a traffic accident. When she regains consciousness, a mysterious and unfamiliar world appears before her eyes.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1415/108509.jpg",
-      "date": "Nov 27, 2020",
-      "producer": "Digital Network Animation",
-      "eps": 1,
-      "genres": [
-        "Drama",
         "Fantasy"
       ],
       "category": "Movie"

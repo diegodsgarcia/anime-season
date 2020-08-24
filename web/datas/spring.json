@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-08-23",
+  "lastUpdate": "2020-08-24",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -420,7 +420,7 @@
       "title": "IDOLiSH7: Second Beat!",
       "description": "Second season of IDOLiSH7.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1962/106361.jpg",
-      "date": "Apr 5, 2020, 22:30 (JST)",
+      "date": "Apr 5, 2020, 23:00 (JST)",
       "producer": "TROYCA",
       "eps": 15,
       "genres": [
@@ -2212,18 +2212,6 @@
       "category": "ONA"
     },
     {
-      "title": "BIGOTRE Capture Mission",
-      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
-      "date": "Apr 6, 2020",
-      "producer": "-",
-      "eps": 3,
-      "genres": [
-        "Game"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Bai Gui Youeryuan 3rd Season",
       "description": "Third season of Bai Gui Youeryuan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/108463.jpg",
@@ -2232,6 +2220,18 @@
       "eps": 12,
       "genres": [
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "BIGOTRE Capture Mission",
+      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
+      "date": "Apr 6, 2020",
+      "producer": "-",
+      "eps": 3,
+      "genres": [
+        "Game"
       ],
       "category": "ONA"
     },

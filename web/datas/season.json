@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-23",
+  "lastUpdate": "2020-08-24",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -678,7 +678,7 @@
       "title": "IDOLiSH7: Second Beat!",
       "description": "Second season of IDOLiSH7.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1962/106361.jpg",
-      "date": "Apr 5, 2020, 22:30 (JST)",
+      "date": "Apr 5, 2020, 23:00 (JST)",
       "producer": "TROYCA",
       "eps": 15,
       "genres": [
@@ -1870,6 +1870,20 @@
       "category": "ONA"
     },
     {
+      "title": "Deca-Dence: Install",
+      "description": "Recap of the first 5 episodes of Deca-Dence.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1480/108948.jpg",
+      "date": "Aug 7, 2020",
+      "producer": "Nut",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Ling Jian Zun 4th Season",
       "description": "Fourth season of Ling Jian Zun.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1972/108157.jpg",
@@ -1931,6 +1945,20 @@
       "category": "ONA"
     },
     {
+      "title": "Kyoshin to Hyouka no Shiro",
+      "description": "The story is set in Nagasaki prefecture in Minami Shimabara city, the fabled origin of the Shimabara Rebellion that sent shockwaves through all of Japan in the early Edo period. It is also where a third-year junior high school student named Shirou spends his days with his school friends.\n\nOne summer day, Shirou's older childhood friend Akane returns to Minami Shimabara from Tokyo. Shirou and Akane take a stroll around Minami Shimabara with another longtime friend, Tokiya. While these friends are dealing with nostalgia and more complex feelings, a mysterious creature named Goron suddenly appears before them. This encounter with a mere little creature causes great events to unfold once more in this city...\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/107681.jpg",
+      "date": "Aug 8, 2020",
+      "producer": "TriF Studio",
+      "eps": 4,
+      "genres": [
+        "Mystery",
+        "Supernatural",
+        "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Battle Spirits: Kakumei no Galette",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1703/108504.jpg",
@@ -1943,20 +1971,6 @@
         "Sci-Fi",
         "Adventure",
         "Demons"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Kyoshin to Hyouka no Shiro",
-      "description": "The story is set in Nagasaki prefecture in Minami Shimabara city, the fabled origin of the Shimabara Rebellion that sent shockwaves through all of Japan in the early Edo period. It is also where a third-year junior high school student named Shirou spends his days with his school friends.\n\nOne summer day, Shirou's older childhood friend Akane returns to Minami Shimabara from Tokyo. Shirou and Akane take a stroll around Minami Shimabara with another longtime friend, Tokiya. While these friends are dealing with nostalgia and more complex feelings, a mysterious creature named Goron suddenly appears before them. This encounter with a mere little creature causes great events to unfold once more in this city...\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/107681.jpg",
-      "date": "Aug 8, 2020",
-      "producer": "TriF Studio",
-      "eps": 4,
-      "genres": [
-        "Mystery",
-        "Supernatural",
-        "Drama"
       ],
       "category": "ONA"
     },
@@ -1974,6 +1988,18 @@
       "category": "ONA"
     },
     {
+      "title": "Dahua Zhi Shaonian You",
+      "description": "Rookie Jianghu and swordsman Xiao Yao Sheng have defeated the baby-eater that caused Chang'an, but they now find themselves falling into a bigger mystery. They traveled to the distant Spirit Beast Village and met the beautiful Demon Fox Girl, the Bone Elves, and people of all kinds inhabiting rivers and lakes along the way. They gained growth and friendship, but are now entangled in a greater crisis: a dispute between immortals and demons. The animation will combine elements such as martial arts, fantasy, blood, adventure, and more, to present to the audience a tale of ups and downs in legendary stories!\n\n(Source: V2Anime)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/107440.jpg",
+      "date": "Aug 15, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Hulaing Babies Aratame - Staying Babies: Chikyuu wo Mamore! Staying Babies with Yuusha Hayami-san",
       "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
@@ -1983,18 +2009,6 @@
       "genres": [
         "Slice of Life",
         "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Dahua Zhi Shaonian You",
-      "description": "Rookie Jianghu and swordsman Xiao Yao Sheng have defeated the baby-eater that caused Chang'an, but they now find themselves falling into a bigger mystery. They traveled to the distant Spirit Beast Village and met the beautiful Demon Fox Girl, the Bone Elves, and people of all kinds inhabiting rivers and lakes along the way. They gained growth and friendship, but are now entangled in a greater crisis: a dispute between immortals and demons. The animation will combine elements such as martial arts, fantasy, blood, adventure, and more, to present to the audience a tale of ups and downs in legendary stories!\n\n(Source: V2Anime)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/107440.jpg",
-      "date": "Aug 15, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Action"
       ],
       "category": "ONA"
     },
