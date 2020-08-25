@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-24",
+  "lastUpdate": "2020-08-25",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -1723,6 +1723,20 @@
       "category": "ONA"
     },
     {
+      "title": "Deca-Dence: Install",
+      "description": "Recap of the first 5 episodes of Deca-Dence.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1480/108948.jpg",
+      "date": "Aug 7, 2020",
+      "producer": "Nut",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Fanren Xiu Xian Chuan Zhi Fanren Feng Qi Tian Nan",
       "description": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.\n\n(Source: Wuxia World)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1910/108227.jpg",
@@ -1825,20 +1839,6 @@
       "category": "ONA"
     },
     {
-      "title": "Liu Yi Chuanqi",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1297/108295.jpg",
-      "date": "Jul 22, 2020",
-      "producer": "Wei Chuang Jiang Xin",
-      "eps": 26,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Min Diao Ju Yi Wen Lu",
       "description": "In the task of catching drug lords in the Yunnan border, a special forces team accidentally enters the ancient caves of the ancient Shu, and intruded on ancient rituals. The squad was almost completely annihilated. Only Shen Shuang and the anti-drug police Sun Desheng survived, as they were rescued by a mysterious white-haired man named Wu Hao. After this incident, the two men accidentally entered the \"Civil Affairs Investigation and Research Bureau\" and gradually became entangled in more supernatural events, revealing the veil of another world.\n\n(Source: AniList)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1919/108128.jpg",
@@ -1850,6 +1850,20 @@
         "Adventure",
         "Supernatural",
         "Thriller"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Liu Yi Chuanqi",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1297/108295.jpg",
+      "date": "Jul 22, 2020",
+      "producer": "Wei Chuang Jiang Xin",
+      "eps": 26,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -1866,20 +1880,6 @@
         "Historical",
         "Demons",
         "Supernatural"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Deca-Dence: Install",
-      "description": "Recap of the first 5 episodes of Deca-Dence.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1480/108948.jpg",
-      "date": "Aug 7, 2020",
-      "producer": "Nut",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Adventure"
       ],
       "category": "ONA"
     },
@@ -2078,19 +2078,6 @@
       "category": "ONA"
     },
     {
-      "title": "Sansan de Ezuoju Chufang",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
-      "date": "Jul 30, 2020",
-      "producer": "-",
-      "eps": 10,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Huanji 45 Miao",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1240/108694.jpg",
@@ -2101,6 +2088,19 @@
         "Action",
         "Sci-Fi",
         "Music"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Sansan de Ezuoju Chufang",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
+      "date": "Jul 30, 2020",
+      "producer": "-",
+      "eps": 10,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
