@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-25",
+  "lastUpdate": "2020-08-26",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -1651,21 +1651,6 @@
       "category": "ONA"
     },
     {
-      "title": "Mo Dao Zu Shi Q",
-      "description": "The chibi spin-off takes place during the three periods of Wei Wuxian's life (adolescence, adulthood, and rebirth after death), selecting the cute, warm, and healing parts as the main contents. This series hopes to heal the audience who loves the main story of Mo Dao Zu Shi, but were “injured” by the melancholy plot of the drama.\n\n(Source: Official Youtube, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108467.jpg",
-      "date": "Jul 31, 2020",
-      "producer": "B.CMAY PICTURES",
-      "eps": 30,
-      "genres": [
-        "Comedy",
-        "Historical",
-        "Supernatural",
-        "Magic"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Wu Shan Wu Xing",
       "description": "A legend tells that a long time ago, monsters could give the ability to certain elected officials to master the five elements. But for that, you have to go through the dangerous foggy mountains...\n\nWe follow the adventures of one of these elected officials.\n\n(Source: Nautiljon)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1335/108930.jpg",
@@ -1677,6 +1662,21 @@
         "Historical",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Mo Dao Zu Shi Q",
+      "description": "The chibi spin-off takes place during the three periods of Wei Wuxian's life (adolescence, adulthood, and rebirth after death), selecting the cute, warm, and healing parts as the main contents. This series hopes to heal the audience who loves the main story of Mo Dao Zu Shi, but were “injured” by the melancholy plot of the drama.\n\n(Source: Official Youtube, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1748/108467.jpg",
+      "date": "Jul 31, 2020",
+      "producer": "B.CMAY PICTURES",
+      "eps": 30,
+      "genres": [
+        "Comedy",
+        "Historical",
+        "Supernatural",
+        "Magic"
       ],
       "category": "ONA"
     },
@@ -1710,19 +1710,6 @@
       "category": "ONA"
     },
     {
-      "title": "Nu Wushen de Canzhuo II",
-      "description": "Second season of Nu Wushen de Canzhuo.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/108206.jpg",
-      "date": "Jul 17, 2020",
-      "producer": "Blade, Thundray",
-      "eps": 8,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Deca-Dence: Install",
       "description": "Recap of the first 5 episodes of Deca-Dence.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1480/108948.jpg",
@@ -1733,6 +1720,19 @@
         "Action",
         "Sci-Fi",
         "Adventure"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Nu Wushen de Canzhuo II",
+      "description": "Second season of Nu Wushen de Canzhuo.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/108206.jpg",
+      "date": "Jul 17, 2020",
+      "producer": "Blade, Thundray",
+      "eps": 8,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2000,12 +2000,12 @@
       "category": "ONA"
     },
     {
-      "title": "Hulaing Babies Aratame - Staying Babies: Chikyuu wo Mamore! Staying Babies with Yuusha Hayami-san",
-      "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
-      "date": "Jul 19, 2020",
-      "producer": "Gaina",
-      "eps": 1,
+      "title": "Renlei Bowuguan",
+      "description": "After the end of the world, there is a mysterious museum left in the world. No one knows where the collection came from. Are these seemingly funny \"historical relics\" proof of the existence of real humans?\n\n(Source: bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1604/108296.jpg",
+      "date": "Aug 25, 2020",
+      "producer": "-",
+      "eps": 36,
       "genres": [
         "Slice of Life",
         "Comedy"
@@ -2013,12 +2013,12 @@
       "category": "ONA"
     },
     {
-      "title": "Renlei Bowuguan",
-      "description": "After the end of the world, there is a mysterious museum left in the world. No one knows where the collection came from. Are these seemingly funny \"historical relics\" proof of the existence of real humans?\n\n(Source: bilibili, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1604/108296.jpg",
-      "date": "Aug 25, 2020",
-      "producer": "-",
-      "eps": 36,
+      "title": "Hulaing Babies Aratame - Staying Babies: Chikyuu wo Mamore! Staying Babies with Yuusha Hayami-san",
+      "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
+      "date": "Jul 19, 2020",
+      "producer": "Gaina",
+      "eps": 1,
       "genres": [
         "Slice of Life",
         "Comedy"
@@ -2136,7 +2136,7 @@
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1456/108076.jpg",
       "date": "Aug 26, 2020",
-      "producer": "-",
+      "producer": "Production I.G",
       "eps": 6,
       "genres": [
         "Mystery",

@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-08-25",
+  "lastUpdate": "2020-08-26",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -249,19 +249,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Akudama Drive",
-      "description": "Long ago, a war broke out in Japan that pitted Kantou against Kansai and divided the country. Kansai became dependent on Kantou, but slowly the police and government began losing control of Kansai to criminals known as Akudama.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1361/107944.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Studio Pierrot",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Sci-Fi"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Assault Lily: Bouquet",
       "description": "In the near future, humanity faces imminent destruction from mysterious creatures known as \"Huge.\" The world wages war against the Huge, and develops the anti-weapon \"CHARM\" (Counter Huge Arms) by combining science and magic. CHARM works more effectively when used by teenage girls, and those who use the weapons are revered as \"Lilies.\" The Lilies are trained at military academies called \"Gardens,\" which also serve as bases to protect and advise people. This is a story about girls who aim to become Lilies so they can protect Earth. \n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1024/108413.jpg",
@@ -272,6 +259,19 @@
         "Action",
         "Magic",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Akudama Drive",
+      "description": "Long ago, a war broke out in Japan that pitted Kantou against Kansai and divided the country. Kansai became dependent on Kantou, but slowly the police and government began losing control of Kansai to criminals known as Akudama.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1361/107944.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "Studio Pierrot",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
@@ -310,7 +310,7 @@
       "title": "Kami-tachi ni Hirowareta Otoko",
       "description": "Ryouma Takebayashi dies in his sleep at the age of 39 after leading a life of misfortune. Taking pity on him, three deities offer him the chance to reincarnate in a world of magic where he has only one mission: to be himself and enjoy life. They bestow upon Ryouma powerful physical abilities as well as the affinity to master all elements, and promise to watch over him. His new life as a young child officially starts when he is teleported into a forest.\n\nThree years go by. Having spent most of his time researching slimes, Ryouma has managed to evolve unique kinds of slimes, training an army of them while developing his magic abilities. Although the young boy is happy with his hermit existence and comfortable cave home, he somewhat misses the company of humans. But after healing an injured member of a passing group of travelers from a duke's household, Ryouma is persuaded to go with them and exit the forest accompanied by his menagerie of slimes. A whole new world awaits him, where his skills as a magic user and slime tamer continue to elicit surprise and admiration. \n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
-      "date": "Oct ??, 2020",
+      "date": "Oct 4, 2020",
       "producer": "Maho Film",
       "eps": null,
       "genres": [
@@ -390,6 +390,22 @@
       "category": "TV (New)"
     },
     {
+      "title": "Strike Witches: Road to Berlin",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/108577.jpg",
+      "date": "Oct 8, 2020, 01:05 (JST)",
+      "producer": "David Production",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Ecchi",
+        "Magic",
+        "Military",
+        "Sci-Fi"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Maoujou de Oyasumi",
       "description": "Sshhh! Princess Syalis is trying to get a good night's sleep. Some shut-eye. Forty winks. Catch some Z's. Long ago in olden times when people and demons lived together in—well, disharmony, really—a demon king kidnaps a human princess and imprisons her in his castle. Bereft, the princess's subjects beat their chests in anguish…until a hero arises to spearhead Project Rescue Our Princess! While waiting for her knight in shining armor, what's an imprisoned princess to do...? Teddy-bear guards with bat wings are all very well, but her dungeon cell is bo-o-o-ring! So, she decides to wile away the long hours by sleeping. Now if only she could get comfortable…and didn't suffer from insomnia...\n\n(Source: VIZ Media)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg",
@@ -403,22 +419,6 @@
         "Magic",
         "Fantasy",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Strike Witches: Road to Berlin",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/108577.jpg",
-      "date": "Oct 8, 2020, 01:05 (JST)",
-      "producer": "David Production",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Ecchi",
-        "Magic",
-        "Military",
-        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
@@ -952,18 +952,6 @@
       "category": "Movie"
     },
     {
-      "title": "Marudase Kintarou",
-      "description": "Makoto's grandfather was the principal of the great Onodera Academy, and when he passed away, he left Makoto and his school staff with one very important will - \"The one man who is able to seduce Makoto with his superb sexual techniques will be given the right to take over as Onodera Academy's new principal!\" Because of this ridiculous last request, Makoto is now every faculty member's target for sexual harassment! Desperate to protect his virginity, Makoto seeks help from his childhood friend (and the man who he has always loved), Kintaro.\n\n(Source: DMP)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1935/104704.jpg",
-      "date": "Dec ??, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Yaoi"
-      ],
-      "category": "Movie"
-    },
-    {
       "title": "Bem Movie: Become Human",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1078/108925.jpg",
@@ -975,6 +963,18 @@
         "Horror",
         "Demons",
         "Supernatural"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Marudase Kintarou",
+      "description": "Makoto's grandfather was the principal of the great Onodera Academy, and when he passed away, he left Makoto and his school staff with one very important will - \"The one man who is able to seduce Makoto with his superb sexual techniques will be given the right to take over as Onodera Academy's new principal!\" Because of this ridiculous last request, Makoto is now every faculty member's target for sexual harassment! Desperate to protect his virginity, Makoto seeks help from his childhood friend (and the man who he has always loved), Kintaro.\n\n(Source: DMP)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1935/104704.jpg",
+      "date": "Dec ??, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Yaoi"
       ],
       "category": "Movie"
     },

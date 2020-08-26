@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-08-25",
+  "lastUpdate": "2020-08-26",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -1735,19 +1735,6 @@
       "category": "ONA"
     },
     {
-      "title": "Sol Levante",
-      "description": "A young warrior and her familiar search for the sacred place said to fulfill wishes. It's best not to anger the ancient guardians and spirits.\n\n(Source: Netflix)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1980/108459.jpg",
-      "date": "Apr 2, 2020",
-      "producer": "Production I.G",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Quanzhi Fashi IV",
       "description": "Fourth season of Quanzhi Fashi.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1925/105375.jpg",
@@ -1759,6 +1746,19 @@
         "Magic",
         "Fantasy",
         "School"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Sol Levante",
+      "description": "A young warrior and her familiar search for the sacred place said to fulfill wishes. It's best not to anger the ancient guardians and spirits.\n\n(Source: Netflix)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1980/108459.jpg",
+      "date": "Apr 2, 2020",
+      "producer": "Production I.G",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Fantasy"
       ],
       "category": "ONA"
     },
