@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-08-26",
+  "lastUpdate": "2020-08-27",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -310,7 +310,7 @@
       "title": "Kami-tachi ni Hirowareta Otoko",
       "description": "Ryouma Takebayashi dies in his sleep at the age of 39 after leading a life of misfortune. Taking pity on him, three deities offer him the chance to reincarnate in a world of magic where he has only one mission: to be himself and enjoy life. They bestow upon Ryouma powerful physical abilities as well as the affinity to master all elements, and promise to watch over him. His new life as a young child officially starts when he is teleported into a forest.\n\nThree years go by. Having spent most of his time researching slimes, Ryouma has managed to evolve unique kinds of slimes, training an army of them while developing his magic abilities. Although the young boy is happy with his hermit existence and comfortable cave home, he somewhat misses the company of humans. But after healing an injured member of a passing group of travelers from a duke's household, Ryouma is persuaded to go with them and exit the forest accompanied by his menagerie of slimes. A whole new world awaits him, where his skills as a magic user and slime tamer continue to elicit surprise and admiration. \n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
-      "date": "Oct 4, 2020",
+      "date": "Oct 4, 2020, 23:30 (JST)",
       "producer": "Maho Film",
       "eps": null,
       "genres": [
@@ -439,11 +439,14 @@
     {
       "title": "Senyoku no Sigrdrifa",
       "description": "The Pillars suddenly appeared above Earth, threatening all life. A god who called himself Odin came to the aid of humanity as it was driven to near complete defeat. To counter the Pillars, Odin declared a counterattack by bequeathing humanity with the battle maidens Walküres and the \"herocraft\" as their wings.\n\nSeveral years later, the battle between humanity and Pillars rages on, with men supporting the Walküres as they soar through the treacherous skies to save the world.\n\nJapan is no exception. Three Walküres confront the giant Pillar looming over sacred Mt. Fuji. Each Walküre is skilled, but each also has issues. And now, an ace pilot has arrived from Europe.\n\n\"Now is the time to fight back, humanity. The day of reckoning has arrived. The time of Ragnarok draws nears.\"\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1340/108221.jpg",
-      "date": "Oct ??, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1208/108995.jpg",
+      "date": "Oct 3, 2020, 23:00 (JST)",
       "producer": "A-1 Pictures",
       "eps": null,
-      "genres": [],
+      "genres": [
+        "Action",
+        "Military"
+      ],
       "category": "TV (New)"
     },
     {
@@ -907,6 +910,20 @@
       "category": "Movie"
     },
     {
+      "title": "Jiang Ziya",
+      "description": "Jiang Ziya, a top commander in the divine army of the Kunlun Sect, is victorious in the battle between the Heavenly powers and the Shang dynasty. Before he can ascend to his new position among the Gods, he is ordered to execute the Nine-Tailed Fox Demon who threatens the mortals' very existence. But when the Fox Demon shows him the secret to her power, an innocent human girl, he is unable to complete his task resulting in his banishment to the mortal realm forever. Ten years later, atop the ruins of war, Jiang Ziya is once again given a task that will bring him back to the Heavenly realm – execute the Nine Tail Fox Demon regardless if the innocent life is lost. Now Jiang Ziya must decide – follow the will of heaven or find his own path to becoming a true god.   \n\n(Source: Well Go USA Entertainment)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1545/107810.jpg",
+      "date": "Oct 1, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "Movie"
+    },
+    {
       "title": "Precure Miracle Leap Movie: Minna to no Fushigi na Ichinichi",
       "description": "The story begins when the protagonist Hikaru meets aliens Lala, Prunce, and Fuwa while watching the night sky. She learns of the “Star Palace,” where the 12 Star Princesses of the constellations kept the balance of the universe until they were attacked. Lala is searching for the legendary Precure warriors to help find the 12 scattered “Princess Star Color Pens” and revive the princesses. When Fuwa is captured by an enemy, Hikaru wishes to save Fuwa, and a Star Color Pendent and a Star Color Pen appear to allow her to transform into Cure Star. From then on she works to collect the pens and raise Fuwa, who is the key to reviving the princesses.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1313/105361.jpg",
@@ -918,20 +935,6 @@
         "Fantasy",
         "Magic",
         "Shoujo"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "Jiang Ziya",
-      "description": "Jiang Ziya, a top commander in the divine army of the Kunlun Sect, is victorious in the battle between the Heavenly powers and the Shang dynasty. Before he can ascend to his new position among the Gods, he is ordered to execute the Nine-Tailed Fox Demon who threatens the mortals' very existence. But when the Fox Demon shows him the secret to her power, an innocent human girl, he is unable to complete his task resulting in his banishment to the mortal realm forever. Ten years later, atop the ruins of war, Jiang Ziya is once again given a task that will bring him back to the Heavenly realm – execute the Nine Tail Fox Demon regardless if the innocent life is lost. Now Jiang Ziya must decide – follow the will of heaven or find his own path to becoming a true god.   \n\n(Source: Well Go USA Entertainment)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1545/107810.jpg",
-      "date": "Oct 1, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
       ],
       "category": "Movie"
     },
