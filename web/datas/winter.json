@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-08-27",
+  "lastUpdate": "2020-08-28",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -2015,18 +2015,6 @@
       "category": "ONA"
     },
     {
-      "title": "Microphone Soul Spinners: Kotodama Shoujo",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/102079.jpg",
-      "date": "Jan 11, 2020",
-      "producer": "-",
-      "eps": 24,
-      "genres": [
-        "Music"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Wushen Zhuzai",
       "description": "The protagonist Qin Chen, who was originally the top genius in the military domain, was conspired by the people to fall into the death canyon in the forbidden land of the mainland. Qin Chen, who was inevitably dead, unexpectedly triggered the power of the mysterious ancient sword.\n\nThree hundred years later, in a remote part of the Tianwu mainland, a boy of the same name accidentally inherited Qin Chen’s will. As the beloved grandson of King Dingwu of the Daqi National Army, due to the birth father’s birth, the mother and son were treated coldly in Dingwu’s palace and lived together. In order to rewrite the myth of the strong man in hope of the sun, and to protect everything he loves, Qin Chen resolutely took up the responsibility of maintaining the five kingdoms of the world and set foot on the road of martial arts again.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
@@ -2039,6 +2027,18 @@
         "Drama",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Microphone Soul Spinners: Kotodama Shoujo",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/102079.jpg",
+      "date": "Jan 11, 2020",
+      "producer": "-",
+      "eps": 24,
+      "genres": [
+        "Music"
       ],
       "category": "ONA"
     },

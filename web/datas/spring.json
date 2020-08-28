@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-08-27",
+  "lastUpdate": "2020-08-28",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -586,6 +586,18 @@
       "category": "TV (New)"
     },
     {
+      "title": "Watanuki-san Chi to",
+      "description": "Second season of Watanuki-san Chi no.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1524/106532.jpg",
+      "date": "Apr 6, 2020, 01:35 (JST)",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Kiratto Pri☆chan Season 3",
       "description": "Third season of Kiratto Pri☆chan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/105552.jpg",
@@ -598,18 +610,6 @@
         "Comedy",
         "Magic",
         "Shoujo"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Watanuki-san Chi to",
-      "description": "Second season of Watanuki-san Chi no.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1524/106532.jpg",
-      "date": "Apr 6, 2020, 01:35 (JST)",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "TV (New)"
     },

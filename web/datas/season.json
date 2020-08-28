@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-27",
+  "lastUpdate": "2020-08-28",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -1148,19 +1148,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Anoyo no Subete wa, Obake-gumi!",
-      "description": "The gag anime takes place at a school for youkai and other supernatural beings. A vampire named Rakuru transfers to the school from the West, and she tries to change the school as the class representative.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106451.jpg",
-      "date": "Apr 7, 2020",
-      "producer": "-",
-      "eps": 13,
-      "genres": [
-        "Comedy",
-        "Supernatural"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Go! Go! Atom",
       "description": "The eco-systems of planet Earth are endangered. Lucky for us, a super-powered robot boy is flying to rescue! astro in on a mission to help anyone anywhere in the world with a problem involving natural phenomena. Go little Astro Boy! GO! \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1793/107568.jpg",
@@ -1174,6 +1161,19 @@
         "Kids",
         "Mecha",
         "Sci-Fi"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Anoyo no Subete wa, Obake-gumi!",
+      "description": "The gag anime takes place at a school for youkai and other supernatural beings. A vampire named Rakuru transfers to the school from the West, and she tries to change the school as the class representative.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106451.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "-",
+      "eps": 13,
+      "genres": [
+        "Comedy",
+        "Supernatural"
       ],
       "category": "TV (Continuing)"
     },
@@ -1627,10 +1627,10 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1049/108692.jpg",
       "date": "Aug 27, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 10,
       "genres": [
-        "Slice of Life",
-        "Comedy"
+        "Comedy",
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -1915,6 +1915,20 @@
       "category": "ONA"
     },
     {
+      "title": "Kyoshin to Hyouka no Shiro",
+      "description": "The story is set in Nagasaki prefecture in Minami Shimabara city, the fabled origin of the Shimabara Rebellion that sent shockwaves through all of Japan in the early Edo period. It is also where a third-year junior high school student named Shirou spends his days with his school friends.\n\nOne summer day, Shirou's older childhood friend Akane returns to Minami Shimabara from Tokyo. Shirou and Akane take a stroll around Minami Shimabara with another longtime friend, Tokiya. While these friends are dealing with nostalgia and more complex feelings, a mysterious creature named Goron suddenly appears before them. This encounter with a mere little creature causes great events to unfold once more in this city...\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/107681.jpg",
+      "date": "Aug 8, 2020",
+      "producer": "TriF Studio",
+      "eps": 4,
+      "genres": [
+        "Mystery",
+        "Supernatural",
+        "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Xian Feng Jian Yu Lu",
       "description": "The ancient Shenzhou Mainland, the ancient Chinese dynasty, and the demon kingdom of Tushan had been in conflict for thousands of years. Zhang Kuangyun from China and Bai Binglan, Princess Tianhu from Tushan, met each other because of a misunderstanding.\n\nTo explore the details of the enemy, Bai Binglan lurked to Zhang Kuangyun’s side and became her follower. While identity gaps, differences in ideas, and emotional growth, with step-by-step exploration, Zhang Kuangyun slowly discovered that his aunt and teacher’s family were slaughtered and killed in the mountains only incidents that were covered up. An unprecedented great conspiracy gradually emerged from the surface.\n\n(Source: Narul Donghua)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1092/108634.jpg",
@@ -1941,20 +1955,6 @@
         "Magic",
         "Fantasy",
         "School"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Kyoshin to Hyouka no Shiro",
-      "description": "The story is set in Nagasaki prefecture in Minami Shimabara city, the fabled origin of the Shimabara Rebellion that sent shockwaves through all of Japan in the early Edo period. It is also where a third-year junior high school student named Shirou spends his days with his school friends.\n\nOne summer day, Shirou's older childhood friend Akane returns to Minami Shimabara from Tokyo. Shirou and Akane take a stroll around Minami Shimabara with another longtime friend, Tokiya. While these friends are dealing with nostalgia and more complex feelings, a mysterious creature named Goron suddenly appears before them. This encounter with a mere little creature causes great events to unfold once more in this city...\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/107681.jpg",
-      "date": "Aug 8, 2020",
-      "producer": "TriF Studio",
-      "eps": 4,
-      "genres": [
-        "Mystery",
-        "Supernatural",
-        "Drama"
       ],
       "category": "ONA"
     },
