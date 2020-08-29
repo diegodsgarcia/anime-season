@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-08-28",
+  "lastUpdate": "2020-08-29",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -114,21 +114,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Eizouken ni wa Te wo Dasu na!",
-      "description": "Midori Asakusa sees the world a bit differently. Always having her nose in a sketchbook, Asakusa draws detailed landscapes and backgrounds of both the world around her and the one within her boundless imagination. Even the simple act of doodling on a wall evolves into an emergency repair on the outer hull of her spaceship. She is only brought back to reality by her best friend Sayaka Kanamori. The pair are stark opposites, with Asakusa's childlike wonder contrasted by Kanamori's calculated approach to life. \n\nAfter a chance encounter where the two \"save\" the young model Tsubame Misuzaki from her overprotective bodyguard, a connection instantly sparks between Asakusa and Misuzaki, as both share an intense passion for art and animation. Whereas Asakusa is interested in backgrounds and settings, Misuzaki loves drawing the human form. Sensing a money-making opportunity, Kanamori suggests that they start an animation club, which they disguise as a motion picture club since the school already has an anime club. Thus begins the trio's journey of producing animation that will awe the world. \n\nFrom the brilliant mind of Masaaki Yuasa, Eizouken ni wa Te wo Dasu na! is a love letter to animation, wildly creative in its approach, and a testament to the potential of the medium.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1561/106329.jpg",
-      "date": "Jan 6, 2020, 00:10 (JST)",
-      "producer": "Science SARU",
-      "eps": 12,
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "School",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Plunderer",
       "description": "Alcia is a world governed by \"Count\": numbers engraved on a person's body, representing any number related to their life. These Counts determine a person's social status and power in Alcia. If a Count reaches zero, the person is sent to the Abyss, a place rumored to be worse than death.\n\nHina, a traveler whose Count is based on the distance she traveled, witnessed her mother get dragged down into the Abyss. Determined to fulfill her mother's last wishes, she sets off on a journey in search of the legendary Aces—heroes of the war that happened three hundred years ago, bearing a white star next to their Count.\n\nWhile wandering around, Hina encounters Licht Bach, a mysterious masked man with negative Count, and Nana, the owner of a tavern. In the midst of having a good time, Hina is tricked into a battle with a military soldier. However, despite his negative count, Licht rescues Hina and reveals that he has another count, one with a white star, one of a legendary Ace.\n\nPlunderer follows the journey of Hina and other inhabitants of Alcia as they discover the truth about their world, the Abyss, and the legendary Aces.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1534/104784.jpg",
@@ -140,6 +125,21 @@
         "Ecchi",
         "Fantasy",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Eizouken ni wa Te wo Dasu na!",
+      "description": "Midori Asakusa sees the world a bit differently. Always having her nose in a sketchbook, Asakusa draws detailed landscapes and backgrounds of both the world around her and the one within her boundless imagination. Even the simple act of doodling on a wall evolves into an emergency repair on the outer hull of her spaceship. She is only brought back to reality by her best friend Sayaka Kanamori. The pair are stark opposites, with Asakusa's childlike wonder contrasted by Kanamori's calculated approach to life. \n\nAfter a chance encounter where the two \"save\" the young model Tsubame Misuzaki from her overprotective bodyguard, a connection instantly sparks between Asakusa and Misuzaki, as both share an intense passion for art and animation. Whereas Asakusa is interested in backgrounds and settings, Misuzaki loves drawing the human form. Sensing a money-making opportunity, Kanamori suggests that they start an animation club, which they disguise as a motion picture club since the school already has an anime club. Thus begins the trio's journey of producing animation that will awe the world. \n\nFrom the brilliant mind of Masaaki Yuasa, Eizouken ni wa Te wo Dasu na! is a love letter to animation, wildly creative in its approach, and a testament to the potential of the medium.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1561/106329.jpg",
+      "date": "Jan 6, 2020, 00:10 (JST)",
+      "producer": "Science SARU",
+      "eps": 12,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "School",
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -1501,18 +1501,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Konigiri-kun",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Otoppe",
       "description": "The series follows a young girl named Shina who hopes to become the world's best DJ, and is interested in new sounds. Shina explores a mysterious world filled with Otoppe, strange creatures capable of unique sounds.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
@@ -1523,6 +1511,18 @@
         "Music",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Konigiri-kun",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },

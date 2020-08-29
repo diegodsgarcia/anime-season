@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-28",
+  "lastUpdate": "2020-08-29",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -1681,21 +1681,6 @@
       "category": "ONA"
     },
     {
-      "title": "Chuan Shu Zijiu Zhinan",
-      "description": "This is a story of a guy who transmigrates into the scum villain of one of those harem xuanhuan/xianxia novels. The scum villain, Shen Qingqiu, is one of those looks-noble-but-is-actually-a-hypocrite type. Shen Qingqiu’s disciple, Luo Binghe, is the main character of the novel who gradually turns darker as tragic events occur upon him.\n\nWith the help of a very troll system, the new Shen Qingqiu tries to stay alive by staying on Luo Binghe’s good side, as the original Shen Qingqiu treated Luo Binghe badly, thus receiving a horrifying ending. However, Shen Qingqiu's plan of staying alive is not as simple as it seems as he soon finds out that the system limits his actions.\n\nThis is a sometimes angsty, but also touching, story of a master and his disciple.\n\n(Source: CNovels; edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/98200.jpg",
-      "date": "Sep 10, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Historical",
-        "Demons",
-        "Supernatural",
-        "Drama"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Dragon's Dogma",
       "description": "Based on a world-famous action RPG set in an open world, Dragon's Dogma from Capcom will be brought to life as a Netflix original anime series. The story follows a man's journey seeking revenge on a dragon who stole his heart. On his way, the man is brought back to life as an \"Arisen.\" An action adventure about a man challenged by demons who represent the seven deadly sins of humans. \n\n(Source: Netflix)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1410/108510.jpg",
@@ -1720,6 +1705,21 @@
         "Action",
         "Sci-Fi",
         "Adventure"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Chuan Shu Zijiu Zhinan",
+      "description": "This is a story of a guy who transmigrates into the scum villain of one of those harem xuanhuan/xianxia novels. The scum villain, Shen Qingqiu, is one of those looks-noble-but-is-actually-a-hypocrite type. Shen Qingqiu’s disciple, Luo Binghe, is the main character of the novel who gradually turns darker as tragic events occur upon him.\n\nWith the help of a very troll system, the new Shen Qingqiu tries to stay alive by staying on Luo Binghe’s good side, as the original Shen Qingqiu treated Luo Binghe badly, thus receiving a horrifying ending. However, Shen Qingqiu's plan of staying alive is not as simple as it seems as he soon finds out that the system limits his actions.\n\nThis is a sometimes angsty, but also touching, story of a master and his disciple.\n\n(Source: CNovels; edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/98200.jpg",
+      "date": "Sep 10, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Historical",
+        "Demons",
+        "Supernatural",
+        "Drama"
       ],
       "category": "ONA"
     },
@@ -1898,6 +1898,20 @@
       "category": "ONA"
     },
     {
+      "title": "Kyoshin to Hyouka no Shiro",
+      "description": "The story is set in Nagasaki prefecture in Minami Shimabara city, the fabled origin of the Shimabara Rebellion that sent shockwaves through all of Japan in the early Edo period. It is also where a third-year junior high school student named Shirou spends his days with his school friends.\n\nOne summer day, Shirou's older childhood friend Akane returns to Minami Shimabara from Tokyo. Shirou and Akane take a stroll around Minami Shimabara with another longtime friend, Tokiya. While these friends are dealing with nostalgia and more complex feelings, a mysterious creature named Goron suddenly appears before them. This encounter with a mere little creature causes great events to unfold once more in this city...\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/107681.jpg",
+      "date": "Aug 8, 2020",
+      "producer": "TriF Studio",
+      "eps": 4,
+      "genres": [
+        "Mystery",
+        "Supernatural",
+        "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Ling Long: Incarnation Part 2",
       "description": "Second half of Ling Long: Incarnation.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/108194.jpg",
@@ -1911,20 +1925,6 @@
         "Demons",
         "Drama",
         "Thriller"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Kyoshin to Hyouka no Shiro",
-      "description": "The story is set in Nagasaki prefecture in Minami Shimabara city, the fabled origin of the Shimabara Rebellion that sent shockwaves through all of Japan in the early Edo period. It is also where a third-year junior high school student named Shirou spends his days with his school friends.\n\nOne summer day, Shirou's older childhood friend Akane returns to Minami Shimabara from Tokyo. Shirou and Akane take a stroll around Minami Shimabara with another longtime friend, Tokiya. While these friends are dealing with nostalgia and more complex feelings, a mysterious creature named Goron suddenly appears before them. This encounter with a mere little creature causes great events to unfold once more in this city...\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/107681.jpg",
-      "date": "Aug 8, 2020",
-      "producer": "TriF Studio",
-      "eps": 4,
-      "genres": [
-        "Mystery",
-        "Supernatural",
-        "Drama"
       ],
       "category": "ONA"
     },
