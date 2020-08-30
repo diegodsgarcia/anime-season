@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-08-29",
+  "lastUpdate": "2020-08-30",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -272,7 +272,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1481/107629.jpg",
       "date": "Jul 6, 2020, 01:00 (JST)",
       "producer": "Studio Hokiboshi",
-      "eps": null,
+      "eps": 9,
       "genres": [
         "Fantasy",
         "Shounen Ai"
@@ -1377,18 +1377,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Konigiri-kun",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Otoppe",
       "description": "The series follows a young girl named Shina who hopes to become the world's best DJ, and is interested in new sounds. Shina explores a mysterious world filled with Otoppe, strange creatures capable of unique sounds.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
@@ -1399,6 +1387,18 @@
         "Music",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Konigiri-kun",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1470,19 +1470,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Zo Zo Zo Zombie-kun (TV)",
-      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
-      "date": "Apr 15, 2020",
-      "producer": "J.C.Staff",
-      "eps": 100,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Neko Neko Nihonshi 5th Season",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
@@ -1494,6 +1481,19 @@
         "Parody",
         "Kids",
         "Samurai"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Zo Zo Zo Zombie-kun (TV)",
+      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
+      "date": "Apr 15, 2020",
+      "producer": "J.C.Staff",
+      "eps": 100,
+      "genres": [
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1681,20 +1681,6 @@
       "category": "ONA"
     },
     {
-      "title": "Dragon's Dogma",
-      "description": "Based on a world-famous action RPG set in an open world, Dragon's Dogma from Capcom will be brought to life as a Netflix original anime series. The story follows a man's journey seeking revenge on a dragon who stole his heart. On his way, the man is brought back to life as an \"Arisen.\" An action adventure about a man challenged by demons who represent the seven deadly sins of humans. \n\n(Source: Netflix)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1410/108510.jpg",
-      "date": "Sep 17, 2020",
-      "producer": "Sublimation",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Deca-Dence: Install",
       "description": "Recap of the first 5 episodes of Deca-Dence.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1480/108948.jpg",
@@ -1705,6 +1691,20 @@
         "Action",
         "Sci-Fi",
         "Adventure"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Dragon's Dogma",
+      "description": "Based on a world-famous action RPG set in an open world, Dragon's Dogma from Capcom will be brought to life as a Netflix original anime series. The story follows a man's journey seeking revenge on a dragon who stole his heart. On his way, the man is brought back to life as an \"Arisen.\" An action adventure about a man challenged by demons who represent the seven deadly sins of humans. \n\n(Source: Netflix)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1410/108510.jpg",
+      "date": "Sep 17, 2020",
+      "producer": "Sublimation",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2470,19 +2470,6 @@
       "category": "Movie"
     },
     {
-      "title": "Fushigi Dagashiya: Zenitendou Movie - Tsuri Taiyaki",
-      "description": "The movie will adapt the first volume following an eight-year-old boy Keiji getting a mysterious snack that can make him fish taiyaki (Japanese fish-shaped cake).\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1524/108656.jpg",
-      "date": "Aug 14, 2020",
-      "producer": "Toei Animation",
-      "eps": 1,
-      "genres": [
-        "Kids",
-        "Mystery"
-      ],
-      "category": "Movie"
-    },
-    {
       "title": "Miao Xiansheng",
       "description": "Adapted from a short tale from self-made animator Bu Sifan, writer and director of Dahufa, the feature introduces a fictional golden-colored flower, which possesses the magical ability to debauch humans who get too close to it.\n\nAs the flower only chooses kindhearted people as hosts, a group of martial artists who want to eradicate the plants face a dilemma: Should one kill good people for rescuing men from sin?\n\n(Source: China Daily)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1001/108593.jpg",
@@ -2493,6 +2480,19 @@
         "Adventure",
         "Drama",
         "Fantasy"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Fushigi Dagashiya: Zenitendou Movie - Tsuri Taiyaki",
+      "description": "The movie will adapt the first volume following an eight-year-old boy Keiji getting a mysterious snack that can make him fish taiyaki (Japanese fish-shaped cake).\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1524/108656.jpg",
+      "date": "Aug 14, 2020",
+      "producer": "Toei Animation",
+      "eps": 1,
+      "genres": [
+        "Kids",
+        "Mystery"
       ],
       "category": "Movie"
     },

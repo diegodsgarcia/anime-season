@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-08-29",
+  "lastUpdate": "2020-08-30",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -975,6 +975,20 @@
       "eps": null,
       "genres": [
         "Music"
+      ],
+      "category": "Unknown"
+    },
+    {
+      "title": "Toutotsu ni Egypt Kami",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1955/107042.jpg",
+      "date": "Dec ??, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Fantasy"
       ],
       "category": "Unknown"
     },

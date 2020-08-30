@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-08-29",
+  "lastUpdate": "2020-08-30",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -735,19 +735,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Zo Zo Zo Zombie-kun (TV)",
-      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
-      "date": "Apr 15, 2020",
-      "producer": "J.C.Staff",
-      "eps": 100,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Neko Neko Nihonshi 5th Season",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
@@ -759,6 +746,19 @@
         "Parody",
         "Kids",
         "Samurai"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Zo Zo Zo Zombie-kun (TV)",
+      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
+      "date": "Apr 15, 2020",
+      "producer": "J.C.Staff",
+      "eps": 100,
+      "genres": [
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (New)"
     },
