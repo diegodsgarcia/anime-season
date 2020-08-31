@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-08-30",
+  "lastUpdate": "2020-08-31",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -229,7 +229,7 @@
     },
     {
       "title": "Shironeko Project: Zero Chronicle",
-      "description": "In a world consisting of numerous isles, a young hero from the Astora Isle encounters the adventurer Kyle and follows him on an expedition on the isle. They meet a mysterious girl named Iris and a talking white cat, and together they make their way to the isle's ruins, where they find a flying island. Kyle becomes consumed by darkness there, and the party resolves to travel to the ends of the world on the flying island in order to find the seven \"Great Runes,\" following Kyle's words before he disappeared.\n\n(Source: Wikipedia)",
+      "description": "The world is divided into two kingdoms: the Kingdom of White, which floats in the heavens and is ruled by their queen Iris, and the Kingdom of Black, which stands upon desolate land below and houses the King of Darkness as its ruler. As of late, forces of evil have amassed great power, posing a threat to the entire world. Being the main representative of the Light, it is Iris' duty to maintain the balance of the world and fight off the darkness in her kingdom.\n\nMeanwhile in the Kingdom of Black, rampaging monsters annihilate a certain boy's village, leaving him the sole survivor. As he grieves in hopelessness, an armored man named Skeer notices the child and comforts him. Soon after, Skeer recognizes the boy's potential to change the kingdom's status quo and makes him his heir before passing away. The boy then vows to become the Prince of Darkness—the one who will replace the King—to bring the world back to its rightful path.\n\nAs Iris and Prince of Darkness each challenge the impending doom the world faces in their own respective ways, their destinies will converge with each other, and perhaps, their bond will decide the fate of the world.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1915/107997.jpg",
       "date": "Apr 6, 2020, 22:00 (JST)",
       "producer": "Project No.9",
@@ -735,6 +735,19 @@
       "category": "TV (New)"
     },
     {
+      "title": "Zo Zo Zo Zombie-kun (TV)",
+      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
+      "date": "Apr 15, 2020",
+      "producer": "J.C.Staff",
+      "eps": 100,
+      "genres": [
+        "Comedy",
+        "Kids"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Neko Neko Nihonshi 5th Season",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
@@ -746,19 +759,6 @@
         "Parody",
         "Kids",
         "Samurai"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Zo Zo Zo Zombie-kun (TV)",
-      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
-      "date": "Apr 15, 2020",
-      "producer": "J.C.Staff",
-      "eps": 100,
-      "genres": [
-        "Comedy",
-        "Kids"
       ],
       "category": "TV (New)"
     },
@@ -2003,7 +2003,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1323/108278.jpg",
       "date": "Jun 19, 2020",
       "producer": "Haoliners Animation League",
-      "eps": null,
+      "eps": 10,
       "genres": [
         "Comedy",
         "Historical",
@@ -2087,6 +2087,21 @@
       "category": "ONA"
     },
     {
+      "title": "Wu Shang Shen Di",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1845/108003.jpg",
+      "date": "May 18, 2020",
+      "producer": "Ruo Hong Culture",
+      "eps": 64,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Supernatural",
+        "Magic"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1324/103548.jpg",
@@ -2100,21 +2115,6 @@
         "Comedy",
         "Mecha",
         "Shounen"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Wu Shang Shen Di",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1845/108003.jpg",
-      "date": "May 18, 2020",
-      "producer": "Ruo Hong Culture",
-      "eps": 64,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Supernatural",
-        "Magic"
       ],
       "category": "ONA"
     },
@@ -2173,6 +2173,18 @@
       "category": "ONA"
     },
     {
+      "title": "Minegishi-san wa Ootsu-kun ni Tabesasetai",
+      "description": "Mini anime series of Minegishi-san wa Ootsu-kun ni Tabesasetai.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1547/108310.jpg",
+      "date": "May 22, 2020",
+      "producer": "AQUA ARIS",
+      "eps": 4,
+      "genres": [
+        "Shounen Ai"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Condom Battler Gorou",
       "description": "The show follows Gorou, a 24-year-old man who dreams of becoming the greatest Condom Battler. His go-to weapon is a 0.01 mm condom which he loads into an arm dispenser, and it opens to reveal a red rubbery armor that Gorou wears in battle. It also gives the hero the ability to summon sperm and created an attack out of the sticky substance.\n\nThere are other characters in the anime like Miku and Hayato who duel using their own condoms. The anime is filled with absurd dialogue and fights, but these heroes always make sure to teach a sex education lesson along the way. \n\n(Source: Comicbook.com)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1305/108045.jpg",
@@ -2182,18 +2194,6 @@
       "genres": [
         "Action",
         "Parody"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Minegishi-san wa Ootsu-kun ni Tabesasetai",
-      "description": "Mini anime series of Minegishi-san wa Ootsu-kun ni Tabesasetai.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1547/108310.jpg",
-      "date": "May 22, 2020",
-      "producer": "AQUA ARIS",
-      "eps": 4,
-      "genres": [
-        "Shounen Ai"
       ],
       "category": "ONA"
     },
@@ -2405,24 +2405,24 @@
       "category": "OVA"
     },
     {
-      "title": "Sex Friend Osananajimi: Shojo to Doutei wa Hazukashii tte Minna ga Iu kara - The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1542/106244.jpg",
-      "date": "May 29, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Kutsujoku 2 The Animation",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1765/107915.jpg",
       "date": "Jun 26, 2020",
       "producer": "-",
       "eps": 2,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Sex Friend Osananajimi: Shojo to Doutei wa Hazukashii tte Minna ga Iu kara - The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1542/106244.jpg",
+      "date": "May 29, 2020",
+      "producer": "-",
+      "eps": 1,
       "genres": [
         "Hentai"
       ],

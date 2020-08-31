@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-08-30",
+  "lastUpdate": "2020-08-31",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -424,7 +424,7 @@
     {
       "title": "Senyoku no Sigrdrifa",
       "description": "The Pillars suddenly appeared above Earth, threatening all life. A god who called himself Odin came to the aid of humanity as it was driven to near complete defeat. To counter the Pillars, Odin declared a counterattack by bequeathing humanity with the battle maidens Walküres and the \"herocraft\" as their wings.\n\nSeveral years later, the battle between humanity and Pillars rages on, with men supporting the Walküres as they soar through the treacherous skies to save the world.\n\nJapan is no exception. Three Walküres confront the giant Pillar looming over sacred Mt. Fuji. Each Walküre is skilled, but each also has issues. And now, an ace pilot has arrived from Europe.\n\n\"Now is the time to fight back, humanity. The day of reckoning has arrived. The time of Ragnarok draws nears.\"\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1208/108995.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1576/109007.jpg",
       "date": "Oct 3, 2020, 23:00 (JST)",
       "producer": "A-1 Pictures",
       "eps": null,
@@ -909,21 +909,6 @@
       "category": "Movie"
     },
     {
-      "title": "Precure Miracle Leap Movie: Minna to no Fushigi na Ichinichi",
-      "description": "The story begins when the protagonist Hikaru meets aliens Lala, Prunce, and Fuwa while watching the night sky. She learns of the “Star Palace,” where the 12 Star Princesses of the constellations kept the balance of the universe until they were attacked. Lala is searching for the legendary Precure warriors to help find the 12 scattered “Princess Star Color Pens” and revive the princesses. When Fuwa is captured by an enemy, Hikaru wishes to save Fuwa, and a Star Color Pendent and a Star Color Pen appear to allow her to transform into Cure Star. From then on she works to collect the pens and raise Fuwa, who is the key to reviving the princesses.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1313/105361.jpg",
-      "date": "Oct 31, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Fantasy",
-        "Magic",
-        "Shoujo"
-      ],
-      "category": "Movie"
-    },
-    {
       "title": "Bem Movie: Become Human",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1078/108925.jpg",
@@ -935,6 +920,21 @@
         "Horror",
         "Demons",
         "Supernatural"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "Precure Miracle Leap Movie: Minna to no Fushigi na Ichinichi",
+      "description": "The story begins when the protagonist Hikaru meets aliens Lala, Prunce, and Fuwa while watching the night sky. She learns of the “Star Palace,” where the 12 Star Princesses of the constellations kept the balance of the universe until they were attacked. Lala is searching for the legendary Precure warriors to help find the 12 scattered “Princess Star Color Pens” and revive the princesses. When Fuwa is captured by an enemy, Hikaru wishes to save Fuwa, and a Star Color Pendent and a Star Color Pen appear to allow her to transform into Cure Star. From then on she works to collect the pens and raise Fuwa, who is the key to reviving the princesses.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1313/105361.jpg",
+      "date": "Oct 31, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Magic",
+        "Shoujo"
       ],
       "category": "Movie"
     },
