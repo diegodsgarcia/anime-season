@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-09-01",
+  "lastUpdate": "2020-09-02",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -335,19 +335,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Tamayomi",
-      "description": "Yomi Takeda and Tamaki Yamazaki have loved baseball since they were kids. They used to play catch together whenever possible, and in doing so, Yomi discovered her talent for throwing the ball in a way that seemed like magic. The girls promised to keep playing baseball even when they are older and were separated soon after. In the years that followed, Tamaki went on to become a skilled catcher, but Yomi did not get very far despite her throwing prowess.\n\nDeciding to quit her passion, Yomi starts her first year at Shin Koshigaya High School. Try as she might to avoid anything related to baseball, she meets the twins Yoshino and Ibuki Kawaguchi, both of whom are enthusiasts of the sport. Moreover, she stumbles upon Tamaki, and just like old times, they decide to play catch—reigniting Yomi’s desire to pitch.\n\nReunited, Yomi and Tamaki set out to fulfill their childhood promise. Alongside Yoshino and Ibuki, they strive to revive their school’s baseball team which has been on hiatus. More members join until their group is complete, and now the new goal of Shin Koshigaya's girls' baseball team is nothing less than winning the national championships.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1881/106156.jpg",
-      "date": "Apr 1, 2020, 22:00 (JST)",
-      "producer": "Studio A-CAT",
-      "eps": 12,
-      "genres": [
-        "Sports",
-        "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Shachou, Battle no Jikan Desu!",
       "description": "Long ago, a goddess descended from Heaven and blessed the desolate land of Gatepia. As a result, gigantic gates appeared, leading to dungeons abundant in \"kirakuri,\" crystals containing the energy needed for the foundation of the world. This led to the formation of various companies of adventurers who would harvest kirakuri from the dungeons.\n\nFollowing his father's disappearance inside one of the biggest gates in Gatepia, Minato is urged by his childhood friend Yutoria to become the president of his father's treasure-hunting company—the Kibou Company. He reluctantly agrees and meets with the other employees: the priest Makoto, the soldier Akari, and the accountant Guide.\n\nThus, Makoto begins his tenure as president. As he and his comrades strive to fulfill various missions and other assorted tasks in order to keep their small company alive, they will uncover the mystery behind their former leader's sudden departure.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1044/106309.jpg",
@@ -358,6 +345,19 @@
         "Action",
         "Adventure",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Tamayomi",
+      "description": "Yomi Takeda and Tamaki Yamazaki have loved baseball since they were kids. They used to play catch together whenever possible, and in doing so, Yomi discovered her talent for throwing the ball in a way that seemed like magic. The girls promised to keep playing baseball even when they are older and were separated soon after. In the years that followed, Tamaki went on to become a skilled catcher, but Yomi did not get very far despite her throwing prowess.\n\nDeciding to quit her passion, Yomi starts her first year at Shin Koshigaya High School. Try as she might to avoid anything related to baseball, she meets the twins Yoshino and Ibuki Kawaguchi, both of whom are enthusiasts of the sport. Moreover, she stumbles upon Tamaki, and just like old times, they decide to play catch—reigniting Yomi’s desire to pitch.\n\nReunited, Yomi and Tamaki set out to fulfill their childhood promise. Alongside Yoshino and Ibuki, they strive to revive their school’s baseball team which has been on hiatus. More members join until their group is complete, and now the new goal of Shin Koshigaya's girls' baseball team is nothing less than winning the national championships.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1881/106156.jpg",
+      "date": "Apr 1, 2020, 22:00 (JST)",
+      "producer": "Studio A-CAT",
+      "eps": 12,
+      "genres": [
+        "Sports",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -1199,19 +1199,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Yodel no Onna",
-      "description": "The sound of yodeling will appear when you least expect it.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/87843.jpg",
-      "date": "Sep 22, 2017",
-      "producer": "DLE",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Bakugan: Armored Alliance",
       "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
@@ -1222,6 +1209,19 @@
         "Action",
         "Game",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Yodel no Onna",
+      "description": "The sound of yodeling will appear when you least expect it.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/87843.jpg",
+      "date": "Sep 22, 2017",
+      "producer": "DLE",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1635,9 +1635,11 @@
       "producer": "Studio Colorido",
       "eps": 1,
       "genres": [
+        "Comedy",
+        "Supernatural",
         "Drama",
-        "Magic",
-        "Romance"
+        "Romance",
+        "School"
       ],
       "category": "ONA"
     },
@@ -2212,18 +2214,6 @@
       "category": "ONA"
     },
     {
-      "title": "BIGOTRE Capture Mission",
-      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
-      "date": "Apr 6, 2020",
-      "producer": "-",
-      "eps": 3,
-      "genres": [
-        "Game"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Bai Gui Youeryuan 3rd Season",
       "description": "Third season of Bai Gui Youeryuan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/108463.jpg",
@@ -2232,6 +2222,18 @@
       "eps": 12,
       "genres": [
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "BIGOTRE Capture Mission",
+      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
+      "date": "Apr 6, 2020",
+      "producer": "-",
+      "eps": 3,
+      "genres": [
+        "Game"
       ],
       "category": "ONA"
     },
