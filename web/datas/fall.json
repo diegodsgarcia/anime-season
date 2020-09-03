@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-09-02",
+  "lastUpdate": "2020-09-03",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -55,7 +55,7 @@
     {
       "title": "Higurashi no Naku Koro ni (2020)",
       "description": "New Higurashi no Naku Koro ni anime project.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1520/108936.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1287/109031.jpg",
       "date": "Oct 1, 2020, 23:30 (JST)",
       "producer": "Passione",
       "eps": null,
@@ -166,7 +166,7 @@
     {
       "title": "Adachi to Shimamura",
       "description": "The second floor of the gym―this was where we always met. It was class time, but of course, there weren't any classes going on in a place like this.\n\nThis was where Shimamura and I became friends. We hung out here―talking about TV shows and cooking, playing some ping pong... This is where we fostered our friendship.\n\nKeeping my head propped against the wall, I let out a small sigh.\n\nWhat was this feeling? Yesterday, I'd dreamt of me and Shimamura kissing.\n\nNot that I'm like that. I'm sure Shimamura isn’t either. It’s not even something worth repeating myself about, but really, it’s not like that.\n\nIt's just that when she hears the word \"friend,\" I want her to think of me first. That's all.\n\n(Source: Baka-Tsuki)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1655/109053.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1649/109056.jpg",
       "date": "Oct 9, 2020, 01:58 (JST)",
       "producer": "Tezuka Productions",
       "eps": null,
@@ -365,7 +365,7 @@
       "title": "Maoujou de Oyasumi",
       "description": "Sshhh! Princess Syalis is trying to get a good night's sleep. Some shut-eye. Forty winks. Catch some Z's. Long ago in olden times when people and demons lived together in—well, disharmony, really—a demon king kidnaps a human princess and imprisons her in his castle. Bereft, the princess's subjects beat their chests in anguish…until a hero arises to spearhead Project Rescue Our Princess! While waiting for her knight in shining armor, what's an imprisoned princess to do...? Teddy-bear guards with bat wings are all very well, but her dungeon cell is bo-o-o-ring! So, she decides to wile away the long hours by sleeping. Now if only she could get comfortable…and didn't suffer from insomnia...\n\n(Source: VIZ Media)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg",
-      "date": "Oct ??, 2020",
+      "date": "Oct 6, 2020, 02:00 (JST)",
       "producer": "Doga Kobo",
       "eps": null,
       "genres": [
@@ -392,6 +392,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Iwa Kakeru!: Sport Climbing Girls",
+      "description": "Konomi Kasahara, a junior high school girl, has made a big name after winning numerous competitive puzzle game tournaments. The story begins when she finds a sports climbing club in her high school. Using special skills other than that of puzzle games, Kasahara becomes fascinated with climbing.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1626/108849.jpg",
+      "date": "Oct 4, 2020, 02:00 (JST)",
+      "producer": "Blade",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Sports",
+        "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Strike Witches: Road to Berlin",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/108577.jpg",
@@ -404,20 +418,6 @@
         "Magic",
         "Military",
         "Sci-Fi"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Iwa Kakeru!: Sport Climbing Girls",
-      "description": "Konomi Kasahara, a junior high school girl, has made a big name after winning numerous competitive puzzle game tournaments. The story begins when she finds a sports climbing club in her high school. Using special skills other than that of puzzle games, Kasahara becomes fascinated with climbing.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1626/108849.jpg",
-      "date": "Oct 4, 2020, 02:00 (JST)",
-      "producer": "Blade",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Sports",
-        "School"
       ],
       "category": "TV (New)"
     },
@@ -503,6 +503,18 @@
       "category": "TV (New)"
     },
     {
+      "title": "Taisou Zamurai",
+      "description": "Year 2002. Japan's gymnastics world was once strong. Former Japanese representative Shoutarou Aragaki (29), who devoted his time to gymnastics, was unable to perform as expected. Even so, after training on a daily basis, his coach Amakusa recommends Shoutarou to retire. However, the fate of the Aragaki family will change significantly due to a certain \"encounter.\"\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1856/108871.jpg",
+      "date": "Oct 11, 2020, 01:30 (JST)",
+      "producer": "MAPPA",
+      "eps": null,
+      "genres": [
+        "Sports"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Rail Romanesque",
       "description": "Set in Hinomoto, a fictional version of Japan, where for a long time railway travel served as the most important form of transport. Each locomotive was paired with a humanoid control module, so-called Raillord, that aided the train operator. However, many rail lines had been discontinued due to the rising popularity of 'aerocrafts,' a safe and convenient aerial mode of transport. As such, their accompanying railroads also went into a deep sleep.\n\nSoutetsu had lost his entire family in a rail accident and was adopted into the Migita household, which runs a shochu brewery in the city of Ohitoyo. He returned to his hometown to save it from the potential water pollution that would occur if they accepted the proposal to build an aerocraft factory nearby. He woke up the Raillord Hachiroku by accident and became her owner. For different purposes, they agreed to help find her lost locomotive, with the help of his stepsister Hibiki, the town’s mayor and local railway chief, Paulette and others. \n\n(Source: VNDB, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/108605.jpg",
@@ -520,23 +532,11 @@
       "title": "Tsukiuta. The Animation 2",
       "description": "Second season of Tsukiuta. The Animation.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1865/107637.jpg",
-      "date": "Oct ??, 2020, 22:30 (JST)",
+      "date": "Oct 7, 2020, 22:30 (JST)",
       "producer": "Children's Playground Entertainment",
       "eps": null,
       "genres": [
         "Music"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Taisou Zamurai",
-      "description": "Year 2002. Japan's gymnastics world was once strong. Former Japanese representative Shoutarou Aragaki (29), who devoted his time to gymnastics, was unable to perform as expected. Even so, after training on a daily basis, his coach Amakusa recommends Shoutarou to retire. However, the fate of the Aragaki family will change significantly due to a certain \"encounter.\"\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1856/108871.jpg",
-      "date": "Oct 11, 2020, 01:30 (JST)",
-      "producer": "MAPPA",
-      "eps": null,
-      "genres": [
-        "Sports"
       ],
       "category": "TV (New)"
     },
@@ -703,6 +703,18 @@
       "date": "Oct 30, 2020",
       "producer": "-",
       "eps": 2,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Oneshota The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1122/109069.jpg",
+      "date": "Nov 27, 2020",
+      "producer": "Studio 1st",
+      "eps": 1,
       "genres": [
         "Hentai"
       ],

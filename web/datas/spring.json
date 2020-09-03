@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-09-02",
+  "lastUpdate": "2020-09-03",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -2161,6 +2161,18 @@
       "category": "ONA"
     },
     {
+      "title": "Minegishi-san wa Ootsu-kun ni Tabesasetai",
+      "description": "Mini anime series of Minegishi-san wa Ootsu-kun ni Tabesasetai.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1547/108310.jpg",
+      "date": "May 22, 2020",
+      "producer": "AQUA ARIS",
+      "eps": 4,
+      "genres": [
+        "Shounen Ai"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Yi Shijie Zhongyao Pu",
       "description": "After graduating from the University of Traditional Chinese Medicine, Sun Jiayou returned home to inherit a traditional Chinese medicine shop. He found that although the people here would not use medicine as a treatment, they had own spiritual system. To realize his grandfather’s dream, he plans to promote Chinese medicine in a different world. However, the spirit messenger considers it a big threat. In some confrontations with the spirit messenger, he discovers a greater mystery.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1789/108202.jpg",
@@ -2171,18 +2183,6 @@
         "Drama",
         "Magic",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Minegishi-san wa Ootsu-kun ni Tabesasetai",
-      "description": "Mini anime series of Minegishi-san wa Ootsu-kun ni Tabesasetai.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1547/108310.jpg",
-      "date": "May 22, 2020",
-      "producer": "AQUA ARIS",
-      "eps": 4,
-      "genres": [
-        "Shounen Ai"
       ],
       "category": "ONA"
     },

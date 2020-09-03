@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-02",
+  "lastUpdate": "2020-09-03",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -123,6 +123,7 @@
       "genres": [
         "Slice of Life",
         "Comedy",
+        "Romance",
         "Ecchi"
       ],
       "category": "TV (New)"
@@ -302,20 +303,6 @@
         "Slice of Life",
         "Comedy",
         "Sports"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Ani ni Tsukeru Kusuri wa Nai! 4",
-      "description": "Distribution via Internet in China starts in August 2020. The Japanese Broadcast on Tokyo MX starts in October.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/108067.jpg",
-      "date": "Aug ??, 2020",
-      "producer": "Fanworks, Imagineer",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "School"
       ],
       "category": "TV (New)"
     },
@@ -970,19 +957,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Yodel no Onna",
-      "description": "The sound of yodeling will appear when you least expect it.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/87843.jpg",
-      "date": "Sep 22, 2017",
-      "producer": "DLE",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Bakugan: Armored Alliance",
       "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
@@ -993,6 +967,19 @@
         "Action",
         "Game",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Yodel no Onna",
+      "description": "The sound of yodeling will appear when you least expect it.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/87843.jpg",
+      "date": "Sep 22, 2017",
+      "producer": "DLE",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1626,7 +1613,7 @@
       "description": "Third Season of Aggressive Retsuko.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1049/108692.jpg",
       "date": "Aug 27, 2020",
-      "producer": "-",
+      "producer": "Fanworks",
       "eps": 10,
       "genres": [
         "Comedy",
@@ -1647,6 +1634,20 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ani ni Tsukeru Kusuri wa Nai! 4",
+      "description": "Distribution via Internet in China starts in August 2020. The Japanese Broadcast on Tokyo MX starts in October.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/108067.jpg",
+      "date": "Aug 5, 2020",
+      "producer": "Fanworks, Imagineer",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "School"
       ],
       "category": "ONA"
     },
@@ -2221,18 +2222,6 @@
       "category": "OVA"
     },
     {
-      "title": "Yuutousei Ayaka no Uraomote",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/106369.jpg",
-      "date": "Sep 25, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Oujo & Onna Kishi W Do Gehin Roshutsu",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1427/108043.jpg",
@@ -2242,6 +2231,18 @@
       "genres": [
         "Hentai",
         "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Yuutousei Ayaka no Uraomote",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/106369.jpg",
+      "date": "Sep 25, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai"
       ],
       "category": "OVA"
     },
