@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-04",
+  "lastUpdate": "2020-09-05",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -88,7 +88,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1485/107693.jpg",
       "date": "Jul 11, 2020, 01:25 (JST)",
       "producer": "TMS Entertainment",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Comedy",
         "Romance",
@@ -1793,6 +1793,22 @@
       "category": "ONA"
     },
     {
+      "title": "Yi Nian Yong Heng",
+      "description": "One will to create oceans. One will to summon the mulberry fields.\n\nOne will to slaughter countless devils. One will to eradicate innumerable immortals.\n\nOnly my will… is eternal.\n\nA Will Eternal tells the tale of Bai Xiaochun, an endearing but exasperating young man who is driven primarily by his fear of death and desire to live forever, but who deeply values friendship and family.\n\n(Source: Novel Updates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1712/108161.jpg",
+      "date": "Aug 12, 2020",
+      "producer": "B.CMAY PICTURES",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Historical",
+        "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Wu Dong Qian Kun 2nd Season",
       "description": "Second season of Wu Dong Qian Kun.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/108277.jpg",
@@ -1804,22 +1820,6 @@
         "Adventure",
         "Historical",
         "Romance",
-        "Martial Arts",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Yi Nian Yong Heng",
-      "description": "One will to create oceans. One will to summon the mulberry fields.\n\nOne will to slaughter countless devils. One will to eradicate innumerable immortals.\n\nOnly my will… is eternal.\n\nA Will Eternal tells the tale of Bai Xiaochun, an endearing but exasperating young man who is driven primarily by his fear of death and desire to live forever, but who deeply values friendship and family.\n\n(Source: Novel Updates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1712/108161.jpg",
-      "date": "Aug 12, 2020",
-      "producer": "B.CMAY PICTURES",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Historical",
         "Martial Arts",
         "Fantasy"
       ],
@@ -1930,20 +1930,6 @@
       "category": "ONA"
     },
     {
-      "title": "Xian Feng Jian Yu Lu",
-      "description": "The ancient Shenzhou Mainland, the ancient Chinese dynasty, and the demon kingdom of Tushan had been in conflict for thousands of years. Zhang Kuangyun from China and Bai Binglan, Princess Tianhu from Tushan, met each other because of a misunderstanding.\n\nTo explore the details of the enemy, Bai Binglan lurked to Zhang Kuangyun’s side and became her follower. While identity gaps, differences in ideas, and emotional growth, with step-by-step exploration, Zhang Kuangyun slowly discovered that his aunt and teacher’s family were slaughtered and killed in the mountains only incidents that were covered up. An unprecedented great conspiracy gradually emerged from the surface.\n\n(Source: Narul Donghua)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1092/108634.jpg",
-      "date": "Jul 11, 2020",
-      "producer": "Ruo Hong Culture",
-      "eps": 70,
-      "genres": [
-        "Action",
-        "Supernatural",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Da Wang Bu Gaoxing 2",
       "description": "Second season of Da Wang Bu Gaoxing.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/108228.jpg",
@@ -1956,6 +1942,20 @@
         "Magic",
         "Fantasy",
         "School"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Xian Feng Jian Yu Lu",
+      "description": "The ancient Shenzhou Mainland, the ancient Chinese dynasty, and the demon kingdom of Tushan had been in conflict for thousands of years. Zhang Kuangyun from China and Bai Binglan, Princess Tianhu from Tushan, met each other because of a misunderstanding.\n\nTo explore the details of the enemy, Bai Binglan lurked to Zhang Kuangyun’s side and became her follower. While identity gaps, differences in ideas, and emotional growth, with step-by-step exploration, Zhang Kuangyun slowly discovered that his aunt and teacher’s family were slaughtered and killed in the mountains only incidents that were covered up. An unprecedented great conspiracy gradually emerged from the surface.\n\n(Source: Narul Donghua)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1092/108634.jpg",
+      "date": "Jul 11, 2020",
+      "producer": "Ruo Hong Culture",
+      "eps": 70,
+      "genres": [
+        "Action",
+        "Supernatural",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2593,6 +2593,20 @@
       "eps": 1,
       "genres": [
         "Music"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "Rebirth Special",
+      "description": "Special episode of Rebirth.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1757/109072.jpg",
+      "date": "Aug 21, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Game",
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "Special"
     }

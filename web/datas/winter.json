@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-09-04",
+  "lastUpdate": "2020-09-05",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1932,19 +1932,6 @@
       "category": "ONA"
     },
     {
-      "title": "Cinderella Girls Gekijou: Extra Stage",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/106098.jpg",
-      "date": "Mar 24, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Aikatsu on Parade! (ONA)",
       "description": "\"Dream School Grand Prix\" to decide the No.1 idol school among five schools representing the Aikatsu world will be held! In this competition where top idols representing each school compete on stage, Dream Academy's new idol Noel Otoshiro is selected as one of them?! For each idol's dream, a new story starts running into the shining future! \n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1704/106781.jpg",
@@ -1956,6 +1943,19 @@
         "Slice of Life",
         "School",
         "Shoujo"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Cinderella Girls Gekijou: Extra Stage",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/106098.jpg",
+      "date": "Mar 24, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },

@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-09-04",
+  "lastUpdate": "2020-09-05",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -2076,19 +2076,6 @@
       "category": "ONA"
     },
     {
-      "title": "Wuxian Shaonu 48",
-      "description": "The story takes place in 2047. We follow the story of several young girls, each coming from different dimensions. All of them want to join the new project group 48.\n\n(Source: Nautiljon)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1863/107433.jpg",
-      "date": "Apr 8, 2020",
-      "producer": "Seven Stone Entertainment",
-      "eps": 12,
-      "genres": [
-        "Music",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Wu Shang Shen Di",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1845/108003.jpg",
@@ -2100,6 +2087,19 @@
         "Adventure",
         "Supernatural",
         "Magic"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Wuxian Shaonu 48",
+      "description": "The story takes place in 2047. We follow the story of several young girls, each coming from different dimensions. All of them want to join the new project group 48.\n\n(Source: Nautiljon)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1863/107433.jpg",
+      "date": "Apr 8, 2020",
+      "producer": "Seven Stone Entertainment",
+      "eps": 12,
+      "genres": [
+        "Music",
+        "Fantasy"
       ],
       "category": "ONA"
     },
