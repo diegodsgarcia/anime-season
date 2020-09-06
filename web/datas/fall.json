@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-09-05",
+  "lastUpdate": "2020-09-06",
   "animes": [
     {
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
@@ -39,7 +39,7 @@
       "title": "Mahouka Koukou no Rettousei: Raihousha-hen",
       "description": "Shiba Miyuki's classmate Kitayama Shizuku is on her way to study abroad. For magicians, this is normally impossible, since allowing the genes of someone who can use magic outside their home country's borders is tantamount to giving up national secrets. But it's allowed to happen in one case-exchange programs. And that's how Angelina Kudou Shields has arrived in Japan from the USNA to study at First High.\n\nAround the time Lina arrived in Japan magicians began getting attacked by a mysterious being who leaves his victims drained of blood. Will Tatsuya be able to discover the identity of the \"Vampire\"?\n\n(Source: Mahouka Wikia, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1788/106668.jpg",
-      "date": "Oct 3, 2020",
+      "date": "Oct 4, 2020, 00:30 (JST)",
       "producer": "8bit",
       "eps": null,
       "genres": [
@@ -290,6 +290,21 @@
       "category": "TV (New)"
     },
     {
+      "title": "Yuukoku no Moriarty",
+      "description": "In the late 19th century, the British Empire has become a global power. Due to the strict class stratification, the average citizen has little chance of successfully rising up to the top, where the despicable nobility rules over them all.\n\nWilliam James Moriarty, the second son of the Moriarty household, is a young mathematics professor who has displayed great cunning and intellect since he was a child. Along with his brothers Albert and Louis, he lives the simple life of a noble. Outside of school, William is a well-known private consultant willing to solve the problems of anyone in need. However, his gentle demeanor belies his position as the head of a group prepared to wreak havoc in pursuit of its desire—a new world built from the ashes of the old.\n\nYuukoku no Moriarty puts a new spin on Arthur Conan Doyle's original work by putting the spotlight on its main antagonist and exploring how he came to be the first and only \"criminal consultant.\"\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
+      "date": "Oct 11, 2020, 22:30 (JST)",
+      "producer": "Production I.G",
+      "eps": null,
+      "genres": [
+        "Mystery",
+        "Historical",
+        "Psychological",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
       "description": "Yotsuya Yuusuke along with his classmates Shindou Iu and Hakozaki Kusue have been transported to a strange and unknown world inhabited by mythological creatures. As soon as they arrive, they meet somebody calling himself the Game Master who then grants them a time-limited quest. To aid them in this quest, he also bestows Shindou and Hakozaki with the roles of a Magician and a Warrior while Yotsuya is randomly granted the role of... a Farmer?!\n\nThis is how a hectic life of adventuring began for three students who now have no choice, but to complete random quests for several phases in the fantasy world if they want to stay alive and protect the real world from the demons and monsters they encounter. \n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1825/108800.jpg",
@@ -301,21 +316,6 @@
         "Game",
         "Drama",
         "Fantasy",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Yuukoku no Moriarty",
-      "description": "In the late 19th century, the British Empire has become a global power. Due to the strict class stratification, the average citizen has little chance of successfully rising up to the top, where the despicable nobility rules over them all.\n\nWilliam James Moriarty, the second son of the Moriarty household, is a young mathematics professor who has displayed great cunning and intellect since he was a child. Along with his brothers Albert and Louis, he lives the simple life of a noble. Outside of school, William is a well-known private consultant willing to solve the problems of anyone in need. However, his gentle demeanor belies his position as the head of a group prepared to wreak havoc in pursuit of its desire—a new world built from the ashes of the old.\n\nYuukoku no Moriarty puts a new spin on Arthur Conan Doyle's original work by putting the spotlight on its main antagonist and exploring how he came to be the first and only \"criminal consultant.\"\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
-      "date": "Oct 11, 2020, 22:30 (JST)",
-      "producer": "Production I.G",
-      "eps": null,
-      "genres": [
-        "Mystery",
-        "Historical",
-        "Psychological",
         "Shounen"
       ],
       "category": "TV (New)"
@@ -438,7 +438,7 @@
       "title": "One Room Third Season",
       "description": "Third season of One Room.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1040/106243.jpg",
-      "date": "Oct 6, 2020",
+      "date": "Oct 6, 2020, 01:05 (JST)",
       "producer": "Zero-G",
       "eps": null,
       "genres": [
@@ -541,18 +541,6 @@
       "category": "TV (New)"
     },
     {
-      "title": "Tsukiuta. The Animation 2",
-      "description": "Second season of Tsukiuta. The Animation.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1865/107637.jpg",
-      "date": "Oct 7, 2020, 22:30 (JST)",
-      "producer": "Children's Playground Entertainment",
-      "eps": null,
-      "genres": [
-        "Music"
-      ],
-      "category": "TV (New)"
-    },
-    {
       "title": "Maesetsu!",
       "description": "The anime centers on four girls at the full bloom of their youth, working hard to achieve their dreams as they struggle valiantly. In Japanese entertainment, Maesetsu! refers to an introductory talk or explanation addressed to the audience before the broadcast of television programs, usually performed by assistant directors and particularly comedians in variety or comedy shows.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1650/106386.jpg",
@@ -562,6 +550,18 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "Tsukiuta. The Animation 2",
+      "description": "Second season of Tsukiuta. The Animation.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1865/107637.jpg",
+      "date": "Oct 7, 2020, 22:30 (JST)",
+      "producer": "Children's Playground Entertainment",
+      "eps": null,
+      "genres": [
+        "Music"
       ],
       "category": "TV (New)"
     },
