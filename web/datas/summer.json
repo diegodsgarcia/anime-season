@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-06",
+  "lastUpdate": "2020-09-07",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -1165,19 +1165,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Hanakappa",
-      "description": "Story about Kappa with flowers on their heads.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/90503.jpg",
-      "date": "Mar 29, 2010",
-      "producer": "OLM, Xebec",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Motto! Majime ni Fumajime Kaiketsu Zorori",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1401/106017.jpg",
@@ -1186,6 +1173,19 @@
       "eps": null,
       "genres": [
         "Adventure",
+        "Comedy",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Hanakappa",
+      "description": "Story about Kappa with flowers on their heads.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/90503.jpg",
+      "date": "Mar 29, 2010",
+      "producer": "OLM, Xebec",
+      "eps": null,
+      "genres": [
         "Comedy",
         "Kids"
       ],
@@ -1242,18 +1242,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Akita Kenritsu Iburi Gakkou Chuutou-bu",
-      "description": "A tourism promotional anime for the Akita prefecture. Highlighting Akita cuisine, actors, landmarks, etc. through the banter of two high school friends who are a red oni and an akita (dog breed).",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/84867.jpg",
-      "date": "Mar 14, 2017",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Duel Masters King",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1117/106742.jpg",
@@ -1265,6 +1253,18 @@
         "Adventure",
         "Comedy",
         "Shounen"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Akita Kenritsu Iburi Gakkou Chuutou-bu",
+      "description": "A tourism promotional anime for the Akita prefecture. Highlighting Akita cuisine, actors, landmarks, etc. through the banter of two high school friends who are a red oni and an akita (dog breed).",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/84867.jpg",
+      "date": "Mar 14, 2017",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1638,20 +1638,6 @@
       "category": "ONA"
     },
     {
-      "title": "Ani ni Tsukeru Kusuri wa Nai! 4",
-      "description": "Distribution via Internet in China starts in August 2020. The Japanese Broadcast on Tokyo MX starts in October.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/108067.jpg",
-      "date": "Aug 5, 2020",
-      "producer": "Fanworks, Imagineer",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "School"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Wu Shan Wu Xing",
       "description": "A legend tells that a long time ago, monsters could give the ability to certain elected officials to master the five elements. But for that, you have to go through the dangerous foggy mountains...\n\nWe follow the adventures of one of these elected officials.\n\n(Source: Nautiljon)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1335/108930.jpg",
@@ -1663,6 +1649,20 @@
         "Historical",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ani ni Tsukeru Kusuri wa Nai! 4",
+      "description": "Distribution via Internet in China starts in August 2020. The Japanese Broadcast on Tokyo MX starts in October.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/108067.jpg",
+      "date": "Aug 5, 2020",
+      "producer": "Fanworks, Imagineer",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "School"
       ],
       "category": "ONA"
     },
@@ -1869,6 +1869,20 @@
       "category": "ONA"
     },
     {
+      "title": "Kyoshin to Hyouka no Shiro",
+      "description": "The story is set in Nagasaki prefecture in Minami Shimabara city, the fabled origin of the Shimabara Rebellion that sent shockwaves through all of Japan in the early Edo period. It is also where a third-year junior high school student named Shirou spends his days with his school friends.\n\nOne summer day, Shirou's older childhood friend Akane returns to Minami Shimabara from Tokyo. Shirou and Akane take a stroll around Minami Shimabara with another longtime friend, Tokiya. While these friends are dealing with nostalgia and more complex feelings, a mysterious creature named Goron suddenly appears before them. This encounter with a mere little creature causes great events to unfold once more in this city...\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/107681.jpg",
+      "date": "Aug 8, 2020",
+      "producer": "TriF Studio",
+      "eps": 4,
+      "genres": [
+        "Mystery",
+        "Supernatural",
+        "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Mei Chuxi de Yinyangshi Yijia 2",
       "description": "Second season of Mei Chuxi de Yinyangshi Yijia.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/108286.jpg",
@@ -1881,20 +1895,6 @@
         "Historical",
         "Demons",
         "Supernatural"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Kyoshin to Hyouka no Shiro",
-      "description": "The story is set in Nagasaki prefecture in Minami Shimabara city, the fabled origin of the Shimabara Rebellion that sent shockwaves through all of Japan in the early Edo period. It is also where a third-year junior high school student named Shirou spends his days with his school friends.\n\nOne summer day, Shirou's older childhood friend Akane returns to Minami Shimabara from Tokyo. Shirou and Akane take a stroll around Minami Shimabara with another longtime friend, Tokiya. While these friends are dealing with nostalgia and more complex feelings, a mysterious creature named Goron suddenly appears before them. This encounter with a mere little creature causes great events to unfold once more in this city...\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/107681.jpg",
-      "date": "Aug 8, 2020",
-      "producer": "TriF Studio",
-      "eps": 4,
-      "genres": [
-        "Mystery",
-        "Supernatural",
-        "Drama"
       ],
       "category": "ONA"
     },
@@ -2235,10 +2235,10 @@
       "category": "OVA"
     },
     {
-      "title": "Yuutousei Ayaka no Uraomote",
+      "title": "Kanojo ga Yatsu ni Idakareta Hi",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/106369.jpg",
-      "date": "Sep 25, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1895/107874.jpg",
+      "date": "Aug 28, 2020",
       "producer": "-",
       "eps": null,
       "genres": [
@@ -2247,10 +2247,10 @@
       "category": "OVA"
     },
     {
-      "title": "Kanojo ga Yatsu ni Idakareta Hi",
+      "title": "Yuutousei Ayaka no Uraomote",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1895/107874.jpg",
-      "date": "Aug 28, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/106369.jpg",
+      "date": "Sep 25, 2020",
       "producer": "-",
       "eps": null,
       "genres": [
