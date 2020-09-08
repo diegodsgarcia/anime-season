@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-07",
+  "lastUpdate": "2020-09-08",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -663,7 +663,7 @@
     },
     {
       "title": "IDOLiSH7: Second Beat!",
-      "description": "Second season of IDOLiSH7.",
+      "description": "Following their performance at the Black or White event, the idol group IDOLiSH7 is at the height of its popularity, with offers for various concerts and work coming in every day, much to the joy of the seven boys and their manager. However, as their fame continues to rise, Riku Nanase's health begins worsening due to the heavy workload.\n\nWith the gigantic idol duo Re:vale showing interest in the group and the reopening event of the Zero Arena coming up, IDOLiSH7: Second Beat follows IDOLiSH7 as they not only struggle to adapt to the challenges of the idol life but also to face their personal troubles, all while continuously meeting the expectations of their treasured fans.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1962/106361.jpg",
       "date": "Apr 5, 2020, 23:00 (JST)",
       "producer": "TROYCA",
@@ -1826,20 +1826,6 @@
       "category": "ONA"
     },
     {
-      "title": "Yuan Long",
-      "description": "Special Forces Wang Sheng traveled to the soul world and was possessed by the waste carp Yuan soul, becoming a veritable waste person in the soul world. Wang Sheng used the knowledge he had learned in the world of master spirits like Yun Yuan to pass the battle, and even found a way to evolve the waste carp Yuan soul! The sparrow becomes a phoenix, and the carp leaps to the dragon gate. Wang Sheng has embarked on a road of Jackie Chan from the sinister soul dispute!\n\n(Source: Immortal Sun Scans)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
-      "date": "Jul 11, 2020",
-      "producer": "CG Year",
-      "eps": 16,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Min Diao Ju Yi Wen Lu",
       "description": "In the task of catching drug lords in the Yunnan border, a special forces team accidentally enters the ancient caves of the ancient Shu, and intruded on ancient rituals. The squad was almost completely annihilated. Only Shen Shuang and the anti-drug police Sun Desheng survived, as they were rescued by a mysterious white-haired man named Wu Hao. After this incident, the two men accidentally entered the \"Civil Affairs Investigation and Research Bureau\" and gradually became entangled in more supernatural events, revealing the veil of another world.\n\n(Source: AniList)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1919/108128.jpg",
@@ -1851,6 +1837,20 @@
         "Adventure",
         "Supernatural",
         "Thriller"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Yuan Long",
+      "description": "Special Forces Wang Sheng traveled to the soul world and was possessed by the waste carp Yuan soul, becoming a veritable waste person in the soul world. Wang Sheng used the knowledge he had learned in the world of master spirits like Yun Yuan to pass the battle, and even found a way to evolve the waste carp Yuan soul! The sparrow becomes a phoenix, and the carp leaps to the dragon gate. Wang Sheng has embarked on a road of Jackie Chan from the sinister soul dispute!\n\n(Source: Immortal Sun Scans)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
+      "date": "Jul 11, 2020",
+      "producer": "CG Year",
+      "eps": 16,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2066,19 +2066,6 @@
       "category": "ONA"
     },
     {
-      "title": "Tadaima! Chibi Godzilla",
-      "description": "The \"Chibi Godzilla\" project was launched to celebrate the 65th anniversary of Toho's Godzilla franchise.\n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/108564.jpg",
-      "date": "Jul 15, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Huanji 45 Miao",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1240/108694.jpg",
@@ -2089,6 +2076,19 @@
         "Action",
         "Sci-Fi",
         "Music"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Tadaima! Chibi Godzilla",
+      "description": "The \"Chibi Godzilla\" project was launched to celebrate the 65th anniversary of Toho's Godzilla franchise.\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/108564.jpg",
+      "date": "Jul 15, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2185,18 +2185,6 @@
       "category": "OVA"
     },
     {
-      "title": "Natsu ga Owaru made The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1065/107875.jpg",
-      "date": "Jul 22, 2020",
-      "producer": "-",
-      "eps": 2,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Succubus Stayed Life The Animation",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1776/107906.jpg",
@@ -2206,6 +2194,18 @@
       "genres": [
         "Hentai",
         "School"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Natsu ga Owaru made The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1065/107875.jpg",
+      "date": "Jul 22, 2020",
+      "producer": "-",
+      "eps": 2,
+      "genres": [
+        "Hentai"
       ],
       "category": "OVA"
     },

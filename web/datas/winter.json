@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-09-07",
+  "lastUpdate": "2020-09-08",
   "animes": [
     {
       "title": "Haikyuu!!: To the Top",
@@ -1874,22 +1874,6 @@
       "category": "ONA"
     },
     {
-      "title": "Da Wang Bu Gaoxing",
-      "description": "We follow the daily life of Xiao Luo, a young yama (god and judge of the dead) who is afraid of ghosts. In order to properly reign in the underworld, she will have to face her fears.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1003/106043.jpg",
-      "date": "Jan 1, 2020",
-      "producer": "Haoliners Animation League",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "Demons",
-        "Magic",
-        "Fantasy",
-        "School"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Douluo Dalu: Qian Hua Xi Jin",
       "description": "Fourth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/108562.jpg",
@@ -1903,6 +1887,22 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Da Wang Bu Gaoxing",
+      "description": "We follow the daily life of Xiao Luo, a young yama (god and judge of the dead) who is afraid of ghosts. In order to properly reign in the underworld, she will have to face her fears.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1003/106043.jpg",
+      "date": "Jan 1, 2020",
+      "producer": "Haoliners Animation League",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Demons",
+        "Magic",
+        "Fantasy",
+        "School"
       ],
       "category": "ONA"
     },
@@ -1972,6 +1972,18 @@
       "category": "ONA"
     },
     {
+      "title": "Ushichichi Tabehoudai! The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
+      "date": "Mar 11, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Xue Ying Ling Zhu 2nd Season",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1520/105226.jpg",
@@ -1985,18 +1997,6 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Ushichichi Tabehoudai! The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
-      "date": "Mar 11, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
       ],
       "category": "ONA"
     },
