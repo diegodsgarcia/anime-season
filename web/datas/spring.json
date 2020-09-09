@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-09-08",
+  "lastUpdate": "2020-09-09",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -1950,22 +1950,6 @@
       "category": "ONA"
     },
     {
-      "title": "Beyblade Burst Sparking",
-      "description": "One year after the events of Beyblade Burst Rise, brothers Hikaru, and Hyuga witness the power of superking/sparking evolutions of Valtryek, Roktavor, and Satomb. The three beys radiate a power that was not even dreamable, due to their bladers pulling off a sparking launch. Hyuga and Hikaru get inspired to make their own sparking beys, Hyperion and Helios, and compete with the legendary bladers, training to best the top ranked bladers to ever touch the stadium.\n\nPrepared to do whatever it takes to become the best, they head across the globe to challenge the best to ever let it rip, in an effort to become stronger, and battle all of the top bladers that were able to make their mark in the stadium.\n\n(Source: Wikipedia)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1332/106530.jpg",
-      "date": "Apr 3, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Adventure",
-        "Sports",
-        "Shounen"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Douluo Dalu: Xiaowu Juebie",
       "description": "Fifth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/108563.jpg",
@@ -1979,6 +1963,22 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Beyblade Burst Sparking",
+      "description": "One year after the events of Beyblade Burst Rise, brothers Hikaru, and Hyuga witness the power of superking/sparking evolutions of Valtryek, Roktavor, and Satomb. The three beys radiate a power that was not even dreamable, due to their bladers pulling off a sparking launch. Hyuga and Hikaru get inspired to make their own sparking beys, Hyperion and Helios, and compete with the legendary bladers, training to best the top ranked bladers to ever touch the stadium.\n\nPrepared to do whatever it takes to become the best, they head across the globe to challenge the best to ever let it rip, in an effort to become stronger, and battle all of the top bladers that were able to make their mark in the stadium.\n\n(Source: Wikipedia)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1332/106530.jpg",
+      "date": "Apr 3, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure",
+        "Sports",
+        "Shounen"
       ],
       "category": "ONA"
     },
@@ -2302,6 +2302,19 @@
         "Comedy",
         "Supernatural",
         "Romance"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ninjala",
+      "description": "Each episode follows a character from the game.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
+      "date": "Jun 23, 2020",
+      "producer": "domerica, Studio Hibari",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Martial Arts"
       ],
       "category": "ONA"
     },
