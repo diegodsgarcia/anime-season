@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-09",
+  "lastUpdate": "2020-09-10",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -1135,19 +1135,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Anoyo no Subete wa, Obake-gumi!",
-      "description": "The gag anime takes place at a school for youkai and other supernatural beings. A vampire named Rakuru transfers to the school from the West, and she tries to change the school as the class representative.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106451.jpg",
-      "date": "Apr 7, 2020",
-      "producer": "-",
-      "eps": 13,
-      "genres": [
-        "Comedy",
-        "Supernatural"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Go! Go! Atom",
       "description": "The eco-systems of planet Earth are endangered. Lucky for us, a super-powered robot boy is flying to rescue! astro in on a mission to help anyone anywhere in the world with a problem involving natural phenomena. Go little Astro Boy! GO! \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1793/107568.jpg",
@@ -1161,6 +1148,19 @@
         "Kids",
         "Mecha",
         "Sci-Fi"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Anoyo no Subete wa, Obake-gumi!",
+      "description": "The gag anime takes place at a school for youkai and other supernatural beings. A vampire named Rakuru transfers to the school from the West, and she tries to change the school as the class representative.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106451.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "-",
+      "eps": 13,
+      "genres": [
+        "Comedy",
+        "Supernatural"
       ],
       "category": "TV (Continuing)"
     },
@@ -2102,6 +2102,19 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ninjala",
+      "description": "Each episode follows a character from the game.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
+      "date": "Jun 23, 2020",
+      "producer": "domerica, Studio Hibari",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Martial Arts"
       ],
       "category": "ONA"
     },

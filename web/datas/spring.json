@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-09-09",
+  "lastUpdate": "2020-09-10",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -1781,18 +1781,6 @@
       "category": "ONA"
     },
     {
-      "title": "Katarina to Manabou",
-      "description": "Short specials posted on the official Twitter account focused on main cast of Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1229/107958.jpg",
-      "date": "May 10, 2020",
-      "producer": "AQUA ARIS",
-      "eps": 9,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Gundam Build Divers Re:Rise 2nd Season",
       "description": "A beam of light, fired from an orbital satellite at the end of their fierce battle, forced Hiroto and his teammates to face the possibility that the planet Eldora where they have been battling doesn't just exist within the network game Gunpla Battle Online (GBN), but is part of the real world. For a time, this realization brought the Build Divers to a halt.\nHowever, their bond with Freddie and the other people of Eldora, who fought with them against the One-eyes, brings Hiroto, Kazami, May, and Parviz back together again. To find Masaki Shido, the Diver whose consciousness is still trapped on Eldora... To discover the true nature of Alus, the mysterious leader of the One-eyes... And most of all, to save Freddie and their other precious comrades. There is still a remaining \"mission\" they must clear on Eldora. With the power of their newly built Gunpla, the true battle of the second Build Divers will now begin.\n\n(Source: Official Site)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1962/105909.jpg",
@@ -1803,6 +1791,18 @@
         "Action",
         "Sci-Fi",
         "Mecha"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Katarina to Manabou",
+      "description": "Short specials posted on the official Twitter account focused on main cast of Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1229/107958.jpg",
+      "date": "May 10, 2020",
+      "producer": "AQUA ARIS",
+      "eps": 9,
+      "genres": [
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2214,18 +2214,6 @@
       "category": "ONA"
     },
     {
-      "title": "BIGOTRE Capture Mission",
-      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
-      "date": "Apr 6, 2020",
-      "producer": "-",
-      "eps": 3,
-      "genres": [
-        "Game"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Bai Gui Youeryuan 3rd Season",
       "description": "Third season of Bai Gui Youeryuan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/108463.jpg",
@@ -2234,6 +2222,18 @@
       "eps": 12,
       "genres": [
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "BIGOTRE Capture Mission",
+      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
+      "date": "Apr 6, 2020",
+      "producer": "-",
+      "eps": 3,
+      "genres": [
+        "Game"
       ],
       "category": "ONA"
     },
@@ -2292,6 +2292,19 @@
       "category": "ONA"
     },
     {
+      "title": "Ninjala",
+      "description": "Each episode follows a character from the game.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
+      "date": "Jun 23, 2020",
+      "producer": "domerica, Studio Hibari",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Syupeo Sikeulis",
       "description": "Two neighboring childhood friends. An airheaded girl and the boy who takes care of her like a mother hen. And of course, there is his family background with a tiny, insignificant supernatural secret. Now that her parents have left the girl in their neighbor's care, will she ever discover her friend's secret?\n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1550/107929.jpg",
@@ -2302,19 +2315,6 @@
         "Comedy",
         "Supernatural",
         "Romance"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Ninjala",
-      "description": "Each episode follows a character from the game.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
-      "date": "Jun 23, 2020",
-      "producer": "domerica, Studio Hibari",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Martial Arts"
       ],
       "category": "ONA"
     },
