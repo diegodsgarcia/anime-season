@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-10",
+  "lastUpdate": "2020-09-11",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -1418,19 +1418,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Fuwafuwa Hour: Pui Pui & Muu Muu",
-      "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
-      "date": "Jul 12, 2017",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Poccolies",
       "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
@@ -1440,6 +1427,19 @@
       "genres": [
         "Slice of Life",
         "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Fuwafuwa Hour: Pui Pui & Muu Muu",
+      "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
+      "date": "Jul 12, 2017",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids",
+        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1715,7 +1715,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/98200.jpg",
       "date": "Sep 10, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 10,
       "genres": [
         "Historical",
         "Demons",
@@ -2119,6 +2119,19 @@
       "category": "ONA"
     },
     {
+      "title": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita",
+      "description": "Kotone is a fudanshi. One day while he was buying BL manga outside of a manga stand, a truck loses control and kills him with BL manga all over him. To his surprise, he wakes up in an Asian ancient-looking palace. A man named Nagi, that is half serpent, tells him that he is now his Miko. They need to have sex in order for Nagi to become a higher being and become a Dragon. Kotone knows everything about BL and he realizes that he will be the bottom. Kotone will use his knowledge of BL to not fall in love and not a bottom in this Isekai world.\n\n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1987/109164.jpg",
+      "date": "Sep 10, 2020",
+      "producer": "AQUA ARIS",
+      "eps": 4,
+      "genres": [
+        "Fantasy",
+        "Shounen Ai"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set",
       "description": "The original video anime episode will serve as the final chapter to the television series, focusing on the rivalry between the \"background character\" Amatsuyu Kisaragi (Jouro) and Yasuo Hazuki (Hose), \"the protagonist.\"\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1155/106799.jpg",
@@ -2186,18 +2199,6 @@
       "category": "OVA"
     },
     {
-      "title": "Kohakuiro no Hunter The Animation",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
-      "date": "Jul 31, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
       "title": "Succubus Stayed Life The Animation",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1776/107906.jpg",
@@ -2207,6 +2208,18 @@
       "genres": [
         "Hentai",
         "School"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "Kohakuiro no Hunter The Animation",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
+      "date": "Jul 31, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Hentai"
       ],
       "category": "OVA"
     },

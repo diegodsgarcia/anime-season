@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-09-10",
+  "lastUpdate": "2020-09-11",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -2279,19 +2279,6 @@
       "category": "ONA"
     },
     {
-      "title": "Menghuan Shuyuan 3rd Season",
-      "description": "Third season of Menghuan Shuyuan.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1799/108466.jpg",
-      "date": "Apr 6, 2020",
-      "producer": "Painting Dream",
-      "eps": 14,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Ninjala",
       "description": "Each episode follows a character from the game.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
@@ -2301,6 +2288,19 @@
       "genres": [
         "Action",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Menghuan Shuyuan 3rd Season",
+      "description": "Third season of Menghuan Shuyuan.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1799/108466.jpg",
+      "date": "Apr 6, 2020",
+      "producer": "Painting Dream",
+      "eps": 14,
+      "genres": [
+        "Comedy",
+        "Fantasy"
       ],
       "category": "ONA"
     },
