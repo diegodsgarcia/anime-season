@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-11",
+  "lastUpdate": "2020-09-12",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -1390,19 +1390,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Oidon to",
-      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
-      "date": "Dec 2, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Sports",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Egg Car",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
@@ -1414,6 +1401,19 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Oidon to",
+      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
+      "date": "Dec 2, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Sports",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -2052,6 +2052,20 @@
       "category": "ONA"
     },
     {
+      "title": "Huanji 45 Miao",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1240/108694.jpg",
+      "date": "Aug ??, 2020",
+      "producer": "Xanthus Media",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Music",
+        "Sci-Fi"
+      ],
+      "category": "ONA"
+    },
+    {
       "title": "Mengyou Dunhuang",
       "description": "Due to the dissipation of the heavenly scripture powers, Dunhuang will face adversity. Wu Tianji is ordered to repair the heavenly scriptures. In order to perfect the heavenly scripture powers, you need to relive the story originally recorded in the heavenly scripture. Wu Tianji took the god beast, the angel pig, to the ancient city of Dunhuang. Just when she had no idea how to start repairing the scriptures, she accidentally strayed into the world of frescoes in the Mogao Caves...\n\n(Source: bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1611/108293.jpg",
@@ -2062,20 +2076,6 @@
         "Comedy",
         "Historical",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "Huanji 45 Miao",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1240/108694.jpg",
-      "date": "Aug ??, 2020",
-      "producer": "Xanthus Media",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Music"
       ],
       "category": "ONA"
     },
