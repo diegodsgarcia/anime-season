@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-12",
+  "lastUpdate": "2020-09-13",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -53,6 +53,21 @@
       "category": "TV (New)"
     },
     {
+      "title": "Kanojo, Okarishimasu",
+      "description": "Dumped by his girlfriend, emotionally shattered college student Kazuya Kinoshita attempts to appease the void in his heart through a rental girlfriend from a mobile app. At first, Chizuru Mizuhara seems to be the perfect girl with everything he could possibly ask for: great looks and a cute, caring personality.\n \nUpon seeing mixed opinions on her profile after their first date, and still tormented by his previous relationship, Kazuya believes that Chizuru is just playing around with the hearts of men and leaves her a negative rating. Angry at her client's disrespect towards her, Chizuru reveals her true nature: sassy and temperamental, the complete opposite of Kazuya's first impression. At that very moment, Kazuya receives news of his grandmother's collapse and is forced to bring Chizuru along with him to the hospital.\n \nAlthough it turns out to be nothing serious, his grandmother is ecstatic that Kazuya has finally found a serious girlfriend, which had always been her wish. Unable to tell her the truth, Kazuya and Chizuru are forced into a fake relationship—acting as if they are truly lovers.\n \n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1485/107693.jpg",
+      "date": "Jul 11, 2020, 01:25 (JST)",
+      "producer": "TMS Entertainment",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "School",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
       "description": "Second part of Sword Art Online: Alicization - War of Underworld.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1438/105106.jpg",
@@ -65,21 +80,6 @@
         "Adventure",
         "Romance",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Kanojo, Okarishimasu",
-      "description": "Dumped by his girlfriend, emotionally shattered college student Kazuya Kinoshita attempts to appease the void in his heart through a rental girlfriend from a mobile app. At first, Chizuru Mizuhara seems to be the perfect girl with everything he could possibly ask for: great looks and a cute, caring personality.\n \nUpon seeing mixed opinions on her profile after their first date, and still tormented by his previous relationship, Kazuya believes that Chizuru is just playing around with the hearts of men and leaves her a negative rating. Angry at her client's disrespect towards her, Chizuru reveals her true nature: sassy and temperamental, the complete opposite of Kazuya's first impression. At that very moment, Kazuya receives news of his grandmother's collapse and is forced to bring Chizuru along with him to the hospital.\n \nAlthough it turns out to be nothing serious, his grandmother is ecstatic that Kazuya has finally found a serious girlfriend, which had always been her wish. Unable to tell her the truth, Kazuya and Chizuru are forced into a fake relationship—acting as if they are truly lovers.\n \n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1485/107693.jpg",
-      "date": "Jul 11, 2020, 01:25 (JST)",
-      "producer": "TMS Entertainment",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "School",
-        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -1418,19 +1418,6 @@
       "category": "TV (Continuing)"
     },
     {
-      "title": "Poccolies",
-      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
-      "date": "Apr 6, 2020, 23:29 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
       "title": "Fuwafuwa Hour: Pui Pui & Muu Muu",
       "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
@@ -1440,6 +1427,19 @@
       "genres": [
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "Poccolies",
+      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
+      "date": "Apr 6, 2020, 23:29 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1712,9 +1712,9 @@
     {
       "title": "Chuan Shu Zijiu Zhinan",
       "description": "This is a story of a guy who transmigrates into the scum villain of one of those harem xuanhuan/xianxia novels. The scum villain, Shen Qingqiu, is one of those looks-noble-but-is-actually-a-hypocrite type. Shen Qingqiu’s disciple, Luo Binghe, is the main character of the novel who gradually turns darker as tragic events occur upon him.\n\nWith the help of a very troll system, the new Shen Qingqiu tries to stay alive by staying on Luo Binghe’s good side, as the original Shen Qingqiu treated Luo Binghe badly, thus receiving a horrifying ending. However, Shen Qingqiu's plan of staying alive is not as simple as it seems as he soon finds out that the system limits his actions.\n\nThis is a sometimes angsty, but also touching, story of a master and his disciple.\n\n(Source: CNovels; edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/98200.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1367/109171.jpg",
       "date": "Sep 10, 2020",
-      "producer": "-",
+      "producer": "Djinn Power",
       "eps": 10,
       "genres": [
         "Historical",
@@ -2106,19 +2106,6 @@
       "category": "ONA"
     },
     {
-      "title": "Ninjala",
-      "description": "Each episode follows a character from the game.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
-      "date": "Jun 23, 2020",
-      "producer": "domerica, Studio Hibari",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Martial Arts"
-      ],
-      "category": "ONA"
-    },
-    {
       "title": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita",
       "description": "Kotone is a fudanshi. One day while he was buying BL manga outside of a manga stand, a truck loses control and kills him with BL manga all over him. To his surprise, he wakes up in an Asian ancient-looking palace. A man named Nagi, that is half serpent, tells him that he is now his Miko. They need to have sex in order for Nagi to become a higher being and become a Dragon. Kotone knows everything about BL and he realizes that he will be the bottom. Kotone will use his knowledge of BL to not fall in love and not a bottom in this Isekai world.\n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1987/109164.jpg",
@@ -2128,6 +2115,19 @@
       "genres": [
         "Fantasy",
         "Shounen Ai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Ninjala",
+      "description": "Each episode follows a character from the game.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
+      "date": "Jun 23, 2020",
+      "producer": "domerica, Studio Hibari",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Martial Arts"
       ],
       "category": "ONA"
     },

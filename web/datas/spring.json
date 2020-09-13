@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-09-12",
+  "lastUpdate": "2020-09-13",
   "animes": [
     {
       "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
@@ -183,6 +183,20 @@
       "category": "TV (New)"
     },
     {
+      "title": "Appare-Ranman!",
+      "description": "No dream is too big for Appare Sorrano, a socially-awkward inventor living in a small rural town in Japan in the late 19th century. Fascinated since childhood by the creation of steamships that can connect people across great distances, he's learned to make machines of all kinds from various scientific texts. His goal is to sail across the sea, beyond the sky, and ultimately, to the other side of the moon.\n\nUnfortunately, through a string of events, Appare finds himself stranded in the middle of the sea on his mini steamship. Floating alongside him is a skilled but cowardly samurai, Kosame Ishikki, who was tasked to keep his eccentric behavior in check. Just when all hope seems lost, a large steamship saves them and takes them to Los Angeles. With no money or plans, they decide to participate in the \"Trans-America Wild Race,\" which gives Appare the chance to build his own automobile, and Kosame the opportunity to use the cash prize to return home. However, against rival racers and unknown challenges residing in the wilderness, just how far will this adventure take Appare and Kosame?\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1710/106614.jpg",
+      "date": "Apr 10, 2020, 21:30 (JST)",
+      "producer": "P.A. Works",
+      "eps": 13,
+      "genres": [
+        "Cars",
+        "Comedy",
+        "Historical"
+      ],
+      "category": "TV (New)"
+    },
+    {
       "title": "Arte",
       "description": "In the 16th century, the city of Florence booms with cultural and creative revival in celebration of the Renaissance. Arte, a delightful young lady from an aristocratic family, dreams of being an artist and contributing to the renewal of civilization. However, with her father's death, she ends up losing the only person who believed in her passion for art. Now she is expected to marry a nobleman and live as a refined housewife without disgracing her family name. Reluctant to accept her fate, the headstrong Arte steps into the streets in search of a master artisan to take her on as an apprentice.\n\nIn her quest for a mentor, Arte has to face harsh reality when she is completely shunned for being a female artist. No one believes that women are capable of fine craftsmanship, and therefore none are willing to accept her. Luckily, a renowned artisan by the name of Leo is persuaded to take her as his disciple since he has none anyway. And thus, Arte's new life begins, far from the comfort of her noble upbringing. As an apprentice, she must earn her keep while tackling various challenges along the difficult path to becoming a full-fledged, master artisan.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1284/106945.jpg",
@@ -195,20 +209,6 @@
         "Romance",
         "Seinen",
         "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "Appare-Ranman!",
-      "description": "No dream is too big for Appare Sorrano, a socially-awkward inventor living in a small rural town in Japan in the late 19th century. Fascinated since childhood by the creation of steamships that can connect people across great distances, he's learned to make machines of all kinds from various scientific texts. His goal is to sail across the sea, beyond the sky, and ultimately, to the other side of the moon.\n\nUnfortunately, through a string of events, Appare finds himself stranded in the middle of the sea on his mini steamship. Floating alongside him is a skilled but cowardly samurai, Kosame Ishikki, who was tasked to keep his eccentric behavior in check. Just when all hope seems lost, a large steamship saves them and takes them to Los Angeles. With no money or plans, they decide to participate in the \"Trans-America Wild Race,\" which gives Appare the chance to build his own automobile, and Kosame the opportunity to use the cash prize to return home. However, against rival racers and unknown challenges residing in the wilderness, just how far will this adventure take Appare and Kosame?\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1710/106614.jpg",
-      "date": "Apr 10, 2020, 21:30 (JST)",
-      "producer": "P.A. Works",
-      "eps": 13,
-      "genres": [
-        "Cars",
-        "Comedy",
-        "Historical"
       ],
       "category": "TV (New)"
     },
