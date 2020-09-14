@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-13",
+  "lastUpdate": "2020-09-14",
   "animes": [
     {
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
@@ -20,7 +20,7 @@
     },
     {
       "title": "The God of High School",
-      "description": "It all began as a fighting tournament to seek out for the best fighter among all high school students in Korea. Mori Jin, a Taekwondo specialist and a high school student, soon learns that there is something much greater beneath the stage of the tournament.\n\n(Source: LINE Webtoon)",
+      "description": "The \"God of High School\" tournament has begun, seeking out the greatest fighter among Korean high school students! All martial arts styles, weapons, means, and methods of attaining victory are permitted. The prize? One wish for anything desired by the winner.\n\nTaekwondo expert Jin Mo-Ri is invited to participate in the competition. There he befriends karate specialist Han Dae-Wi and swordswoman Yu Mi-Ra, who both have entered for their own personal reasons. Mo-Ri knows that no opponent will be the same and that the matches will be the most ruthless he has ever fought in his life. But instead of being worried, this prospect excites him beyond belief.\n\nA secret lies beneath the facade of a transparent test of combat prowess the tournament claims to be—one that has Korean political candidate Park Mu-Jin watching every fight with expectant, hungry eyes. Mo-Ri, Dae-Wi, and Mi-Ra are about to discover what it really means to become the God of High School.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1722/107269.jpg",
       "date": "Jul 6, 2020, 23:30 (JST)",
       "producer": "MAPPA",
@@ -2089,6 +2089,18 @@
       "genres": [
         "Slice of Life",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "Saikyou Kamizmode!",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/108815.jpg",
+      "date": "Sep 28, 2020",
+      "producer": "Bandai Namco Pictures",
+      "eps": null,
+      "genres": [
+        "Action"
       ],
       "category": "ONA"
     },
