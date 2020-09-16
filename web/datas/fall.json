@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-09-15",
+  "lastUpdate": "2020-09-16",
   "animes": [
     {
       "title": "",
@@ -222,19 +222,6 @@
     },
     {
       "title": "",
-      "description": "Long ago, a war broke out in Japan that pitted Kantou against Kansai and divided the country. Kansai became dependent on Kantou, but slowly the police and government began losing control of Kansai to criminals known as Akudama.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
-      "date": "Oct 8, 2020, 21:30 (JST)",
-      "producer": "Studio Pierrot",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Sci-Fi"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "In the late 19th century, the British Empire has become a global power. Due to the strict class stratification, the average citizen has little chance of successfully rising up to the top, where the despicable nobility rules over them all.\n\nWilliam James Moriarty, the second son of the Moriarty household, is a young mathematics professor who has displayed great cunning and intellect since he was a child. Along with his brothers Albert and Louis, he lives the simple life of a noble. Outside of school, William is a well-known private consultant willing to solve the problems of anyone in need. However, his gentle demeanor belies his position as the head of a group prepared to wreak havoc in pursuit of its desire—a new world built from the ashes of the old.\n\nYuukoku no Moriarty puts a new spin on Arthur Conan Doyle's original work by putting the spotlight on its main antagonist and exploring how he came to be the first and only \"criminal consultant.\"\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
       "date": "Oct 11, 2020, 22:30 (JST)",
@@ -245,6 +232,19 @@
         "Historical",
         "Psychological",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Long ago, a war broke out in Japan that pitted Kantou against Kansai and divided the country. Kansai became dependent on Kantou, but slowly the police and government began losing control of Kansai to criminals known as Akudama.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
+      "date": "Oct 8, 2020, 21:30 (JST)",
+      "producer": "Studio Pierrot",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
@@ -441,10 +441,10 @@
       "eps": null,
       "genres": [
         "Action",
-        "Ecchi",
-        "Magic",
         "Military",
-        "Sci-Fi"
+        "Sci-Fi",
+        "Magic",
+        "Ecchi"
       ],
       "category": "TV (New)"
     },
@@ -681,6 +681,18 @@
     },
     {
       "title": "",
+      "description": "Set in a convenience store that seems to be everywhere, through the appearance of a convenience store clerk who does not talk properly, while raising problems with the way of modern communication, we will approach the secret of the mysterious hero Mutou.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1148/109223.jpg",
+      "date": "Oct 13, 2020, 02:30 (JST)",
+      "producer": "Toho Interactive Animation",
+      "eps": null,
+      "genres": [
+        "Mystery"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Latest Himitsukessha Taka no Tsume series to be aired on TV.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1824/108847.jpg",
       "date": "Oct 5, 2020, 01:20 (JST)",
@@ -703,18 +715,6 @@
       "genres": [
         "Comedy",
         "Kids"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Set in a convenience store that seems to be everywhere, through the appearance of a convenience store clerk who does not talk properly, while raising problems with the way of modern communication, we will approach the secret of the mysterious hero Mutou.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1148/109223.jpg",
-      "date": "Oct 13, 2020, 02:30 (JST)",
-      "producer": "Toho Interactive Animation",
-      "eps": null,
-      "genres": [
-        "Mystery"
       ],
       "category": "TV (New)"
     },
@@ -885,6 +885,20 @@
     },
     {
       "title": "",
+      "description": "This anime adapts Key's visual novel Kud Wafter, which follows the romantic relationship between Riki Naoe and Kudryavka Noumi from the game Little Busters!",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/86916.jpg",
+      "date": "Nov ??, 2020",
+      "producer": "J.C.Staff",
+      "eps": 1,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "School"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
       "description": "Mio has feelings for her childhood friend Arata, but can't convey her feelings. One day, as they continue their delicate relationship, the two fight over something trivial. After letting tensions settle, Mio goes to make up with him in the pouring rain. While on her way, she gets into a traffic accident. When she regains consciousness, a mysterious and unfamiliar world appears before her eyes.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1415/108509.jpg",
       "date": "Nov 27, 2020",
@@ -941,9 +955,9 @@
     },
     {
       "title": "",
-      "description": "A collection of short stories that take a refreshing and humorous look at the sexual relationships between young people in Japan.\n\n(Source: Kotonoha)",
+      "description": "Love is love. Someday, the pain of being in love will be an endearing memory. No matter who the feelings are towards, no matter what form it takes, all love and lifestyles have the same value. An omnibus anime tells the stories of “The wedding of an ex”, “a student and a teacher at an all-boys’ school” and “childhood friends whose bodies and hearts change with adolescence.”\n\n(Source: Kotonoha)\n\nThe movie was streamed in advance on Chicago Asian Pop Up Cinema from September 15-19, 2020. Official theater release in Japan began on October 23, 2020.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1924/106583.jpg",
-      "date": "Oct 23, 2020",
+      "date": "Sep 15, 2020",
       "producer": "LIDENFILMS",
       "eps": 1,
       "genres": [
@@ -1041,21 +1055,6 @@
     },
     {
       "title": "",
-      "description": "The story begins when the protagonist Hikaru meets aliens Lala, Prunce, and Fuwa while watching the night sky. She learns of the “Star Palace,” where the 12 Star Princesses of the constellations kept the balance of the universe until they were attacked. Lala is searching for the legendary Precure warriors to help find the 12 scattered “Princess Star Color Pens” and revive the princesses. When Fuwa is captured by an enemy, Hikaru wishes to save Fuwa, and a Star Color Pendent and a Star Color Pen appear to allow her to transform into Cure Star. From then on she works to collect the pens and raise Fuwa, who is the key to reviving the princesses.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1313/105361.jpg",
-      "date": "Oct 31, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Fantasy",
-        "Magic",
-        "Shoujo"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "",
       "description": "Episodes 7-9 of the Soukyuu no Fafner: Dead Aggressor - The Beyond series.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1023/107083.jpg",
       "date": "Nov 13, 2020",
@@ -1072,6 +1071,21 @@
     },
     {
       "title": "",
+      "description": "The story begins when the protagonist Hikaru meets aliens Lala, Prunce, and Fuwa while watching the night sky. She learns of the “Star Palace,” where the 12 Star Princesses of the constellations kept the balance of the universe until they were attacked. Lala is searching for the legendary Precure warriors to help find the 12 scattered “Princess Star Color Pens” and revive the princesses. When Fuwa is captured by an enemy, Hikaru wishes to save Fuwa, and a Star Color Pendent and a Star Color Pen appear to allow her to transform into Cure Star. From then on she works to collect the pens and raise Fuwa, who is the key to reviving the princesses.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1313/105361.jpg",
+      "date": "Oct 31, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Magic",
+        "Shoujo"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
       "description": "Makoto's grandfather was the principal of the great Onodera Academy, and when he passed away, he left Makoto and his school staff with one very important will - \"The one man who is able to seduce Makoto with his superb sexual techniques will be given the right to take over as Onodera Academy's new principal!\" Because of this ridiculous last request, Makoto is now every faculty member's target for sexual harassment! Desperate to protect his virginity, Makoto seeks help from his childhood friend (and the man who he has always loved), Kintaro.\n\n(Source: DMP)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1127/109187.jpg",
       "date": "Dec 11, 2020",
@@ -1079,6 +1093,18 @@
       "eps": 1,
       "genres": [
         "Yaoi"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
+      "description": "The story is based on the original story of Mulan, but is adapted more realistically. Mulan has dreamed of becoming a heroine since she was a child, but she suffers repeated blows after joining the army for her father. \n\n(Source: V2Anime, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1654/109228.jpg",
+      "date": "Oct 1, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action"
       ],
       "category": "Movie"
     },

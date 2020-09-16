@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-15",
+  "lastUpdate": "2020-09-16",
   "animes": [
     {
       "title": "",
@@ -930,6 +930,19 @@
     },
     {
       "title": "",
+      "description": "The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/106284.jpg",
+      "date": "Apr 6, 2020, 07:05 (JST)",
+      "producer": "OLM, Wit Studio",
+      "eps": null,
+      "genres": [
+        "Music",
+        "School"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "In the Heian era, around 1000 years ago, a young boy of noble family named Ojarumaru is bored with his life of privilege. Meanwhile, three demons steal the power-stick of Enma, king of demons, and then lose it. Ojarumaru finds it, and uses it to transport himself to the present time. Here, he is befriended by a young boy named Kazuma, and becomes a member of his family. As time goes on, Ojarumaru makes many new friends, while dodging the comedic efforts of the three demons, Akane, Kisuke, and Aobee, as they try to recover the stick. (from ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/2/8519.jpg",
       "date": "Oct 5, 1998, 18:10 (JST)",
@@ -940,19 +953,6 @@
         "Comedy",
         "Kids",
         "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/106284.jpg",
-      "date": "Apr 6, 2020, 07:05 (JST)",
-      "producer": "OLM, Wit Studio",
-      "eps": null,
-      "genres": [
-        "Music",
-        "School"
       ],
       "category": "TV (Continuing)"
     },
@@ -1869,20 +1869,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1297/108295.jpg",
-      "date": "Jul 22, 2020",
-      "producer": "Wei Chuang Jiang Xin",
-      "eps": 26,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "The story is set in Nagasaki prefecture in Minami Shimabara city, the fabled origin of the Shimabara Rebellion that sent shockwaves through all of Japan in the early Edo period. It is also where a third-year junior high school student named Shirou spends his days with his school friends.\n\nOne summer day, Shirou's older childhood friend Akane returns to Minami Shimabara from Tokyo. Shirou and Akane take a stroll around Minami Shimabara with another longtime friend, Tokiya. While these friends are dealing with nostalgia and more complex feelings, a mysterious creature named Goron suddenly appears before them. This encounter with a mere little creature causes great events to unfold once more in this city...\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/107681.jpg",
       "date": "Aug 8, 2020",
@@ -1892,6 +1878,20 @@
         "Mystery",
         "Supernatural",
         "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1297/108295.jpg",
+      "date": "Jul 22, 2020",
+      "producer": "Wei Chuang Jiang Xin",
+      "eps": 26,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2107,7 +2107,20 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
+      "description": "Kotone is a fudanshi. One day while he was buying BL manga outside of a manga stand, a truck loses control and kills him with BL manga all over him. To his surprise, he wakes up in an Asian ancient-looking palace. A man named Nagi, that is half serpent, tells him that he is now his Miko. They need to have sex in order for Nagi to become a higher being and become a Dragon. Kotone knows everything about BL and he realizes that he will be the bottom. Kotone will use his knowledge of BL to not fall in love and not a bottom in this Isekai world.\n\n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1987/109164.jpg",
+      "date": "Sep 10, 2020",
+      "producer": "AQUA ARIS",
+      "eps": 4,
+      "genres": [
+        "Fantasy",
+        "Shounen Ai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The franchise has a theme of sumo, taiko drumming, and music. Characters in the franchise will have both a \"sumode\" and a \"kamizmode,\" and can transform between them. Characters in the franchise will battle to become a yokozuna.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/108815.jpg",
       "date": "Sep 28, 2020",
       "producer": "Bandai Namco Pictures",
@@ -2119,7 +2132,7 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
+      "description": "A \"gourmet action movie\" that took place in the kitchen, the small alpaca who coveted a variety of delicacies decided to take two good friends to fight. In Sansan’s Kitchen of Pranks, sugar points! Calories! Carbon water... does not exist. A very attractive \"Zero Card\" Healing Fan will become delicious today!\n\n(Source: official Bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
       "date": "Jul 30, 2020",
       "producer": "-",
@@ -2127,19 +2140,6 @@
       "genres": [
         "Slice of Life",
         "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Kotone is a fudanshi. One day while he was buying BL manga outside of a manga stand, a truck loses control and kills him with BL manga all over him. To his surprise, he wakes up in an Asian ancient-looking palace. A man named Nagi, that is half serpent, tells him that he is now his Miko. They need to have sex in order for Nagi to become a higher being and become a Dragon. Kotone knows everything about BL and he realizes that he will be the bottom. Kotone will use his knowledge of BL to not fall in love and not a bottom in this Isekai world.\n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1987/109164.jpg",
-      "date": "Sep 10, 2020",
-      "producer": "AQUA ARIS",
-      "eps": 4,
-      "genres": [
-        "Fantasy",
-        "Shounen Ai"
       ],
       "category": "ONA"
     },
@@ -2441,15 +2441,17 @@
     },
     {
       "title": "",
-      "description": "This anime adapts Key's visual novel Kud Wafter, which follows the romantic relationship between Riki Naoe and Kudryavka Noumi from the game Little Busters!",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/86916.jpg",
-      "date": "Sep ??, 2020",
-      "producer": "J.C.Staff",
+      "description": "Love is love. Someday, the pain of being in love will be an endearing memory. No matter who the feelings are towards, no matter what form it takes, all love and lifestyles have the same value. An omnibus anime tells the stories of “The wedding of an ex”, “a student and a teacher at an all-boys’ school” and “childhood friends whose bodies and hearts change with adolescence.”\n\n(Source: Kotonoha)\n\nThe movie was streamed in advance on Chicago Asian Pop Up Cinema from September 15-19, 2020. Official theater release in Japan began on October 23, 2020.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1924/106583.jpg",
+      "date": "Sep 15, 2020",
+      "producer": "LIDENFILMS",
       "eps": 1,
       "genres": [
-        "Comedy",
+        "Slice of Life",
+        "Drama",
         "Romance",
-        "School"
+        "Shoujo Ai",
+        "Shounen Ai"
       ],
       "category": "Movie"
     },
