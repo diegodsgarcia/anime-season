@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-09-16",
+  "lastUpdate": "2020-09-17",
   "animes": [
     {
       "title": "",
@@ -2376,10 +2376,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1372/105978.jpg",
-      "date": "May 29, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1824/105790.jpg",
+      "date": "Apr 24, 2020",
       "producer": "-",
-      "eps": 2,
+      "eps": null,
       "genres": [
         "Hentai"
       ],
@@ -2388,10 +2388,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1824/105790.jpg",
-      "date": "Apr 24, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1372/105978.jpg",
+      "date": "May 29, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 2,
       "genres": [
         "Hentai"
       ],

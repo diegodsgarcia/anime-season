@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-16",
+  "lastUpdate": "2020-09-17",
   "animes": [
     {
       "title": "",
@@ -298,7 +298,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1630/108499.jpg",
       "date": "Jul 7, 2020, 21:54 (JST)",
       "producer": "DMM.futureworks, W-Toon Studio",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Slice of Life",
         "Comedy",
@@ -2066,6 +2066,19 @@
     },
     {
       "title": "",
+      "description": "Kotone is a fudanshi. One day while he was buying BL manga outside of a manga stand, a truck loses control and kills him with BL manga all over him. To his surprise, he wakes up in an Asian ancient-looking palace. A man named Nagi, that is half serpent, tells him that he is now his Miko. They need to have sex in order for Nagi to become a higher being and become a Dragon. Kotone knows everything about BL and he realizes that he will be the bottom. Kotone will use his knowledge of BL to not fall in love and not a bottom in this Isekai world.\n\n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1987/109164.jpg",
+      "date": "Sep 10, 2020",
+      "producer": "AQUA ARIS",
+      "eps": 4,
+      "genres": [
+        "Fantasy",
+        "Shounen Ai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1240/108694.jpg",
       "date": "Aug ??, 2020",
@@ -2102,19 +2115,6 @@
       "genres": [
         "Slice of Life",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Kotone is a fudanshi. One day while he was buying BL manga outside of a manga stand, a truck loses control and kills him with BL manga all over him. To his surprise, he wakes up in an Asian ancient-looking palace. A man named Nagi, that is half serpent, tells him that he is now his Miko. They need to have sex in order for Nagi to become a higher being and become a Dragon. Kotone knows everything about BL and he realizes that he will be the bottom. Kotone will use his knowledge of BL to not fall in love and not a bottom in this Isekai world.\n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1987/109164.jpg",
-      "date": "Sep 10, 2020",
-      "producer": "AQUA ARIS",
-      "eps": 4,
-      "genres": [
-        "Fantasy",
-        "Shounen Ai"
       ],
       "category": "ONA"
     },
