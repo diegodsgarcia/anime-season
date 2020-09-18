@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-17",
+  "lastUpdate": "2020-09-18",
   "animes": [
     {
       "title": "",
@@ -930,19 +930,6 @@
     },
     {
       "title": "",
-      "description": "The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/106284.jpg",
-      "date": "Apr 6, 2020, 07:05 (JST)",
-      "producer": "OLM, Wit Studio",
-      "eps": null,
-      "genres": [
-        "Music",
-        "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "In the Heian era, around 1000 years ago, a young boy of noble family named Ojarumaru is bored with his life of privilege. Meanwhile, three demons steal the power-stick of Enma, king of demons, and then lose it. Ojarumaru finds it, and uses it to transport himself to the present time. Here, he is befriended by a young boy named Kazuma, and becomes a member of his family. As time goes on, Ojarumaru makes many new friends, while dodging the comedic efforts of the three demons, Akane, Kisuke, and Aobee, as they try to recover the stick. (from ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/2/8519.jpg",
       "date": "Oct 5, 1998, 18:10 (JST)",
@@ -953,6 +940,19 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/106284.jpg",
+      "date": "Apr 6, 2020, 07:05 (JST)",
+      "producer": "OLM, Wit Studio",
+      "eps": null,
+      "genres": [
+        "Music",
+        "School"
       ],
       "category": "TV (Continuing)"
     },
@@ -1391,6 +1391,19 @@
     },
     {
       "title": "",
+      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
+      "date": "Dec 2, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Sports",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
       "date": "Oct 3, 2019, 18:10 (JST)",
@@ -1401,19 +1414,6 @@
         "Comedy",
         "Kids",
         "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
-      "date": "Dec 2, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Sports",
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1696,6 +1696,20 @@
     },
     {
       "title": "",
+      "description": "Based on a world-famous action RPG set in an open world, Dragon's Dogma from Capcom will be brought to life as a Netflix original anime series. The story follows a man's journey seeking revenge on a dragon who stole his heart. On his way, the man is brought back to life as an \"Arisen.\" An action adventure about a man challenged by demons who represent the seven deadly sins of humans. \n\n(Source: Netflix)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1519/109068.jpg",
+      "date": "Sep 17, 2020",
+      "producer": "Sublimation",
+      "eps": 7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Recap of the first 5 episodes of Deca-Dence.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1480/108948.jpg",
       "date": "Aug 8, 2020",
@@ -1705,20 +1719,6 @@
         "Action",
         "Sci-Fi",
         "Adventure"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Based on a world-famous action RPG set in an open world, Dragon's Dogma from Capcom will be brought to life as a Netflix original anime series. The story follows a man's journey seeking revenge on a dragon who stole his heart. On his way, the man is brought back to life as an \"Arisen.\" An action adventure about a man challenged by demons who represent the seven deadly sins of humans. \n\n(Source: Netflix)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1519/109068.jpg",
-      "date": "Sep 17, 2020",
-      "producer": "Sublimation",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2053,14 +2053,14 @@
     },
     {
       "title": "",
-      "description": "Fourth season of Qing Chi Hong Xiaodou Ba!",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108288.jpg",
-      "date": "Jul 10, 2020",
-      "producer": "Making Animation",
-      "eps": 12,
+      "description": "A special anime based on the beginning of iOS/Android RPG by the same name.\n\n(Source: AniDB)",
+      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "date": "Sep 2, 2020",
+      "producer": "CloverWorks",
+      "eps": 1,
       "genres": [
-        "Slice of Life",
-        "Comedy"
+        "Action",
+        "Mecha"
       ],
       "category": "ONA"
     },
@@ -2074,6 +2074,19 @@
       "genres": [
         "Fantasy",
         "Shounen Ai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Fourth season of Qing Chi Hong Xiaodou Ba!",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108288.jpg",
+      "date": "Jul 10, 2020",
+      "producer": "Making Animation",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2153,6 +2166,75 @@
       "genres": [
         "Action",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1614/109261.jpg",
+      "date": "Aug 15, 2020",
+      "producer": "-",
+      "eps": 4,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Romance",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Short episodes with super-deformed characters posted on the official Twitter account. Includes extra collaboration episodes with halca and the peggies.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1582/109275.jpg",
+      "date": "Jul 17, 2020",
+      "producer": "AQUA ARIS",
+      "eps": null,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Sanwei Mountain is home to an ancient civilization, where Miao Qiansui and her sister Nuluo live. Miao Qiansui is an innocent little girl, full of curiosity about the outside world. In her memory, there has always been a mysterious place called Moon Lake. But is the Moon Lake real? Can she go to Moon Lake smoothly?\n\n(Source: bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1048/109273.jpg",
+      "date": "Aug 6, 2020",
+      "producer": "Ten Tails Animation",
+      "eps": 7,
+      "genres": [
+        "Adventure"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "This is an adventure story about Ah Shu and Ah Lang. Ah Shu is the executor of the mission, and Ah Lang is the intermediary of the \"Task Association,\" specifically looking for tasks for Ah Rat. While the two were constantly completing various difficult tasks, Ah Shu revealed his yearning for something indescribable – \"The Sea of ​​Stars\"; while Ah Lang was also looking for clues to the disappearance of the family during various tasks. The two learned from the mission that in addition to the present world, there is an \"upper world,\" and various signs indicate that Ah Shu's yearning and the clues Ah Lang is looking for point directly to the \"upper world,\" even \"more upper world.\"\n\nThrough their continuous adventures, they gradually learned that no matter which world, they cannot escape the fate of the tipping point of entropy.\n\n(Source: bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1726/109274.jpg",
+      "date": "Aug 3, 2020",
+      "producer": "1IN",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Fourth season of Wan Jie Xian Zong.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1169/109280.jpg",
+      "date": "Sep 14, 2020",
+      "producer": "Ruo Hong Culture",
+      "eps": 48,
+      "genres": [
+        "Action",
+        "Historical",
+        "Demons",
+        "Romance",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2561,6 +2643,19 @@
         "Action",
         "Comedy",
         "Shounen"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1645/109108.jpg",
+      "date": "Sep 10, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Adventure",
+        "Fantasy"
       ],
       "category": "Movie"
     },

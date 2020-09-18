@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-09-17",
+  "lastUpdate": "2020-09-18",
   "animes": [
     {
       "title": "",
@@ -115,6 +115,21 @@
     },
     {
       "title": "",
+      "description": "Raizel awakens from his 820-year slumber. He holds the special title of Noblesse which is a pure-blooded Noble and protector of all other Nobles. In an attempt to protect Raizel, his servant Frankenstein enrolls him at Ye-Ran High School, where Raizel learn the simple and quotidian routines of the human world through his classmates.\n \nHowever, the Union—a mighty secret organization with strings around the globe and a goal to rule the world—dispatches modified humans and gradually encroaches on Raizel’s life progressively—which causes him to wield his mighty power to protect those around him.\n \nAfter 820 years of intrigue, the secrets behind his slumber are finally revealed and Raizel’s absolute protection as the Noblesse begins.\n\n(Source: Crunchyroll, edited)\n\nThe anime was streamed in advance on October 5, 2020 on Crunchyroll. Regular broadcasting in Japan begun on October 8, 2020.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1798/109141.jpg",
+      "date": "Oct 8, 2020, 00:00 (JST)",
+      "producer": "Production I.G",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Supernatural",
+        "Vampire",
+        "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Third season of Golden Kamuy.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
       "date": "Oct 5, 2020, 23:00 (JST)",
@@ -126,21 +141,6 @@
         "Comedy",
         "Historical",
         "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Raizel awakens from his 820-year slumber. He holds the special title of Noblesse which is a pure-blooded Noble and protector of all other Nobles. In an attempt to protect Raizel, his servant Frankenstein enrolls him at Ye-Ran High School, where Raizel learn the simple and quotidian routines of the human world through his classmates.\n \nHowever, the Union—a mighty secret organization with strings around the globe and a goal to rule the world—dispatches modified humans and gradually encroaches on Raizel’s life progressively—which causes him to wield his mighty power to protect those around him.\n \nAfter 820 years of intrigue, the secrets behind his slumber are finally revealed and Raizel’s absolute protection as the Noblesse begins.\n\n(Source: Crunchyroll, edited)\n\nThe anime was streamed in advance on October 5, 2020 on Crunchyroll. Regular broadcasting in Japan begun on October 8, 2020.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1798/109141.jpg",
-      "date": "Oct 8, 2020, 00:00 (JST)",
-      "producer": "Production I.G",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Supernatural",
-        "Vampire",
-        "School"
       ],
       "category": "TV (New)"
     },
@@ -541,6 +541,20 @@
     },
     {
       "title": "",
+      "description": "Two young people living in the Wahrheit Empire are planning to relocate to the capital city: the shy Inumael who works as a transporter and was once an important younger sister, and Leocaido, a naive new soldier of the Empire who spent his days in the imperial city thinking of his future as a soldier.\n\nIn the Empire, countless human beings were once extinguished from the world. The return of the \"light,\" the disaster that summoned a ferocious monster into the world, is predicted, and the remaining humans' spirits are devastated. Meanwhile, the fate of Inumael, Leocadio, and the history of the Empire will change drastically as a result of one weapon smuggling incident.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1109/108983.jpg",
+      "date": "Oct 13, 2020, 23:00 (JST)",
+      "producer": "Yokohama Animation Lab",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Magic",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "The anime centers on four girls at the full bloom of their youth, working hard to achieve their dreams as they struggle valiantly. In Japanese entertainment, Maesetsu! refers to an introductory talk or explanation addressed to the audience before the broadcast of television programs, usually performed by assistant directors and particularly comedians in variety or comedy shows.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1650/106386.jpg",
       "date": "Oct 4, 2020, 23:30 (JST)",
@@ -549,20 +563,6 @@
       "genres": [
         "Slice of Life",
         "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Two young people living in the Wahrheit Empire are planning to relocate to the capital city: the shy Inumael who works as a transporter and was once an important younger sister, and Leocaido, a naive new soldier of the Empire who spent his days in the imperial city thinking of his future as a soldier.\n\nIn the Empire, countless human beings were once extinguished from the world. The return of the \"light,\" the disaster that summoned a ferocious monster into the world, is predicted, and the remaining humans' spirits are devastated. Meanwhile, the fate of Inumael, Leocadio, and the history of the Empire will change drastically as a result of one weapon smuggling incident.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1109/108983.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "Yokohama Animation Lab",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Magic",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -743,6 +743,20 @@
         "Sci-Fi",
         "Adventure",
         "Magic"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Anime adaptation of Boukyaku Battery manga screened on Jump's official YouTube channel for Jump Special Anime Festa 2020.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1757/109272.jpg",
+      "date": "Oct 11, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Sports",
+        "School",
+        "Shounen"
       ],
       "category": "ONA"
     },
