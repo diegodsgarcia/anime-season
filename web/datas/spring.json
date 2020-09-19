@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-09-18",
+  "lastUpdate": "2020-09-19",
   "animes": [
     {
       "title": "",
@@ -73,7 +73,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1756/108000.jpg",
       "date": "Apr 11, 2020, 00:30 (JST)",
       "producer": "J.C.Staff",
-      "eps": null,
+      "eps": 13,
       "genres": [
         "Ecchi",
         "School",
@@ -1521,19 +1521,6 @@
     },
     {
       "title": "",
-      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
-      "date": "Dec 2, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Sports",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
       "date": "Oct 3, 2019, 18:10 (JST)",
@@ -1544,6 +1531,19 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
+      "date": "Dec 2, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Sports",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1938,19 +1938,6 @@
     },
     {
       "title": "",
-      "description": "Since her childhood, Su Xiao has been sidelined because of her frightening air. Now an actress, she unfortunately remains stuck in the roles of villains.\n\nOne day, Xiao Jian , a recognized investor and actor, comes across a scene between Su Xiao and his manager, which is confusing. In order to silence him, Su Xiao signs a contract with him.  \n\n(Source: Nautiljon)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/106704.jpg",
-      "date": "Apr 7, 2020",
-      "producer": "-",
-      "eps": 32,
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Fifth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/108563.jpg",
       "date": "May 23, 2020",
@@ -1963,6 +1950,19 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Since her childhood, Su Xiao has been sidelined because of her frightening air. Now an actress, she unfortunately remains stuck in the roles of villains.\n\nOne day, Xiao Jian , a recognized investor and actor, comes across a scene between Su Xiao and his manager, which is confusing. In order to silence him, Su Xiao signs a contract with him.  \n\n(Source: Nautiljon)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/106704.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "-",
+      "eps": 32,
+      "genres": [
+        "Comedy",
+        "Romance"
       ],
       "category": "ONA"
     },

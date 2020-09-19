@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-18",
+  "lastUpdate": "2020-09-19",
   "animes": [
     {
       "title": "",
@@ -472,7 +472,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1756/108000.jpg",
       "date": "Apr 11, 2020, 00:30 (JST)",
       "producer": "J.C.Staff",
-      "eps": null,
+      "eps": 13,
       "genres": [
         "Ecchi",
         "School",
@@ -1391,19 +1391,6 @@
     },
     {
       "title": "",
-      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
-      "date": "Dec 2, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Sports",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
       "date": "Oct 3, 2019, 18:10 (JST)",
@@ -1414,6 +1401,19 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
+      "date": "Dec 2, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Sports",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1710,6 +1710,18 @@
     },
     {
       "title": "",
+      "description": "Short episodes with super-deformed characters posted on the official Twitter account. Includes extra collaboration episodes with halca and the peggies.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1582/109275.jpg",
+      "date": "Jul 17, 2020",
+      "producer": "AQUA ARIS",
+      "eps": null,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Recap of the first 5 episodes of Deca-Dence.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1480/108948.jpg",
       "date": "Aug 8, 2020",
@@ -1781,6 +1793,22 @@
     },
     {
       "title": "",
+      "description": "One will to create oceans. One will to summon the mulberry fields.\n\nOne will to slaughter countless devils. One will to eradicate innumerable immortals.\n\nOnly my will… is eternal.\n\nA Will Eternal tells the tale of Bai Xiaochun, an endearing but exasperating young man who is driven primarily by his fear of death and desire to live forever, but who deeply values friendship and family.\n\n(Source: Novel Updates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1712/108161.jpg",
+      "date": "Aug 12, 2020",
+      "producer": "B.CMAY PICTURES",
+      "eps": 26,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Historical",
+        "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "On the far side of the Milky Way, there is a planet gestating magical power-Wilhallen. There are four very different countries on this magical continent: the ancient and mysterious eastern empire—Huang; the free and open Nanyang island country—Tapaz; the iron-clad western republic—Vrsaris; and, Civilized and elegant Beilian Gang-Agnesa. All countries enshrine the High God and obtain the gift of divine power. Although there are occasional conflicts, most people enjoy a peaceful life. Until the era of 3836, when a mysterious man in black suddenly came with an unknown dark force, but found himself in the wrong place at the wrong time. Fortunately, the established fate was as recorded in the time document in his hand. Verhallen opened a new parallel world...\n\n(Source: bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1261/108209.jpg",
       "date": "Jul 16, 2020",
@@ -1789,22 +1817,6 @@
       "genres": [
         "Action",
         "Music",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "One will to create oceans. One will to summon the mulberry fields.\n\nOne will to slaughter countless devils. One will to eradicate innumerable immortals.\n\nOnly my will… is eternal.\n\nA Will Eternal tells the tale of Bai Xiaochun, an endearing but exasperating young man who is driven primarily by his fear of death and desire to live forever, but who deeply values friendship and family.\n\n(Source: Novel Updates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1712/108161.jpg",
-      "date": "Aug 12, 2020",
-      "producer": "B.CMAY PICTURES",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Historical",
-        "Martial Arts",
         "Fantasy"
       ],
       "category": "ONA"
@@ -1844,7 +1856,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1919/108128.jpg",
       "date": "Aug 7, 2020",
       "producer": "B.CMAY PICTURES",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Action",
         "Adventure",
@@ -1990,6 +2002,19 @@
     },
     {
       "title": "",
+      "description": "A special anime based on the beginning of iOS/Android RPG by the same name.\n\n(Source: AniDB)",
+      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "date": "Sep 2, 2020",
+      "producer": "CloverWorks",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Mecha"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Episode 0 of Get Up! Get Live! #GeraGera.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1064/108300.jpg",
       "date": "Jul 3, 2020",
@@ -2053,14 +2078,17 @@
     },
     {
       "title": "",
-      "description": "A special anime based on the beginning of iOS/Android RPG by the same name.\n\n(Source: AniDB)",
-      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "date": "Sep 2, 2020",
-      "producer": "CloverWorks",
-      "eps": 1,
+      "description": "Fourth season of Wan Jie Xian Zong.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1169/109280.jpg",
+      "date": "Sep 14, 2020",
+      "producer": "Ruo Hong Culture",
+      "eps": 48,
       "genres": [
         "Action",
-        "Mecha"
+        "Historical",
+        "Demons",
+        "Romance",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2186,18 +2214,6 @@
     },
     {
       "title": "",
-      "description": "Short episodes with super-deformed characters posted on the official Twitter account. Includes extra collaboration episodes with halca and the peggies.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1582/109275.jpg",
-      "date": "Jul 17, 2020",
-      "producer": "AQUA ARIS",
-      "eps": null,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Sanwei Mountain is home to an ancient civilization, where Miao Qiansui and her sister Nuluo live. Miao Qiansui is an innocent little girl, full of curiosity about the outside world. In her memory, there has always been a mysterious place called Moon Lake. But is the Moon Lake real? Can she go to Moon Lake smoothly?\n\n(Source: bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1048/109273.jpg",
       "date": "Aug 6, 2020",
@@ -2218,22 +2234,6 @@
       "genres": [
         "Action",
         "Adventure",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Fourth season of Wan Jie Xian Zong.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1169/109280.jpg",
-      "date": "Sep 14, 2020",
-      "producer": "Ruo Hong Culture",
-      "eps": 48,
-      "genres": [
-        "Action",
-        "Historical",
-        "Demons",
-        "Romance",
         "Fantasy"
       ],
       "category": "ONA"
@@ -2434,7 +2434,7 @@
     },
     {
       "title": "",
-      "description": "",
+      "description": "While the TV anime focused on the band given's guitarist Ritsuka Uenoyama and his high school classmate Mafuyu Sato, the film centers on the love relationship among the band's bassist Haruki Nakayama, drummer Akihiko Kaji, and Akihiko's roommate and ex-boyfriend Ugetsu Murata.\n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1706/106042.jpg",
       "date": "Aug 22, 2020",
       "producer": "Lerche",

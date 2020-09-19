@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-09-18",
+  "lastUpdate": "2020-09-19",
   "animes": [
     {
       "title": "",
@@ -1543,19 +1543,6 @@
     },
     {
       "title": "",
-      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
-      "date": "Dec 2, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Sports",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
       "date": "Oct 3, 2019, 18:10 (JST)",
@@ -1566,6 +1553,19 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
+      "date": "Dec 2, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Sports",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
