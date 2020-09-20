@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-09-19",
+  "lastUpdate": "2020-09-20",
   "animes": [
     {
       "title": "",
@@ -146,6 +146,21 @@
     },
     {
       "title": "",
+      "description": "A great war has raged for years between the scientifically advanced Empire and Nebulis, the realm of the witches―until the youngest knight ever to receive the title of the Empire's strongest meets the princess of the rival nation. Though they are sworn enemies, the knight is taken by her beauty and dignity, and the princess is moved by his strength and way of life. Will the fighting between them ever be allowed to end? \n\n(Source: Yen Press)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1100/109044.jpg",
+      "date": "Oct 7, 2020, 23:30 (JST)",
+      "producer": "Silver Link.",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Military",
+        "Romance",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "The daughters of Sesshoumaru and Inuyasha set out on a journey transcending time!\n\nIn Feudal Japan, Half-Demon twins Towa and Setsuna are separated from each other during a forest fire. While desperately searching for her younger sister, Towa wanders into a mysterious tunnel that sends her into present-day Japan, where she is found and raised by Kagome Higurashi's brother, Souta, and his family.\n\nTen years later, the tunnel that connects the two eras has reopened, allowing Towa to be reunited with Setsuna, who is now a Demon Slayer working for Kohaku. But to Towa's shock, Setsuna appears to have lost all memories of her older sister.\n\nJoined by Moroha, the daughter of Inuyasha and Kagome, the three young women travel between the two eras on an adventure to regain their missing past. \n\n(Source: VIZ Media)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1783/108783.jpg",
       "date": "Oct 3, 2020, 17:30 (JST)",
@@ -159,21 +174,6 @@
         "Demons",
         "Supernatural",
         "Magic",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "A great war has raged for years between the scientifically advanced Empire and Nebulis, the realm of the witches―until the youngest knight ever to receive the title of the Empire's strongest meets the princess of the rival nation. Though they are sworn enemies, the knight is taken by her beauty and dignity, and the princess is moved by his strength and way of life. Will the fighting between them ever be allowed to end? \n\n(Source: Yen Press)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1100/109044.jpg",
-      "date": "Oct 7, 2020, 23:30 (JST)",
-      "producer": "Silver Link.",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Military",
-        "Romance",
         "Fantasy"
       ],
       "category": "TV (New)"
@@ -465,18 +465,6 @@
     },
     {
       "title": "",
-      "description": "Third season of One Room.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1553/109101.jpg",
-      "date": "Oct 6, 2020, 01:05 (JST)",
-      "producer": "Zero-G",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Year 2002. Japan's gymnastics world was once strong. Former Japanese representative Shoutarou Aragaki (29), who devoted his time to gymnastics, was unable to perform as expected. Even so, after training on a daily basis, his coach Amakusa recommends Shoutarou to retire. However, the fate of the Aragaki family will change significantly due to a certain \"encounter.\"\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1856/108871.jpg",
       "date": "Oct 11, 2020, 01:30 (JST)",
@@ -484,6 +472,18 @@
       "eps": null,
       "genres": [
         "Sports"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Third season of One Room.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1553/109101.jpg",
+      "date": "Oct 6, 2020, 01:05 (JST)",
+      "producer": "Zero-G",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -528,20 +528,7 @@
     },
     {
       "title": "",
-      "description": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106812.jpg",
-      "date": "Oct 8, 2020, 21:54 (JST)",
-      "producer": "DMM.futureworks, W-Toon Studio",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Two young people living in the Wahrheit Empire are planning to relocate to the capital city: the shy Inumael who works as a transporter and was once an important younger sister, and Leocaido, a naive new soldier of the Empire who spent his days in the imperial city thinking of his future as a soldier.\n\nIn the Empire, countless human beings were once extinguished from the world. The return of the \"light,\" the disaster that summoned a ferocious monster into the world, is predicted, and the remaining humans' spirits are devastated. Meanwhile, the fate of Inumael, Leocadio, and the history of the Empire will change drastically as a result of one weapon smuggling incident.\n\n(Source: MAL News)",
+      "description": "Two young people living in the Wahrheit Empire are planning to relocate to the capital city: the shy Inumael who works as a transporter and left his beloved sister behind at his parents' home, and Leocadio, a naive new soldier of the Empire who spends his days in the imperial city thinking of his future as a soldier.\n\nIn the Empire, countless human beings were once extinguished from the world. The return of the \"light,\" the disaster that summoned a ferocious monster into the world, is predicted, and the remaining humans' spirits are devastated. Meanwhile, the fate of Inumael, Leocadio, and the history of the Empire will change drastically as a result of one weapon smuggling incident.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1109/108983.jpg",
       "date": "Oct 13, 2020, 23:00 (JST)",
       "producer": "Yokohama Animation Lab",
@@ -549,6 +536,19 @@
       "genres": [
         "Action",
         "Magic",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106812.jpg",
+      "date": "Oct 8, 2020, 21:54 (JST)",
+      "producer": "DMM.futureworks, W-Toon Studio",
+      "eps": null,
+      "genres": [
+        "Adventure",
         "Fantasy"
       ],
       "category": "TV (New)"
@@ -580,11 +580,11 @@
     },
     {
       "title": "",
-      "description": "Mio Sudou, a 30-year-old office lady has gone 5 years without a boyfriend and has forgotten all about love. Shuuji Mashima, a foreign-affiliated consultant has not had a girlfriend in 7 years and has lost almost all interest in women. Meeting at a matchmaking party, Mio is disgusted by Shuuji as he states, \"I am not into women.\" However, when Mio makes a provocative comment towards Shuuji, things take an unexpected direction.\n\n(Source: MAL News)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1603/108938.jpg",
-      "date": "Oct ??, 2020, 01:00 (JST)",
-      "producer": "Ether Kitten",
-      "eps": null,
+      "description": "Anime adaptation of 12 romantic works from the Eternity Books manga label.\n\nThe complete edition with explicit scenes was distributed online via the official website for Eternity Books. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1899/108400.jpg",
+      "date": "Oct 5, 2020, 01:05 (JST)",
+      "producer": "Seven",
+      "eps": 12,
       "genres": [
         "Romance",
         "Ecchi"
@@ -593,11 +593,11 @@
     },
     {
       "title": "",
-      "description": "Anime adaptation of 12 romantic works from the Eternity Books manga label.\n\nThe complete edition with explicit scenes was distributed online via the official website for Eternity Books. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1899/108400.jpg",
-      "date": "Oct 5, 2020, 01:05 (JST)",
-      "producer": "Seven",
-      "eps": 12,
+      "description": "Mio Sudou, a 30-year-old office lady has gone 5 years without a boyfriend and has forgotten all about love. Shuuji Mashima, a foreign-affiliated consultant has not had a girlfriend in 7 years and has lost almost all interest in women. Meeting at a matchmaking party, Mio is disgusted by Shuuji as he states, \"I am not into women.\" However, when Mio makes a provocative comment towards Shuuji, things take an unexpected direction.\n\n(Source: MAL News)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1603/108938.jpg",
+      "date": "Oct ??, 2020, 01:00 (JST)",
+      "producer": "Ether Kitten",
+      "eps": null,
       "genres": [
         "Romance",
         "Ecchi"
@@ -721,7 +721,7 @@
     {
       "title": "",
       "description": "For you, I’ll become invincible!\n\n“Have you heard? The rubbish Heaven Official is having an affair with the ghost realm’s number one bigshot!”\n\nEight hundred years ago, Xie Lian was the Crown Prince of the Xian Le kingdom; one who was beloved by his citizens and the darling of the world. Unsurprisingly, he ascended to the Heavens at a very young age. Now, eight hundred years later, Xie Lian ascends to the Heavens for the third time as the laughing stock of all three realms. On his first task as a god, he meets a mysterious demon who rules the ghosts and terrifies the Heavens……yet unbeknownst to Xie Lian, this demon king has been paying attention to him for a very, very long time.\n\n(Source: Sakhyulations)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1792/104394.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1319/109301.jpg",
       "date": "Oct 31, 2020",
       "producer": "Haoliners Animation League",
       "eps": 11,

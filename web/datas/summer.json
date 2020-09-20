@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-19",
+  "lastUpdate": "2020-09-20",
   "animes": [
     {
       "title": "",
@@ -85,20 +85,6 @@
     },
     {
       "title": "",
-      "description": "Second season of Enen no Shouboutai.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1673/107657.jpg",
-      "date": "Jul 4, 2020, 01:55 (JST)",
-      "producer": "David Production",
-      "eps": 24,
-      "genres": [
-        "Action",
-        "Supernatural",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "After 2000 years have passed, the ruthless demon lord has just been reincarnated! But his aptitude at an academy for nurturing candidates for demon lords is, “inept”!?\n\nHaving the capability to destroy humans, elementals, and gods, after a long period of countless wars and strife, Arnos the demon lord became sick and tired of all that and longed for a peaceful world, so he decided to reincarnate to the future.\n\nHowever, what awaited him after his reincarnation is a world too used to peace that his descendants became too weak due to a huge weakening in magical powers. \n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1126/108573.jpg",
       "date": "Jul 4, 2020, 23:30 (JST)",
@@ -110,6 +96,20 @@
         "Magic",
         "Fantasy",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Second season of Enen no Shouboutai.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1673/107657.jpg",
+      "date": "Jul 4, 2020, 01:55 (JST)",
+      "producer": "David Production",
+      "eps": 24,
+      "genres": [
+        "Action",
+        "Supernatural",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -163,7 +163,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106598.jpg",
       "date": "Jul 12, 2020, 23:00 (JST)",
       "producer": "Arvo Animation",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Comedy",
         "Romance",
@@ -195,13 +195,13 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1769/107880.jpg",
       "date": "Jul 15, 2020, 22:00 (JST)",
       "producer": "l-a-unch・BOX, Studio elle",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Action",
-        "Fantasy",
         "Horror",
         "Martial Arts",
-        "Samurai"
+        "Samurai",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -847,7 +847,7 @@
       "title": "",
       "description": "The series revolve around a team of 12 high school students who love to play the trading card game Rebirth For You.\n\n(Source: Anime News Network)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1319/105669.jpg",
-      "date": "Jan 5, 2020, 21:30 (JST)",
+      "date": "Jan 5, 2020, 01:00 (JST)",
       "producer": "LIDENFILMS",
       "eps": null,
       "genres": [
@@ -930,6 +930,19 @@
     },
     {
       "title": "",
+      "description": "The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/106284.jpg",
+      "date": "Apr 6, 2020, 07:05 (JST)",
+      "producer": "OLM, Wit Studio",
+      "eps": null,
+      "genres": [
+        "Music",
+        "School"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "In the Heian era, around 1000 years ago, a young boy of noble family named Ojarumaru is bored with his life of privilege. Meanwhile, three demons steal the power-stick of Enma, king of demons, and then lose it. Ojarumaru finds it, and uses it to transport himself to the present time. Here, he is befriended by a young boy named Kazuma, and becomes a member of his family. As time goes on, Ojarumaru makes many new friends, while dodging the comedic efforts of the three demons, Akane, Kisuke, and Aobee, as they try to recover the stick. (from ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/2/8519.jpg",
       "date": "Oct 5, 1998, 18:10 (JST)",
@@ -940,19 +953,6 @@
         "Comedy",
         "Kids",
         "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/106284.jpg",
-      "date": "Apr 6, 2020, 07:05 (JST)",
-      "producer": "OLM, Wit Studio",
-      "eps": null,
-      "genres": [
-        "Music",
-        "School"
       ],
       "category": "TV (Continuing)"
     },
@@ -2053,6 +2053,22 @@
     },
     {
       "title": "",
+      "description": "Fourth season of Wan Jie Xian Zong.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1169/109280.jpg",
+      "date": "Sep 14, 2020",
+      "producer": "Ruo Hong Culture",
+      "eps": 48,
+      "genres": [
+        "Action",
+        "Historical",
+        "Demons",
+        "Romance",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
       "date": "Jul 19, 2020",
@@ -2073,22 +2089,6 @@
       "eps": null,
       "genres": [
         "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Fourth season of Wan Jie Xian Zong.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1169/109280.jpg",
-      "date": "Sep 14, 2020",
-      "producer": "Ruo Hong Culture",
-      "eps": 48,
-      "genres": [
-        "Action",
-        "Historical",
-        "Demons",
-        "Romance",
-        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2173,19 +2173,6 @@
     },
     {
       "title": "",
-      "description": "A \"gourmet action movie\" that took place in the kitchen, the small alpaca who coveted a variety of delicacies decided to take two good friends to fight. In Sansan’s Kitchen of Pranks, sugar points! Calories! Carbon water... does not exist. A very attractive \"Zero Card\" Healing Fan will become delicious today!\n\n(Source: official Bilibili, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
-      "date": "Jul 30, 2020",
-      "producer": "-",
-      "eps": 10,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Each episode follows a character from the game.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
       "date": "Jun 23, 2020",
@@ -2194,6 +2181,19 @@
       "genres": [
         "Action",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "A \"gourmet action movie\" that took place in the kitchen, the small alpaca who coveted a variety of delicacies decided to take two good friends to fight. In Sansan’s Kitchen of Pranks, sugar points! Calories! Carbon water... does not exist. A very attractive \"Zero Card\" Healing Fan will become delicious today!\n\n(Source: official Bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
+      "date": "Jul 30, 2020",
+      "producer": "-",
+      "eps": 10,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
