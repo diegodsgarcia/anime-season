@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-09-21",
+  "lastUpdate": "2020-09-22",
   "animes": [
     {
       "title": "",
@@ -145,6 +145,21 @@
     },
     {
       "title": "",
+      "description": "The Mizuhanome System is a highly advanced development that allows people to enter one of the most intriguing places in existence—the human mind. Through the use of so-called \"cognition particles\" left behind at a crime scene by the perpetrator, detectives from the specialized police squad Kura can manifest a criminal's unconscious mind as a bizarre stream of thoughts in a virtual world. Their task is to explore this psychological plane, called an \"id well,\" to reveal the identity of the culprit.\n\nNot just anyone can enter the id wells; the prerequisite is that you must have killed someone yourself. Such is the case for former detective Akihito Narihisago, who is known as \"Sakaido\" inside the id wells. Once a respected member of the police, tragedy struck, and he soon found himself on the other side of the law.\n\nNevertheless, Narihisago continues to assist Kura in confinement. While his prodigious detective skills still prove useful toward investigations, Narihisago discovers that not everything is as it seems, as behind the seemingly standalone series of murder cases lurks a much more sinister truth.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1889/105337.jpg",
+      "date": "Jan 6, 2020, 00:30 (JST)",
+      "producer": "NAZ",
+      "eps": 13,
+      "genres": [
+        "Mystery",
+        "Police",
+        "Psychological",
+        "Sci-Fi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "The world is ruled by spirits, goblins, and all manner of strange creatures. Human beings are persecuted, to the very point of extinction. One day, a golem and a lone human girl meet.\n\nThis is a record of the pair, one a member of a ruined race, the other a watchman of the forest. It tells of their travels together and of the bond between father and daughter.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1938/102796.jpg",
       "date": "Jan 10, 2020, 00:30 (JST)",
@@ -156,21 +171,6 @@
         "Drama",
         "Fantasy",
         "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "The Mizuhanome System is a highly advanced development that allows people to enter one of the most intriguing places in existence—the human mind. Through the use of so-called \"cognition particles\" left behind at a crime scene by the perpetrator, detectives from the specialized police squad Kura can manifest a criminal's unconscious mind as a bizarre stream of thoughts in a virtual world. Their task is to explore this psychological plane, called an \"id well,\" to reveal the identity of the culprit.\n\nNot just anyone can enter the id wells; the prerequisite is that you must have killed someone yourself. Such is the case for former detective Akihito Narihisago, who is known as \"Sakaido\" inside the id wells. Once a respected member of the police, tragedy struck, and he soon found himself on the other side of the law.\n\nNevertheless, Narihisago continues to assist Kura in confinement. While his prodigious detective skills still prove useful toward investigations, Narihisago discovers that not everything is as it seems, as behind the seemingly standalone series of murder cases lurks a much more sinister truth.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1889/105337.jpg",
-      "date": "Jan 6, 2020, 00:30 (JST)",
-      "producer": "NAZ",
-      "eps": 13,
-      "genres": [
-        "Mystery",
-        "Police",
-        "Psychological",
-        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
@@ -1023,21 +1023,6 @@
     },
     {
       "title": "",
-      "description": "Momoko Sakura is an elementary school student who likes popular idol Momoe Yamaguchi and mangas. She is often called \"Chibi Maruko-chan\" due to her young age and small size. She lives together with her parents, her grandparents and her elder sister in a little town. In school, she has many friends with whom she studies and plays together everyday, including her close pal, Tama-chan; the student committee members, Maruo-kun and Migiwa-san; and the B-class trio: 'little master' Hanawa-kun, Hamaji-Bu Taro and Sekiguchi-kun. This is a fun-loving and enjoyable anime that portrays the simple things in life.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1108/100604.jpg",
-      "date": "Jan 8, 1995, 18:00 (JST)",
-      "producer": "Nippon Animation",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Kids",
-        "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "This year's March issue of Shogakukan's CoroCoro Comics magazine announced on Friday that a new Beyblade series titled Beyblade Burst GT (Gachi) will debut on April 5. The series will stream weekly on the CoroCoro YouTube channel, the official Beyblade portal website, and the Takara Tomy Channel. The magazine shared a visual of a new protagonist with short blond hair.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1318/99806.jpg",
       "date": "Apr 5, 2019, 16:00 (JST)",
@@ -1049,6 +1034,21 @@
         "Adventure",
         "Sports",
         "Shounen"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Momoko Sakura is an elementary school student who likes popular idol Momoe Yamaguchi and mangas. She is often called \"Chibi Maruko-chan\" due to her young age and small size. She lives together with her parents, her grandparents and her elder sister in a little town. In school, she has many friends with whom she studies and plays together everyday, including her close pal, Tama-chan; the student committee members, Maruo-kun and Migiwa-san; and the B-class trio: 'little master' Hanawa-kun, Hamaji-Bu Taro and Sekiguchi-kun. This is a fun-loving and enjoyable anime that portrays the simple things in life.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1108/100604.jpg",
+      "date": "Jan 8, 1995, 18:00 (JST)",
+      "producer": "Nippon Animation",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Kids",
+        "School"
       ],
       "category": "TV (Continuing)"
     },
@@ -1516,18 +1516,6 @@
     },
     {
       "title": "",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1757/106368.jpg",
       "date": "Apr 3, 2019, 18:45 (JST)",
@@ -1538,6 +1526,18 @@
         "Parody",
         "Kids",
         "Samurai"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1862,19 +1862,6 @@
     },
     {
       "title": "",
-      "description": "A special animated commercial first released on Twitter to promote the manga. It was then released on Kodansha's official YouTube channel on January 15.\n\nSet inside an unhealthy body, Hataraku Saibou Black features the anthropomorphized cells of the human immune system as they attempt to keep their ailing world alive.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1914/106749.jpg",
-      "date": "Jan 4, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Seinen"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Fourth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/108562.jpg",
       "date": "Feb 22, 2020",
@@ -1887,6 +1874,19 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "A special animated commercial first released on Twitter to promote the manga. It was then released on Kodansha's official YouTube channel on January 15.\n\nSet inside an unhealthy body, Hataraku Saibou Black features the anthropomorphized cells of the human immune system as they attempt to keep their ailing world alive.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1914/106749.jpg",
+      "date": "Jan 4, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Seinen"
       ],
       "category": "ONA"
     },
@@ -1962,10 +1962,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1409/105799.jpg",
-      "date": "Jan 25, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
+      "date": "Mar 11, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 1,
       "genres": [
         "Hentai"
       ],
@@ -1974,10 +1974,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
-      "date": "Mar 11, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1409/105799.jpg",
+      "date": "Jan 25, 2020",
       "producer": "-",
-      "eps": 1,
+      "eps": null,
       "genres": [
         "Hentai"
       ],
