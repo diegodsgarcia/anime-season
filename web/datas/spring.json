@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-09-22",
+  "lastUpdate": "2020-09-23",
   "animes": [
     {
       "title": "",
@@ -1015,7 +1015,8 @@
       "producer": "P.A. Works, Studio 3Hz",
       "eps": 12,
       "genres": [
-        "Music"
+        "Slice of Life",
+        "Drama"
       ],
       "category": "TV (Continuing)"
     },
@@ -1662,7 +1663,7 @@
     {
       "title": "",
       "description": "Weakened by the poison from his last battle, Baki Hanma finds himself on the verge of death with no salvation in sight. However, after Baki's friend, Retsu Kaiou, brings him to China, he learns about the centurial Raitai Tournament, where the fiercest warriors fight to be crowned as the strongest martial artist in all of China. \n\nAs it is now allowing entry to foreigners, Baki is informed that he will have to compete in the tournament as it holds the cure to his illness. Unfortunately, Baki's father, deemed the \"Strongest Creature on Earth,\" is participating too. Baki 2nd Season details the events of the grand Chinese tournament, as well as Baki's encounter with the eccentric yet powerful Mohammad Alai Jr.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1020/107918.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1924/109353.jpg",
       "date": "Jun 4, 2020",
       "producer": "TMS Entertainment",
       "eps": 13,
@@ -2215,18 +2216,6 @@
     },
     {
       "title": "",
-      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
-      "date": "Apr 6, 2020",
-      "producer": "-",
-      "eps": 3,
-      "genres": [
-        "Game"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Third season of Bai Gui Youeryuan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/108463.jpg",
       "date": "May 21, 2020",
@@ -2234,6 +2223,18 @@
       "eps": 12,
       "genres": [
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
+      "date": "Apr 6, 2020",
+      "producer": "-",
+      "eps": 3,
+      "genres": [
+        "Game"
       ],
       "category": "ONA"
     },

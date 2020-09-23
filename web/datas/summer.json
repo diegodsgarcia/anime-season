@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-22",
+  "lastUpdate": "2020-09-23",
   "animes": [
     {
       "title": "",
@@ -256,7 +256,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1962/108429.jpg",
       "date": "Jul 7, 2020, 19:00 (JST)",
       "producer": "Studio Deen",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Action",
         "Mystery",
@@ -338,7 +338,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1523/108199.jpg",
       "date": "Jul 11, 2020, 01:50 (JST)",
       "producer": "Spell Bound",
-      "eps": null,
+      "eps": 10,
       "genres": [
         "Slice of Life",
         "Comedy"
@@ -2028,18 +2028,6 @@
     },
     {
       "title": "",
-      "description": "Rookie Jianghu and swordsman Xiao Yao Sheng have defeated the baby-eater that caused Chang'an, but they now find themselves falling into a bigger mystery. They traveled to the distant Spirit Beast Village and met the beautiful Demon Fox Girl, the Bone Elves, and people of all kinds inhabiting rivers and lakes along the way. They gained growth and friendship, but are now entangled in a greater crisis: a dispute between immortals and demons. The animation will combine elements such as martial arts, fantasy, blood, adventure, and more, to present to the audience a tale of ups and downs in legendary stories!\n\n(Source: V2Anime)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/107440.jpg",
-      "date": "Aug 15, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Action"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Fourth season of Wan Jie Xian Zong.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1169/109280.jpg",
       "date": "Sep 14, 2020",
@@ -2051,6 +2039,18 @@
         "Demons",
         "Romance",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Rookie Jianghu and swordsman Xiao Yao Sheng have defeated the baby-eater that caused Chang'an, but they now find themselves falling into a bigger mystery. They traveled to the distant Spirit Beast Village and met the beautiful Demon Fox Girl, the Bone Elves, and people of all kinds inhabiting rivers and lakes along the way. They gained growth and friendship, but are now entangled in a greater crisis: a dispute between immortals and demons. The animation will combine elements such as martial arts, fantasy, blood, adventure, and more, to present to the audience a tale of ups and downs in legendary stories!\n\n(Source: V2Anime)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/107440.jpg",
+      "date": "Aug 15, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action"
       ],
       "category": "ONA"
     },
@@ -2134,6 +2134,18 @@
     },
     {
       "title": "",
+      "description": "The franchise has a theme of sumo, taiko drumming, and music. Characters in the franchise will have both a \"sumode\" and a \"kamizmode,\" and can transform between them. Characters in the franchise will battle to become a yokozuna.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/108815.jpg",
+      "date": "Sep 28, 2020",
+      "producer": "Bandai Namco Pictures",
+      "eps": null,
+      "genres": [
+        "Action"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Due to the dissipation of the heavenly scripture powers, Dunhuang will face adversity. Wu Tianji is ordered to repair the heavenly scriptures. In order to perfect the heavenly scripture powers, you need to relive the story originally recorded in the heavenly scripture. Wu Tianji took the god beast, the angel pig, to the ancient city of Dunhuang. Just when she had no idea how to start repairing the scriptures, she accidentally strayed into the world of frescoes in the Mogao Caves...\n\n(Source: bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1611/108293.jpg",
       "date": "Jul 6, 2020",
@@ -2143,18 +2155,6 @@
         "Comedy",
         "Historical",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "The franchise has a theme of sumo, taiko drumming, and music. Characters in the franchise will have both a \"sumode\" and a \"kamizmode,\" and can transform between them. Characters in the franchise will battle to become a yokozuna.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/108815.jpg",
-      "date": "Sep 28, 2020",
-      "producer": "Bandai Namco Pictures",
-      "eps": null,
-      "genres": [
-        "Action"
       ],
       "category": "ONA"
     },
