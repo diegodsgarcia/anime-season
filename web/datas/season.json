@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-09-23",
+  "lastUpdate": "2020-09-24",
   "animes": [
     {
       "title": "",
@@ -145,6 +145,19 @@
     },
     {
       "title": "",
+      "description": "Once upon a time, there was a witch named Elaina, who set off on a journey across the world. Along the way, she would meet all kinds of people, from a country full of witches to a giant in love with his own muscles—but with each meeting, Elaina would become a small part of their story, and her own world would get a little bit bigger. \n\n(Source: Yen Press)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg",
+      "date": "Oct 2, 2020, 21:00 (JST)",
+      "producer": "C2C",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Third season of Golden Kamuy.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
       "date": "Oct 5, 2020, 23:00 (JST)",
@@ -155,19 +168,6 @@
         "Adventure",
         "Historical",
         "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Once upon a time, there was a witch named Elaina, who set off on a journey across the world. Along the way, she would meet all kinds of people, from a country full of witches to a giant in love with his own muscles—but with each meeting, Elaina would become a small part of their story, and her own world would get a little bit bigger. \n\n(Source: Yen Press)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg",
-      "date": "Oct 2, 2020, 21:00 (JST)",
-      "producer": "C2C",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -448,6 +448,18 @@
     },
     {
       "title": "",
+      "description": "Year 2002. Japan's gymnastics world was once strong. Former Japanese representative Shoutarou Aragaki (29), who devoted his time to gymnastics, was unable to perform as expected. Even so, after training on a daily basis, his coach Amakusa recommends Shoutarou to retire. However, the fate of the Aragaki family will change significantly due to a certain \"encounter.\"\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1484/109365.jpg",
+      "date": "Oct 11, 2020, 01:30 (JST)",
+      "producer": "MAPPA",
+      "eps": null,
+      "genres": [
+        "Sports"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/108577.jpg",
       "date": "Oct 8, 2020, 01:05 (JST)",
@@ -459,18 +471,6 @@
         "Sci-Fi",
         "Magic",
         "Ecchi"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Year 2002. Japan's gymnastics world was once strong. Former Japanese representative Shoutarou Aragaki (29), who devoted his time to gymnastics, was unable to perform as expected. Even so, after training on a daily basis, his coach Amakusa recommends Shoutarou to retire. However, the fate of the Aragaki family will change significantly due to a certain \"encounter.\"\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1484/109365.jpg",
-      "date": "Oct 11, 2020, 01:30 (JST)",
-      "producer": "MAPPA",
-      "eps": null,
-      "genres": [
-        "Sports"
       ],
       "category": "TV (New)"
     },
@@ -621,7 +621,7 @@
       "title": "",
       "description": "A new media mix project by Bushiroad.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1980/109096.jpg",
-      "date": "Oct ??, 2020",
+      "date": "Oct 30, 2020, 23:00 (JST)",
       "producer": "SANZIGEN",
       "eps": null,
       "genres": [
@@ -1121,6 +1121,20 @@
         "Action"
       ],
       "category": "Movie"
+    },
+    {
+      "title": "",
+      "description": "The main character Dogesuaru, who wants to see the naughty bits of girls, has a last resort to persuade them. That is, to grovel in front of them. Intent on having his lewd requests heard, he endures through the kowtowing. The heroines are often taken aback, embarrassed, and confused by his sudden action. Is anything impossible before dogeza?! Will the girls show him their risqué side?!\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1634/109387.jpg",
+      "date": "Oct 14, 2020",
+      "producer": "DMM pictures",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "category": "Unknown"
     },
     {
       "title": "",

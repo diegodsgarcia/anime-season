@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-23",
+  "lastUpdate": "2020-09-24",
   "animes": [
     {
       "title": "",
@@ -148,12 +148,12 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1368/108441.jpg",
       "date": "Jul 11, 2020, 01:35 (JST)",
       "producer": "Wolfsbane",
-      "eps": null,
+      "eps": 12,
       "genres": [
-        "Harem",
         "Comedy",
         "Ecchi",
-        "Fantasy"
+        "Fantasy",
+        "Harem"
       ],
       "category": "TV (New)"
     },
@@ -1143,11 +1143,11 @@
       "eps": 52,
       "genres": [
         "Action",
+        "Sci-Fi",
         "Adventure",
-        "Drama",
         "Kids",
-        "Mecha",
-        "Sci-Fi"
+        "Drama",
+        "Mecha"
       ],
       "category": "TV (Continuing)"
     },

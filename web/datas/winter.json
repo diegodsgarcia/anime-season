@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-09-23",
+  "lastUpdate": "2020-09-24",
   "animes": [
     {
       "title": "",
@@ -1294,11 +1294,11 @@
       "eps": 52,
       "genres": [
         "Action",
+        "Sci-Fi",
         "Adventure",
-        "Drama",
         "Kids",
-        "Mecha",
-        "Sci-Fi"
+        "Drama",
+        "Mecha"
       ],
       "category": "TV (Continuing)"
     },
