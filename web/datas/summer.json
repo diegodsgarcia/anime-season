@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-24",
+  "lastUpdate": "2020-09-25",
   "animes": [
     {
       "title": "",
@@ -1488,7 +1488,7 @@
       "title": "",
       "description": "The anime will depict various vehicles as characters in the \"Mobile Land\" island. The protagonist Car-kun arrives at the island as a delivery worker. Through his deliveries, he gets to know the residents of Mobile Land, all while following traffic rules and having his deliveries stopped by the meddling Sabibi. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1612/106288.jpg",
-      "date": "Apr 2, 2020",
+      "date": "Apr 2, 2020, 17:20 (JST)",
       "producer": "CloverWorks",
       "eps": null,
       "genres": [
@@ -1939,6 +1939,22 @@
     },
     {
       "title": "",
+      "description": "Second season of Da Wang Bu Gaoxing.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/108228.jpg",
+      "date": "Jul 21, 2020",
+      "producer": "Haoliners Animation League",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Demons",
+        "Magic",
+        "Fantasy",
+        "School"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Second half of Ling Long: Incarnation.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/108194.jpg",
       "date": "Jul 31, 2020",
@@ -1951,22 +1967,6 @@
         "Demons",
         "Drama",
         "Thriller"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Second season of Da Wang Bu Gaoxing.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/108228.jpg",
-      "date": "Jul 21, 2020",
-      "producer": "Haoliners Animation League",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "Demons",
-        "Magic",
-        "Fantasy",
-        "School"
       ],
       "category": "ONA"
     },
@@ -2015,19 +2015,6 @@
     },
     {
       "title": "",
-      "description": "Episode 0 of Get Up! Get Live! #GeraGera.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1064/108300.jpg",
-      "date": "Jul 3, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Fourth season of Wan Jie Xian Zong.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1169/109280.jpg",
       "date": "Sep 14, 2020",
@@ -2039,6 +2026,19 @@
         "Demons",
         "Romance",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Episode 0 of Get Up! Get Live! #GeraGera.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1064/108300.jpg",
+      "date": "Jul 3, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },

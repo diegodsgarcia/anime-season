@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-09-24",
+  "lastUpdate": "2020-09-25",
   "animes": [
     {
       "title": "",
@@ -490,7 +490,7 @@
     {
       "title": "",
       "description": "Ren Nanahoshi is a lonely college student who isn't good at communicating with others. He remembers the thrill of watching a live band perform when he was young, and spent most of his days searching for his own identity. One day, while singing karaoke alone, two boys named Yuuto and Wataru discover Ren's singing ability. The two agree: \"This is fate. Let's start a band!\" Ren promptly runs away, but fate indeed steps in, and their journey begins.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1367/104178.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1484/109428.jpg",
       "date": "Apr 11, 2020, 01:25 (JST)",
       "producer": "SANZIGEN",
       "eps": 13,
@@ -766,7 +766,7 @@
       "title": "",
       "description": "The anime will depict various vehicles as characters in the \"Mobile Land\" island. The protagonist Car-kun arrives at the island as a delivery worker. Through his deliveries, he gets to know the residents of Mobile Land, all while following traffic rules and having his deliveries stopped by the meddling Sabibi. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1612/106288.jpg",
-      "date": "Apr 2, 2020",
+      "date": "Apr 2, 2020, 17:20 (JST)",
       "producer": "CloverWorks",
       "eps": null,
       "genres": [
@@ -2294,19 +2294,6 @@
     },
     {
       "title": "",
-      "description": "Third season of Menghuan Shuyuan.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1799/108466.jpg",
-      "date": "Apr 6, 2020",
-      "producer": "Painting Dream",
-      "eps": 14,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Two neighboring childhood friends. An airheaded girl and the boy who takes care of her like a mother hen. And of course, there is his family background with a tiny, insignificant supernatural secret. Now that her parents have left the girl in their neighbor's care, will she ever discover her friend's secret?\n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1550/107929.jpg",
       "date": "May 30, 2020",
@@ -2316,6 +2303,19 @@
         "Comedy",
         "Supernatural",
         "Romance"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Third season of Menghuan Shuyuan.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1799/108466.jpg",
+      "date": "Apr 6, 2020",
+      "producer": "Painting Dream",
+      "eps": 14,
+      "genres": [
+        "Comedy",
+        "Fantasy"
       ],
       "category": "ONA"
     },

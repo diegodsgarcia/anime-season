@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-09-24",
+  "lastUpdate": "2020-09-25",
   "animes": [
     {
       "title": "",
@@ -698,9 +698,9 @@
       "genres": [
         "Action",
         "Comedy",
+        "Super Power",
         "School",
-        "Shounen",
-        "Super Power"
+        "Shounen"
       ],
       "category": "TV (Continuing)"
     },
