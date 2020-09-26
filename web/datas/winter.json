@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-09-25",
+  "lastUpdate": "2020-09-26",
   "animes": [
     {
       "title": "",
@@ -1517,6 +1517,18 @@
     },
     {
       "title": "",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1757/106368.jpg",
       "date": "Apr 3, 2019, 18:45 (JST)",
@@ -1527,18 +1539,6 @@
         "Parody",
         "Kids",
         "Samurai"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -2003,20 +2003,6 @@
     },
     {
       "title": "",
-      "description": "The fifth season of Ze Tian Ji.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
-      "date": "Mar 16, 2020",
-      "producer": "Shanghai Foch Film Culture Investment",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "The protagonist Qin Chen, who was originally the top genius in the military domain, was conspired by the people to fall into the death canyon in the forbidden land of the mainland. Qin Chen, who was inevitably dead, unexpectedly triggered the power of the mysterious ancient sword.\n\nThree hundred years later, in a remote part of the Tianwu mainland, a boy of the same name accidentally inherited Qin Chen’s will. As the beloved grandson of King Dingwu of the Daqi National Army, due to the birth father’s birth, the mother and son were treated coldly in Dingwu’s palace and lived together. In order to rewrite the myth of the strong man in hope of the sun, and to protect everything he loves, Qin Chen resolutely took up the responsibility of maintaining the five kingdoms of the world and set foot on the road of martial arts again.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
       "date": "Mar 8, 2020",
@@ -2027,6 +2013,20 @@
         "Historical",
         "Drama",
         "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The fifth season of Ze Tian Ji.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
+      "date": "Mar 16, 2020",
+      "producer": "Shanghai Foch Film Culture Investment",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Adventure",
         "Fantasy"
       ],
       "category": "ONA"
@@ -2072,19 +2072,6 @@
     },
     {
       "title": "",
-      "description": "The comedy series is set in Japan and follows Naoko Watanabe, a typical tween girl aside from the fact that she possesses strange and sometimes troubling powers. When her anger exceeds a maximum level, she turns into Gauko, the fire-breathing dinosaur girl.\n\n(Source: Variety)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1284/106412.jpg",
-      "date": "Mar 20, 2020",
-      "producer": "-",
-      "eps": 19,
-      "genres": [
-        "Comedy",
-        "Super Power"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Second season of Wan Jie She Zhu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1600/105797.jpg",
       "date": "Feb 1, 2020",
@@ -2093,6 +2080,19 @@
       "genres": [
         "Adventure",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The comedy series is set in Japan and follows Naoko Watanabe, a typical tween girl aside from the fact that she possesses strange and sometimes troubling powers. When her anger exceeds a maximum level, she turns into Gauko, the fire-breathing dinosaur girl.\n\n(Source: Variety)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1284/106412.jpg",
+      "date": "Mar 20, 2020",
+      "producer": "-",
+      "eps": 19,
+      "genres": [
+        "Comedy",
+        "Super Power"
       ],
       "category": "ONA"
     },

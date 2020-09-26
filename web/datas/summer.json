@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-25",
+  "lastUpdate": "2020-09-26",
   "animes": [
     {
       "title": "",
@@ -1939,22 +1939,6 @@
     },
     {
       "title": "",
-      "description": "Second season of Da Wang Bu Gaoxing.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/108228.jpg",
-      "date": "Jul 21, 2020",
-      "producer": "Haoliners Animation League",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "Demons",
-        "Magic",
-        "Fantasy",
-        "School"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Second half of Ling Long: Incarnation.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/108194.jpg",
       "date": "Jul 31, 2020",
@@ -1967,6 +1951,22 @@
         "Demons",
         "Drama",
         "Thriller"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Second season of Da Wang Bu Gaoxing.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/108228.jpg",
+      "date": "Jul 21, 2020",
+      "producer": "Haoliners Animation League",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Demons",
+        "Magic",
+        "Fantasy",
+        "School"
       ],
       "category": "ONA"
     },
@@ -2082,18 +2082,6 @@
     },
     {
       "title": "",
-      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
-      "date": "Jul 23, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Kotone is a fudanshi. One day while he was buying BL manga outside of a manga stand, a truck loses control and kills him with BL manga all over him. To his surprise, he wakes up in an Asian ancient-looking palace. A man named Nagi, that is half serpent, tells him that he is now his Miko. They need to have sex in order for Nagi to become a higher being and become a Dragon. Kotone knows everything about BL and he realizes that he will be the bottom. Kotone will use his knowledge of BL to not fall in love and not a bottom in this Isekai world.\n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1987/109164.jpg",
       "date": "Sep 10, 2020",
@@ -2102,6 +2090,18 @@
       "genres": [
         "Fantasy",
         "Shounen Ai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
+      "date": "Jul 23, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "ONA"
     },
