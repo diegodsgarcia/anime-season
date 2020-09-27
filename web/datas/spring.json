@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-09-26",
+  "lastUpdate": "2020-09-27",
   "animes": [
     {
       "title": "",
@@ -292,21 +292,6 @@
     },
     {
       "title": "",
-      "description": "Following the successful Sanyou campaign, the Qin army, including 1,000-Man Commander Li Xin, inches ever closer to fulfilling King Ying Zheng's dream of unifying China. With a major geographical foothold in the state of Wei now under its control, Qin sets its sights eastward toward the remaining warring states.\n\nMeanwhile Li Mu—an unparalleled strategist and the newly appointed prime minister of the state of Zhao—has taken advantage of Zhao's temporary truce with Qin to negotiate with the other states without interruption. Seemingly without warning, Ying Zheng receives news that armies from the states of Chu, Zhao, Wei, Han, Yan, and Qi have crossed into Qin territory. Realizing too late the purpose behind Li Mu's truce with Qin, Zheng quickly gathers his advisors to devise a plan to address the six-state coalition army on their doorstep. For the first time in history, the state of Qin faces complete destruction and must use every resource and strategy at their disposal to prevent themselves from being wiped off the map.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1247/109332.jpg",
-      "date": "Apr 6, 2020, 00:15 (JST)",
-      "producer": "Studio Signpost",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Historical",
-        "Military",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Hina Tsurugi and her family have just moved to a quaint seaside town. Hoping to savor the sight of the peaceful ocean, Hina stumbles upon a girl named Yuuki Kuroiwa—an upperclassman at her new school—who invites Hina to join her in fishing. Hina reels in an octopus, which falls onto her; being afraid of bugs and big creatures, she panics and begs Yuuki to remove it from her. Yuuki sees this as an opportunity to force Hina to join the school's Breakwater Club—a club where members gather, catch, and eat various types of marine life as their main activity.\n\nAlthough her attempts to refuse to join fail, Hina slowly begins to discover the hidden joy in fishing. Her view on the sport changes, now looking forward to all the delightful experiences she can take part in alongside her fellow club members.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106362.jpg",
       "date": "Apr 7, 2020, 22:00 (JST)",
@@ -316,6 +301,21 @@
         "Slice of Life",
         "Comedy",
         "School",
+        "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Following the successful Sanyou campaign, the Qin army, including 1,000-Man Commander Li Xin, inches ever closer to fulfilling King Ying Zheng's dream of unifying China. With a major geographical foothold in the state of Wei now under its control, Qin sets its sights eastward toward the remaining warring states.\n\nMeanwhile Li Mu—an unparalleled strategist and the newly appointed prime minister of the state of Zhao—has taken advantage of Zhao's temporary truce with Qin to negotiate with the other states without interruption. Seemingly without warning, Ying Zheng receives news that armies from the states of Chu, Zhao, Wei, Han, Yan, and Qi have crossed into Qin territory. Realizing too late the purpose behind Li Mu's truce with Qin, Zheng quickly gathers his advisors to devise a plan to address the six-state coalition army on their doorstep. For the first time in history, the state of Qin faces complete destruction and must use every resource and strategy at their disposal to prevent themselves from being wiped off the map.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1247/109332.jpg",
+      "date": "Apr 6, 2020, 00:15 (JST)",
+      "producer": "Studio Signpost",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Historical",
+        "Military",
         "Seinen"
       ],
       "category": "TV (New)"
@@ -619,7 +619,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1201/106347.jpg",
       "date": "Apr 16, 2020, 19:53 (JST)",
       "producer": "Studio Crocodile",
-      "eps": null,
+      "eps": 24,
       "genres": [
         "Adventure",
         "Comedy"
@@ -687,7 +687,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1621/105178.jpg",
       "date": "Apr 11, 2020, 17:30 (JST)",
       "producer": "Nippon Animation, Tatsunoko Production",
-      "eps": null,
+      "eps": 20,
       "genres": [
         "Comedy",
         "Fantasy"
@@ -1510,18 +1510,6 @@
     },
     {
       "title": "",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
       "date": "Oct 3, 2019, 18:10 (JST)",
@@ -1532,6 +1520,18 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -2256,19 +2256,6 @@
     },
     {
       "title": "",
-      "description": "A young man who has left his parents' home follows the path of a customs officer. And what lies ahead is...\n\n(Source: Anilist)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1785/108594.jpg",
-      "date": "May 20, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Music",
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Each episode follows a character from the game.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
       "date": "Jun 23, 2020",
@@ -2277,6 +2264,19 @@
       "genres": [
         "Action",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "A young man who has left his parents' home follows the path of a customs officer. And what lies ahead is...\n\n(Source: Anilist)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1785/108594.jpg",
+      "date": "May 20, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Music",
+        "Slice of Life"
       ],
       "category": "ONA"
     },

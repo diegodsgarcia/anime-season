@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-09-26",
+  "lastUpdate": "2020-09-27",
   "animes": [
     {
       "title": "",
@@ -118,7 +118,7 @@
     {
       "title": "",
       "description": "At the end of the last summer vacation of high school, Youta Narukami spends his days preparing for the university entrance exams, when a young girl named Hina suddenly appears, proclaiming herself as the \"god of omniscience.\" Youta is confused and does not believe Hina when she tells him \"The world will end in 30 days.\" After witnessing Hina's God-like predictive ability, Youta begins to believe her powers are real. Hina, who is innocent and childlike despite her supernatural powers, decides for some reason to stay at Youta's home. Thus begins the start of their lively summer before the end of the world.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1564/108648.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1396/109465.jpg",
       "date": "Oct 11, 2020, 00:00 (JST)",
       "producer": "P.A. Works",
       "eps": null,
@@ -192,29 +192,29 @@
     },
     {
       "title": "",
-      "description": "The second floor of the gym―this was where we always met. It was class time, but of course, there weren't any classes going on in a place like this.\n\nThis was where Shimamura and I became friends. We hung out here―talking about TV shows and cooking, playing some ping pong... This is where we fostered our friendship.\n\nKeeping my head propped against the wall, I let out a small sigh.\n\nWhat was this feeling? Yesterday, I'd dreamt of me and Shimamura kissing.\n\nNot that I'm like that. I'm sure Shimamura isn’t either. It’s not even something worth repeating myself about, but really, it’s not like that.\n\nIt's just that when she hears the word \"friend,\" I want her to think of me first. That's all.\n\n(Source: Baka-Tsuki)",
+      "description": "The second floor of the gym―this was where we always met. It was class time, but of course, there weren't any classes going on in a place like this.\n\nThis was where Shimamura and I became friends. We hung out here―talking about TV shows and cooking, playing some ping pong... This is where we fostered our friendship.\n\nKeeping my head propped against the wall, I let out a small sigh.\n\nWhat was this feeling? Yesterday, I'd dreamt of me and Shimamura kissing.\n\nNot that I'm like that. I'm sure Shimamura isn't either. It's not even something worth repeating myself about, but really, it's not like that.\n\nIt's just that when she hears the word \"friend,\" I want her to think of me first. That's all.\n\n(Source: Baka-Tsuki)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1649/109056.jpg",
       "date": "Oct 9, 2020, 01:58 (JST)",
       "producer": "Tezuka Productions",
       "eps": null,
       "genres": [
-        "Slice of Life",
         "Romance",
         "School",
-        "Shoujo Ai"
+        "Shoujo Ai",
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
     {
       "title": "",
-      "description": "Crime-ridden Ikebukuro is a haven for violent gangs, the Yakuza, and home to Makoto Majima. To protect his friends, this charismatic troubleshooter mediates disputes among the warring factions—even fixing problems the police can’t.\n\nBut when a rising tide of violence results in Makoto losing a loved one, can he ride out the storm, or will he drown in all the spilled blood that floods his streets?\n\n(Source: Funimation)",
+      "description": "Crime-ridden Ikebukuro is a haven for violent gangs, the Yakuza, and home to Makoto Majima. To protect his friends, this charismatic troubleshooter mediates disputes among the warring factions—even fixing problems the police can't.\n\nBut when a rising tide of violence results in Makoto losing a loved one, can he ride out the storm, or will he drown in all the spilled blood that floods his streets?\n\n(Source: Funimation)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1277/108376.jpg",
       "date": "Oct 6, 2020, 21:00 (JST)",
       "producer": "Doga Kobo",
       "eps": null,
       "genres": [
-        "Mystery",
         "Drama",
+        "Mystery",
         "Romance"
       ],
       "category": "TV (New)"
@@ -292,20 +292,6 @@
     },
     {
       "title": "",
-      "description": "Nijigasaki High School is located in Odaiba, Tokyo. The school is popular due to its free school style and diverse majors. The story centers on the members of school idol club in Nijigasaki, and their attempt to prevent the club from being abolished.\n\n(Source: Wikipedia)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1393/109203.jpg",
-      "date": "Oct 3, 2020, 22:30 (JST)",
-      "producer": "Sunrise",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Slice of Life",
-        "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has! \n\n(Source: Seven Seas Entertainment)\n\nEpisode 1 was streamed in advance on September 19, 2020 on Abema TV. Regular broadcasting began on October 7, 2020.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/108852.jpg",
       "date": "Sep 19, 2020, 21:00 (JST)",
@@ -315,6 +301,20 @@
         "Adventure",
         "Comedy",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Nijigasaki High School is located in Odaiba, Tokyo. The school is popular due to its free school style and diverse majors. The story centers on the members of school idol club in Nijigasaki, and their attempt to prevent the club from being abolished.\n\n(Source: Wikipedia)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1393/109203.jpg",
+      "date": "Oct 3, 2020, 22:30 (JST)",
+      "producer": "Sunrise",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Slice of Life",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -348,18 +348,18 @@
     },
     {
       "title": "",
-      "description": "Sshhh! Princess Syalis is trying to get a good night's sleep. Some shut-eye. Forty winks. Catch some Z's. Long ago in olden times when people and demons lived together in—well, disharmony, really—a demon king kidnaps a human princess and imprisons her in his castle. Bereft, the princess's subjects beat their chests in anguish…until a hero arises to spearhead Project Rescue Our Princess! While waiting for her knight in shining armor, what's an imprisoned princess to do...? Teddy-bear guards with bat wings are all very well, but her dungeon cell is bo-o-o-ring! So, she decides to wile away the long hours by sleeping. Now if only she could get comfortable…and didn't suffer from insomnia...\n\n(Source: VIZ Media)",
+      "description": "Sshhh! Princess Syalis is trying to get a good night's sleep. Some shut-eye. Forty winks. Catch some Z's. Long ago in olden times when people and demons lived together in—well, disharmony, really—a demon king kidnaps a human princess and imprisons her in his castle. Bereft, the princess's subjects beat their chests in anguish...until a hero arises to spearhead Project Rescue Our Princess! While waiting for her knight in shining armor, what's an imprisoned princess to do...? Teddy-bear guards with bat wings are all very well, but her dungeon cell is bo-o-o-ring! So, she decides to wile away the long hours by sleeping. Now if only she could get comfortable...and didn't suffer from insomnia...\n\n(Source: VIZ Media)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg",
       "date": "Oct 6, 2020, 02:00 (JST)",
       "producer": "Doga Kobo",
       "eps": null,
       "genres": [
-        "Slice of Life",
         "Comedy",
-        "Supernatural",
-        "Magic",
         "Fantasy",
-        "Shounen"
+        "Magic",
+        "Shounen",
+        "Slice of Life",
+        "Supernatural"
       ],
       "category": "TV (New)"
     },
@@ -435,6 +435,18 @@
     },
     {
       "title": "",
+      "description": "Year 2002. Japan's gymnastics world was once strong. Former Japanese representative Shoutarou Aragaki (29), who devoted his time to gymnastics, was unable to perform as expected. Even so, after training on a daily basis, his coach Amakusa recommends Shoutarou to retire. However, the fate of the Aragaki family will change significantly due to a certain \"encounter.\"\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1484/109365.jpg",
+      "date": "Oct 11, 2020, 01:30 (JST)",
+      "producer": "MAPPA",
+      "eps": null,
+      "genres": [
+        "Sports"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Fourth dormitory of the Rat Production (commonly known as Nezumi-sou)—the place where dropout idol girls live: the former child actor Sekino Roko, musician Nukui Hayu, and model Maehara Nina. Sakura Ino, who always dreamed of becoming an idol, moves in. At the same time, the decision is made to demolish the dormitory. Due to the project launched by the manager Kajino Hoho, \"Ochikobore Fruit Tart,\" occupants of the dormitory form a new idol group called \"Fruit Tart\" and start their activities in order to repay a one hundred million yen debt. \n\n(Source: MU, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/109145.jpg",
       "date": "Oct 12, 2020, 21:30 (JST)",
@@ -443,18 +455,6 @@
       "genres": [
         "Music",
         "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Year 2002. Japan's gymnastics world was once strong. Former Japanese representative Shoutarou Aragaki (29), who devoted his time to gymnastics, was unable to perform as expected. Even so, after training on a daily basis, his coach Amakusa recommends Shoutarou to retire. However, the fate of the Aragaki family will change significantly due to a certain \"encounter.\"\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1484/109365.jpg",
-      "date": "Oct 11, 2020, 01:30 (JST)",
-      "producer": "MAPPA",
-      "eps": null,
-      "genres": [
-        "Sports"
       ],
       "category": "TV (New)"
     },
@@ -488,6 +488,20 @@
     },
     {
       "title": "",
+      "description": "Set in Hinomoto, a fictional version of Japan, where for a long time railway travel served as the most important form of transport. Each locomotive was paired with a humanoid control module, so-called Raillord, that aided the train operator. However, many rail lines had been discontinued due to the rising popularity of \"aerocrafts,\" a safe and convenient aerial mode of transport. As such, their accompanying railroads also went into a deep sleep.\n\nSoutetsu had lost his entire family in a rail accident and was adopted into the Migita household, which runs a shochu brewery in the city of Ohitoyo. He returned to his hometown to save it from the potential water pollution that would occur if they accepted the proposal to build an aerocraft factory nearby. He woke up the Raillord Hachiroku by accident and became her owner. For different purposes, they agreed to help find her lost locomotive, with the help of his stepsister Hibiki, the town's mayor and local railway chief, Paulette and others.\n\n(Source: VNDB, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/108605.jpg",
+      "date": "Oct 3, 2020, 01:00 (JST)",
+      "producer": "Saetta",
+      "eps": 12,
+      "genres": [
+        "Harem",
+        "Sci-Fi",
+        "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "\"Director! Please help us bloom!\"\n\nIn Tokyo, there is a place called Velude Way. It is a district notorious for its performers and theatrical groups. Izumi Tachibana, who was previously a stage actress, arrives with a letter that reads, \"Full of debt! Zero customers! Only one actor!\" It describes the current state of the once-popular theater group Mankai Company. Her task is to rebuild the company to its former glory as the new owner and chief director.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1049/108197.jpg",
       "date": "Oct 13, 2020, 00:00 (JST)",
@@ -496,33 +510,6 @@
       "genres": [
         "Slice of Life",
         "Drama"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Set in Hinomoto, a fictional version of Japan, where for a long time railway travel served as the most important form of transport. Each locomotive was paired with a humanoid control module, so-called Raillord, that aided the train operator. However, many rail lines had been discontinued due to the rising popularity of 'aerocrafts,' a safe and convenient aerial mode of transport. As such, their accompanying railroads also went into a deep sleep.\n\nSoutetsu had lost his entire family in a rail accident and was adopted into the Migita household, which runs a shochu brewery in the city of Ohitoyo. He returned to his hometown to save it from the potential water pollution that would occur if they accepted the proposal to build an aerocraft factory nearby. He woke up the Raillord Hachiroku by accident and became her owner. For different purposes, they agreed to help find her lost locomotive, with the help of his stepsister Hibiki, the town’s mayor and local railway chief, Paulette and others. \n\n(Source: VNDB, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/108605.jpg",
-      "date": "Oct 3, 2020, 01:00 (JST)",
-      "producer": "Saetta",
-      "eps": 12,
-      "genres": [
-        "Sci-Fi",
-        "Harem",
-        "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Third season of Osomatsu-san.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1511/109127.jpg",
-      "date": "Oct 13, 2020, 01:30 (JST)",
-      "producer": "Studio Pierrot",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Parody"
       ],
       "category": "TV (New)"
     },
@@ -537,6 +524,19 @@
         "Action",
         "Magic",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Third season of Osomatsu-san.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1511/109127.jpg",
+      "date": "Oct 13, 2020, 01:30 (JST)",
+      "producer": "Studio Pierrot",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Parody"
       ],
       "category": "TV (New)"
     },
@@ -568,14 +568,14 @@
     },
     {
       "title": "",
-      "description": "Mio Sudou, a 30-year-old office lady has gone 5 years without a boyfriend and has forgotten all about love. Shuuji Mashima, a foreign-affiliated consultant has not had a girlfriend in 7 years and has lost almost all interest in women. Meeting at a matchmaking party, Mio is disgusted by Shuuji as he states, \"I am not into women.\" However, when Mio makes a provocative comment towards Shuuji, things take an unexpected direction.\n\n(Source: MAL News)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
+      "description": "Mio Sudou, a 30-year-old office lady has gone five years without a boyfriend and has forgotten all about love. Shuuji Mashima, a foreign-affiliated consultant has not had a girlfriend in seven years and has lost almost all interest in women. Meeting at a matchmaking party, Mio is disgusted by Shuuji as he states, \"I am not into women.\" However, when Mio makes a provocative comment toward Shuuji, things take an unexpected direction.\n\n(Source: MAL News)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1603/108938.jpg",
       "date": "Oct 5, 2020, 01:00 (JST)",
       "producer": "Ether Kitten",
       "eps": null,
       "genres": [
-        "Romance",
-        "Ecchi"
+        "Ecchi",
+        "Romance"
       ],
       "category": "TV (New)"
     },
@@ -599,8 +599,8 @@
       "producer": "Seven",
       "eps": 12,
       "genres": [
-        "Romance",
-        "Ecchi"
+        "Ecchi",
+        "Romance"
       ],
       "category": "TV (New)"
     },
@@ -883,6 +883,19 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1767/108306.jpg",
+      "date": "Oct 25, 2020",
+      "producer": "Project No.9",
+      "eps": 2,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "",
       "description": "Tanjirou Kamado and his friends from the Demon Slayer Corps accompany Kyoujurou Rengoku, the Flame Hashira, to investigate a mysterious series of disappearances occurring inside a train. Little do they know that Enmu, one of the Twelve Kizuki, is also on board and has prepared a trap for them.\n\n(Source: Wikipedia)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1704/106947.jpg",
       "date": "Oct 16, 2020",
@@ -1125,6 +1138,18 @@
     },
     {
       "title": "",
+      "description": "Makoto's grandfather was the principal of the great Onodera Academy, and when he passed away, he left Makoto and his school staff with one very important will - \"The one man who is able to seduce Makoto with his superb sexual techniques will be given the right to take over as Onodera Academy's new principal!\" Because of this ridiculous last request, Makoto is now every faculty member's target for sexual harassment! Desperate to protect his virginity, Makoto seeks help from his childhood friend (and the man who he has always loved), Kintaro.\n\n(Source: DMP)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1127/109187.jpg",
+      "date": "Dec 11, 2020",
+      "producer": "Seven",
+      "eps": 1,
+      "genres": [
+        "Yaoi"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
       "description": "The story begins when the protagonist Hikaru meets aliens Lala, Prunce, and Fuwa while watching the night sky. She learns of the “Star Palace,” where the 12 Star Princesses of the constellations kept the balance of the universe until they were attacked. Lala is searching for the legendary Precure warriors to help find the 12 scattered “Princess Star Color Pens” and revive the princesses. When Fuwa is captured by an enemy, Hikaru wishes to save Fuwa, and a Star Color Pendent and a Star Color Pen appear to allow her to transform into Cure Star. From then on she works to collect the pens and raise Fuwa, who is the key to reviving the princesses.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1313/105361.jpg",
       "date": "Oct 31, 2020",
@@ -1135,18 +1160,6 @@
         "Fantasy",
         "Magic",
         "Shoujo"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "",
-      "description": "Makoto's grandfather was the principal of the great Onodera Academy, and when he passed away, he left Makoto and his school staff with one very important will - \"The one man who is able to seduce Makoto with his superb sexual techniques will be given the right to take over as Onodera Academy's new principal!\" Because of this ridiculous last request, Makoto is now every faculty member's target for sexual harassment! Desperate to protect his virginity, Makoto seeks help from his childhood friend (and the man who he has always loved), Kintaro.\n\n(Source: DMP)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1127/109187.jpg",
-      "date": "Dec 11, 2020",
-      "producer": "Seven",
-      "eps": 1,
-      "genres": [
-        "Yaoi"
       ],
       "category": "Movie"
     },
