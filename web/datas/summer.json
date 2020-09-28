@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-27",
+  "lastUpdate": "2020-09-28",
   "animes": [
     {
       "title": "",
@@ -69,22 +69,6 @@
     },
     {
       "title": "",
-      "description": "Second part of Sword Art Online: Alicization - War of Underworld.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1438/105106.jpg",
-      "date": "Jul 12, 2020, 00:00 (JST)",
-      "producer": "A-1 Pictures",
-      "eps": 11,
-      "genres": [
-        "Action",
-        "Game",
-        "Adventure",
-        "Romance",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "After 2000 years have passed, the ruthless demon lord has just been reincarnated! But his aptitude at an academy for nurturing candidates for demon lords is, “inept”!?\n\nHaving the capability to destroy humans, elementals, and gods, after a long period of countless wars and strife, Arnos the demon lord became sick and tired of all that and longed for a peaceful world, so he decided to reincarnate to the future.\n\nHowever, what awaited him after his reincarnation is a world too used to peace that his descendants became too weak due to a huge weakening in magical powers. \n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1126/108573.jpg",
       "date": "Jul 4, 2020, 23:30 (JST)",
@@ -96,6 +80,22 @@
         "Magic",
         "Fantasy",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Second part of Sword Art Online: Alicization - War of Underworld.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1438/105106.jpg",
+      "date": "Jul 12, 2020, 00:00 (JST)",
+      "producer": "A-1 Pictures",
+      "eps": 11,
+      "genres": [
+        "Action",
+        "Game",
+        "Adventure",
+        "Romance",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -310,7 +310,7 @@
       "title": "",
       "description": "\"I want Akagashira-sensei to be my first!\"\n\nHaving a run in with the \"skirt bandit,\" Ookami almost has her skirt stolen. Her teacher, Akagashira, passes by and becomes her hero after stopping the theft. As thanks, Ookami invites Akagashira to her home, but she has another reason for bringing him over. \n\n(Source: WWWave Corporation, edited)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX an hour later.\n\nThis database entry reflects censored TV version of the anime.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1020/108606.jpg",
-      "date": "Sep 6, 2020, 01:00 (JST)",
+      "date": "Sep 7, 2020, 01:00 (JST)",
       "producer": "Peak Hunt",
       "eps": 3,
       "genres": [
@@ -1667,20 +1667,6 @@
     },
     {
       "title": "",
-      "description": "Distribution via Internet in China starts in August 2020. The Japanese broadcast on Tokyo MX started on October 2, 2020.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/108067.jpg",
-      "date": "Aug 5, 2020",
-      "producer": "Fanworks, Imagineer",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "School"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Based on a world-famous action RPG set in an open world, Dragon's Dogma from Capcom will be brought to life as a Netflix original anime series. The story follows a man's journey seeking revenge on a dragon who stole his heart. On his way, the man is brought back to life as an \"Arisen.\" An action adventure about a man challenged by demons who represent the seven deadly sins of humans. \n\n(Source: Netflix)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1519/109068.jpg",
       "date": "Sep 17, 2020",
@@ -1702,6 +1688,20 @@
       "eps": null,
       "genres": [
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Distribution via Internet in China starts in August 2020. The Japanese broadcast on Tokyo MX started on October 2, 2020.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/108067.jpg",
+      "date": "Aug 5, 2020",
+      "producer": "Fanworks, Imagineer",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "School"
       ],
       "category": "ONA"
     },
@@ -2107,6 +2107,18 @@
     },
     {
       "title": "",
+      "description": "The franchise has a theme of sumo, taiko drumming, and music. Characters in the franchise will have both a \"sumode\" and a \"kamizmode,\" and can transform between them. Characters in the franchise will battle to become a yokozuna.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/108815.jpg",
+      "date": "Sep 28, 2020",
+      "producer": "Bandai Namco Pictures",
+      "eps": null,
+      "genres": [
+        "Action"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Fourth season of Qing Chi Hong Xiaodou Ba!",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108288.jpg",
       "date": "Jul 10, 2020",
@@ -2115,18 +2127,6 @@
       "genres": [
         "Slice of Life",
         "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "The franchise has a theme of sumo, taiko drumming, and music. Characters in the franchise will have both a \"sumode\" and a \"kamizmode,\" and can transform between them. Characters in the franchise will battle to become a yokozuna.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/108815.jpg",
-      "date": "Sep 28, 2020",
-      "producer": "Bandai Namco Pictures",
-      "eps": null,
-      "genres": [
-        "Action"
       ],
       "category": "ONA"
     },
