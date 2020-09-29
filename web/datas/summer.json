@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-28",
+  "lastUpdate": "2020-09-29",
   "animes": [
     {
       "title": "",
@@ -1010,19 +1010,6 @@
     },
     {
       "title": "",
-      "description": "The series stars a cat with a lack of energy who speaks while lying down, yet has a thorough personality.  He thinks various things and has fun watching humans.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/91295.jpg",
-      "date": "May 6, 2017, 06:30 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "Third season of Kiratto Pri☆chan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/105552.jpg",
       "date": "Apr 5, 2020, 10:00 (JST)",
@@ -1034,6 +1021,19 @@
         "Comedy",
         "Magic",
         "Shoujo"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "The series stars a cat with a lack of energy who speaks while lying down, yet has a thorough personality.  He thinks various things and has fun watching humans.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/91295.jpg",
+      "date": "May 6, 2017, 06:30 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1939,22 +1939,6 @@
     },
     {
       "title": "",
-      "description": "Second season of Da Wang Bu Gaoxing.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/108228.jpg",
-      "date": "Jul 21, 2020",
-      "producer": "Haoliners Animation League",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "Demons",
-        "Magic",
-        "Fantasy",
-        "School"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Second half of Ling Long: Incarnation.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/108194.jpg",
       "date": "Jul 31, 2020",
@@ -1967,6 +1951,22 @@
         "Demons",
         "Drama",
         "Thriller"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Second season of Da Wang Bu Gaoxing.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/108228.jpg",
+      "date": "Jul 21, 2020",
+      "producer": "Haoliners Animation League",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Demons",
+        "Magic",
+        "Fantasy",
+        "School"
       ],
       "category": "ONA"
     },
@@ -2107,18 +2107,6 @@
     },
     {
       "title": "",
-      "description": "The franchise has a theme of sumo, taiko drumming, and music. Characters in the franchise will have both a \"sumode\" and a \"kamizmode,\" and can transform between them. Characters in the franchise will battle to become a yokozuna.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/108815.jpg",
-      "date": "Sep 28, 2020",
-      "producer": "Bandai Namco Pictures",
-      "eps": null,
-      "genres": [
-        "Action"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Fourth season of Qing Chi Hong Xiaodou Ba!",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108288.jpg",
       "date": "Jul 10, 2020",
@@ -2127,6 +2115,18 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The franchise has a theme of sumo, taiko drumming, and music. Characters in the franchise will have both a \"sumode\" and a \"kamizmode,\" and can transform between them. Characters in the franchise will battle to become a yokozuna.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/108815.jpg",
+      "date": "Sep 28, 2020",
+      "producer": "Bandai Namco Pictures",
+      "eps": null,
+      "genres": [
+        "Action"
       ],
       "category": "ONA"
     },

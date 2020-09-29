@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-09-28",
+  "lastUpdate": "2020-09-29",
   "animes": [
     {
       "title": "",
@@ -1754,19 +1754,6 @@
     },
     {
       "title": "",
-      "description": "A young warrior and her familiar search for the sacred place said to fulfill wishes. It's best not to anger the ancient guardians and spirits.\n\n(Source: Netflix)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1980/108459.jpg",
-      "date": "Apr 2, 2020",
-      "producer": "Production I.G",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Galar is a region where Pokemon battles have developed into a cultural sensation. Over the span of seven episodes, Pokemon: Twilight Wings will show in detail the dreams of Galar's residents, the realities they face, the challenges they must overcome and the conflicts they must resolve. In addition to these new stories, fans can expect to see a variety of Pokemon originally discovered in the Galar region appearing in the capsule series. \n\n(Source: Press Release)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1399/104762.jpg",
       "date": "Jan 15, 2020",
@@ -1777,6 +1764,19 @@
         "Adventure",
         "Comedy",
         "Kids",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "A young warrior and her familiar search for the sacred place said to fulfill wishes. It's best not to anger the ancient guardians and spirits.\n\n(Source: Netflix)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1980/108459.jpg",
+      "date": "Apr 2, 2020",
+      "producer": "Production I.G",
+      "eps": 1,
+      "genres": [
+        "Action",
         "Fantasy"
       ],
       "category": "ONA"
@@ -1926,19 +1926,6 @@
     },
     {
       "title": "",
-      "description": "Duan Jiaze inherited a private zoo and was forced to sign a contract after his graduation. And from that day onwards the first ever age classified Luya zoo appeared, those aged under 21 are prohibited to enter.\n\n(Source: Twitter User Xiyoumiyu)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1771/106652.jpg",
-      "date": "Apr 5, 2020",
-      "producer": "Haoliners Animation League",
-      "eps": 13,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Fifth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/108563.jpg",
       "date": "May 23, 2020",
@@ -1951,6 +1938,19 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Duan Jiaze inherited a private zoo and was forced to sign a contract after his graduation. And from that day onwards the first ever age classified Luya zoo appeared, those aged under 21 are prohibited to enter.\n\n(Source: Twitter User Xiyoumiyu)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1771/106652.jpg",
+      "date": "Apr 5, 2020",
+      "producer": "Haoliners Animation League",
+      "eps": 13,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },

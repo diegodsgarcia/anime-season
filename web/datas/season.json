@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-09-28",
+  "lastUpdate": "2020-09-29",
   "animes": [
     {
       "title": "",
@@ -158,21 +158,6 @@
     },
     {
       "title": "",
-      "description": "Third season of Golden Kamuy.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
-      "date": "Oct 5, 2020, 23:00 (JST)",
-      "producer": "Geno Studio",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Historical",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "The daughters of Sesshoumaru and Inuyasha set out on a journey transcending time!\n\nIn Feudal Japan, Half-Demon twins Towa and Setsuna are separated from each other during a forest fire. While desperately searching for her younger sister, Towa wanders into a mysterious tunnel that sends her into present-day Japan, where she is found and raised by Kagome Higurashi's brother, Souta, and his family.\n\nTen years later, the tunnel that connects the two eras has reopened, allowing Towa to be reunited with Setsuna, who is now a Demon Slayer working for Kohaku. But to Towa's shock, Setsuna appears to have lost all memories of her older sister.\n\nJoined by Moroha, the daughter of Inuyasha and Kagome, the three young women travel between the two eras on an adventure to regain their missing past. \n\n(Source: VIZ Media)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1783/108783.jpg",
       "date": "Oct 3, 2020, 17:30 (JST)",
@@ -187,6 +172,21 @@
         "Supernatural",
         "Magic",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Third season of Golden Kamuy.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
+      "date": "Oct 5, 2020, 23:00 (JST)",
+      "producer": "Geno Studio",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Historical",
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -207,20 +207,6 @@
     },
     {
       "title": "",
-      "description": "Crime-ridden Ikebukuro is a haven for violent gangs, the Yakuza, and home to Makoto Majima. To protect his friends, this charismatic troubleshooter mediates disputes among the warring factions—even fixing problems the police can't.\n\nBut when a rising tide of violence results in Makoto losing a loved one, can he ride out the storm, or will he drown in all the spilled blood that floods his streets?\n\n(Source: Funimation)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1277/108376.jpg",
-      "date": "Oct 6, 2020, 21:00 (JST)",
-      "producer": "Doga Kobo",
-      "eps": null,
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Romance"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "In the late 19th century, the British Empire has become a global power. Due to the strict class stratification, the average citizen has little chance of successfully rising up to the top, where the despicable nobility rules over them all.\n\nWilliam James Moriarty, the second son of the Moriarty household, is a young mathematics professor who has displayed great cunning and intellect since he was a child. Along with his brothers Albert and Louis, he lives the simple life of a noble. Outside of school, William is a well-known private consultant willing to solve the problems of anyone in need. However, his gentle demeanor belies his position as the head of a group prepared to wreak havoc in pursuit of its desire—a new world built from the ashes of the old.\n\nYuukoku no Moriarty puts a new spin on Arthur Conan Doyle's original work by putting the spotlight on its main antagonist and exploring how he came to be the first and only \"criminal consultant.\"\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
       "date": "Oct 11, 2020, 22:30 (JST)",
@@ -231,6 +217,20 @@
         "Historical",
         "Psychological",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Crime-ridden Ikebukuro is a haven for violent gangs, the Yakuza, and home to Makoto Majima. To protect his friends, this charismatic troubleshooter mediates disputes among the warring factions—even fixing problems the police can't.\n\nBut when a rising tide of violence results in Makoto losing a loved one, can he ride out the storm, or will he drown in all the spilled blood that floods his streets?\n\n(Source: Funimation)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1277/108376.jpg",
+      "date": "Oct 6, 2020, 21:00 (JST)",
+      "producer": "Doga Kobo",
+      "eps": null,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
       ],
       "category": "TV (New)"
     },
@@ -265,19 +265,6 @@
     },
     {
       "title": "",
-      "description": "Third season of Gochuumon wa Usagi Desu ka.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/109179.jpg",
-      "date": "Oct 10, 2020",
-      "producer": "Encourage Films",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "In the near future, humanity faces imminent destruction from mysterious creatures known as \"Huge.\" The world wages war against the Huge, and develops the anti-weapon \"CHARM\" (Counter Huge Arms) by combining science and magic. CHARM works more effectively when used by teenage girls, and those who use the weapons are revered as \"Lilies.\" The Lilies are trained at military academies called \"Gardens,\" which also serve as bases to protect and advise people. This is a story about girls who aim to become Lilies so they can protect Earth. \n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1024/108413.jpg",
       "date": "Oct 2, 2020, 01:28 (JST)",
@@ -287,6 +274,19 @@
         "Action",
         "Magic",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Third season of Gochuumon wa Usagi Desu ka.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/109179.jpg",
+      "date": "Oct 10, 2020",
+      "producer": "Encourage Films",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -805,6 +805,20 @@
     },
     {
       "title": "",
+      "description": "Second season of Shaonu Qianxian: Renxing Xiao Juchang.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1331/109369.jpg",
+      "date": "Oct 7, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Military",
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "The power of beginnings, the energy of the core stone; one may find it good, one may find it evil. During a normal investigation, Yue Juntian finds himself drawn into the battle between the 'beginnings' of Yun City; Jiang Xin arrives in Yun City to stop Li Zunyuan's plan to take over. The two influence each other - one solves the mystery of their birth, the other redeems themselves. Together, they oppose Li Zunyuan.\n\n(Source: V2Anime)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1262/107879.jpg",
       "date": "Oct 30, 2020",
@@ -815,20 +829,6 @@
         "Sci-Fi",
         "Adventure",
         "Magic"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Second season of Shaonu Qianxian: Renxing Xiao Juchang.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1331/109369.jpg",
-      "date": "Oct 7, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Military",
-        "Sci-Fi",
-        "Comedy"
       ],
       "category": "ONA"
     },
@@ -862,19 +862,6 @@
     },
     {
       "title": "",
-      "description": "One day in 20XX, the alien pig prince who planned to take a human body as his home arrived on Earth, but unexpectedly discovered that the human being he wanted to live in had not yet been born! The pig prince, who has nowhere to settle down, got to know Saiji and Rubi. The three pulled various funny pranks on humans, causing humans to have baldness, bad breath, headaches, emotional crisis and other problems.\n\n(Source: bilibili, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1737/109368.jpg",
-      "date": "Oct 5, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Second season of Wo Jia Da Shixiong Naozi You Keng.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1764/109493.jpg",
       "date": "Oct 29, 2020",
@@ -886,6 +873,19 @@
         "Comedy",
         "Historical",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "One day in 20XX, the alien pig prince who planned to take a human body as his home arrived on Earth, but unexpectedly discovered that the human being he wanted to live in had not yet been born! The pig prince, who has nowhere to settle down, got to know Saiji and Rubi. The three pulled various funny pranks on humans, causing humans to have baldness, bad breath, headaches, emotional crisis and other problems.\n\n(Source: bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1737/109368.jpg",
+      "date": "Oct 5, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -1065,6 +1065,19 @@
     },
     {
       "title": "",
+      "description": "Mio has feelings for her childhood friend Arata, but can't convey her feelings. One day, as they continue their delicate relationship, the two fight over something trivial. After letting tensions settle, Mio goes to make up with him in the pouring rain. While on her way, she gets into a traffic accident. When she regains consciousness, a mysterious and unfamiliar world appears before her eyes.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1415/108509.jpg",
+      "date": "Nov 27, 2020",
+      "producer": "Digital Network Animation",
+      "eps": 1,
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
       "description": "This anime adapts Key's visual novel Kud Wafter, which follows the romantic relationship between Riki Naoe and Kudryavka Noumi from the game Little Busters!",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/86916.jpg",
       "date": "Nov ??, 2020",
@@ -1074,19 +1087,6 @@
         "Comedy",
         "Romance",
         "School"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "",
-      "description": "Mio has feelings for her childhood friend Arata, but can't convey her feelings. One day, as they continue their delicate relationship, the two fight over something trivial. After letting tensions settle, Mio goes to make up with him in the pouring rain. While on her way, she gets into a traffic accident. When she regains consciousness, a mysterious and unfamiliar world appears before her eyes.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1415/108509.jpg",
-      "date": "Nov 27, 2020",
-      "producer": "Digital Network Animation",
-      "eps": 1,
-      "genres": [
-        "Drama",
-        "Fantasy"
       ],
       "category": "Movie"
     },
@@ -1118,6 +1118,19 @@
     },
     {
       "title": "",
+      "description": "Kunieda Kei is a popular, young TV announcer whose public and private personas are so different, they might be called extreme. On the outside, he is the picture of perfection, affectionately nicknamed \"The Prince,\" while on the inside he is constantly cursing at all of the incompetence around him. Of course, no one knows this secret of his.\n\nOne day, Kei meets animation artist Tsuzuki Ushio for a work assignment. While Kei is in \"inside mode,\" he later runs into Tsuzuki, who doesn't recognize him in his worn-out sweats and a facemask, but as compensation for injuring Tsuzuki's arm, Kei gets roped into helping out with his work.\n\n(Source: Novel Updates, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/108850.jpg",
+      "date": "Dec 11, 2020",
+      "producer": "Lesprit",
+      "eps": 1,
+      "genres": [
+        "Drama",
+        "Shounen Ai"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
       "description": "The new film's story is set in Okoya Forest, a Pokémon paradise protected by strict rules that forbid outsiders from setting foot inside. The film centers on Coco, a boy who was raised by Pokémon and also considers himself as one, treating the Mythical Pokémon Zarude as his father. Ash and Pikachu encounter Coco during an adventure. The film focuses on the theme of a \"human raised by Pokémon,\" instead of the previous films' focus of the \"bond between a human trainer and their Pokémon.\"\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1029/106237.jpg",
       "date": "Dec 25, 2020",
@@ -1130,19 +1143,6 @@
         "Comedy",
         "Kids",
         "Fantasy"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "",
-      "description": "Kunieda Kei is a popular, young TV announcer whose public and private personas are so different, they might be called extreme. On the outside, he is the picture of perfection, affectionately nicknamed \"The Prince,\" while on the inside he is constantly cursing at all of the incompetence around him. Of course, no one knows this secret of his.\n\nOne day, Kei meets animation artist Tsuzuki Ushio for a work assignment. While Kei is in \"inside mode,\" he later runs into Tsuzuki, who doesn't recognize him in his worn-out sweats and a facemask, but as compensation for injuring Tsuzuki's arm, Kei gets roped into helping out with his work.\n\n(Source: Novel Updates, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/108850.jpg",
-      "date": "Dec 11, 2020",
-      "producer": "Lesprit",
-      "eps": 1,
-      "genres": [
-        "Drama",
-        "Shounen Ai"
       ],
       "category": "Movie"
     },
