@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-09-29",
+  "lastUpdate": "2020-09-30",
   "animes": [
     {
       "title": "",
@@ -1010,6 +1010,19 @@
     },
     {
       "title": "",
+      "description": "The series stars a cat with a lack of energy who speaks while lying down, yet has a thorough personality.  He thinks various things and has fun watching humans.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/91295.jpg",
+      "date": "May 6, 2017, 06:30 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "Third season of Kiratto Pri☆chan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/105552.jpg",
       "date": "Apr 5, 2020, 10:00 (JST)",
@@ -1021,19 +1034,6 @@
         "Comedy",
         "Magic",
         "Shoujo"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "The series stars a cat with a lack of energy who speaks while lying down, yet has a thorough personality.  He thinks various things and has fun watching humans.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/91295.jpg",
-      "date": "May 6, 2017, 06:30 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1406,19 +1406,6 @@
     },
     {
       "title": "",
-      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
-      "date": "Dec 2, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Sports",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
       "date": "Jul 12, 2017",
@@ -1427,6 +1414,19 @@
       "genres": [
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
+      "date": "Dec 2, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Sports",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1939,23 +1939,6 @@
     },
     {
       "title": "",
-      "description": "Second half of Ling Long: Incarnation.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/108194.jpg",
-      "date": "Jul 31, 2020",
-      "producer": "YHKT Entertainment",
-      "eps": 6,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Horror",
-        "Demons",
-        "Drama",
-        "Thriller"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Second season of Da Wang Bu Gaoxing.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/108228.jpg",
       "date": "Jul 21, 2020",
@@ -1967,6 +1950,23 @@
         "Magic",
         "Fantasy",
         "School"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Second half of Ling Long: Incarnation.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1318/109517.jpg",
+      "date": "Jul 31, 2020",
+      "producer": "YHKT Entertainment",
+      "eps": 6,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Horror",
+        "Demons",
+        "Drama",
+        "Thriller"
       ],
       "category": "ONA"
     },
@@ -2107,6 +2107,18 @@
     },
     {
       "title": "",
+      "description": "The franchise has a theme of sumo, taiko drumming, and music. Characters in the franchise will have both a \"sumode\" and a \"kamizmode,\" and can transform between them. Characters in the franchise will battle to become a yokozuna.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/108815.jpg",
+      "date": "Sep 28, 2020",
+      "producer": "Bandai Namco Pictures",
+      "eps": null,
+      "genres": [
+        "Action"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Fourth season of Qing Chi Hong Xiaodou Ba!",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108288.jpg",
       "date": "Jul 10, 2020",
@@ -2115,18 +2127,6 @@
       "genres": [
         "Slice of Life",
         "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "The franchise has a theme of sumo, taiko drumming, and music. Characters in the franchise will have both a \"sumode\" and a \"kamizmode,\" and can transform between them. Characters in the franchise will battle to become a yokozuna.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/108815.jpg",
-      "date": "Sep 28, 2020",
-      "producer": "Bandai Namco Pictures",
-      "eps": null,
-      "genres": [
-        "Action"
       ],
       "category": "ONA"
     },
@@ -2382,10 +2382,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/106369.jpg",
-      "date": "Sep 25, 2020",
-      "producer": "-",
-      "eps": null,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1794/108580.jpg",
+      "date": "Sep 26, 2020",
+      "producer": "Seven",
+      "eps": 1,
       "genres": [
         "Hentai"
       ],
@@ -2394,10 +2394,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1794/108580.jpg",
-      "date": "Sep 29, 2020",
-      "producer": "Seven",
-      "eps": 1,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/106369.jpg",
+      "date": "Sep 25, 2020",
+      "producer": "-",
+      "eps": null,
       "genres": [
         "Hentai"
       ],
