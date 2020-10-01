@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-09-30",
+  "lastUpdate": "2020-10-01",
   "animes": [
     {
       "title": "",
@@ -983,19 +983,6 @@
     },
     {
       "title": "",
-      "description": "Rantarou, Shinbei and Kirimaru are ninja apprentices in the Ninja Gakuen, where first grade ones are called \"Nintamas\" (contraction of the words ninja+tama (egg)). They must learn everything a ninja must know, but as for our heroes, money, food or playing are more interesting. The series show the everyday adventures of our heroes, segmentated in a cartoon fashion, like 2 small episodes in a 30-min show. The cast also includes the teachers (Doi-sensei and crossdressing Yamada-sensei), nintama kunoichis, evil guys (Dokutake ninjas) and even family members of all the cast...\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/74028.jpg",
-      "date": "Apr 10, 1993, 18:10 (JST)",
-      "producer": "Ajia-Do",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "The main character is a mother named Sazae-san. She lives in a house with her husband, her kids and her parents. The show is the ultimate family program and tends to follow traditional themes. Think of this show as the Japanese equivalent to \"The Partridge Family\" and you'll get a good feel for this show's atmosphere. Don't expect to see things like violence, swearing, kung-fu action or magical girls. The plots are more like \"Today, Sazae-san goes to the new mall and gets lost\". Such \"boring\" plotlines and the simplistic art are often a turn-off to non-Japanese audiences, but most Japanese find the show incredibly good. As a result, it continues to be one of the top ratings grabbers on TV and is one of the few anime that is considered \"acceptable\" by adults. \n\n(Source: AniDB)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/25502.jpg",
       "date": "Oct 5, 1969, 18:30 (JST)",
@@ -1004,6 +991,19 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Rantarou, Shinbei and Kirimaru are ninja apprentices in the Ninja Gakuen, where first grade ones are called \"Nintamas\" (contraction of the words ninja+tama (egg)). They must learn everything a ninja must know, but as for our heroes, money, food or playing are more interesting. The series show the everyday adventures of our heroes, segmentated in a cartoon fashion, like 2 small episodes in a 30-min show. The cast also includes the teachers (Doi-sensei and crossdressing Yamada-sensei), nintama kunoichis, evil guys (Dokutake ninjas) and even family members of all the cast...\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/74028.jpg",
+      "date": "Apr 10, 1993, 18:10 (JST)",
+      "producer": "Ajia-Do",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -2302,6 +2302,19 @@
         "Sports",
         "Drama",
         "School",
+        "Shounen"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "",
+      "description": "The episode bundled with the 13th volume will be about the Sumo competition that held at Tempest for the first time, suggested by Rimuru.\n\nThe three-part OVA bundled with the 14th, 15th, and 16th manga volumes will be an original trilogy written by Fuse. Volume 16 will be released in Japan on November 27, 2020. \n\nRimuru has been teaching Shizue's students at Ingracia Kingdom's Freedom Academy. The time has come for the school's annual outdoor training event, where the students will test their combat skills in the field. Rimuru is determined to win the competition and take home the prize money, but he is challenged by Jeff, an honorary teacher who sees Rimuru as a rival. The competition is underway when suddenly an unexpected enemy appears!\n\n(Source: MAL News & ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1116/104615.jpg",
+      "date": "Jul 9, 2019",
+      "producer": "8bit",
+      "eps": 5,
+      "genres": [
+        "Fantasy",
         "Shounen"
       ],
       "category": "OVA"
