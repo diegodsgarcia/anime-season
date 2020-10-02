@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-10-01",
+  "lastUpdate": "2020-10-02",
   "animes": [
     {
       "title": "",
@@ -577,13 +577,13 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1745/105558.jpg",
       "date": "Apr 5, 2020, 09:00 (JST)",
       "producer": "Toei Animation",
-      "eps": null,
+      "eps": 66,
       "genres": [
         "Action",
         "Adventure",
         "Comedy",
-        "Kids",
-        "Fantasy"
+        "Fantasy",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -762,19 +762,6 @@
     },
     {
       "title": "",
-      "description": "The main character is a mother named Sazae-san. She lives in a house with her husband, her kids and her parents. The show is the ultimate family program and tends to follow traditional themes. Think of this show as the Japanese equivalent to \"The Partridge Family\" and you'll get a good feel for this show's atmosphere. Don't expect to see things like violence, swearing, kung-fu action or magical girls. The plots are more like \"Today, Sazae-san goes to the new mall and gets lost\". Such \"boring\" plotlines and the simplistic art are often a turn-off to non-Japanese audiences, but most Japanese find the show incredibly good. As a result, it continues to be one of the top ratings grabbers on TV and is one of the few anime that is considered \"acceptable\" by adults. \n\n(Source: AniDB)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/25502.jpg",
-      "date": "Oct 5, 1969, 18:30 (JST)",
-      "producer": "Eiken",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "Rantarou, Shinbei and Kirimaru are ninja apprentices in the Ninja Gakuen, where first grade ones are called \"Nintamas\" (contraction of the words ninja+tama (egg)). They must learn everything a ninja must know, but as for our heroes, money, food or playing are more interesting. The series show the everyday adventures of our heroes, segmentated in a cartoon fashion, like 2 small episodes in a 30-min show. The cast also includes the teachers (Doi-sensei and crossdressing Yamada-sensei), nintama kunoichis, evil guys (Dokutake ninjas) and even family members of all the cast...\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/6/74028.jpg",
       "date": "Apr 10, 1993, 18:10 (JST)",
@@ -783,6 +770,19 @@
       "genres": [
         "Comedy",
         "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "The main character is a mother named Sazae-san. She lives in a house with her husband, her kids and her parents. The show is the ultimate family program and tends to follow traditional themes. Think of this show as the Japanese equivalent to \"The Partridge Family\" and you'll get a good feel for this show's atmosphere. Don't expect to see things like violence, swearing, kung-fu action or magical girls. The plots are more like \"Today, Sazae-san goes to the new mall and gets lost\". Such \"boring\" plotlines and the simplistic art are often a turn-off to non-Japanese audiences, but most Japanese find the show incredibly good. As a result, it continues to be one of the top ratings grabbers on TV and is one of the few anime that is considered \"acceptable\" by adults. \n\n(Source: AniDB)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/25502.jpg",
+      "date": "Oct 5, 1969, 18:30 (JST)",
+      "producer": "Eiken",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1010,19 +1010,6 @@
     },
     {
       "title": "",
-      "description": "The series stars a cat with a lack of energy who speaks while lying down, yet has a thorough personality.  He thinks various things and has fun watching humans.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/91295.jpg",
-      "date": "May 6, 2017, 06:30 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "Third season of Kiratto Pri☆chan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/105552.jpg",
       "date": "Apr 5, 2020, 10:00 (JST)",
@@ -1034,6 +1021,19 @@
         "Comedy",
         "Magic",
         "Shoujo"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "The series stars a cat with a lack of energy who speaks while lying down, yet has a thorough personality.  He thinks various things and has fun watching humans.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/91295.jpg",
+      "date": "May 6, 2017, 06:30 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -2056,6 +2056,19 @@
     },
     {
       "title": "",
+      "description": "The story is set in the ungoverned Tokyo shortly after a mysterious power outage incident. Those who survived from the incident had to protect themselves from the mob.\n\nIt was \"Links,\" the young people with superpower, that saved the people in Tokyo. Among these young people, a performance group known as \"Crown\" gained tremendous support.\n\nThe protagonist Hallelujah and Akatsuki, who grew up in an orphanage with his best friend Akatsuki, is also awakened with the abilities of Links. They join Crown and play an active part to save people every day.\n\n(Source: Qoo News, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/109454.jpg",
+      "date": "Sep 28, 2020",
+      "producer": "Yokohama Animation Lab",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "After the end of the world, there is a mysterious museum left in the world. No one knows where the collection came from. Are these seemingly funny \"historical relics\" proof of the existence of real humans?\n\n(Source: bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1604/108296.jpg",
       "date": "Aug 25, 2020",
@@ -2132,19 +2145,6 @@
     },
     {
       "title": "",
-      "description": "Fourth season of Qing Chi Hong Xiaodou Ba!",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108288.jpg",
-      "date": "Jul 10, 2020",
-      "producer": "Making Animation",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1240/108694.jpg",
       "date": "Aug ??, 2020",
@@ -2154,6 +2154,19 @@
         "Action",
         "Music",
         "Sci-Fi"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Fourth season of Qing Chi Hong Xiaodou Ba!",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108288.jpg",
+      "date": "Jul 10, 2020",
+      "producer": "Making Animation",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2173,19 +2186,6 @@
     },
     {
       "title": "",
-      "description": "The \"Chibi Godzilla\" project was launched to celebrate the 65th anniversary of Toho's Godzilla franchise.\n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/108564.jpg",
-      "date": "Jul 15, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Each episode follows a character from the game.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
       "date": "Jun 23, 2020",
@@ -2199,14 +2199,14 @@
     },
     {
       "title": "",
-      "description": "A \"gourmet action movie\" that took place in the kitchen, the small alpaca who coveted a variety of delicacies decided to take two good friends to fight. In Sansan’s Kitchen of Pranks, sugar points! Calories! Carbon water... does not exist. A very attractive \"Zero Card\" Healing Fan will become delicious today!\n\n(Source: official Bilibili, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
-      "date": "Jul 30, 2020",
+      "description": "The \"Chibi Godzilla\" project was launched to celebrate the 65th anniversary of Toho's Godzilla franchise.\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/108564.jpg",
+      "date": "Jul 15, 2020",
       "producer": "-",
-      "eps": 10,
+      "eps": 12,
       "genres": [
         "Slice of Life",
-        "Comedy"
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2222,6 +2222,19 @@
         "Adventure",
         "Romance",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "A \"gourmet action movie\" that took place in the kitchen, the small alpaca who coveted a variety of delicacies decided to take two good friends to fight. In Sansan’s Kitchen of Pranks, sugar points! Calories! Carbon water... does not exist. A very attractive \"Zero Card\" Healing Fan will become delicious today!\n\n(Source: official Bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
+      "date": "Jul 30, 2020",
+      "producer": "-",
+      "eps": 10,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2295,19 +2308,6 @@
     },
     {
       "title": "",
-      "description": "The new OVA will feature the prequel short story \"Snow Globe,\" which debuted as part of a light novel volume that bundled with a limited-edition version of the original PC game.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1320/106943.jpg",
-      "date": "Sep ??, 2020",
-      "producer": "Okuruto Noboru",
-      "eps": 1,
-      "genres": [
-        "Sci-Fi",
-        "Drama"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1456/108076.jpg",
       "date": "Aug 26, 2020",
@@ -2362,10 +2362,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
-      "date": "Jul 31, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1065/107875.jpg",
+      "date": "Jul 22, 2020",
       "producer": "-",
-      "eps": 1,
+      "eps": 2,
       "genres": [
         "Hentai"
       ],
@@ -2374,10 +2374,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1065/107875.jpg",
-      "date": "Jul 22, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
+      "date": "Jul 31, 2020",
       "producer": "-",
-      "eps": 2,
+      "eps": 1,
       "genres": [
         "Hentai"
       ],
