@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-10-02",
+  "lastUpdate": "2020-10-03",
   "animes": [
     {
       "title": "",
@@ -37,23 +37,6 @@
     },
     {
       "title": "",
-      "description": "Shiba Miyuki's classmate Kitayama Shizuku is on her way to study abroad. For magicians, this is normally impossible, since allowing the genes of someone who can use magic outside their home country's borders is tantamount to giving up national secrets. But it's allowed to happen in one case-exchange programs. And that's how Angelina Kudou Shields has arrived in Japan from the USNA to study at First High.\n\nAround the time Lina arrived in Japan magicians began getting attacked by a mysterious being who leaves his victims drained of blood. Will Tatsuya be able to discover the identity of the \"Vampire\"?\n\n(Source: Mahouka Wikia, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1788/106668.jpg",
-      "date": "Oct 4, 2020, 00:30 (JST)",
-      "producer": "8bit",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Supernatural",
-        "Magic",
-        "Romance",
-        "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "In a world where demons feed on unsuspecting humans, fragments of the legendary and feared demon Ryoumen Sukuna were lost and scattered about. Should any demon consume Sukuna's body parts, the power they gain could destroy the world as we know it. Fortunately, there exists a mysterious school of Jujutsu Sorcerers who exist to protect the precarious existence of the living from the undead!\n\nYuuji Itadori is high schooler who spends his days visiting his bedridden grandfather. Although he looks like your average teenager, his immense physical strength is something to behold! Every sports club wants him to join, but Itadori would rather hang out with the school outcasts in the Occult Club. One day, the club manages to get their hands on a sealed cursed object, but little do they know the terror they'll unleash when they break the seal... \n\n(Source: VIZ Media, edited)\n\nEpisode 1 was streamed in advance on September 19, 2020. Regular broadcast began October 3, 2020.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
       "date": "Sep 19, 2020, 01:25 (JST)",
@@ -66,6 +49,23 @@
         "Supernatural",
         "School",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Shiba Miyuki's classmate Kitayama Shizuku is on her way to study abroad. For magicians, this is normally impossible, since allowing the genes of someone who can use magic outside their home country's borders is tantamount to giving up national secrets. But it's allowed to happen in one case-exchange programs. And that's how Angelina Kudou Shields has arrived in Japan from the USNA to study at First High.\n\nAround the time Lina arrived in Japan magicians began getting attacked by a mysterious being who leaves his victims drained of blood. Will Tatsuya be able to discover the identity of the \"Vampire\"?\n\n(Source: Mahouka Wikia, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1788/106668.jpg",
+      "date": "Oct 4, 2020, 00:30 (JST)",
+      "producer": "8bit",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Supernatural",
+        "Magic",
+        "Romance",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -130,6 +130,19 @@
     },
     {
       "title": "",
+      "description": "Once upon a time, there was a witch named Elaina, who set off on a journey across the world. Along the way, she would meet all kinds of people, from a country full of witches to a giant in love with his own muscles—but with each meeting, Elaina would become a small part of their story, and her own world would get a little bit bigger. \n\n(Source: Yen Press)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg",
+      "date": "Oct 2, 2020, 21:00 (JST)",
+      "producer": "C2C",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "A great war has raged for years between the scientifically advanced Empire and Nebulis, the realm of the witches―until the youngest knight ever to receive the title of the Empire's strongest meets the princess of the rival nation. Though they are sworn enemies, the knight is taken by her beauty and dignity, and the princess is moved by his strength and way of life. Will the fighting between them ever be allowed to end? \n\n(Source: Yen Press)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1100/109044.jpg",
       "date": "Oct 7, 2020, 23:30 (JST)",
@@ -145,14 +158,17 @@
     },
     {
       "title": "",
-      "description": "Once upon a time, there was a witch named Elaina, who set off on a journey across the world. Along the way, she would meet all kinds of people, from a country full of witches to a giant in love with his own muscles—but with each meeting, Elaina would become a small part of their story, and her own world would get a little bit bigger. \n\n(Source: Yen Press)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg",
-      "date": "Oct 2, 2020, 21:00 (JST)",
-      "producer": "C2C",
+      "description": "Yotsuya Yuusuke along with his classmates Shindou Iu and Hakozaki Kusue have been transported to a strange and unknown world inhabited by mythological creatures. As soon as they arrive, they meet somebody calling himself the Game Master who then grants them a time-limited quest. To aid them in this quest, he also bestows Shindou and Hakozaki with the roles of a Magician and a Warrior while Yotsuya is randomly granted the role of... a Farmer?!\n\nThis is how a hectic life of adventuring began for three students who now have no choice, but to complete random quests for several phases in the fantasy world if they want to stay alive and protect the real world from the demons and monsters they encounter. \n\n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1825/108800.jpg",
+      "date": "Oct 2, 2020, 22:00 (JST)",
+      "producer": "Maho Film",
       "eps": null,
       "genres": [
-        "Adventure",
-        "Fantasy"
+        "Action",
+        "Game",
+        "Drama",
+        "Fantasy",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -177,21 +193,6 @@
     },
     {
       "title": "",
-      "description": "Third season of Golden Kamuy.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
-      "date": "Oct 5, 2020, 23:00 (JST)",
-      "producer": "Geno Studio",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Historical",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "The second floor of the gym―this was where we always met. It was class time, but of course, there weren't any classes going on in a place like this.\n\nThis was where Shimamura and I became friends. We hung out here―talking about TV shows and cooking, playing some ping pong... This is where we fostered our friendship.\n\nKeeping my head propped against the wall, I let out a small sigh.\n\nWhat was this feeling? Yesterday, I'd dreamt of me and Shimamura kissing.\n\nNot that I'm like that. I'm sure Shimamura isn't either. It's not even something worth repeating myself about, but really, it's not like that.\n\nIt's just that when she hears the word \"friend,\" I want her to think of me first. That's all.\n\n(Source: Baka-Tsuki)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1649/109056.jpg",
       "date": "Oct 9, 2020, 01:58 (JST)",
@@ -202,6 +203,21 @@
         "School",
         "Shoujo Ai",
         "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Third season of Golden Kamuy.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
+      "date": "Oct 5, 2020, 23:00 (JST)",
+      "producer": "Geno Studio",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Historical",
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -231,22 +247,6 @@
         "Drama",
         "Mystery",
         "Romance"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Yotsuya Yuusuke along with his classmates Shindou Iu and Hakozaki Kusue have been transported to a strange and unknown world inhabited by mythological creatures. As soon as they arrive, they meet somebody calling himself the Game Master who then grants them a time-limited quest. To aid them in this quest, he also bestows Shindou and Hakozaki with the roles of a Magician and a Warrior while Yotsuya is randomly granted the role of... a Farmer?!\n\nThis is how a hectic life of adventuring began for three students who now have no choice, but to complete random quests for several phases in the fantasy world if they want to stay alive and protect the real world from the demons and monsters they encounter. \n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1825/108800.jpg",
-      "date": "Oct 2, 2020, 22:00 (JST)",
-      "producer": "Maho Film",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Game",
-        "Drama",
-        "Fantasy",
-        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -306,20 +306,6 @@
     },
     {
       "title": "",
-      "description": "Ryouma Takebayashi dies in his sleep at the age of 39 after leading a life of misfortune. Taking pity on him, three deities offer him the chance to reincarnate in a world of magic where he has only one mission: to be himself and enjoy life. They bestow upon Ryouma powerful physical abilities as well as the affinity to master all elements, and promise to watch over him. His new life as a young child officially starts when he is teleported into a forest.\n\nThree years go by. Having spent most of his time researching slimes, Ryouma has managed to evolve unique kinds of slimes, training an army of them while developing his magic abilities. Although the young boy is happy with his hermit existence and comfortable cave home, he somewhat misses the company of humans. But after healing an injured member of a passing group of travelers from a duke's household, Ryouma is persuaded to go with them and exit the forest accompanied by his menagerie of slimes. A whole new world awaits him, where his skills as a magic user and slime tamer continue to elicit surprise and admiration. \n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
-      "date": "Oct 4, 2020, 23:30 (JST)",
-      "producer": "Maho Film",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Slice of Life",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Konomi Kasahara, a junior high school girl, has made a big name after winning numerous competitive puzzle game tournaments. The story begins when she finds a sports climbing club in her high school. Using special skills other than that of puzzle games, Kasahara becomes fascinated with climbing.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1626/108849.jpg",
       "date": "Oct 4, 2020, 02:00 (JST)",
@@ -334,6 +320,20 @@
     },
     {
       "title": "",
+      "description": "Ryouma Takebayashi dies in his sleep at the age of 39 after leading a life of misfortune. Taking pity on him, three deities offer him the chance to reincarnate in a world of magic where he has only one mission: to be himself and enjoy life. They bestow upon Ryouma powerful physical abilities as well as the affinity to master all elements, and promise to watch over him. His new life as a young child officially starts when he is teleported into a forest.\n\nThree years go by. Having spent most of his time researching slimes, Ryouma has managed to evolve unique kinds of slimes, training an army of them while developing his magic abilities. Although the young boy is happy with his hermit existence and comfortable cave home, he somewhat misses the company of humans. But after healing an injured member of a passing group of travelers from a duke's household, Ryouma is persuaded to go with them and exit the forest accompanied by his menagerie of slimes. A whole new world awaits him, where his skills as a magic user and slime tamer continue to elicit surprise and admiration. \n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
+      "date": "Oct 4, 2020, 23:30 (JST)",
+      "producer": "Maho Film",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Slice of Life",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Nijigasaki High School is located in Odaiba, Tokyo. The school is popular due to its free school style and diverse majors. The story centers on the members of school idol club in Nijigasaki, and their attempt to prevent the club from being abolished.\n\n(Source: Wikipedia)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1393/109203.jpg",
       "date": "Oct 3, 2020, 22:30 (JST)",
@@ -343,6 +343,21 @@
         "Music",
         "Slice of Life",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "It is the year 20XX. Earth was assaulted by monsters that would come to be known as \"the Enemy of Humanity.\" In order to deal with this threat, special schools composed of teenagers with extraordinary abilities were formed. These people, who came to be known as \"the Talented,\" had abilities that could defy the rules of reality.\n\nAmong these people with supernatural powers was an outlier, an individual who was sent to one of these schools despite having no innate special abilities whatsoever. This is the story of our protagonist, who attempts to defeat the Enemies of Humanity through the use of intelligence and manipulation alone. \n\n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1662/109146.jpg",
+      "date": "Oct 4, 2020, 21:30 (JST)",
+      "producer": "Bridge",
+      "eps": null,
+      "genres": [
+        "Psychological",
+        "Supernatural",
+        "Thriller",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -365,16 +380,16 @@
     },
     {
       "title": "",
-      "description": "It is the year 20XX. Earth was assaulted by monsters that would come to be known as \"the Enemy of Humanity.\" In order to deal with this threat, special schools composed of teenagers with extraordinary abilities were formed. These people, who came to be known as \"the Talented,\" had abilities that could defy the rules of reality.\n\nAmong these people with supernatural powers was an outlier, an individual who was sent to one of these schools despite having no innate special abilities whatsoever. This is the story of our protagonist, who attempts to defeat the Enemies of Humanity through the use of intelligence and manipulation alone. \n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1662/109146.jpg",
-      "date": "Oct 4, 2020, 21:30 (JST)",
-      "producer": "Bridge",
+      "description": "It's been 100 years since King Kyle buried Ang Mundo. Now in a time of peace, the apprentice knight Kasel enjoys his life without worry. His fate begins to change, however, with news of demon appearances infesting the neighborhood. Guided by a wise man, Kasel finds friends he can rely on and sets off on his mission to seek a holy sword, capable of slaying his newfound enemies.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1885/109122.jpg",
+      "date": "Oct 3, 2020, 01:23 (JST)",
+      "producer": "Sunrise Beyond, OLM",
       "eps": null,
       "genres": [
-        "Psychological",
-        "Supernatural",
-        "Thriller",
-        "Shounen"
+        "Action",
+        "Adventure",
+        "Magic",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -402,21 +417,6 @@
         "Adventure",
         "Fantasy",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "It's been 100 years since King Kyle buried Ang Mundo. Now in a time of peace, the apprentice knight Kasel enjoys his life without worry. His fate begins to change, however, with news of demon appearances infesting the neighborhood. Guided by a wise man, Kasel finds friends he can rely on and sets off on his mission to seek a holy sword, capable of slaying his newfound enemies.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1885/109122.jpg",
-      "date": "Oct 3, 2020, 01:23 (JST)",
-      "producer": "Sunrise Beyond, OLM",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Magic",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -460,6 +460,20 @@
     },
     {
       "title": "",
+      "description": "Set in Hinomoto, a fictional version of Japan, where for a long time railway travel served as the most important form of transport. Each locomotive was paired with a humanoid control module, so-called Raillord, that aided the train operator. However, many rail lines had been discontinued due to the rising popularity of \"aerocrafts,\" a safe and convenient aerial mode of transport. As such, their accompanying railroads also went into a deep sleep.\n\nSoutetsu had lost his entire family in a rail accident and was adopted into the Migita household, which runs a shochu brewery in the city of Ohitoyo. He returned to his hometown to save it from the potential water pollution that would occur if they accepted the proposal to build an aerocraft factory nearby. He woke up the Raillord Hachiroku by accident and became her owner. For different purposes, they agreed to help find her lost locomotive, with the help of his stepsister Hibiki, the town's mayor and local railway chief, Paulette and others.\n\n(Source: VNDB, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/108605.jpg",
+      "date": "Oct 3, 2020, 01:00 (JST)",
+      "producer": "Saetta",
+      "eps": 12,
+      "genres": [
+        "Harem",
+        "Sci-Fi",
+        "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/108577.jpg",
       "date": "Oct 8, 2020, 01:05 (JST)",
@@ -482,20 +496,6 @@
       "producer": "Zero-G",
       "eps": null,
       "genres": [
-        "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Set in Hinomoto, a fictional version of Japan, where for a long time railway travel served as the most important form of transport. Each locomotive was paired with a humanoid control module, so-called Raillord, that aided the train operator. However, many rail lines had been discontinued due to the rising popularity of \"aerocrafts,\" a safe and convenient aerial mode of transport. As such, their accompanying railroads also went into a deep sleep.\n\nSoutetsu had lost his entire family in a rail accident and was adopted into the Migita household, which runs a shochu brewery in the city of Ohitoyo. He returned to his hometown to save it from the potential water pollution that would occur if they accepted the proposal to build an aerocraft factory nearby. He woke up the Raillord Hachiroku by accident and became her owner. For different purposes, they agreed to help find her lost locomotive, with the help of his stepsister Hibiki, the town's mayor and local railway chief, Paulette and others.\n\n(Source: VNDB, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/108605.jpg",
-      "date": "Oct 3, 2020, 01:00 (JST)",
-      "producer": "Saetta",
-      "eps": 12,
-      "genres": [
-        "Harem",
-        "Sci-Fi",
         "Slice of Life"
       ],
       "category": "TV (New)"
@@ -555,19 +555,6 @@
     },
     {
       "title": "",
-      "description": "The anime centers on four girls at the full bloom of their youth, working hard to achieve their dreams as they struggle valiantly. In Japanese entertainment, Maesetsu! refers to an introductory talk or explanation addressed to the audience before the broadcast of television programs, usually performed by assistant directors and particularly comedians in variety or comedy shows.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1555/109492.jpg",
-      "date": "Oct 4, 2020, 23:30 (JST)",
-      "producer": "AXsiZ, Studio Gokumi",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Mio Sudou, a 30-year-old office lady has gone five years without a boyfriend and has forgotten all about love. Shuuji Mashima, a foreign-affiliated consultant has not had a girlfriend in seven years and has lost almost all interest in women. Meeting at a matchmaking party, Mio is disgusted by Shuuji as he states, \"I am not into women.\" However, when Mio makes a provocative comment toward Shuuji, things take an unexpected direction.\n\n(Source: MAL News)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1603/108938.jpg",
       "date": "Oct 5, 2020, 01:00 (JST)",
@@ -576,6 +563,19 @@
       "genres": [
         "Ecchi",
         "Romance"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "The anime centers on four girls at the full bloom of their youth, working hard to achieve their dreams as they struggle valiantly. In Japanese entertainment, Maesetsu! refers to an introductory talk or explanation addressed to the audience before the broadcast of television programs, usually performed by assistant directors and particularly comedians in variety or comedy shows.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1555/109492.jpg",
+      "date": "Oct 4, 2020, 23:30 (JST)",
+      "producer": "AXsiZ, Studio Gokumi",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -607,19 +607,6 @@
     },
     {
       "title": "",
-      "description": "Anime adaptation of 12 romantic works from the Eternity Books manga label.\n\nThe complete edition with explicit scenes was distributed online via the official website for Eternity Books. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1899/108400.jpg",
-      "date": "Oct 5, 2020, 01:05 (JST)",
-      "producer": "Seven",
-      "eps": 12,
-      "genres": [
-        "Ecchi",
-        "Romance"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Matsumoto-san owns an innocent dog and an adorably devious cat. Laughing and crying ensue as they all live daily life together.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1332/109356.jpg",
       "date": "Oct 3, 2020, 01:50 (JST)",
@@ -628,6 +615,19 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Anime adaptation of 12 romantic works from the Eternity Books manga label.\n\nThe complete edition with explicit scenes was distributed online via the official website for Eternity Books. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1899/108400.jpg",
+      "date": "Oct 5, 2020, 01:05 (JST)",
+      "producer": "Seven",
+      "eps": 12,
+      "genres": [
+        "Ecchi",
+        "Romance"
       ],
       "category": "TV (New)"
     },
@@ -729,6 +729,20 @@
       "genres": [
         "Comedy",
         "Kids"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "The story centers on the Seven Gods of Fortune in Japanese mythology as they reside on Awaji Island in Hyogo. In the shorts' story, the Seven Gods of Fortune slack in their duties in heaven, and Susanoo-no-Mikoto banishes them to Awaji Island. In order to return to the heavenly realm, they must help bring happiness to humans and rebuild their virtue. The outcast gods reluctantly grant human wishes and accumulate points in their \"god phones\" to be able to return to heaven. They aim to perform good deeds on particularly auspicious days to maximize point accumulation. Despite their best efforts at accumulating virtue, sometimes the Seven Gods of Fortune end up bringing misfortune to humans. When they fail, they lose points, further prolonging their stay on Awaji Island.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1860/109576.jpg",
+      "date": "Oct 5, 2020, 07:30 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids",
+        "Supernatural"
       ],
       "category": "TV (New)"
     },
@@ -1002,19 +1016,6 @@
     },
     {
       "title": "",
-      "description": "Rantarou, Shinbei and Kirimaru are ninja apprentices in the Ninja Gakuen, where first grade ones are called \"Nintamas\" (contraction of the words ninja+tama (egg)). They must learn everything a ninja must know, but as for our heroes, money, food or playing are more interesting. The series show the everyday adventures of our heroes, segmentated in a cartoon fashion, like 2 small episodes in a 30-min show. The cast also includes the teachers (Doi-sensei and crossdressing Yamada-sensei), nintama kunoichis, evil guys (Dokutake ninjas) and even family members of all the cast...\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/74028.jpg",
-      "date": "Apr 10, 1993, 18:10 (JST)",
-      "producer": "Ajia-Do",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "The main character is a mother named Sazae-san. She lives in a house with her husband, her kids and her parents. The show is the ultimate family program and tends to follow traditional themes. Think of this show as the Japanese equivalent to \"The Partridge Family\" and you'll get a good feel for this show's atmosphere. Don't expect to see things like violence, swearing, kung-fu action or magical girls. The plots are more like \"Today, Sazae-san goes to the new mall and gets lost\". Such \"boring\" plotlines and the simplistic art are often a turn-off to non-Japanese audiences, but most Japanese find the show incredibly good. As a result, it continues to be one of the top ratings grabbers on TV and is one of the few anime that is considered \"acceptable\" by adults. \n\n(Source: AniDB)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/25502.jpg",
       "date": "Oct 5, 1969, 18:30 (JST)",
@@ -1038,6 +1039,19 @@
         "Magic",
         "Fantasy",
         "Shoujo"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Rantarou, Shinbei and Kirimaru are ninja apprentices in the Ninja Gakuen, where first grade ones are called \"Nintamas\" (contraction of the words ninja+tama (egg)). They must learn everything a ninja must know, but as for our heroes, money, food or playing are more interesting. The series show the everyday adventures of our heroes, segmentated in a cartoon fashion, like 2 small episodes in a 30-min show. The cast also includes the teachers (Doi-sensei and crossdressing Yamada-sensei), nintama kunoichis, evil guys (Dokutake ninjas) and even family members of all the cast...\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/74028.jpg",
+      "date": "Apr 10, 1993, 18:10 (JST)",
+      "producer": "Ajia-Do",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1592,6 +1606,18 @@
     },
     {
       "title": "",
+      "description": "Sequel of Taeko no Nichijou",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/108538.jpg",
+      "date": "Jul 1, 2020, 17:59 (JST)",
+      "producer": "DLE",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
       "date": "Jul 12, 2017",
@@ -1631,13 +1657,14 @@
     },
     {
       "title": "",
-      "description": "Sequel of Taeko no Nichijou",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/108538.jpg",
-      "date": "Jul 1, 2020, 17:59 (JST)",
-      "producer": "DLE",
-      "eps": null,
+      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
+      "date": "Apr 15, 2020",
+      "producer": "J.C.Staff",
+      "eps": 100,
       "genres": [
-        "Slice of Life"
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1651,19 +1678,6 @@
       "genres": [
         "Kids",
         "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
-      "date": "Apr 15, 2020",
-      "producer": "J.C.Staff",
-      "eps": 100,
-      "genres": [
-        "Comedy",
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1852,20 +1866,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1955/107042.jpg",
-      "date": "Dec ??, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Second season of Shaonu Qianxian: Renxing Xiao Juchang.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1331/109369.jpg",
       "date": "Oct 7, 2020",
@@ -1875,6 +1875,20 @@
         "Military",
         "Sci-Fi",
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1955/107042.jpg",
+      "date": "Dec ??, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2087,7 +2101,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1993/108967.jpg",
       "date": "Oct 2, 2020",
       "producer": "Studio Colorido",
-      "eps": null,
+      "eps": 3,
       "genres": [
         "Action",
         "Magic",
