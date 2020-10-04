@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-10-03",
+  "lastUpdate": "2020-10-04",
   "animes": [
     {
       "title": "",
@@ -535,7 +535,7 @@
     },
     {
       "title": "",
-      "description": "The Healin' Garden, a secret world where Earth is healed, is under attack by the Byougenzu, who are trying to infect the Earth.\nIn order to salve it, three medical trainees of Earth, the Healin' Animals, along with Latte, the little princess of the Healin' Garden who holds a special power, escaped in search of their partners!\nNow, three ordinary girls are able to transform into Pretty Cure with the power of the Healin' Animals and fight against the Byougenzu!\nThe Pretty Cure are in charge of defending Latte and the precious Earth and all her creatures by taking care of them.\n\n(Source: Asahi TV)",
+      "description": "Sickly but optimistic middle school student Nodoka Hanadera has just moved to Sukoyaka City, a place famous for its healthy atmosphere. She immediately befriends two of her classmates: the gentle but athletic Chiyu Sawaizumi, whose family runs a hot spring inn, and the bubbly and fashionable daughter of a vet, Hinata Hiramitsu.\n\nSoon after arriving, Nodoka finds an ill puppy in a forest, surrounded by three magical talking animals: Rabbirin, Penguitan, and Nyatoran. They tell her that the puppy, Princess Latte, can only be cured by defeating a nearby monster known as a \"Mega Byogen\" and purifying the land it has corrupted. Despite being powerless, Nodoka refuses to give up and let Latte suffer. \n\nMoved by her determination, Rabbirin forms a pact with Nodoka, allowing her to transform into a hero known as a Precure. Assuming the persona of  \"Cure Grace,\" the energized Nodoka fights off the Byogen and heals the earth, curing Latte.\n\nAs the Byogen and their leaders continue their attacks, Penguitan and Nyatoran also find their partners in Chiyu and Hinata, giving them the powers of \"Cure Fontaine\" and \"Cure Sparkle\" respectively. Now, it's up to the three Precure and their animal friends to stop the Byogen and protect the earth from their infections!\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1401/105084.jpg",
       "date": "Feb 2, 2020, 08:30 (JST)",
       "producer": "Toei Animation",
@@ -2127,20 +2127,6 @@
     },
     {
       "title": "",
-      "description": "Eagle City, Komerica -- WNA Research Laboratory Branch\n\nWNA researchers Burton, Berecca, and Ron continue their tireless efforts to develop \"Ninja-Gum\"; a mysterious substance that activates latent Ninja DNA in people descended from those legendary mercenary warriors (alt: those legendary mercenaries from days gone by). Today, all their hard work finally pays off. It is here - on their 2,503rd attempt - that they finally succeed in producing Ninja-Gum! Burton and Berecca can barely contain their excitement, and waste no time in trying the gum for themselves! But then...\n\n(Source: Official YouTube channel)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1444/106767.jpg",
-      "date": "Mar 30, 2020",
-      "producer": "Marza Animation Planet",
-      "eps": 1,
-      "genres": [
-        "Sci-Fi",
-        "Super Power",
-        "Martial Arts"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "For her sake, he would sacrifice anything...\n\nWhile volunteering in Nepal, a Korean medical student named Sangmin Han encounters the beautiful yet tragic Sita. Previously, she was a Kumari—a prepubescent girl worshipped as the vessel of a goddess. But she has since been forsaken as a Kumari, and cast out from society. Falling in love, they marry and move to Korea, but their blissful love is short-lived; Sita dies only a year later.\n\nLosing the woman dearest to him, Sangmin desperately begs the gods to bring Sita back. His prayers are answered but in exchange for a sacrifice, and he awakens in the streets of Nepal. However, something is amiss—his body has suddenly aged, and standing in front of him is a young Sita, with no memory of him.\n\nThrough two lovers bound together by a destiny running deeper than it first appears, For the Sake of Sita is the story of Sita growing up as a Kumari, and Sangmin's tribulations in trying to avert her terrible fate.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1180/107339.jpg",
       "date": "Feb 26, 2020",
@@ -2151,6 +2137,20 @@
         "Magic",
         "Romance",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Eagle City, Komerica -- WNA Research Laboratory Branch\n\nWNA researchers Burton, Berecca, and Ron continue their tireless efforts to develop \"Ninja-Gum\"; a mysterious substance that activates latent Ninja DNA in people descended from those legendary mercenary warriors (alt: those legendary mercenaries from days gone by). Today, all their hard work finally pays off. It is here - on their 2,503rd attempt - that they finally succeed in producing Ninja-Gum! Burton and Berecca can barely contain their excitement, and waste no time in trying the gum for themselves! But then...\n\n(Source: Official YouTube channel)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1444/106767.jpg",
+      "date": "Mar 30, 2020",
+      "producer": "Marza Animation Planet",
+      "eps": 1,
+      "genres": [
+        "Sci-Fi",
+        "Super Power",
+        "Martial Arts"
       ],
       "category": "ONA"
     },
