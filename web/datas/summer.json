@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-10-04",
+  "lastUpdate": "2020-10-05",
   "animes": [
     {
       "title": "",
@@ -705,21 +705,6 @@
     },
     {
       "title": "",
-      "description": "Doraemon (2005) is the most recent anime series based on Fujiko Fujio's manga of the same name. \n\nIt is the 2005 version of 1979 series, with certain changes in the animation and other things.\n\nDoraemon is a cat-like robot who appears in the present to steer Nobita/Noby, who is a dumb, naive and clumsy boy on the right path in order to secure his future. Nobita's love interest is Shizuka Minamoto/Sue, his frenemies are Takeshi Goda/Big G and Suneo/Sneech.\n\n(Source: Wikipedia)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/23935.jpg",
-      "date": "Apr 22, 2005, 19:00 (JST)",
-      "producer": "Shin-Ei Animation",
-      "eps": null,
-      "genres": [
-        "Sci-Fi",
-        "Comedy",
-        "Kids",
-        "Shounen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "Demetrios, a timid and kind vase painter in Ancient Greece who dislikes sports and competitions, is one day forced to come up with a game to compete with the mayor of the neighboring town in order to save his village. While hiding inside a large vase outside his workshop, lightning strikes the vase Demetrios is in, transferring him to Tokyo, Japan, during the 1964 Summer Olympics.\n \n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1543/107116.jpg",
       "date": "Apr 20, 2020, 21:54 (JST)",
@@ -731,6 +716,21 @@
         "Historical",
         "Sports",
         "Seinen"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Doraemon (2005) is the most recent anime series based on Fujiko Fujio's manga of the same name. \n\nIt is the 2005 version of 1979 series, with certain changes in the animation and other things.\n\nDoraemon is a cat-like robot who appears in the present to steer Nobita/Noby, who is a dumb, naive and clumsy boy on the right path in order to secure his future. Nobita's love interest is Shizuka Minamoto/Sue, his frenemies are Takeshi Goda/Big G and Suneo/Sneech.\n\n(Source: Wikipedia)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/23935.jpg",
+      "date": "Apr 22, 2005, 19:00 (JST)",
+      "producer": "Shin-Ei Animation",
+      "eps": null,
+      "genres": [
+        "Sci-Fi",
+        "Comedy",
+        "Kids",
+        "Shounen"
       ],
       "category": "TV (Continuing)"
     },
@@ -1406,6 +1406,19 @@
     },
     {
       "title": "",
+      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
+      "date": "Apr 6, 2020, 23:29 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
       "date": "Jul 12, 2017",
@@ -1426,19 +1439,6 @@
       "eps": null,
       "genres": [
         "Sports",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
-      "date": "Apr 6, 2020, 23:29 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
         "Kids"
       ],
       "category": "TV (Continuing)"
@@ -1986,6 +1986,19 @@
     },
     {
       "title": "",
+      "description": "The story is set in the ungoverned Tokyo shortly after a mysterious power outage incident. Those who survived from the incident had to protect themselves from the mob.\n\nIt was \"Links,\" the young people with superpower, that saved the people in Tokyo. Among these young people, a performance group known as \"Crown\" gained tremendous support.\n\nThe protagonist Hallelujah and Akatsuki, who grew up in an orphanage with his best friend Akatsuki, is also awakened with the abilities of Links. They join Crown and play an active part to save people every day.\n\n(Source: Qoo News, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/109454.jpg",
+      "date": "Sep 28, 2020",
+      "producer": "Yokohama Animation Lab",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1703/108504.jpg",
       "date": "Aug 28, 2020",
@@ -1997,19 +2010,6 @@
         "Sci-Fi",
         "Adventure",
         "Demons"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "The story is set in the ungoverned Tokyo shortly after a mysterious power outage incident. Those who survived from the incident had to protect themselves from the mob.\n\nIt was \"Links,\" the young people with superpower, that saved the people in Tokyo. Among these young people, a performance group known as \"Crown\" gained tremendous support.\n\nThe protagonist Hallelujah and Akatsuki, who grew up in an orphanage with his best friend Akatsuki, is also awakened with the abilities of Links. They join Crown and play an active part to save people every day.\n\n(Source: Qoo News, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/109454.jpg",
-      "date": "Sep 28, 2020",
-      "producer": "Yokohama Animation Lab",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2186,19 +2186,6 @@
     },
     {
       "title": "",
-      "description": "Each episode follows a character from the game.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
-      "date": "Jun 23, 2020",
-      "producer": "domerica, Studio Hibari",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Martial Arts"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "The \"Chibi Godzilla\" project was launched to celebrate the 65th anniversary of Toho's Godzilla franchise.\n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/108564.jpg",
       "date": "Jul 15, 2020",
@@ -2222,6 +2209,19 @@
         "Adventure",
         "Romance",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Each episode follows a character from the game.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
+      "date": "Jun 23, 2020",
+      "producer": "domerica, Studio Hibari",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Martial Arts"
       ],
       "category": "ONA"
     },

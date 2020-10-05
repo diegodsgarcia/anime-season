@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-10-04",
+  "lastUpdate": "2020-10-05",
   "animes": [
     {
       "title": "",
@@ -2033,24 +2033,6 @@
     },
     {
       "title": "",
-      "description": "Ye Chen, who is an ancient god, has fallen from the world of the gods to the world of the blue world. Here, hundreds of thousands of countries are standing, and the heroes are fighting for hegemony. Ye Chen has been in this pale blue world for hundreds of years and has established a huge force. In Baizhou Qianguo, the existence of Ye Chen has always been a legend. But the power from the world of the gods slowly extended to the blue world, and a cruel dragon battle is about to begin. In the capital city of Nanzhou, the first battle of Tianbei State, Hong Xu and the Wulong two men of Nanzhou Shuangyuemen Gate competed outside the Huashen Palace, but they were defeated in the hands of Su Xiaoxiao, the group leader of the Huashen Palace. The Northern Army emerged in the eastern part of southern South China and wanted to break South. The defender will disregard the safety of the people of Nanzhou and the hurricane, and intends to open the city gate to surrender\n\n(Source: Narul Donghua)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1886/107254.jpg",
-      "date": "Apr 13, 2020",
-      "producer": "-",
-      "eps": 56,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Historical",
-        "Magic",
-        "Romance",
-        "Martial Arts",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "In the year 2115 of the Fortress, Wei Qin, commander of the border troops, went to the Fortress to participate in the selection of the elected official and to secretly investigate those responsible for the Border incident.  At the same time, the No. 1 public enemy, Yuan Yi, launched a major revolt.  As the plot progresses, all parties are involved in this quest.  How is Wei Qin going to sort out the true from the false and bring the truth out?\n\n(Source: Exodus Chaos)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1915/106921.jpg",
       "date": "Apr 7, 2020",
@@ -2064,15 +2046,19 @@
     },
     {
       "title": "",
-      "description": "A second season of Puso Ni Comi, once again following the in-game avatars of the cast.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1466/106923.jpg",
-      "date": "Apr 7, 2020",
+      "description": "Ye Chen, who is an ancient god, has fallen from the world of the gods to the world of the blue world. Here, hundreds of thousands of countries are standing, and the heroes are fighting for hegemony. Ye Chen has been in this pale blue world for hundreds of years and has established a huge force. In Baizhou Qianguo, the existence of Ye Chen has always been a legend. But the power from the world of the gods slowly extended to the blue world, and a cruel dragon battle is about to begin. In the capital city of Nanzhou, the first battle of Tianbei State, Hong Xu and the Wulong two men of Nanzhou Shuangyuemen Gate competed outside the Huashen Palace, but they were defeated in the hands of Su Xiaoxiao, the group leader of the Huashen Palace. The Northern Army emerged in the eastern part of southern South China and wanted to break South. The defender will disregard the safety of the people of Nanzhou and the hurricane, and intends to open the city gate to surrender\n\n(Source: Narul Donghua)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1886/107254.jpg",
+      "date": "Apr 13, 2020",
       "producer": "-",
-      "eps": 26,
+      "eps": 56,
       "genres": [
-        "Game",
-        "Comedy",
-        "Parody"
+        "Action",
+        "Adventure",
+        "Historical",
+        "Magic",
+        "Romance",
+        "Martial Arts",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2093,6 +2079,20 @@
     },
     {
       "title": "",
+      "description": "A second season of Puso Ni Comi, once again following the in-game avatars of the cast.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1466/106923.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "-",
+      "eps": 26,
+      "genres": [
+        "Game",
+        "Comedy",
+        "Parody"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "The story takes place in 2047. We follow the story of several young girls, each coming from different dimensions. All of them want to join the new project group 48.\n\n(Source: Nautiljon)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1863/107433.jpg",
       "date": "Apr 8, 2020",
@@ -2101,6 +2101,19 @@
       "genres": [
         "Music",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1429/108132.jpg",
+      "date": "Jun 18, 2020",
+      "producer": "Soyep",
+      "eps": 40,
+      "genres": [
+        "Action",
+        "Martial Arts"
       ],
       "category": "ONA"
     },
@@ -2124,19 +2137,6 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1429/108132.jpg",
-      "date": "Jun 18, 2020",
-      "producer": "Soyep",
-      "eps": 40,
-      "genres": [
-        "Action",
-        "Martial Arts"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1457/108134.jpg",
       "date": "Jun 20, 2020",
       "producer": "Soyep",
@@ -2144,6 +2144,18 @@
       "genres": [
         "Action",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Mini anime series of Minegishi-san wa Ootsu-kun ni Tabesasetai.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1547/108310.jpg",
+      "date": "May 22, 2020",
+      "producer": "AQUA ARIS",
+      "eps": 4,
+      "genres": [
+        "Shounen Ai"
       ],
       "category": "ONA"
     },
@@ -2158,18 +2170,6 @@
         "Action",
         "Adventure",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Mini anime series of Minegishi-san wa Ootsu-kun ni Tabesasetai.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1547/108310.jpg",
-      "date": "May 22, 2020",
-      "producer": "AQUA ARIS",
-      "eps": 4,
-      "genres": [
-        "Shounen Ai"
       ],
       "category": "ONA"
     },
@@ -2229,18 +2229,6 @@
     },
     {
       "title": "",
-      "description": "Third season of Bai Gui Youeryuan.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/108463.jpg",
-      "date": "May 21, 2020",
-      "producer": "Painting Dream",
-      "eps": 12,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
       "date": "Apr 6, 2020",
@@ -2248,6 +2236,18 @@
       "eps": 3,
       "genres": [
         "Game"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Third season of Bai Gui Youeryuan.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/108463.jpg",
+      "date": "May 21, 2020",
+      "producer": "Painting Dream",
+      "eps": 12,
+      "genres": [
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2269,19 +2269,6 @@
     },
     {
       "title": "",
-      "description": "Each episode follows a character from the game.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
-      "date": "Jun 23, 2020",
-      "producer": "domerica, Studio Hibari",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Martial Arts"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "A young man who has left his parents' home follows the path of a customs officer. And what lies ahead is...\n\n(Source: Anilist)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1785/108594.jpg",
       "date": "May 20, 2020",
@@ -2290,6 +2277,19 @@
       "genres": [
         "Music",
         "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Each episode follows a character from the game.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
+      "date": "Jun 23, 2020",
+      "producer": "domerica, Studio Hibari",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Martial Arts"
       ],
       "category": "ONA"
     },
@@ -2390,10 +2390,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1824/105790.jpg",
-      "date": "Apr 24, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1372/105978.jpg",
+      "date": "May 29, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 2,
       "genres": [
         "Hentai"
       ],
@@ -2402,10 +2402,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1372/105978.jpg",
-      "date": "May 29, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1824/105790.jpg",
+      "date": "Apr 24, 2020",
       "producer": "-",
-      "eps": 2,
+      "eps": null,
       "genres": [
         "Hentai"
       ],
