@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-10-05",
+  "lastUpdate": "2020-10-06",
   "animes": [
     {
       "title": "",
@@ -191,6 +191,21 @@
     },
     {
       "title": "",
+      "description": "Second half of No Guns Life.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/106613.jpg",
+      "date": "Jul 10, 2020, 01:28 (JST)",
+      "producer": "Madhouse",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Drama",
+        "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "The story takes place in Japan. The year is 2030 and Earth has been completely overrun by a viral disease named \"Gibia\" that turns infected people into various different monsters, based on their age, sex, and race.\n\nA samurai and a ninja from the early Edo period travel together through time and arrive in a ruined Japan to aid a professor working on a cure for the virus.\n\nTogether, they fight countless Gibia monsters, outlaws, and other fierce foes on their journey to save mankind.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1769/107880.jpg",
       "date": "Jul 15, 2020, 22:00 (JST)",
@@ -202,21 +217,6 @@
         "Martial Arts",
         "Samurai",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Second half of No Guns Life.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/106613.jpg",
-      "date": "Jul 10, 2020, 01:28 (JST)",
-      "producer": "Madhouse",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Drama",
-        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -591,7 +591,7 @@
       "title": "",
       "description": "On a new day in the Kanto region, Satoshi gets invited by Professor Yukinari Ookido over to Professor Sakuragi's lab-opening ceremony in Vermillion City. During the ceremonial speech, Professor Sakuragi receives an alert of a possibly rare Pokémon appearing in Vermillion City's harbor, leading Satoshi and the other trainers to rush to the area in hopes of finding the mysterious Pokémon. At the harbor, they find Lugia—a Legendary Pokémon—engaged in combat with other trainers.\n\nNoticing the other trainers' tactics, Satoshi has his partner, Pikachu, strike Lugia with a Thunderbolt attack. Unfazed, Lugia flees, but not before Satoshi determinedly leaps onto its back. To Satoshi's surprise, he meets another boy, Gou, who leapt onto Lugia's back as well. The two ride on Lugia's back as it brings them along on a bizarre adventure across the seas. As it lets the two back on the ground, Satoshi and Gou bid their farewells to Lugia and return to Sakuragi Institute.\n\nImpressed by Gou's findings and Satoshi's insight taken during their encounter, Sakuragi requests for the duo to be his new research partners. And so the duo's journey begins, traveling across multiple regions to meet many new Pokémon—including ones that have the ability to Gigantamax!\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1689/105554.jpg",
-      "date": "Nov 17, 2019, 18:00 (JST)",
+      "date": "Nov 17, 2019, 18:55 (JST)",
       "producer": "OLM",
       "eps": null,
       "genres": [
@@ -1694,7 +1694,7 @@
     {
       "title": "",
       "description": "Distribution via Internet in China starts in August 2020. The Japanese broadcast on Tokyo MX started on October 2, 2020.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/108067.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1016/109604.jpg",
       "date": "Aug 5, 2020",
       "producer": "Fanworks, Imagineer",
       "eps": 12,
@@ -2172,6 +2172,19 @@
     },
     {
       "title": "",
+      "description": "Each episode follows a character from the game.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
+      "date": "Jun 23, 2020",
+      "producer": "domerica, Studio Hibari",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Due to the dissipation of the heavenly scripture powers, Dunhuang will face adversity. Wu Tianji is ordered to repair the heavenly scriptures. In order to perfect the heavenly scripture powers, you need to relive the story originally recorded in the heavenly scripture. Wu Tianji took the god beast, the angel pig, to the ancient city of Dunhuang. Just when she had no idea how to start repairing the scriptures, she accidentally strayed into the world of frescoes in the Mogao Caves...\n\n(Source: bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1611/108293.jpg",
       "date": "Jul 6, 2020",
@@ -2180,19 +2193,6 @@
       "genres": [
         "Comedy",
         "Historical",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "The \"Chibi Godzilla\" project was launched to celebrate the 65th anniversary of Toho's Godzilla franchise.\n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/108564.jpg",
-      "date": "Jul 15, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
         "Fantasy"
       ],
       "category": "ONA"
@@ -2214,14 +2214,14 @@
     },
     {
       "title": "",
-      "description": "Each episode follows a character from the game.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
-      "date": "Jun 23, 2020",
-      "producer": "domerica, Studio Hibari",
-      "eps": null,
+      "description": "The \"Chibi Godzilla\" project was launched to celebrate the 65th anniversary of Toho's Godzilla franchise.\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/108564.jpg",
+      "date": "Jul 15, 2020",
+      "producer": "-",
+      "eps": 12,
       "genres": [
-        "Action",
-        "Martial Arts"
+        "Slice of Life",
+        "Fantasy"
       ],
       "category": "ONA"
     },
