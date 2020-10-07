@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-10-06",
+  "lastUpdate": "2020-10-07",
   "animes": [
     {
       "title": "",
@@ -1986,7 +1986,7 @@
     },
     {
       "title": "",
-      "description": "The story is set in the ungoverned Tokyo shortly after a mysterious power outage incident. Those who survived from the incident had to protect themselves from the mob.\n\nIt was \"Links,\" the young people with superpower, that saved the people in Tokyo. Among these young people, a performance group known as \"Crown\" gained tremendous support.\n\nThe protagonist Hallelujah and Akatsuki, who grew up in an orphanage with his best friend Akatsuki, is also awakened with the abilities of Links. They join Crown and play an active part to save people every day.\n\n(Source: Qoo News, edited)",
+      "description": "The story is set in the ungoverned Tokyo shortly after a mysterious power outage incident. Those who survived from the incident had to protect themselves from the mob.\n\nIt was \"Links,\" the young people with superpower, that saved the people in Tokyo. Among these young people, a performance group known as \"Crown\" gained tremendous support.\n\nThe protagonist Hallelujah and and his best friend Akatsuki, who grew up with him together in an orphanage, are also awakened with the abilities of Links. They join Crown and play an active part to save people every day.\n\n(Source: Qoo News, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/109454.jpg",
       "date": "Sep 28, 2020",
       "producer": "Yokohama Animation Lab",
@@ -2172,19 +2172,6 @@
     },
     {
       "title": "",
-      "description": "Each episode follows a character from the game.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
-      "date": "Jun 23, 2020",
-      "producer": "domerica, Studio Hibari",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Martial Arts"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Due to the dissipation of the heavenly scripture powers, Dunhuang will face adversity. Wu Tianji is ordered to repair the heavenly scriptures. In order to perfect the heavenly scripture powers, you need to relive the story originally recorded in the heavenly scripture. Wu Tianji took the god beast, the angel pig, to the ancient city of Dunhuang. Just when she had no idea how to start repairing the scriptures, she accidentally strayed into the world of frescoes in the Mogao Caves...\n\n(Source: bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1611/108293.jpg",
       "date": "Jul 6, 2020",
@@ -2194,6 +2181,19 @@
         "Comedy",
         "Historical",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Each episode follows a character from the game.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
+      "date": "Jun 23, 2020",
+      "producer": "domerica, Studio Hibari",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Martial Arts"
       ],
       "category": "ONA"
     },
