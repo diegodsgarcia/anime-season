@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-10-07",
+  "lastUpdate": "2020-10-08",
   "animes": [
     {
       "title": "",
@@ -667,6 +667,19 @@
         "Fantasy",
         "Kids",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1708/109501.jpg",
+      "date": "Dec 25, 2019",
+      "producer": "Alpha Animation",
+      "eps": 10,
+      "genres": [
+        "Action",
+        "Kids"
       ],
       "category": "TV (New)"
     },
@@ -1339,6 +1352,21 @@
     },
     {
       "title": "",
+      "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
+      "date": "Apr 8, 2016, 18:20 (JST)",
+      "producer": "Pie in the sky",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Parody",
+        "Kids",
+        "School"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1952/99800.jpg",
       "date": "Apr 6, 2019, 10:00 (JST)",
@@ -1350,21 +1378,6 @@
         "Comedy",
         "Fantasy",
         "Shounen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
-      "date": "Apr 8, 2016, 18:20 (JST)",
-      "producer": "Pie in the sky",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Parody",
-        "Kids",
-        "School"
       ],
       "category": "TV (Continuing)"
     },
@@ -2127,20 +2140,6 @@
     },
     {
       "title": "",
-      "description": "Eagle City, Komerica -- WNA Research Laboratory Branch\n\nWNA researchers Burton, Berecca, and Ron continue their tireless efforts to develop \"Ninja-Gum\"; a mysterious substance that activates latent Ninja DNA in people descended from those legendary mercenary warriors (alt: those legendary mercenaries from days gone by). Today, all their hard work finally pays off. It is here - on their 2,503rd attempt - that they finally succeed in producing Ninja-Gum! Burton and Berecca can barely contain their excitement, and waste no time in trying the gum for themselves! But then...\n\n(Source: Official YouTube channel)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1444/106767.jpg",
-      "date": "Mar 30, 2020",
-      "producer": "Marza Animation Planet",
-      "eps": 1,
-      "genres": [
-        "Sci-Fi",
-        "Super Power",
-        "Martial Arts"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "For her sake, he would sacrifice anything...\n\nWhile volunteering in Nepal, a Korean medical student named Sangmin Han encounters the beautiful yet tragic Sita. Previously, she was a Kumari—a prepubescent girl worshipped as the vessel of a goddess. But she has since been forsaken as a Kumari, and cast out from society. Falling in love, they marry and move to Korea, but their blissful love is short-lived; Sita dies only a year later.\n\nLosing the woman dearest to him, Sangmin desperately begs the gods to bring Sita back. His prayers are answered but in exchange for a sacrifice, and he awakens in the streets of Nepal. However, something is amiss—his body has suddenly aged, and standing in front of him is a young Sita, with no memory of him.\n\nThrough two lovers bound together by a destiny running deeper than it first appears, For the Sake of Sita is the story of Sita growing up as a Kumari, and Sangmin's tribulations in trying to avert her terrible fate.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1180/107339.jpg",
       "date": "Feb 26, 2020",
@@ -2151,6 +2150,20 @@
         "Magic",
         "Romance",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Eagle City, Komerica -- WNA Research Laboratory Branch\n\nWNA researchers Burton, Berecca, and Ron continue their tireless efforts to develop \"Ninja-Gum\"; a mysterious substance that activates latent Ninja DNA in people descended from those legendary mercenary warriors (alt: those legendary mercenaries from days gone by). Today, all their hard work finally pays off. It is here - on their 2,503rd attempt - that they finally succeed in producing Ninja-Gum! Burton and Berecca can barely contain their excitement, and waste no time in trying the gum for themselves! But then...\n\n(Source: Official YouTube channel)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1444/106767.jpg",
+      "date": "Mar 30, 2020",
+      "producer": "Marza Animation Planet",
+      "eps": 1,
+      "genres": [
+        "Sci-Fi",
+        "Super Power",
+        "Martial Arts"
       ],
       "category": "ONA"
     },

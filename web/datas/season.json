@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-10-07",
+  "lastUpdate": "2020-10-08",
   "animes": [
     {
       "title": "",
@@ -9,7 +9,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1523/108380.jpg",
       "date": "Oct 3, 2020, 00:30 (JST)",
       "producer": "J.C.Staff",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Action",
         "Adventure",
@@ -41,14 +41,14 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
       "date": "Oct 3, 2020, 01:25 (JST)",
       "producer": "MAPPA",
-      "eps": null,
+      "eps": 24,
       "genres": [
         "Action",
-        "Demons",
         "Horror",
+        "Demons",
+        "Supernatural",
         "School",
-        "Shounen",
-        "Supernatural"
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -130,19 +130,6 @@
     },
     {
       "title": "",
-      "description": "At the end of the last summer vacation of high school, Youta Narukami spends his days preparing for the university entrance exams, when a young girl named Hina suddenly appears, proclaiming herself as the \"god of omniscience.\" Youta is confused and does not believe Hina when she tells him \"The world will end in 30 days.\" After witnessing Hina's God-like predictive ability, Youta begins to believe her powers are real. Hina, who is innocent and childlike despite her supernatural powers, decides for some reason to stay at Youta's home. Thus begins the start of their lively summer before the end of the world.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1396/109465.jpg",
-      "date": "Oct 11, 2020, 00:00 (JST)",
-      "producer": "P.A. Works",
-      "eps": null,
-      "genres": [
-        "Drama",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "A great war has raged for years between the scientifically advanced Empire and Nebulis, the realm of the witches―until the youngest knight ever to receive the title of the Empire's strongest meets the princess of the rival nation. Though they are sworn enemies, the knight is taken by her beauty and dignity, and the princess is moved by his strength and way of life. Will the fighting between them ever be allowed to end? \n\n(Source: Yen Press)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1100/109044.jpg",
       "date": "Oct 7, 2020, 23:30 (JST)",
@@ -152,6 +139,19 @@
         "Action",
         "Military",
         "Romance",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "At the end of the last summer vacation of high school, Youta Narukami spends his days preparing for the university entrance exams, when a young girl named Hina suddenly appears, proclaiming herself as the \"god of omniscience.\" Youta is confused and does not believe Hina when she tells him \"The world will end in 30 days.\" After witnessing Hina's God-like predictive ability, Youta begins to believe her powers are real. Hina, who is innocent and childlike despite her supernatural powers, decides for some reason to stay at Youta's home. Thus begins the start of their lively summer before the end of the world.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1396/109465.jpg",
+      "date": "Oct 11, 2020, 00:00 (JST)",
+      "producer": "P.A. Works",
+      "eps": null,
+      "genres": [
+        "Drama",
         "Fantasy"
       ],
       "category": "TV (New)"
@@ -212,7 +212,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
       "date": "Oct 5, 2020, 23:00 (JST)",
       "producer": "Geno Studio",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Action",
         "Adventure",
@@ -312,7 +312,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1626/108849.jpg",
       "date": "Oct 4, 2020, 02:00 (JST)",
       "producer": "Blade",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Comedy",
         "Sports",
@@ -326,22 +326,22 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg",
       "date": "Oct 6, 2020, 02:00 (JST)",
       "producer": "Doga Kobo",
-      "eps": null,
+      "eps": 12,
       "genres": [
-        "Comedy",
-        "Fantasy",
-        "Magic",
-        "Shounen",
         "Slice of Life",
-        "Supernatural"
+        "Comedy",
+        "Supernatural",
+        "Magic",
+        "Fantasy",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
     {
       "title": "",
-      "description": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has! \n\n(Source: Seven Seas Entertainment)\n\nEpisode 1 was streamed in advance on September 19, 2020 on Abema TV. Regular broadcasting began on October 7, 2020.",
+      "description": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has! \n\n(Source: Seven Seas Entertainment)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/108852.jpg",
-      "date": "Sep 19, 2020, 21:00 (JST)",
+      "date": "Oct 7, 2020, 21:00 (JST)",
       "producer": "EMT Squared",
       "eps": null,
       "genres": [
@@ -371,7 +371,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1885/109122.jpg",
       "date": "Oct 3, 2020, 01:23 (JST)",
       "producer": "Sunrise Beyond, OLM",
-      "eps": null,
+      "eps": 26,
       "genres": [
         "Action",
         "Adventure",
@@ -414,7 +414,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1576/109007.jpg",
       "date": "Oct 3, 2020, 23:30 (JST)",
       "producer": "A-1 Pictures",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Action",
         "Military"
@@ -1415,6 +1415,18 @@
     },
     {
       "title": "",
+      "description": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
+      "date": "Jan 6, 2020, 00:30 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
       "date": "Apr 8, 2016, 18:20 (JST)",
@@ -1425,18 +1437,6 @@
         "Parody",
         "Kids",
         "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
-      "date": "Jan 6, 2020, 00:30 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1606,6 +1606,18 @@
     },
     {
       "title": "",
+      "description": "Sequel of Taeko no Nichijou",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/108538.jpg",
+      "date": "Jul 1, 2020, 17:59 (JST)",
+      "producer": "DLE",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
       "date": "Apr 6, 2020, 23:29 (JST)",
@@ -1614,18 +1626,6 @@
       "genres": [
         "Slice of Life",
         "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "Sequel of Taeko no Nichijou",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/108538.jpg",
-      "date": "Jul 1, 2020, 17:59 (JST)",
-      "producer": "DLE",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "TV (Continuing)"
     },
@@ -2018,18 +2018,6 @@
     },
     {
       "title": "",
-      "description": "A slapstick comedy in which characters perform ad-lib plays.\n\n(Source: Official Twitter)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/109489.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "The encounter between Asashi and Ryouya.",
       "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
       "date": "Oct 11, 2020",
@@ -2037,6 +2025,18 @@
       "eps": 1,
       "genres": [
         "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "A slapstick comedy in which characters perform ad-lib plays.\n\n(Source: Official Twitter)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/109489.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2435,6 +2435,21 @@
     },
     {
       "title": "",
+      "description": "Second movie of Stand By Me Doraemon.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/109657.jpg",
+      "date": "Nov 20, 2020",
+      "producer": "Shin-Ei Animation, Shirogumi",
+      "eps": 1,
+      "genres": [
+        "Sci-Fi",
+        "Comedy",
+        "Kids",
+        "Seinen"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
       "description": "Episodes 7-9 of the Soukyuu no Fafner: Dead Aggressor - The Beyond series.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1023/107083.jpg",
       "date": "Nov 13, 2020",
@@ -2463,6 +2478,18 @@
     },
     {
       "title": "",
+      "description": "The story is based on the original story of Mulan, but is adapted more realistically. Mulan has dreamed of becoming a heroine since she was a child, but she suffers repeated blows after joining the army for her father. \n\n(Source: V2Anime, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1654/109228.jpg",
+      "date": "Oct 1, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
       "description": "The story begins when the protagonist Hikaru meets aliens Lala, Prunce, and Fuwa while watching the night sky. She learns of the “Star Palace,” where the 12 Star Princesses of the constellations kept the balance of the universe until they were attacked. Lala is searching for the legendary Precure warriors to help find the 12 scattered “Princess Star Color Pens” and revive the princesses. When Fuwa is captured by an enemy, Hikaru wishes to save Fuwa, and a Star Color Pendent and a Star Color Pen appear to allow her to transform into Cure Star. From then on she works to collect the pens and raise Fuwa, who is the key to reviving the princesses.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1313/105361.jpg",
       "date": "Oct 31, 2020",
@@ -2473,18 +2500,6 @@
         "Fantasy",
         "Magic",
         "Shoujo"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "",
-      "description": "The story is based on the original story of Mulan, but is adapted more realistically. Mulan has dreamed of becoming a heroine since she was a child, but she suffers repeated blows after joining the army for her father. \n\n(Source: V2Anime, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1654/109228.jpg",
-      "date": "Oct 1, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Action"
       ],
       "category": "Movie"
     },
