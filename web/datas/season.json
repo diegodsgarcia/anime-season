@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-10-08",
+  "lastUpdate": "2020-10-09",
   "animes": [
     {
       "title": "",
@@ -75,7 +75,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1287/109031.jpg",
       "date": "Oct 1, 2020, 23:30 (JST)",
       "producer": "Passione",
-      "eps": null,
+      "eps": 24,
       "genres": [
         "Mystery",
         "Dementia",
@@ -102,19 +102,6 @@
     },
     {
       "title": "",
-      "description": "Once upon a time, there was a witch named Elaina, who set off on a journey across the world. Along the way, she would meet all kinds of people, from a country full of witches to a giant in love with his own muscles—but with each meeting, Elaina would become a small part of their story, and her own world would get a little bit bigger. \n\n(Source: Yen Press)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg",
-      "date": "Oct 2, 2020, 21:00 (JST)",
-      "producer": "C2C",
-      "eps": 12,
-      "genres": [
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Raizel awakens from his 820-year slumber. He holds the special title of Noblesse which is a pure-blooded Noble and protector of all other Nobles. In an attempt to protect Raizel, his servant Frankenstein enrolls him at Ye-Ran High School, where Raizel learn the simple and quotidian routines of the human world through his classmates.\n \nHowever, the Union—a mighty secret organization with strings around the globe and a goal to rule the world—dispatches modified humans and gradually encroaches on Raizel's life progressively—which causes him to wield his mighty power to protect those around him.\n \nAfter 820 years of intrigue, the secrets behind his slumber are finally revealed and Raizel's absolute protection as the Noblesse begins.\n\n(Source: Crunchyroll, edited)\n\nThe anime was streamed in advance on October 5, 2020 on Crunchyroll. Regular broadcasting in Japan begun on October 8, 2020.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1798/109141.jpg",
       "date": "Oct 8, 2020, 00:00 (JST)",
@@ -125,6 +112,19 @@
         "School",
         "Supernatural",
         "Vampire"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Once upon a time, there was a witch named Elaina, who set off on a journey across the world. Along the way, she would meet all kinds of people, from a country full of witches to a giant in love with his own muscles—but with each meeting, Elaina would become a small part of their story, and her own world would get a little bit bigger. \n\n(Source: Yen Press)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg",
+      "date": "Oct 2, 2020, 21:00 (JST)",
+      "producer": "C2C",
+      "eps": 12,
+      "genres": [
+        "Adventure",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -208,6 +208,21 @@
     },
     {
       "title": "",
+      "description": "The second floor of the gym―this was where we always met. It was class time, but of course, there weren't any classes going on in a place like this.\n\nThis was where Shimamura and I became friends. We hung out here―talking about TV shows and cooking, playing some ping pong... This is where we fostered our friendship.\n\nKeeping my head propped against the wall, I let out a small sigh.\n\nWhat was this feeling? Yesterday, I'd dreamt of me and Shimamura kissing.\n\nNot that I'm like that. I'm sure Shimamura isn't either. It's not even something worth repeating myself about, but really, it's not like that.\n\nIt's just that when she hears the word \"friend,\" I want her to think of me first. That's all.\n\n(Source: Baka-Tsuki)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1649/109056.jpg",
+      "date": "Oct 9, 2020, 01:58 (JST)",
+      "producer": "Tezuka Productions",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Romance",
+        "School",
+        "Shoujo Ai"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Third season of Golden Kamuy.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
       "date": "Oct 5, 2020, 23:00 (JST)",
@@ -223,21 +238,6 @@
     },
     {
       "title": "",
-      "description": "The second floor of the gym―this was where we always met. It was class time, but of course, there weren't any classes going on in a place like this.\n\nThis was where Shimamura and I became friends. We hung out here―talking about TV shows and cooking, playing some ping pong... This is where we fostered our friendship.\n\nKeeping my head propped against the wall, I let out a small sigh.\n\nWhat was this feeling? Yesterday, I'd dreamt of me and Shimamura kissing.\n\nNot that I'm like that. I'm sure Shimamura isn't either. It's not even something worth repeating myself about, but really, it's not like that.\n\nIt's just that when she hears the word \"friend,\" I want her to think of me first. That's all.\n\n(Source: Baka-Tsuki)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1649/109056.jpg",
-      "date": "Oct 9, 2020, 01:58 (JST)",
-      "producer": "Tezuka Productions",
-      "eps": null,
-      "genres": [
-        "Romance",
-        "School",
-        "Shoujo Ai",
-        "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Crime-ridden Ikebukuro is a haven for violent gangs, the Yakuza, and home to Makoto Majima. To protect his friends, this charismatic troubleshooter mediates disputes among the warring factions—even fixing problems the police can't.\n\nBut when a rising tide of violence results in Makoto losing a loved one, can he ride out the storm, or will he drown in all the spilled blood that floods his streets?\n\n(Source: Funimation)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1277/108376.jpg",
       "date": "Oct 6, 2020, 21:00 (JST)",
@@ -247,6 +247,19 @@
         "Mystery",
         "Drama",
         "Romance"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Long ago, a war broke out in Japan that pitted Kantou against Kansai and divided the country. Kansai became dependent on Kantou, but slowly the police and government began losing control of Kansai to criminals known as Akudama.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
+      "date": "Oct 8, 2020, 21:30 (JST)",
+      "producer": "Studio Pierrot",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
@@ -267,14 +280,15 @@
     },
     {
       "title": "",
-      "description": "Long ago, a war broke out in Japan that pitted Kantou against Kansai and divided the country. Kansai became dependent on Kantou, but slowly the police and government began losing control of Kansai to criminals known as Akudama.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
-      "date": "Oct 8, 2020, 21:30 (JST)",
-      "producer": "Studio Pierrot",
+      "description": "Ryouma Takebayashi dies in his sleep at the age of 39 after leading a life of misfortune. Taking pity on him, three deities offer him the chance to reincarnate in a world of magic where he has only one mission: to be himself and enjoy life. They bestow upon Ryouma powerful physical abilities as well as the affinity to master all elements, and promise to watch over him. His new life as a young child officially starts when he is teleported into a forest.\n\nThree years go by. Having spent most of his time researching slimes, Ryouma has managed to evolve unique kinds of slimes, training an army of them while developing his magic abilities. Although the young boy is happy with his hermit existence and comfortable cave home, he somewhat misses the company of humans. But after healing an injured member of a passing group of travelers from a duke's household, Ryouma is persuaded to go with them and exit the forest accompanied by his menagerie of slimes. A whole new world awaits him, where his skills as a magic user and slime tamer continue to elicit surprise and admiration. \n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
+      "date": "Oct 4, 2020, 23:30 (JST)",
+      "producer": "Maho Film",
       "eps": 12,
       "genres": [
-        "Action",
-        "Sci-Fi"
+        "Adventure",
+        "Slice of Life",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -288,20 +302,6 @@
       "genres": [
         "Action",
         "Magic",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Ryouma Takebayashi dies in his sleep at the age of 39 after leading a life of misfortune. Taking pity on him, three deities offer him the chance to reincarnate in a world of magic where he has only one mission: to be himself and enjoy life. They bestow upon Ryouma powerful physical abilities as well as the affinity to master all elements, and promise to watch over him. His new life as a young child officially starts when he is teleported into a forest.\n\nThree years go by. Having spent most of his time researching slimes, Ryouma has managed to evolve unique kinds of slimes, training an army of them while developing his magic abilities. Although the young boy is happy with his hermit existence and comfortable cave home, he somewhat misses the company of humans. But after healing an injured member of a passing group of travelers from a duke's household, Ryouma is persuaded to go with them and exit the forest accompanied by his menagerie of slimes. A whole new world awaits him, where his skills as a magic user and slime tamer continue to elicit surprise and admiration. \n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
-      "date": "Oct 4, 2020, 23:30 (JST)",
-      "producer": "Maho Film",
-      "eps": 12,
-      "genres": [
-        "Adventure",
-        "Slice of Life",
         "Fantasy"
       ],
       "category": "TV (New)"
@@ -322,6 +322,20 @@
     },
     {
       "title": "",
+      "description": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has! \n\n(Source: Seven Seas Entertainment)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/108852.jpg",
+      "date": "Oct 7, 2020, 21:00 (JST)",
+      "producer": "EMT Squared",
+      "eps": 12,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Sshhh! Princess Syalis is trying to get a good night's sleep. Some shut-eye. Forty winks. Catch some Z's. Long ago in olden times when people and demons lived together in—well, disharmony, really—a demon king kidnaps a human princess and imprisons her in his castle. Bereft, the princess's subjects beat their chests in anguish...until a hero arises to spearhead Project Rescue Our Princess! While waiting for her knight in shining armor, what's an imprisoned princess to do...? Teddy-bear guards with bat wings are all very well, but her dungeon cell is bo-o-o-ring! So, she decides to wile away the long hours by sleeping. Now if only she could get comfortable...and didn't suffer from insomnia...\n\n(Source: VIZ Media)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg",
       "date": "Oct 6, 2020, 02:00 (JST)",
@@ -334,20 +348,6 @@
         "Magic",
         "Fantasy",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has! \n\n(Source: Seven Seas Entertainment)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/108852.jpg",
-      "date": "Oct 7, 2020, 21:00 (JST)",
-      "producer": "EMT Squared",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -461,9 +461,9 @@
     },
     {
       "title": "",
-      "description": "Fourth dormitory of the Rat Production (commonly known as Nezumi-sou)—the place where dropout idol girls live: the former child actor Sekino Roko, musician Nukui Hayu, and model Maehara Nina. Sakura Ino, who always dreamed of becoming an idol, moves in. At the same time, the decision is made to demolish the dormitory. Due to the project launched by the manager Kajino Hoho, \"Ochikobore Fruit Tart,\" occupants of the dormitory form a new idol group called \"Fruit Tart\" and start their activities in order to repay a one hundred million yen debt. \n\n(Source: MU, edited)",
+      "description": "Fourth dormitory of the Rat Production (commonly known as Nezumi-sou)—the place where dropout idol girls live: the former child actor Sekino Roko, musician Nukui Hayu, and model Maehara Nina. Sakura Ino, who always dreamed of becoming an idol, moves in. At the same time, the decision is made to demolish the dormitory. Due to the project launched by the manager Kajino Hoho, \"Ochikobore Fruit Tart,\" occupants of the dormitory form a new idol group called \"Fruit Tart\" and start their activities in order to repay a one hundred million yen debt. \n\n(Source: MU, edited)\n\nEpisode 1 was streamed in advance on September 25, 2020 on AT-X. Regular broadcasting began on October 12, 2020.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/109145.jpg",
-      "date": "Oct 12, 2020, 21:30 (JST)",
+      "date": "Sep 25, 2020, 21:30 (JST)",
       "producer": "feel.",
       "eps": null,
       "genres": [
@@ -542,14 +542,14 @@
     },
     {
       "title": "",
-      "description": "Mio Sudou, a 30-year-old office lady has gone five years without a boyfriend and has forgotten all about love. Shuuji Mashima, a foreign-affiliated consultant has not had a girlfriend in seven years and has lost almost all interest in women. Meeting at a matchmaking party, Mio is disgusted by Shuuji as he states, \"I am not into women.\" However, when Mio makes a provocative comment toward Shuuji, things take an unexpected direction.\n\n(Source: MAL News)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1603/108938.jpg",
-      "date": "Oct 5, 2020, 01:00 (JST)",
-      "producer": "Ether Kitten",
+      "description": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106812.jpg",
+      "date": "Oct 8, 2020, 21:54 (JST)",
+      "producer": "DMM.futureworks, W-Toon Studio",
       "eps": null,
       "genres": [
-        "Ecchi",
-        "Romance"
+        "Adventure",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -569,14 +569,14 @@
     },
     {
       "title": "",
-      "description": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106812.jpg",
-      "date": "Oct 8, 2020, 21:54 (JST)",
-      "producer": "DMM.futureworks, W-Toon Studio",
+      "description": "Mio Sudou, a 30-year-old office lady has gone five years without a boyfriend and has forgotten all about love. Shuuji Mashima, a foreign-affiliated consultant has not had a girlfriend in seven years and has lost almost all interest in women. Meeting at a matchmaking party, Mio is disgusted by Shuuji as he states, \"I am not into women.\" However, when Mio makes a provocative comment toward Shuuji, things take an unexpected direction.\n\n(Source: MAL News)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1603/108938.jpg",
+      "date": "Oct 5, 2020, 01:00 (JST)",
+      "producer": "Ether Kitten",
       "eps": null,
       "genres": [
-        "Adventure",
-        "Fantasy"
+        "Ecchi",
+        "Romance"
       ],
       "category": "TV (New)"
     },
@@ -646,7 +646,7 @@
     {
       "title": "",
       "description": "Set in a convenience store that seems to be everywhere, through the appearance of a convenience store clerk who does not talk properly, while raising problems with the way of modern communication, we will approach the secret of the mysterious hero Mutou.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1148/109223.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1768/109666.jpg",
       "date": "Oct 13, 2020, 02:30 (JST)",
       "producer": "Toho Interactive Animation",
       "eps": null,
@@ -1594,18 +1594,6 @@
     },
     {
       "title": "",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "Sequel of Taeko no Nichijou",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/108538.jpg",
       "date": "Jul 1, 2020, 17:59 (JST)",
@@ -1613,6 +1601,18 @@
       "eps": null,
       "genres": [
         "Slice of Life"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1704,10 +1704,10 @@
       "producer": "CloverWorks",
       "eps": null,
       "genres": [
+        "Slice of Life",
         "Cars",
         "Comedy",
-        "Kids",
-        "Slice of Life"
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1949,6 +1949,20 @@
     },
     {
       "title": "",
+      "description": "The story follows a group of baseball players who after having quit playing baseball are reunited by fate after enrolling in the same university. At the time the university did not have a baseball team, so the group who have previously faced off against each other throughout the years. Form a team and start playing once again, reviving their passion for the sport.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1093/109641.jpg",
+      "date": "Oct 11, 2020",
+      "producer": "MAPPA",
+      "eps": 1,
+      "genres": [
+        "Sports",
+        "School",
+        "Shounen"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Second season of Wo Jia Da Shixiong Naozi You Keng.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1764/109493.jpg",
       "date": "Oct 29, 2020",
@@ -1977,20 +1991,6 @@
     },
     {
       "title": "",
-      "description": "Anime adaptation of Boukyaku Battery manga screened on Jump's official YouTube channel for Jump Special Anime Festa 2020.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1093/109641.jpg",
-      "date": "Oct 11, 2020",
-      "producer": "MAPPA",
-      "eps": 1,
-      "genres": [
-        "Sports",
-        "School",
-        "Shounen"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Second season Han Hua Ri Ji.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1861/109494.jpg",
       "date": "Oct 25, 2020",
@@ -2000,6 +2000,18 @@
         "Slice of Life",
         "Comedy",
         "Supernatural"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The encounter between Asashi and Ryouya.",
+      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "date": "Oct 11, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2018,24 +2030,25 @@
     },
     {
       "title": "",
-      "description": "The encounter between Asashi and Ryouya.",
-      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "date": "Oct 11, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "A slapstick comedy in which characters perform ad-lib plays.\n\n(Source: Official Twitter)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/109489.jpg",
       "date": "Oct ??, 2020",
       "producer": "-",
       "eps": 12,
       "genres": [
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Based on the video game \"Punishing: Gray Raven.\"",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1045/109449.jpg",
+      "date": "Oct 27, 2020",
+      "producer": "BigFireBird Animation",
+      "eps": 12,
+      "genres": [
+        "Action",
         "Comedy"
       ],
       "category": "ONA"
@@ -2055,14 +2068,15 @@
     },
     {
       "title": "",
-      "description": "Based on the video game \"Punishing: Gray Raven.\"",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1045/109449.jpg",
-      "date": "Oct 27, 2020",
-      "producer": "BigFireBird Animation",
-      "eps": 12,
+      "description": "The anime centers around a boy named Kouta Kouka (Kouka Kouta in Japanese name order, an apparent wordplay on Coca-Cola). Kouta strives to be the world's best Bottle King at the Bottle Battles in the virtual Drink World. He comes across his Bottleman partner Colamaru and then wages battles with various rivals.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1581/109225.jpg",
+      "date": "Oct 9, 2020",
+      "producer": "-",
+      "eps": 25,
       "genres": [
         "Action",
-        "Comedy"
+        "Game",
+        "Kids"
       ],
       "category": "ONA"
     },
@@ -2075,20 +2089,6 @@
       "eps": 12,
       "genres": [
         "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "The anime centers around a boy named Kouta Kouka (Kouka Kouta in Japanese name order, an apparent wordplay on Coca-Cola). Kouta strives to be the world's best Bottle King at the Bottle Battles in the virtual Drink World. He comes across his Bottleman partner Colamaru and then wages battles with various rivals.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1581/109225.jpg",
-      "date": "Oct 9, 2020",
-      "producer": "-",
-      "eps": 25,
-      "genres": [
-        "Action",
-        "Game",
-        "Kids"
       ],
       "category": "ONA"
     },
@@ -2174,10 +2174,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1336/109070.jpg",
-      "date": "Oct 30, 2020",
-      "producer": "-",
-      "eps": 1,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1966/109606.jpg",
+      "date": "Oct 2, 2020",
+      "producer": "T-Rex",
+      "eps": 2,
       "genres": [
         "Hentai"
       ],
@@ -2186,10 +2186,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1966/109606.jpg",
-      "date": "Oct 2, 2020",
-      "producer": "T-Rex",
-      "eps": 2,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1336/109070.jpg",
+      "date": "Oct 30, 2020",
+      "producer": "-",
+      "eps": 1,
       "genres": [
         "Hentai"
       ],

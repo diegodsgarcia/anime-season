@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-10-08",
+  "lastUpdate": "2020-10-09",
   "animes": [
     {
       "title": "",
@@ -770,10 +770,10 @@
       "producer": "CloverWorks",
       "eps": null,
       "genres": [
+        "Slice of Life",
         "Cars",
         "Comedy",
-        "Kids",
-        "Slice of Life"
+        "Kids"
       ],
       "category": "TV (New)"
     },
@@ -2149,18 +2149,6 @@
     },
     {
       "title": "",
-      "description": "Mini anime series of Minegishi-san wa Ootsu-kun ni Tabesasetai.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1547/108310.jpg",
-      "date": "May 22, 2020",
-      "producer": "AQUA ARIS",
-      "eps": 4,
-      "genres": [
-        "Shounen Ai"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Fourth season of Wangu Xian Qiong.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1374/107900.jpg",
       "date": "Apr 16, 2020",
@@ -2170,6 +2158,18 @@
         "Action",
         "Adventure",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Mini anime series of Minegishi-san wa Ootsu-kun ni Tabesasetai.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1547/108310.jpg",
+      "date": "May 22, 2020",
+      "producer": "AQUA ARIS",
+      "eps": 4,
+      "genres": [
+        "Shounen Ai"
       ],
       "category": "ONA"
     },
