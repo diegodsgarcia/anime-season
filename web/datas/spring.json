@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-10-09",
+  "lastUpdate": "2020-10-10",
   "animes": [
     {
       "title": "",
@@ -1912,20 +1912,6 @@
     },
     {
       "title": "",
-      "description": "Huangli Shi, according to legends, refers to a Fangshi who can alter the effects of seasonal solstices, solar terms, and festivals, and is able to predict each day's fortune. Xiao Nanzhu, an unemployed young man, decided to take on his usual job that has been passed down for generations, after being inspired by his childhood friend. Now he just wants to call 110. Chuxi: What are you looking at? You don't want to live past new year's eve? Chuba: Today's fortune is terrible, nothing's going to turn out right. I'm afraid there might be a… bloody disaster.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/108710.jpg",
-      "date": "May 7, 2020",
-      "producer": "-",
-      "eps": 16,
-      "genres": [
-        "Action",
-        "Mystery",
-        "Supernatural"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Fifth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/108563.jpg",
       "date": "May 23, 2020",
@@ -1938,6 +1924,20 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Huangli Shi, according to legends, refers to a Fangshi who can alter the effects of seasonal solstices, solar terms, and festivals, and is able to predict each day's fortune. Xiao Nanzhu, an unemployed young man, decided to take on his usual job that has been passed down for generations, after being inspired by his childhood friend. Now he just wants to call 110. Chuxi: What are you looking at? You don't want to live past new year's eve? Chuba: Today's fortune is terrible, nothing's going to turn out right. I'm afraid there might be a… bloody disaster.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/108710.jpg",
+      "date": "May 7, 2020",
+      "producer": "-",
+      "eps": 16,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Supernatural"
       ],
       "category": "ONA"
     },

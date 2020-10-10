@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-10-09",
+  "lastUpdate": "2020-10-10",
   "animes": [
     {
       "title": "",
@@ -77,9 +77,9 @@
       "producer": "Passione",
       "eps": 24,
       "genres": [
-        "Mystery",
         "Dementia",
         "Horror",
+        "Mystery",
         "Psychological",
         "Supernatural",
         "Thriller"
@@ -193,21 +193,6 @@
     },
     {
       "title": "",
-      "description": "In the late 19th century, the British Empire has become a global power. Due to the strict class stratification, the average citizen has little chance of successfully rising up to the top, where the despicable nobility rules over them all.\n\nWilliam James Moriarty, the second son of the Moriarty household, is a young mathematics professor who has displayed great cunning and intellect since he was a child. Along with his brothers Albert and Louis, he lives the simple life of a noble. Outside of school, William is a well-known private consultant willing to solve the problems of anyone in need. However, his gentle demeanor belies his position as the head of a group prepared to wreak havoc in pursuit of its desire—a new world built from the ashes of the old.\n\nYuukoku no Moriarty puts a new spin on Arthur Conan Doyle's original work by putting the spotlight on its main antagonist and exploring how he came to be the first and only \"criminal consultant.\"\n\n[Written by MAL Rewrite]\n\nEpisode was streamed in advance on September 21, 2020. Regular broadcasting began on October 11, 2020.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
-      "date": "Sep 21, 2020, 22:30 (JST)",
-      "producer": "Production I.G",
-      "eps": null,
-      "genres": [
-        "Mystery",
-        "Historical",
-        "Psychological",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "The second floor of the gym―this was where we always met. It was class time, but of course, there weren't any classes going on in a place like this.\n\nThis was where Shimamura and I became friends. We hung out here―talking about TV shows and cooking, playing some ping pong... This is where we fostered our friendship.\n\nKeeping my head propped against the wall, I let out a small sigh.\n\nWhat was this feeling? Yesterday, I'd dreamt of me and Shimamura kissing.\n\nNot that I'm like that. I'm sure Shimamura isn't either. It's not even something worth repeating myself about, but really, it's not like that.\n\nIt's just that when she hears the word \"friend,\" I want her to think of me first. That's all.\n\n(Source: Baka-Tsuki)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1649/109056.jpg",
       "date": "Oct 9, 2020, 01:58 (JST)",
@@ -223,16 +208,29 @@
     },
     {
       "title": "",
-      "description": "Third season of Golden Kamuy.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
-      "date": "Oct 5, 2020, 23:00 (JST)",
-      "producer": "Geno Studio",
+      "description": "Long ago, a war broke out in Japan that pitted Kantou against Kansai and divided the country. Kansai became dependent on Kantou, but slowly the police and government began losing control of Kansai to criminals known as Akudama.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
+      "date": "Oct 8, 2020, 21:30 (JST)",
+      "producer": "Studio Pierrot",
       "eps": 12,
       "genres": [
         "Action",
-        "Adventure",
+        "Sci-Fi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "In the late 19th century, the British Empire has become a global power. Due to the strict class stratification, the average citizen has little chance of successfully rising up to the top, where the despicable nobility rules over them all.\n\nWilliam James Moriarty, the second son of the Moriarty household, is a young mathematics professor who has displayed great cunning and intellect since he was a child. Along with his brothers Albert and Louis, he lives the simple life of a noble. Outside of school, William is a well-known private consultant willing to solve the problems of anyone in need. However, his gentle demeanor belies his position as the head of a group prepared to wreak havoc in pursuit of its desire—a new world built from the ashes of the old.\n\nYuukoku no Moriarty puts a new spin on Arthur Conan Doyle's original work by putting the spotlight on its main antagonist and exploring how he came to be the first and only \"criminal consultant.\"\n\n[Written by MAL Rewrite]\n\nEpisode was streamed in advance on September 21, 2020. Regular broadcasting began on October 11, 2020.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
+      "date": "Sep 21, 2020, 22:30 (JST)",
+      "producer": "Production I.G",
+      "eps": null,
+      "genres": [
+        "Mystery",
         "Historical",
-        "Seinen"
+        "Psychological",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -252,14 +250,16 @@
     },
     {
       "title": "",
-      "description": "Long ago, a war broke out in Japan that pitted Kantou against Kansai and divided the country. Kansai became dependent on Kantou, but slowly the police and government began losing control of Kansai to criminals known as Akudama.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
-      "date": "Oct 8, 2020, 21:30 (JST)",
-      "producer": "Studio Pierrot",
+      "description": "Third season of Golden Kamuy.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
+      "date": "Oct 5, 2020, 23:00 (JST)",
+      "producer": "Geno Studio",
       "eps": 12,
       "genres": [
         "Action",
-        "Sci-Fi"
+        "Adventure",
+        "Historical",
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -322,20 +322,6 @@
     },
     {
       "title": "",
-      "description": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has! \n\n(Source: Seven Seas Entertainment)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/108852.jpg",
-      "date": "Oct 7, 2020, 21:00 (JST)",
-      "producer": "EMT Squared",
-      "eps": 12,
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Sshhh! Princess Syalis is trying to get a good night's sleep. Some shut-eye. Forty winks. Catch some Z's. Long ago in olden times when people and demons lived together in—well, disharmony, really—a demon king kidnaps a human princess and imprisons her in his castle. Bereft, the princess's subjects beat their chests in anguish...until a hero arises to spearhead Project Rescue Our Princess! While waiting for her knight in shining armor, what's an imprisoned princess to do...? Teddy-bear guards with bat wings are all very well, but her dungeon cell is bo-o-o-ring! So, she decides to wile away the long hours by sleeping. Now if only she could get comfortable...and didn't suffer from insomnia...\n\n(Source: VIZ Media)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg",
       "date": "Oct 6, 2020, 02:00 (JST)",
@@ -348,6 +334,20 @@
         "Magic",
         "Fantasy",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has! \n\n(Source: Seven Seas Entertainment)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/108852.jpg",
+      "date": "Oct 7, 2020, 21:00 (JST)",
+      "producer": "EMT Squared",
+      "eps": 12,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -634,7 +634,7 @@
     {
       "title": "",
       "description": "A new media mix project by Bushiroad.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1980/109096.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1765/109713.jpg",
       "date": "Oct 30, 2020, 23:00 (JST)",
       "producer": "SANZIGEN",
       "eps": null,
@@ -652,6 +652,18 @@
       "eps": null,
       "genres": [
         "Mystery"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1708/108612.jpg",
+      "date": "Oct 9, 2020, 07:30 (JST)",
+      "producer": "Lesprit, Shin-Ei Animation",
+      "eps": null,
+      "genres": [
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -704,18 +716,6 @@
         "Comedy",
         "Parody",
         "Super Power"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1708/108612.jpg",
-      "date": "Oct 9, 2020, 07:30 (JST)",
-      "producer": "Lesprit, Shin-Ei Animation",
-      "eps": null,
-      "genres": [
-        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -1935,20 +1935,6 @@
     },
     {
       "title": "",
-      "description": "Across thousands of years, a terracotta warrior comes back to life! With a girl who looks exactly like his sister-in-law, they fight crimes and become heroes to bring back justice!\n\n(Source: WeComics)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1076/109488.jpg",
-      "date": "Oct 16, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "The story follows a group of baseball players who after having quit playing baseball are reunited by fate after enrolling in the same university. At the time the university did not have a baseball team, so the group who have previously faced off against each other throughout the years. Form a team and start playing once again, reviving their passion for the sport.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1093/109641.jpg",
       "date": "Oct 11, 2020",
@@ -1958,6 +1944,20 @@
         "Sports",
         "School",
         "Shounen"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Across thousands of years, a terracotta warrior comes back to life! With a girl who looks exactly like his sister-in-law, they fight crimes and become heroes to bring back justice!\n\n(Source: WeComics)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1076/109488.jpg",
+      "date": "Oct 16, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -1979,18 +1979,6 @@
     },
     {
       "title": "",
-      "description": "The story centers on hero pair teams named \"Patraisers,\" consisting of \"Sugars\" and their supporter \"Patrons.\" The Patraiser teams \"reinvigorate people's frozen hearts.\"\n\nThe \"main story\" videos will focus on a single Patraiser pair, consisting of the Sugar Asahi Yuga and his Patron Ryouya Nekoyashiki. The \"side story\" videos will focus on their daily lives, as well as the other characters.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1521/109423.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "TANOsim",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Second season Han Hua Ri Ji.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1861/109494.jpg",
       "date": "Oct 25, 2020",
@@ -2000,6 +1988,18 @@
         "Slice of Life",
         "Comedy",
         "Supernatural"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The story centers on hero pair teams named \"Patraisers,\" consisting of \"Sugars\" and their supporter \"Patrons.\" The Patraiser teams \"reinvigorate people's frozen hearts.\"\n\nThe \"main story\" videos will focus on a single Patraiser pair, consisting of the Sugar Asahi Yuga and his Patron Ryouya Nekoyashiki. The \"side story\" videos will focus on their daily lives, as well as the other characters.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1521/109423.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "TANOsim",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2055,19 +2055,6 @@
     },
     {
       "title": "",
-      "description": "Fourth season of Menghuan Shuyuan.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1346/109452.jpg",
-      "date": "Oct 12, 2020",
-      "producer": "Painting Dream",
-      "eps": 14,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "The anime centers around a boy named Kouta Kouka (Kouka Kouta in Japanese name order, an apparent wordplay on Coca-Cola). Kouta strives to be the world's best Bottle King at the Bottle Battles in the virtual Drink World. He comes across his Bottleman partner Colamaru and then wages battles with various rivals.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1581/109225.jpg",
       "date": "Oct 9, 2020",
@@ -2077,6 +2064,19 @@
         "Action",
         "Game",
         "Kids"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Fourth season of Menghuan Shuyuan.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1346/109452.jpg",
+      "date": "Oct 12, 2020",
+      "producer": "Painting Dream",
+      "eps": 14,
+      "genres": [
+        "Comedy",
+        "Fantasy"
       ],
       "category": "ONA"
     },
