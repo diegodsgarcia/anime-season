@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-10-10",
+  "lastUpdate": "2020-10-11",
   "animes": [
     {
       "title": "",
@@ -1132,19 +1132,6 @@
     },
     {
       "title": "",
-      "description": "Based on the original comic BONO BONO by Mikio Igarashi that has seen over 9,000,000 total copies printed, this is the definitive animated version of the emotionally soothing character-driven series that will make you ask yourself the philosophical question, \"What are living things?\" while laughing at heartwarming gags and being entertained by the interactions of amusing forest friends Bonobono the young sea otter, Chipmunk, Fishing Cat, and more.\n\nEnjoy the easygoing days and minor misadventures of Bonobono and his friends!\n\n(Source: Fuji Creative)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/77617.jpg",
-      "date": "Apr 2, 2016, 04:52 (JST)",
-      "producer": "Eiken",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "Sequel of Zoids Wild.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1131/104980.jpg",
       "date": "Oct 4, 2019, 17:55 (JST)",
@@ -1154,6 +1141,19 @@
         "Action",
         "Sci-Fi",
         "Adventure",
+        "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Based on the original comic BONO BONO by Mikio Igarashi that has seen over 9,000,000 total copies printed, this is the definitive animated version of the emotionally soothing character-driven series that will make you ask yourself the philosophical question, \"What are living things?\" while laughing at heartwarming gags and being entertained by the interactions of amusing forest friends Bonobono the young sea otter, Chipmunk, Fishing Cat, and more.\n\nEnjoy the easygoing days and minor misadventures of Bonobono and his friends!\n\n(Source: Fuji Creative)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/77617.jpg",
+      "date": "Apr 2, 2016, 04:52 (JST)",
+      "producer": "Eiken",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
         "Comedy"
       ],
       "category": "TV (Continuing)"
@@ -2149,6 +2149,18 @@
     },
     {
       "title": "",
+      "description": "Mini anime series of Minegishi-san wa Ootsu-kun ni Tabesasetai.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1547/108310.jpg",
+      "date": "May 22, 2020",
+      "producer": "AQUA ARIS",
+      "eps": 4,
+      "genres": [
+        "Shounen Ai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Fourth season of Wangu Xian Qiong.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1374/107900.jpg",
       "date": "Apr 16, 2020",
@@ -2158,18 +2170,6 @@
         "Action",
         "Adventure",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Mini anime series of Minegishi-san wa Ootsu-kun ni Tabesasetai.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1547/108310.jpg",
-      "date": "May 22, 2020",
-      "producer": "AQUA ARIS",
-      "eps": 4,
-      "genres": [
-        "Shounen Ai"
       ],
       "category": "ONA"
     },
@@ -2229,18 +2229,6 @@
     },
     {
       "title": "",
-      "description": "Third season of Bai Gui Youeryuan.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/108463.jpg",
-      "date": "May 21, 2020",
-      "producer": "Painting Dream",
-      "eps": 12,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
       "date": "Apr 6, 2020",
@@ -2248,6 +2236,18 @@
       "eps": 3,
       "genres": [
         "Game"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Third season of Bai Gui Youeryuan.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/108463.jpg",
+      "date": "May 21, 2020",
+      "producer": "Painting Dream",
+      "eps": 12,
+      "genres": [
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2402,10 +2402,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1824/105790.jpg",
-      "date": "Apr 24, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1372/105978.jpg",
+      "date": "May 29, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 2,
       "genres": [
         "Hentai"
       ],
@@ -2414,10 +2414,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1372/105978.jpg",
-      "date": "May 29, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1824/105790.jpg",
+      "date": "Apr 24, 2020",
       "producer": "-",
-      "eps": 2,
+      "eps": null,
       "genres": [
         "Hentai"
       ],
