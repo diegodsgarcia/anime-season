@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-10-11",
+  "lastUpdate": "2020-10-12",
   "animes": [
     {
       "title": "",
@@ -1186,6 +1186,20 @@
     },
     {
       "title": "",
+      "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
+      "date": "Feb 16, 2020",
+      "producer": "TMS Entertainment",
+      "eps": 52,
+      "genres": [
+        "Action",
+        "Game",
+        "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "In the Heian era, around 1000 years ago, a young boy of noble family named Ojarumaru is bored with his life of privilege. Meanwhile, three demons steal the power-stick of Enma, king of demons, and then lose it. Ojarumaru finds it, and uses it to transport himself to the present time. Here, he is befriended by a young boy named Kazuma, and becomes a member of his family. As time goes on, Ojarumaru makes many new friends, while dodging the comedic efforts of the three demons, Akane, Kisuke, and Aobee, as they try to recover the stick. (from ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/2/8519.jpg",
       "date": "Oct 5, 1998, 18:10 (JST)",
@@ -1195,20 +1209,6 @@
         "Adventure",
         "Comedy",
         "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
-      "date": "Feb 16, 2020",
-      "producer": "TMS Entertainment",
-      "eps": 52,
-      "genres": [
-        "Action",
-        "Game",
         "Fantasy"
       ],
       "category": "TV (Continuing)"
