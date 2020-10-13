@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-10-12",
+  "lastUpdate": "2020-10-13",
   "animes": [
     {
       "title": "",
@@ -1419,19 +1419,6 @@
     },
     {
       "title": "",
-      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
-      "date": "Apr 6, 2020, 23:29 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
       "date": "Dec 2, 2015",
@@ -1439,6 +1426,19 @@
       "eps": null,
       "genres": [
         "Sports",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
+      "date": "Apr 6, 2020, 23:29 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
         "Kids"
       ],
       "category": "TV (Continuing)"
@@ -1651,6 +1651,20 @@
     },
     {
       "title": "",
+      "description": "Based on a world-famous action RPG set in an open world, Dragon's Dogma from Capcom will be brought to life as a Netflix original anime series. The story follows a man's journey seeking revenge on a dragon who stole his heart. On his way, the man is brought back to life as an \"Arisen.\" An action adventure about a man challenged by demons who represent the seven deadly sins of humans. \n\n(Source: Netflix)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1519/109068.jpg",
+      "date": "Sep 17, 2020",
+      "producer": "Sublimation",
+      "eps": 7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Galar is a region where Pokemon battles have developed into a cultural sensation. Over the span of seven episodes, Pokemon: Twilight Wings will show in detail the dreams of Galar's residents, the realities they face, the challenges they must overcome and the conflicts they must resolve. In addition to these new stories, fans can expect to see a variety of Pokemon originally discovered in the Galar region appearing in the capsule series. \n\n(Source: Press Release)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1399/104762.jpg",
       "date": "Jan 15, 2020",
@@ -1661,20 +1675,6 @@
         "Adventure",
         "Comedy",
         "Kids",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Based on a world-famous action RPG set in an open world, Dragon's Dogma from Capcom will be brought to life as a Netflix original anime series. The story follows a man's journey seeking revenge on a dragon who stole his heart. On his way, the man is brought back to life as an \"Arisen.\" An action adventure about a man challenged by demons who represent the seven deadly sins of humans. \n\n(Source: Netflix)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1519/109068.jpg",
-      "date": "Sep 17, 2020",
-      "producer": "Sublimation",
-      "eps": 7,
-      "genres": [
-        "Action",
-        "Adventure",
         "Fantasy"
       ],
       "category": "ONA"
@@ -2386,10 +2386,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1467/108042.jpg",
-      "date": "Aug 28, 2020",
-      "producer": "-",
-      "eps": null,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1794/108580.jpg",
+      "date": "Sep 26, 2020",
+      "producer": "Seven",
+      "eps": 1,
       "genres": [
         "Hentai"
       ],
@@ -2398,10 +2398,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1794/108580.jpg",
-      "date": "Sep 26, 2020",
-      "producer": "Seven",
-      "eps": 1,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1467/108042.jpg",
+      "date": "Aug 28, 2020",
+      "producer": "-",
+      "eps": null,
       "genres": [
         "Hentai"
       ],
