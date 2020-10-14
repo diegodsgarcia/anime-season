@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-10-13",
+  "lastUpdate": "2020-10-14",
   "animes": [
     {
       "title": "",
@@ -1136,6 +1136,19 @@
     },
     {
       "title": "",
+      "description": "The gag anime takes place at a school for youkai and other supernatural beings. A vampire named Rakuru transfers to the school from the West, and she tries to change the school as the class representative.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106451.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "-",
+      "eps": 13,
+      "genres": [
+        "Comedy",
+        "Supernatural"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "The eco-systems of planet Earth are endangered. Lucky for us, a super-powered robot boy is flying to rescue! astro in on a mission to help anyone anywhere in the world with a problem involving natural phenomena. Go little Astro Boy! GO! \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1793/107568.jpg",
       "date": "Oct 3, 2019, 18:10 (JST)",
@@ -1148,19 +1161,6 @@
         "Kids",
         "Drama",
         "Mecha"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "The gag anime takes place at a school for youkai and other supernatural beings. A vampire named Rakuru transfers to the school from the West, and she tries to change the school as the class representative.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106451.jpg",
-      "date": "Apr 7, 2020",
-      "producer": "-",
-      "eps": 13,
-      "genres": [
-        "Comedy",
-        "Supernatural"
       ],
       "category": "TV (Continuing)"
     },
@@ -1419,19 +1419,6 @@
     },
     {
       "title": "",
-      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
-      "date": "Dec 2, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Sports",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
       "date": "Apr 6, 2020, 23:29 (JST)",
@@ -1439,6 +1426,19 @@
       "eps": null,
       "genres": [
         "Slice of Life",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
+      "date": "Dec 2, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Sports",
         "Kids"
       ],
       "category": "TV (Continuing)"
@@ -2146,20 +2146,6 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1240/108694.jpg",
-      "date": "Aug ??, 2020",
-      "producer": "Xanthus Media",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Music",
-        "Sci-Fi"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1614/109261.jpg",
       "date": "Aug 15, 2020",
       "producer": "-",
@@ -2169,6 +2155,20 @@
         "Adventure",
         "Romance",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1240/108694.jpg",
+      "date": "Aug ??, 2020",
+      "producer": "Xanthus Media",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Music",
+        "Sci-Fi"
       ],
       "category": "ONA"
     },
