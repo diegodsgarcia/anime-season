@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-10-15",
+  "lastUpdate": "2020-10-16",
   "animes": [
     {
       "title": "",
@@ -1162,7 +1162,7 @@
       "description": "The series will explore an alternate universe to the main series, and will focus on Kouji Ibuki, an antagonist in the Cardfight!! Vanguard Movie: Neon Messiah, and Suiko Tatsunagi.\n\n(Source: ANN, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1992/106795.jpg",
       "date": "May 30, 2020, 08:00 (JST)",
-      "producer": "-",
+      "producer": "OLM",
       "eps": null,
       "genres": [
         "Action",
@@ -1191,13 +1191,13 @@
       "title": "",
       "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
-      "date": "Feb 16, 2020",
+      "date": "Apr 3, 2020",
       "producer": "TMS Entertainment",
       "eps": 52,
       "genres": [
         "Action",
-        "Game",
-        "Fantasy"
+        "Fantasy",
+        "Game"
       ],
       "category": "TV (Continuing)"
     },
@@ -2510,6 +2510,18 @@
     },
     {
       "title": "",
+      "description": "An anime movie based on HoneyWorks' LIPxLIP virtual idol unit, commemorating the music circle's 10th anniversary.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1189/109016.jpg",
+      "date": "Dec 25, 2020",
+      "producer": "CLAP",
+      "eps": 1,
+      "genres": [
+        "Music"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
       "description": "Unaired episode 13 of Dogeza de Tanondemita.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1973/109541.jpg",
       "date": "Dec 23, 2020",
@@ -2518,6 +2530,20 @@
       "genres": [
         "Comedy",
         "Ecchi",
+        "Fantasy"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "",
+      "description": "Short animated TV special depicting the prologue of the main story of TALES OF CRESTORIA, showing Kanata and Misella setting off on their journey.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1225/109133.jpg",
+      "date": "Oct 18, 2020",
+      "producer": "Kamikaze Douga",
+      "eps": 1,
+      "genres": [
+        "Adventure",
+        "Magic",
         "Fantasy"
       ],
       "category": "Special"

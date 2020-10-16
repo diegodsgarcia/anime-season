@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-10-15",
+  "lastUpdate": "2020-10-16",
   "animes": [
     {
       "title": "",
@@ -560,7 +560,7 @@
       "description": "The series will explore an alternate universe to the main series, and will focus on Kouji Ibuki, an antagonist in the Cardfight!! Vanguard Movie: Neon Messiah, and Suiko Tatsunagi.\n\n(Source: ANN, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1992/106795.jpg",
       "date": "May 30, 2020, 08:00 (JST)",
-      "producer": "-",
+      "producer": "OLM",
       "eps": null,
       "genres": [
         "Action",
@@ -582,6 +582,20 @@
       "genres": [
         "Music",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
+      "date": "Apr 3, 2020",
+      "producer": "TMS Entertainment",
+      "eps": 52,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Game"
       ],
       "category": "TV (New)"
     },
@@ -1181,20 +1195,6 @@
       "eps": 48,
       "genres": [
         "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
-      "date": "Feb 16, 2020",
-      "producer": "TMS Entertainment",
-      "eps": 52,
-      "genres": [
-        "Action",
-        "Game",
-        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },

@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-10-15",
+  "lastUpdate": "2020-10-16",
   "animes": [
     {
       "title": "",
@@ -904,7 +904,7 @@
       "description": "The series will explore an alternate universe to the main series, and will focus on Kouji Ibuki, an antagonist in the Cardfight!! Vanguard Movie: Neon Messiah, and Suiko Tatsunagi.\n\n(Source: ANN, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1992/106795.jpg",
       "date": "May 30, 2020, 08:00 (JST)",
-      "producer": "-",
+      "producer": "OLM",
       "eps": null,
       "genres": [
         "Action",
@@ -945,13 +945,13 @@
       "title": "",
       "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
-      "date": "Feb 16, 2020",
+      "date": "Apr 3, 2020",
       "producer": "TMS Entertainment",
       "eps": 52,
       "genres": [
         "Action",
-        "Game",
-        "Fantasy"
+        "Fantasy",
+        "Game"
       ],
       "category": "TV (Continuing)"
     },
@@ -1956,6 +1956,19 @@
     },
     {
       "title": "",
+      "description": "The story is set in the ungoverned Tokyo shortly after a mysterious power outage incident. Those who survived from the incident had to protect themselves from the mob.\n\nIt was \"Links,\" the young people with superpower, that saved the people in Tokyo. Among these young people, a performance group known as \"Crown\" gained tremendous support.\n\nThe protagonist Hallelujah and and his best friend Akatsuki, who grew up with him together in an orphanage, are also awakened with the abilities of Links. They join Crown and play an active part to save people every day.\n\n(Source: Qoo News, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/109454.jpg",
+      "date": "Sep 28, 2020",
+      "producer": "Yokohama Animation Lab",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Second season of Da Wang Bu Gaoxing.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/108228.jpg",
       "date": "Jul 21, 2020",
@@ -1967,19 +1980,6 @@
         "Magic",
         "Fantasy",
         "School"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "The story is set in the ungoverned Tokyo shortly after a mysterious power outage incident. Those who survived from the incident had to protect themselves from the mob.\n\nIt was \"Links,\" the young people with superpower, that saved the people in Tokyo. Among these young people, a performance group known as \"Crown\" gained tremendous support.\n\nThe protagonist Hallelujah and and his best friend Akatsuki, who grew up with him together in an orphanage, are also awakened with the abilities of Links. They join Crown and play an active part to save people every day.\n\n(Source: Qoo News, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/109454.jpg",
-      "date": "Sep 28, 2020",
-      "producer": "Yokohama Animation Lab",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2374,9 +2374,9 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
-      "date": "Jul 31, 2020",
-      "producer": "-",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1794/108580.jpg",
+      "date": "Sep 26, 2020",
+      "producer": "Seven",
       "eps": 1,
       "genres": [
         "Hentai"
@@ -2386,9 +2386,9 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1794/108580.jpg",
-      "date": "Sep 26, 2020",
-      "producer": "Seven",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
+      "date": "Jul 31, 2020",
+      "producer": "-",
       "eps": 1,
       "genres": [
         "Hentai"
