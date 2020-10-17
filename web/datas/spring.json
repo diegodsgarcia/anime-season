@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-10-16",
+  "lastUpdate": "2020-10-17",
   "animes": [
     {
       "title": "",
@@ -1150,7 +1150,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1131/104980.jpg",
       "date": "Oct 4, 2019, 17:55 (JST)",
       "producer": "OLM",
-      "eps": null,
+      "eps": 50,
       "genres": [
         "Action",
         "Sci-Fi",
@@ -1510,6 +1510,18 @@
     },
     {
       "title": "",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
       "date": "Oct 3, 2019, 18:10 (JST)",
@@ -1520,18 +1532,6 @@
         "Comedy",
         "Kids",
         "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },

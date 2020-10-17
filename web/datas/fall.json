@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-10-16",
+  "lastUpdate": "2020-10-17",
   "animes": [
     {
       "title": "",
@@ -162,12 +162,12 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1825/108800.jpg",
       "date": "Oct 2, 2020, 22:00 (JST)",
       "producer": "Maho Film",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Action",
-        "Game",
         "Drama",
         "Fantasy",
+        "Game",
         "Shounen"
       ],
       "category": "TV (New)"
@@ -802,6 +802,20 @@
     },
     {
       "title": "",
+      "description": "Second season of Enen no Shouboutai.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1673/107657.jpg",
+      "date": "Jul 4, 2020, 01:55 (JST)",
+      "producer": "David Production",
+      "eps": 24,
+      "genres": [
+        "Action",
+        "Supernatural",
+        "Shounen"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "Shinichi Kudou, a high school student of astounding talent in detective work, is well known for having solved several challenging cases. One day, when Shinichi spots two suspicious men and decides to follow them, he inadvertently becomes witness to a disturbing illegal activity. Unfortunately, he is caught in the act, so the men dose him with an experimental drug formulated by their criminal organization, leaving him to his death. However, to his own astonishment, Shinichi lives to see another day, but now in the body of a seven-year-old child.\n\nPerfectly preserving his original intelligence, he hides his real identity from everyone, including his childhood friend Ran Mouri and her father, private detective Kogorou Mouri. To this end, he takes on the alias of Conan Edogawa, inspired by the mystery writers Arthur Conan Doyle and Ranpo Edogawa.\n\nDetective Conan follows Shinichi who, as Conan, starts secretly solving the senior Mouri's cases from behind the scenes with his still exceptional sleuthing skills, while covertly investigating the organization responsible for his current state, hoping to reverse the drug's effects someday.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/7/75199.jpg",
       "date": "Jan 8, 1996, 18:00 (JST)",
@@ -812,20 +826,6 @@
         "Mystery",
         "Comedy",
         "Police",
-        "Shounen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "Second season of Enen no Shouboutai.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1673/107657.jpg",
-      "date": "Jul 4, 2020, 01:55 (JST)",
-      "producer": "David Production",
-      "eps": 24,
-      "genres": [
-        "Action",
-        "Supernatural",
         "Shounen"
       ],
       "category": "TV (Continuing)"
@@ -1111,21 +1111,6 @@
       "genres": [
         "Game",
         "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "Sequel of Zoids Wild.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1131/104980.jpg",
-      "date": "Oct 4, 2019, 17:55 (JST)",
-      "producer": "OLM",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Adventure",
         "Comedy"
       ],
       "category": "TV (Continuing)"
@@ -1622,19 +1607,6 @@
     },
     {
       "title": "",
-      "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
-      "date": "Jul 12, 2017",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
       "date": "Apr 6, 2020, 23:29 (JST)",
@@ -1643,6 +1615,19 @@
       "genres": [
         "Slice of Life",
         "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
+      "date": "Jul 12, 2017",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids",
+        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1897,20 +1882,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1955/107042.jpg",
-      "date": "Dec ??, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Second season of Shaonu Qianxian: Renxing Xiao Juchang.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1331/109369.jpg",
       "date": "Oct 7, 2020",
@@ -1920,6 +1891,20 @@
         "Military",
         "Sci-Fi",
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1955/107042.jpg",
+      "date": "Dec ??, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -1986,7 +1971,7 @@
       "title": "",
       "description": "The story centers on hero pair teams named \"Patraisers,\" consisting of \"Sugars\" and their supporter \"Patrons.\" The Patraiser teams \"reinvigorate people's frozen hearts.\"\n\nThe \"main story\" videos will focus on a single Patraiser pair, consisting of the Sugar Asahi Yuga and his Patron Ryouya Nekoyashiki. The \"side story\" videos will focus on their daily lives, as well as the other characters.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1521/109423.jpg",
-      "date": "Oct 11, 2020",
+      "date": "Oct 18, 2020",
       "producer": "TANOsim",
       "eps": null,
       "genres": [
@@ -2024,10 +2009,10 @@
     },
     {
       "title": "",
-      "description": "The encounter between Asashi and Ryouya.",
-      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "description": "The encounter between Asahi and Ryouya.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/109791.jpg",
       "date": "Oct 11, 2020",
-      "producer": "-",
+      "producer": "TANOsim",
       "eps": 1,
       "genres": [
         "Slice of Life"
