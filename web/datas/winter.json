@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-10-18",
+  "lastUpdate": "2020-10-19",
   "animes": [
     {
       "title": "",
@@ -219,6 +219,19 @@
     },
     {
       "title": "",
+      "description": "In the year 2043, <Infinite Dendrogram>, the world's first successful full-dive VRMMO was released. In addition to its ability to perfectly simulate the five senses, along with its many other amazing features, the game promised to offer players a world full of infinite possibilities. Nearly two years later, soon-to-be college freshman, Reiji Mukudori, is finally able to buy a copy of the game and start playing. With some help from his experienced older brother, Shuu, and his partner Embryo, Reiji embarks on an adventure into the world of <Infinite Dendrogram>. Just what will he discover and encounter in this game world known for its incredible realism and infinite possibilities?\n \n(Source: J-Novel Club)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1715/104281.jpg",
+      "date": "Jan 9, 2020, 23:00 (JST)",
+      "producer": "NAZ",
+      "eps": 13,
+      "genres": [
+        "Game",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Rumor has it that if a young girl strikes a bargain with a white fairy, it will grant any wish her heart desires. However, in exchange, she will become a magical girl and must put her life on the line to slay fearsome and ferocious witches.\n\nIroha Tamaki, a kind-hearted middle schooler from Takarazaki City, is living proof that these rumors are true. Armed with a magical crossbow and the ability to heal injuries, Iroha seeks out the labyrinths where witches hide and defeats them before they can prey on humans. Yet Iroha has no memory of her wish, and even Kyuubey, the white fairy himself, seems to have no idea what Iroha requested of him.\n\nOne day, Iroha hears rumors of a city where \"magical girls can be saved,\" and finds herself on a sunset train to Kamihama City. Unfortunately, she discovers that the witches in Kamihama are far more powerful than usual. After veteran magical girl Yachiyo Nanami is forced to save her, Iroha vows to never return. But when a chance encounter with a tiny Kyuubey seems to trigger distant memories, Iroha is compelled to investigate the mysterious city despite the danger.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1786/104783.jpg",
       "date": "Jan 5, 2020, 00:00 (JST)",
@@ -229,19 +242,6 @@
         "Drama",
         "Magic",
         "Thriller"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "In the year 2043, <Infinite Dendrogram>, the world's first successful full-dive VRMMO was released. In addition to its ability to perfectly simulate the five senses, along with its many other amazing features, the game promised to offer players a world full of infinite possibilities. Nearly two years later, soon-to-be college freshman, Reiji Mukudori, is finally able to buy a copy of the game and start playing. With some help from his experienced older brother, Shuu, and his partner Embryo, Reiji embarks on an adventure into the world of <Infinite Dendrogram>. Just what will he discover and encounter in this game world known for its incredible realism and infinite possibilities?\n \n(Source: J-Novel Club)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1715/104281.jpg",
-      "date": "Jan 9, 2020, 23:00 (JST)",
-      "producer": "NAZ",
-      "eps": 13,
-      "genres": [
-        "Game",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -1340,6 +1340,21 @@
     },
     {
       "title": "",
+      "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
+      "date": "Apr 8, 2016, 18:20 (JST)",
+      "producer": "Pie in the sky",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Parody",
+        "Kids",
+        "School"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1952/99800.jpg",
       "date": "Apr 6, 2019, 10:00 (JST)",
@@ -1351,21 +1366,6 @@
         "Comedy",
         "Fantasy",
         "Shounen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
-      "date": "Apr 8, 2016, 18:20 (JST)",
-      "producer": "Pie in the sky",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Parody",
-        "Kids",
-        "School"
       ],
       "category": "TV (Continuing)"
     },
@@ -1504,32 +1504,6 @@
     },
     {
       "title": "",
-      "description": "The series follows a young girl named Shina who hopes to become the world's best DJ, and is interested in new sounds. Shina explores a mysterious world filled with Otoppe, strange creatures capable of unique sounds.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
-      "date": "Apr 3, 2017, 08:40 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1757/106368.jpg",
       "date": "Apr 3, 2019, 18:45 (JST)",
@@ -1545,6 +1519,20 @@
     },
     {
       "title": "",
+      "description": "The series follows a young girl named Shina who hopes to become the world's best DJ, and is interested in new sounds. Shina explores a mysterious world filled with Otoppe, strange creatures capable of unique sounds.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
+      "date": "Apr 3, 2017, 08:40 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Kids",
+        "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
       "date": "Oct 3, 2019, 18:10 (JST)",
@@ -1555,6 +1543,18 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -2128,6 +2128,19 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1469/108739.jpg",
+      "date": "Feb 14, 2020",
+      "producer": "Wit Studio",
+      "eps": 1,
+      "genres": [
+        "Slice of Life",
+        "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "For her sake, he would sacrifice anything...\n\nWhile volunteering in Nepal, a Korean medical student named Sangmin Han encounters the beautiful yet tragic Sita. Previously, she was a Kumari—a prepubescent girl worshipped as the vessel of a goddess. But she has since been forsaken as a Kumari, and cast out from society. Falling in love, they marry and move to Korea, but their blissful love is short-lived; Sita dies only a year later.\n\nLosing the woman dearest to him, Sangmin desperately begs the gods to bring Sita back. His prayers are answered but in exchange for a sacrifice, and he awakens in the streets of Nepal. However, something is amiss—his body has suddenly aged, and standing in front of him is a young Sita, with no memory of him.\n\nThrough two lovers bound together by a destiny running deeper than it first appears, For the Sake of Sita is the story of Sita growing up as a Kumari, and Sangmin's tribulations in trying to avert her terrible fate.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1180/107339.jpg",
       "date": "Feb 26, 2020",
@@ -2152,19 +2165,6 @@
         "Sci-Fi",
         "Super Power",
         "Martial Arts"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1469/108739.jpg",
-      "date": "Feb 14, 2020",
-      "producer": "Wit Studio",
-      "eps": 1,
-      "genres": [
-        "Slice of Life",
-        "Drama"
       ],
       "category": "ONA"
     },
@@ -2470,18 +2470,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1487/103719.jpg",
-      "date": "May 31, 2019",
-      "producer": "PoRO",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "",
       "description": "The protagonist (interpreted by the spectators in a subjective view) shows up at the Palace of the Mystic Courtesans to savor strong pleasures, choosing from a wide variety of courtesans of various species. The protagonist will be guided by Marina of the receptionist to find the right courtesans who can satisfy him.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1230/106167.jpg",
       "date": "Feb 7, 2020",
@@ -2492,6 +2480,18 @@
         "Demons",
         "Supernatural",
         "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1487/103719.jpg",
+      "date": "May 31, 2019",
+      "producer": "PoRO",
+      "eps": null,
+      "genres": [
+        "Hentai"
       ],
       "category": "OVA"
     },
@@ -3021,6 +3021,19 @@
     },
     {
       "title": "",
+      "description": "Short narrated recap of Hentatsu (TV).",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1554/107933.jpg",
+      "date": "Mar 28, 2020",
+      "producer": "Yaoyorozu",
+      "eps": 1,
+      "genres": [
+        "Adventure",
+        "Mystery"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "",
       "description": "Short specials bundled with the Blu-ray volumes of the Gundam: G no Reconguista movies.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1861/105481.jpg",
       "date": "Jan 17, 2020",
@@ -3030,19 +3043,6 @@
         "Comedy",
         "Parody",
         "Mecha"
-      ],
-      "category": "Special"
-    },
-    {
-      "title": "",
-      "description": "Short narrated recap of Hentatsu (TV).",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1554/107933.jpg",
-      "date": "Mar 28, 2020",
-      "producer": "Yaoyorozu",
-      "eps": 1,
-      "genres": [
-        "Adventure",
-        "Mystery"
       ],
       "category": "Special"
     },

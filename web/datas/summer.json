@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-10-17",
+  "lastUpdate": "2020-10-19",
   "animes": [
     {
       "title": "",
@@ -101,7 +101,7 @@
     },
     {
       "title": "",
-      "description": "Second season of Enen no Shouboutai.",
+      "description": "The second season of Enen no Shouboutai.\n\nShinra and Company 8 have figured out the Evangelist’s goal: to gather Adolla Bursts from Shinra and Shou. After learning more about his past from Captain Burns, Shinra becomes more motivated to discover the truth about his mother and save Shou again.\n\nBut a mysterious girl known as the \"First Pillar\" reveals the Evangelist’s master plan to start another Great Cataclysm!\n\n(Source: Funimation)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1673/107657.jpg",
       "date": "Jul 4, 2020, 01:55 (JST)",
       "producer": "David Production",
@@ -144,21 +144,6 @@
     },
     {
       "title": "",
-      "description": "After gaining the title of the strongest warrior in the world, Peter Grill has finally proven his worth and is ready to take the hand of his beloved senior, the beautiful and innocent Luvelia Sanctos. Peter expects to have a healthy relationship with her, despite some objections from her father.\n\nUnfortunately, this dream quickly breaks apart as news of his grand victory spreads among the womenfolk of other races—ogres, orcs, elves, and others—some of them even vying for his seed to produce offspring blessed with his might. To avoid betraying the trust of his cherished Luvelia and causing a scandal, Peter strives to avoid other women's salacious advances. However, accomplishing such a feat with so many alluring women on his trail is easier said than done.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1368/108441.jpg",
-      "date": "Jul 11, 2020, 01:35 (JST)",
-      "producer": "Wolfsbane",
-      "eps": 12,
-      "genres": [
-        "Harem",
-        "Comedy",
-        "Ecchi",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "After years of conflict, humans and monsters have settled their differences and are now at peace. This post-war era led to the foundation of Lindworm—a town which has since become the focal point of racial harmony.\n\nAs a human doctor specializing in monster biology, Glenn Litbeit runs a small clinic alongside his partner, Saphentite Neikes, who is a half-snake monster known as a lamia. He uses his knowledge to tend to any monsters who seek his aid. Whatever affliction, concern, or injury it may be, he will always be there, ready to help.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106598.jpg",
       "date": "Jul 12, 2020, 23:00 (JST)",
@@ -167,6 +152,21 @@
       "genres": [
         "Comedy",
         "Romance",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "After gaining the title of the strongest warrior in the world, Peter Grill has finally proven his worth and is ready to take the hand of his beloved senior, the beautiful and innocent Luvelia Sanctos. Peter expects to have a healthy relationship with her, despite some objections from her father.\n\nUnfortunately, this dream quickly breaks apart as news of his grand victory spreads among the womenfolk of other races—ogres, orcs, elves, and others—some of them even vying for his seed to produce offspring blessed with his might. To avoid betraying the trust of his cherished Luvelia and causing a scandal, Peter strives to avoid other women's salacious advances. However, accomplishing such a feat with so many alluring women on his trail is easier said than done.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1368/108441.jpg",
+      "date": "Jul 11, 2020, 01:35 (JST)",
+      "producer": "Wolfsbane",
+      "eps": 12,
+      "genres": [
+        "Harem",
+        "Comedy",
         "Ecchi",
         "Fantasy"
       ],
@@ -1166,6 +1166,19 @@
     },
     {
       "title": "",
+      "description": "50 years have passed since the events of the original Hakushon Daimaou series. Akubi is training to become queen when she meets Kantarou Yodama, the grandson of the genie bottle's original owner, Kan-chan. Together, Akubi and Kantarou take on many jobs in the human world and learn the importance of having a dream.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1621/105178.jpg",
+      "date": "Apr 11, 2020, 17:30 (JST)",
+      "producer": "Nippon Animation, Tatsunoko Production",
+      "eps": 20,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1401/106017.jpg",
       "date": "Apr 5, 2020, 19:00 (JST)",
@@ -1175,19 +1188,6 @@
         "Adventure",
         "Comedy",
         "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "50 years have passed since the events of the original Hakushon Daimaou series. Akubi is training to become queen when she meets Kantarou Yodama, the grandson of the genie bottle's original owner, Kan-chan. Together, Akubi and Kantarou take on many jobs in the human world and learn the importance of having a dream.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1621/105178.jpg",
-      "date": "Apr 11, 2020, 17:30 (JST)",
-      "producer": "Nippon Animation, Tatsunoko Production",
-      "eps": 20,
-      "genres": [
-        "Comedy",
-        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1379,18 +1379,6 @@
     },
     {
       "title": "",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
       "date": "Oct 3, 2019, 18:10 (JST)",
@@ -1401,6 +1389,18 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1923,22 +1923,6 @@
     },
     {
       "title": "",
-      "description": "Second season of Mei Chuxi de Yinyangshi Yijia.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/108286.jpg",
-      "date": "Jul 15, 2020",
-      "producer": "Green Monster Team",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Historical",
-        "Demons",
-        "Supernatural"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Second half of Ling Long: Incarnation.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1318/109517.jpg",
       "date": "Jul 31, 2020",
@@ -1951,6 +1935,22 @@
         "Demons",
         "Drama",
         "Thriller"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Second season of Mei Chuxi de Yinyangshi Yijia.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/108286.jpg",
+      "date": "Jul 15, 2020",
+      "producer": "Green Monster Team",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Historical",
+        "Demons",
+        "Supernatural"
       ],
       "category": "ONA"
     },
@@ -2015,19 +2015,6 @@
     },
     {
       "title": "",
-      "description": "A special anime based on the beginning of iOS/Android RPG by the same name.\n\n(Source: AniDB)",
-      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "date": "Sep 2, 2020",
-      "producer": "CloverWorks",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Mecha"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Fourth season of Wan Jie Xian Zong.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1169/109280.jpg",
       "date": "Sep 14, 2020",
@@ -2039,6 +2026,19 @@
         "Demons",
         "Romance",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "A special anime based on the beginning of iOS/Android RPG by the same name.\n\n(Source: AniDB)",
+      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "date": "Sep 2, 2020",
+      "producer": "CloverWorks",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Mecha"
       ],
       "category": "ONA"
     },
