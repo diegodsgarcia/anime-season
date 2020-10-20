@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-10-19",
+  "lastUpdate": "2020-10-20",
   "animes": [
     {
       "title": "",
@@ -2229,18 +2229,6 @@
     },
     {
       "title": "",
-      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
-      "date": "Apr 6, 2020",
-      "producer": "-",
-      "eps": 3,
-      "genres": [
-        "Game"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Third season of Bai Gui Youeryuan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/108463.jpg",
       "date": "May 21, 2020",
@@ -2253,14 +2241,13 @@
     },
     {
       "title": "",
-      "description": "A young man who has left his parents' home follows the path of a customs officer. And what lies ahead is...\n\n(Source: Anilist)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1785/108594.jpg",
-      "date": "May 20, 2020",
+      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
+      "date": "Apr 6, 2020",
       "producer": "-",
-      "eps": 1,
+      "eps": 3,
       "genres": [
-        "Music",
-        "Slice of Life"
+        "Game"
       ],
       "category": "ONA"
     },
@@ -2277,6 +2264,19 @@
         "Historical",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "A young man who has left his parents' home follows the path of a customs officer. And what lies ahead is...\n\n(Source: Anilist)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1785/108594.jpg",
+      "date": "May 20, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Music",
+        "Slice of Life"
       ],
       "category": "ONA"
     },

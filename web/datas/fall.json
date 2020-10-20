@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-10-19",
+  "lastUpdate": "2020-10-20",
   "animes": [
     {
       "title": "",
@@ -187,21 +187,6 @@
     },
     {
       "title": "",
-      "description": "The second floor of the gym―this was where we always met. It was class time, but of course, there weren't any classes going on in a place like this.\n\nThis was where Shimamura and I became friends. We hung out here―talking about TV shows and cooking, playing some ping pong... This is where we fostered our friendship.\n\nKeeping my head propped against the wall, I let out a small sigh.\n\nWhat was this feeling? Yesterday, I'd dreamt of me and Shimamura kissing.\n\nNot that I'm like that. I'm sure Shimamura isn't either. It's not even something worth repeating myself about, but really, it's not like that.\n\nIt's just that when she hears the word \"friend,\" I want her to think of me first. That's all.\n\n(Source: Baka-Tsuki)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1649/109056.jpg",
-      "date": "Oct 9, 2020, 01:58 (JST)",
-      "producer": "Tezuka Productions",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Romance",
-        "School",
-        "Shoujo Ai"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "In the late 19th century, the British Empire has become a global power. Due to the strict class stratification, the average citizen has little chance of successfully rising up to the top, where the despicable nobility rules over them all.\n\nWilliam James Moriarty, the second son of the Moriarty household, is a young mathematics professor who has displayed great cunning and intellect since he was a child. Along with his brothers Albert and Louis, he lives the simple life of a noble. Outside of school, William is a well-known private consultant willing to solve the problems of anyone in need. However, his gentle demeanor belies his position as the head of a group prepared to wreak havoc in pursuit of its desire—a new world built from the ashes of the old.\n\nYuukoku no Moriarty puts a new spin on Arthur Conan Doyle's original work by putting the spotlight on its main antagonist and exploring how he came to be the first and only \"criminal consultant.\"\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
       "date": "Oct 11, 2020, 22:30 (JST)",
@@ -212,6 +197,21 @@
         "Historical",
         "Psychological",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "The second floor of the gym―this was where we always met. It was class time, but of course, there weren't any classes going on in a place like this.\n\nThis was where Shimamura and I became friends. We hung out here―talking about TV shows and cooking, playing some ping pong... This is where we fostered our friendship.\n\nKeeping my head propped against the wall, I let out a small sigh.\n\nWhat was this feeling? Yesterday, I'd dreamt of me and Shimamura kissing.\n\nNot that I'm like that. I'm sure Shimamura isn't either. It's not even something worth repeating myself about, but really, it's not like that.\n\nIt's just that when she hears the word \"friend,\" I want her to think of me first. That's all.\n\n(Source: Baka-Tsuki)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1649/109056.jpg",
+      "date": "Oct 9, 2020, 01:58 (JST)",
+      "producer": "Tezuka Productions",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Romance",
+        "School",
+        "Shoujo Ai"
       ],
       "category": "TV (New)"
     },
@@ -313,20 +313,6 @@
     },
     {
       "title": "",
-      "description": "In the near future, humanity faces imminent destruction from mysterious creatures known as \"Huge.\" The world wages war against the Huge, and develops the anti-weapon \"CHARM\" (Counter Huge Arms) by combining science and magic. CHARM works more effectively when used by teenage girls, and those who use the weapons are revered as \"Lilies.\" The Lilies are trained at military academies called \"Gardens,\" which also serve as bases to protect and advise people. This is a story about girls who aim to become Lilies so they can protect Earth. \n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1024/108413.jpg",
-      "date": "Oct 2, 2020, 01:28 (JST)",
-      "producer": "Shaft",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Magic",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Konomi Kasahara, a junior high school girl, has made a big name after winning numerous competitive puzzle game tournaments. The story begins when she finds a sports climbing club in her high school. Using special skills other than that of puzzle games, Kasahara becomes fascinated with climbing.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1626/108849.jpg",
       "date": "Oct 4, 2020, 02:00 (JST)",
@@ -336,6 +322,20 @@
         "Comedy",
         "Sports",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "In the near future, humanity faces imminent destruction from mysterious creatures known as \"Huge.\" The world wages war against the Huge, and develops the anti-weapon \"CHARM\" (Counter Huge Arms) by combining science and magic. CHARM works more effectively when used by teenage girls, and those who use the weapons are revered as \"Lilies.\" The Lilies are trained at military academies called \"Gardens,\" which also serve as bases to protect and advise people. This is a story about girls who aim to become Lilies so they can protect Earth. \n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1024/108413.jpg",
+      "date": "Oct 2, 2020, 01:28 (JST)",
+      "producer": "Shaft",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Magic",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -662,7 +662,7 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1708/108612.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1819/109679.jpg",
       "date": "Oct 9, 2020, 07:30 (JST)",
       "producer": "Lesprit, Shin-Ei Animation",
       "eps": null,
@@ -687,18 +687,6 @@
     },
     {
       "title": "",
-      "description": "",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1850/108933.jpg",
-      "date": "Oct 4, 2020, 09:55 (JST)",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Third season of Seizei Ganbare! Mahou Shoujo Kurumi.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1097/108552.jpg",
       "date": "Oct 7, 2020, 23:54 (JST)",
@@ -707,6 +695,18 @@
       "genres": [
         "Parody",
         "Magic"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1850/108933.jpg",
+      "date": "Oct 4, 2020, 09:55 (JST)",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -2059,7 +2059,7 @@
     },
     {
       "title": "",
-      "description": "A slapstick comedy in which characters perform ad-lib plays.\n\n(Source: Official Twitter)",
+      "description": "The story centers on an RPG that people call \"kusoge\" (\"crap-tier game,\" referring to games with quirky or badly implemented mechanics and design). The main character Lidays decides to change the game's story, meeting with other characters while the game isn't being played. But as they flub their lines, the situation spirals out of control.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/109489.jpg",
       "date": "Oct ??, 2020",
       "producer": "-",
