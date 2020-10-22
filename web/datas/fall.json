@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-10-21",
+  "lastUpdate": "2020-10-22",
   "animes": [
     {
       "title": "",
@@ -492,6 +492,20 @@
     },
     {
       "title": "",
+      "description": "The main character Dogesuaru, who wants to see the naughty bits of girls, has a last resort to persuade them. That is, to grovel in front of them. Intent on having his lewd requests heard, he endures through the kowtowing. The heroines are often taken aback, embarrassed, and confused by his sudden action. Is anything impossible before dogeza?! Will the girls show him their risqué side?!\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1634/109387.jpg",
+      "date": "Oct 14, 2020, 23:05 (JST)",
+      "producer": "DMM pictures",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/108577.jpg",
       "date": "Oct 8, 2020, 01:05 (JST)",
@@ -515,20 +529,6 @@
       "eps": null,
       "genres": [
         "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "The main character Dogesuaru, who wants to see the naughty bits of girls, has a last resort to persuade them. That is, to grovel in front of them. Intent on having his lewd requests heard, he endures through the kowtowing. The heroines are often taken aback, embarrassed, and confused by his sudden action. Is anything impossible before dogeza?! Will the girls show him their risqué side?!\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1634/109387.jpg",
-      "date": "Oct 14, 2020, 23:05 (JST)",
-      "producer": "DMM pictures",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "Ecchi",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -974,18 +974,6 @@
         "Historical",
         "Sports",
         "Seinen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "Set in modern-day Tokyo where dreams and desires are afloat, a group of ninjas called \"Toukeshuu\" is set to stop the spread of \"darkness\" that prevails in the world using ancient techniques passed down through generations.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1997/108104.jpg",
-      "date": "Jul 12, 2020, 03:05 (JST)",
-      "producer": "DRAWIZ, ILCA, Toho Interactive Animation",
-      "eps": null,
-      "genres": [
-        "Supernatural"
       ],
       "category": "TV (Continuing)"
     },
@@ -1632,19 +1620,6 @@
     },
     {
       "title": "",
-      "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
-      "date": "Jul 12, 2017",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
       "date": "Apr 15, 2020",
@@ -1653,6 +1628,19 @@
       "genres": [
         "Comedy",
         "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
+      "date": "Jul 12, 2017",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids",
+        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1955,7 +1943,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1076/109488.jpg",
       "date": "Oct 16, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Action",
         "Adventure",
@@ -2033,19 +2021,6 @@
     },
     {
       "title": "",
-      "description": "Based on the video game \"Punishing: Gray Raven.\"",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1045/109449.jpg",
-      "date": "Oct 27, 2020",
-      "producer": "BigFireBird Animation",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "One day in 20XX, the alien pig prince who planned to take a human body as his home arrived on Earth, but unexpectedly discovered that the human being he wanted to live in had not yet been born! The pig prince, who has nowhere to settle down, got to know Saiji and Rubi. The three pulled various funny pranks on humans, causing humans to have baldness, bad breath, headaches, emotional crisis and other problems.\n\n(Source: bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1737/109368.jpg",
       "date": "Oct 5, 2020",
@@ -2059,9 +2034,22 @@
     },
     {
       "title": "",
+      "description": "Based on the video game \"Punishing: Gray Raven.\"",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1045/109449.jpg",
+      "date": "Oct 27, 2020",
+      "producer": "BigFireBird Animation",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "The story centers on an RPG that people call \"kusoge\" (\"crap-tier game,\" referring to games with quirky or badly implemented mechanics and design). The main character Lidays decides to change the game's story, meeting with other characters while the game isn't being played. But as they flub their lines, the situation spirals out of control.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/109489.jpg",
-      "date": "Oct ??, 2020",
+      "date": "Oct 8, 2020",
       "producer": "-",
       "eps": 12,
       "genres": [
@@ -2085,18 +2073,6 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1106/109450.jpg",
-      "date": "Oct 22, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1295/109372.jpg",
       "date": "Oct 2, 2020",
       "producer": "Shanghai Foch Film Culture Investment",
@@ -2104,6 +2080,18 @@
       "genres": [
         "Music",
         "School"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1106/109450.jpg",
+      "date": "Oct 22, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2515,6 +2503,18 @@
         "Fantasy",
         "Magic",
         "Shoujo"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
+      "description": "Not every orphan would love living at St. Morwald's Home for Children, but Earwig does. She gets whatever she wants, whenever she wants it, and it's been that way since she was dropped on the orphanage doorstep as a baby. But all that changes the day Bella Yaga and the Mandrake come to St. Morwald's, disguised as foster parents.\n\nEarwig is whisked off to their mysterious house full of invisible rooms, potions, and spell books, with magic around every corner. Most children would run in terror from a house like that... but not Earwig. Using her own cleverness—with a lot of help from a talking cat—she decides to show the witch who's boss. \n\n(Source: HarperCollins Publishers)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1189/108109.jpg",
+      "date": "Dec ??, 2020",
+      "producer": "Studio Ghibli",
+      "eps": 1,
+      "genres": [
+        "Magic"
       ],
       "category": "Movie"
     },
