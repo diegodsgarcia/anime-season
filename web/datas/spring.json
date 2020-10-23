@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-10-22",
+  "lastUpdate": "2020-10-23",
   "animes": [
     {
       "title": "",
@@ -308,7 +308,7 @@
     {
       "title": "",
       "description": "Following the successful Sanyou campaign, the Qin army, including 1,000-Man Commander Li Xin, inches ever closer to fulfilling King Ying Zheng's dream of unifying China. With a major geographical foothold in the state of Wei now under its control, Qin sets its sights eastward toward the remaining warring states.\n\nMeanwhile Li Mu—an unparalleled strategist and the newly appointed prime minister of the state of Zhao—has taken advantage of Zhao's temporary truce with Qin to negotiate with the other states without interruption. Seemingly without warning, Ying Zheng receives news that armies from the states of Chu, Zhao, Wei, Han, Yan, and Qi have crossed into Qin territory. Realizing too late the purpose behind Li Mu's truce with Qin, Zheng quickly gathers his advisors to devise a plan to address the six-state coalition army on their doorstep. For the first time in history, the state of Qin faces complete destruction and must use every resource and strategy at their disposal to prevent themselves from being wiped off the map.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1723/109872.jpg",
       "date": "Apr 6, 2020, 00:15 (JST)",
       "producer": "Studio Signpost",
       "eps": null,
@@ -670,19 +670,6 @@
     },
     {
       "title": "",
-      "description": "The gag anime takes place at a school for youkai and other supernatural beings. A vampire named Rakuru transfers to the school from the West, and she tries to change the school as the class representative.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106451.jpg",
-      "date": "Apr 7, 2020",
-      "producer": "-",
-      "eps": 13,
-      "genres": [
-        "Comedy",
-        "Supernatural"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "50 years have passed since the events of the original Hakushon Daimaou series. Akubi is training to become queen when she meets Kantarou Yodama, the grandson of the genie bottle's original owner, Kan-chan. Together, Akubi and Kantarou take on many jobs in the human world and learn the importance of having a dream.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1621/105178.jpg",
       "date": "Apr 11, 2020, 17:30 (JST)",
@@ -691,6 +678,19 @@
       "genres": [
         "Comedy",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "The gag anime takes place at a school for youkai and other supernatural beings. A vampire named Rakuru transfers to the school from the West, and she tries to change the school as the class representative.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106451.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "-",
+      "eps": 13,
+      "genres": [
+        "Comedy",
+        "Supernatural"
       ],
       "category": "TV (New)"
     },
@@ -1895,23 +1895,6 @@
     },
     {
       "title": "",
-      "description": "We follow the daily life of Shen Shi, a young man looking for his brother. To find him, he goes to the Dali Temple. One thing led to another, he eventually became an officer for Li Bing, a senior official with the appearance of a white cat.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1659/105254.jpg",
-      "date": "Apr 10, 2020",
-      "producer": "Nice Boat Animation",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Mystery",
-        "Comedy",
-        "Historical",
-        "Demons",
-        "Martial Arts"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Fifth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/108563.jpg",
       "date": "May 23, 2020",
@@ -1924,6 +1907,23 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "We follow the daily life of Shen Shi, a young man looking for his brother. To find him, he goes to the Dali Temple. One thing led to another, he eventually became an officer for Li Bing, a senior official with the appearance of a white cat.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1659/105254.jpg",
+      "date": "Apr 10, 2020",
+      "producer": "Nice Boat Animation",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Comedy",
+        "Historical",
+        "Demons",
+        "Martial Arts"
       ],
       "category": "ONA"
     },
@@ -2093,19 +2093,6 @@
     },
     {
       "title": "",
-      "description": "The story takes place in 2047. We follow the story of several young girls, each coming from different dimensions. All of them want to join the new project group 48.\n\n(Source: Nautiljon)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1863/107433.jpg",
-      "date": "Apr 8, 2020",
-      "producer": "Seven Stone Entertainment",
-      "eps": 12,
-      "genres": [
-        "Music",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1429/108132.jpg",
       "date": "Jun 18, 2020",
@@ -2114,6 +2101,19 @@
       "genres": [
         "Action",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The story takes place in 2047. We follow the story of several young girls, each coming from different dimensions. All of them want to join the new project group 48.\n\n(Source: Nautiljon)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1863/107433.jpg",
+      "date": "Apr 8, 2020",
+      "producer": "Seven Stone Entertainment",
+      "eps": 12,
+      "genres": [
+        "Music",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2295,18 +2295,6 @@
     },
     {
       "title": "",
-      "description": "In the books, the titular Grandma seeks to explore the true meaning of the Japanese phrase \"mottainai\" after her son asked her what it meant and she couldn't answer. \"Mottainai\" is a commonly used exclamation that roughly translates to \"what a waste!\", expressing regret over wastefulness. The Grandma seeks to explore the meaning and importance of \"mottainai\" in the story.\n\n(Source: Anime News Network)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1652/108053.jpg",
-      "date": "Jun 4, 2020",
-      "producer": "LIDENFILMS",
-      "eps": 4,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Two neighboring childhood friends. An airheaded girl and the boy who takes care of her like a mother hen. And of course, there is his family background with a tiny, insignificant supernatural secret. Now that her parents have left the girl in their neighbor's care, will she ever discover her friend's secret?\n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1550/107929.jpg",
       "date": "May 30, 2020",
@@ -2316,6 +2304,18 @@
         "Comedy",
         "Supernatural",
         "Romance"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "In the books, the titular Grandma seeks to explore the true meaning of the Japanese phrase \"mottainai\" after her son asked her what it meant and she couldn't answer. \"Mottainai\" is a commonly used exclamation that roughly translates to \"what a waste!\", expressing regret over wastefulness. The Grandma seeks to explore the meaning and importance of \"mottainai\" in the story.\n\n(Source: Anime News Network)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1652/108053.jpg",
+      "date": "Jun 4, 2020",
+      "producer": "LIDENFILMS",
+      "eps": 4,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "ONA"
     },
