@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-10-23",
+  "lastUpdate": "2020-10-24",
   "animes": [
     {
       "title": "",
@@ -202,21 +202,6 @@
     },
     {
       "title": "",
-      "description": "The second floor of the gym―this was where we always met. It was class time, but of course, there weren't any classes going on in a place like this.\n\nThis was where Shimamura and I became friends. We hung out here―talking about TV shows and cooking, playing some ping pong... This is where we fostered our friendship.\n\nKeeping my head propped against the wall, I let out a small sigh.\n\nWhat was this feeling? Yesterday, I'd dreamt of me and Shimamura kissing.\n\nNot that I'm like that. I'm sure Shimamura isn't either. It's not even something worth repeating myself about, but really, it's not like that.\n\nIt's just that when she hears the word \"friend,\" I want her to think of me first. That's all.\n\n(Source: Baka-Tsuki)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1649/109056.jpg",
-      "date": "Oct 9, 2020, 01:58 (JST)",
-      "producer": "Tezuka Productions",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Romance",
-        "School",
-        "Shoujo Ai"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "It is the year 20XX. Earth was assaulted by monsters that would come to be known as \"the Enemy of Humanity.\" In order to deal with this threat, special schools composed of teenagers with extraordinary abilities were formed. These people, who came to be known as \"the Talented,\" had abilities that could defy the rules of reality.\n\nAmong these people with supernatural powers was an outlier, an individual who was sent to one of these schools despite having no innate special abilities whatsoever. This is the story of our protagonist, who attempts to defeat the Enemies of Humanity through the use of intelligence and manipulation alone. \n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1662/109146.jpg",
       "date": "Oct 4, 2020, 21:30 (JST)",
@@ -228,6 +213,21 @@
         "Supernatural",
         "Thriller",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "The second floor of the gym―this was where we always met. It was class time, but of course, there weren't any classes going on in a place like this.\n\nThis was where Shimamura and I became friends. We hung out here―talking about TV shows and cooking, playing some ping pong... This is where we fostered our friendship.\n\nKeeping my head propped against the wall, I let out a small sigh.\n\nWhat was this feeling? Yesterday, I'd dreamt of me and Shimamura kissing.\n\nNot that I'm like that. I'm sure Shimamura isn't either. It's not even something worth repeating myself about, but really, it's not like that.\n\nIt's just that when she hears the word \"friend,\" I want her to think of me first. That's all.\n\n(Source: Baka-Tsuki)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1649/109056.jpg",
+      "date": "Oct 9, 2020, 01:58 (JST)",
+      "producer": "Tezuka Productions",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Romance",
+        "School",
+        "Shoujo Ai"
       ],
       "category": "TV (New)"
     },
@@ -1416,21 +1416,6 @@
     },
     {
       "title": "",
-      "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
-      "date": "Apr 8, 2016, 18:20 (JST)",
-      "producer": "Pie in the sky",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Parody",
-        "Kids",
-        "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1117/106742.jpg",
       "date": "Apr 5, 2020, 08:30 (JST)",
@@ -1441,6 +1426,21 @@
         "Adventure",
         "Comedy",
         "Shounen"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
+      "date": "Apr 8, 2016, 18:20 (JST)",
+      "producer": "Pie in the sky",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Parody",
+        "Kids",
+        "School"
       ],
       "category": "TV (Continuing)"
     },
@@ -1607,19 +1607,6 @@
     },
     {
       "title": "",
-      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
-      "date": "Apr 6, 2020, 23:29 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
       "date": "Apr 15, 2020",
@@ -1627,6 +1614,19 @@
       "eps": 100,
       "genres": [
         "Comedy",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
+      "date": "Apr 6, 2020, 23:29 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
         "Kids"
       ],
       "category": "TV (Continuing)"
@@ -1715,18 +1715,6 @@
     },
     {
       "title": "",
-      "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
-      "date": "Mar 28, 2011, 08:24 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "A gag anime about foods in a refrigerator. The anime airs within the Oha Suta children's morning TV program and will receive a simultaneous manga serialization by Kazumata Oguri.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1884/95217.jpg",
       "date": "Oct 1, 2018, 07:05 (JST)",
@@ -1736,6 +1724,18 @@
         "Comedy",
         "Kids",
         "Parody"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
+      "date": "Mar 28, 2011, 08:24 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1814,19 +1814,6 @@
     },
     {
       "title": "",
-      "description": "Childhood, upbringing, family background, social relations, traumatic experiences...\n\nWe keep reviewing and seeking out the motives of criminals, exploring the subtlest emotions driving them. It’s not to put ourselves in their shoes and sympathize, or even forgive them; it’s not to find some reasons to exculpate their crimes; it’s not to kneel down before the so-called \"complexity of human nature\"; nor to introspect social conflicts, much less to alienate ourselves into monsters.\n\nWe just want to have a fair trial – for ourselves and for those who still have hope for the world.\n\n(Source: NovelUpdates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1229/107439.jpg",
-      "date": "Oct ??, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Mystery",
-        "Drama"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Zero was mankind’s first real superhero. Under his watch, countless other superheros appeared and followed in his footsteps. However, after 5 years of war, Zero disappeared without a trace.\n\n(Source: zeroscans)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1494/109747.jpg",
       "date": "Oct 18, 2020",
@@ -1835,6 +1822,19 @@
       "genres": [
         "Action",
         "Sci-Fi"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Childhood, upbringing, family background, social relations, traumatic experiences...\n\nWe keep reviewing and seeking out the motives of criminals, exploring the subtlest emotions driving them. It’s not to put ourselves in their shoes and sympathize, or even forgive them; it’s not to find some reasons to exculpate their crimes; it’s not to kneel down before the so-called \"complexity of human nature\"; nor to introspect social conflicts, much less to alienate ourselves into monsters.\n\nWe just want to have a fair trial – for ourselves and for those who still have hope for the world.\n\n(Source: NovelUpdates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1229/107439.jpg",
+      "date": "Oct ??, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Mystery",
+        "Drama"
       ],
       "category": "ONA"
     },
@@ -1849,6 +1849,19 @@
         "Slice of Life",
         "Comedy",
         "Supernatural"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Mini anime for Kuma Kuma Kuma Bear released weekly on the Kadokawa Anime YouTube channel.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1584/109714.jpg",
+      "date": "Oct 9, 2020",
+      "producer": "EMT Squared",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2021,19 +2034,6 @@
     },
     {
       "title": "",
-      "description": "One day in 20XX, the alien pig prince who planned to take a human body as his home arrived on Earth, but unexpectedly discovered that the human being he wanted to live in had not yet been born! The pig prince, who has nowhere to settle down, got to know Saiji and Rubi. The three pulled various funny pranks on humans, causing humans to have baldness, bad breath, headaches, emotional crisis and other problems.\n\n(Source: bilibili, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1737/109368.jpg",
-      "date": "Oct 5, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Based on the video game \"Punishing: Gray Raven.\"",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1045/109449.jpg",
       "date": "Oct 27, 2020",
@@ -2041,6 +2041,19 @@
       "eps": 12,
       "genres": [
         "Action",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "One day in 20XX, the alien pig prince who planned to take a human body as his home arrived on Earth, but unexpectedly discovered that the human being he wanted to live in had not yet been born! The pig prince, who has nowhere to settle down, got to know Saiji and Rubi. The three pulled various funny pranks on humans, causing humans to have baldness, bad breath, headaches, emotional crisis and other problems.\n\n(Source: bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1737/109368.jpg",
+      "date": "Oct 5, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
         "Comedy"
       ],
       "category": "ONA"
@@ -2141,10 +2154,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/109071.jpg",
-      "date": "Nov 27, 2020",
-      "producer": "-",
-      "eps": null,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1966/109606.jpg",
+      "date": "Oct 2, 2020",
+      "producer": "T-Rex",
+      "eps": 2,
       "genres": [
         "Hentai"
       ],
@@ -2153,10 +2166,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1966/109606.jpg",
-      "date": "Oct 2, 2020",
-      "producer": "T-Rex",
-      "eps": 2,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/109071.jpg",
+      "date": "Nov 27, 2020",
+      "producer": "-",
+      "eps": null,
       "genres": [
         "Hentai"
       ],
