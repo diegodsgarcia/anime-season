@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-10-24",
+  "lastUpdate": "2020-10-25",
   "animes": [
     {
       "title": "",
@@ -2126,10 +2126,10 @@
       "eps": 9,
       "genres": [
         "Action",
-        "Sci-Fi",
         "Adventure",
         "Comedy",
         "Mecha",
+        "Sci-Fi",
         "Shounen"
       ],
       "category": "ONA"
@@ -2474,10 +2474,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1542/106244.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1239/106367.jpg",
       "date": "May 29, 2020",
-      "producer": "-",
-      "eps": 1,
+      "producer": "PoRO",
+      "eps": null,
       "genres": [
         "Hentai"
       ],
@@ -2486,10 +2486,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1239/106367.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1542/106244.jpg",
       "date": "May 29, 2020",
-      "producer": "PoRO",
-      "eps": null,
+      "producer": "-",
+      "eps": 1,
       "genres": [
         "Hentai"
       ],

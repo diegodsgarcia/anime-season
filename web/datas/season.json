@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-10-24",
+  "lastUpdate": "2020-10-25",
   "animes": [
     {
       "title": "",
@@ -158,6 +158,19 @@
     },
     {
       "title": "",
+      "description": "Long ago, a war broke out in Japan that pitted Kantou against Kansai and divided the country. Kansai became dependent on Kantou, but slowly the police and government began losing control of Kansai to criminals known as Akudama.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
+      "date": "Oct 8, 2020, 21:30 (JST)",
+      "producer": "Studio Pierrot",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Yotsuya Yuusuke along with his classmates Shindou Iu and Hakozaki Kusue have been transported to a strange and unknown world inhabited by mythological creatures. As soon as they arrive, they meet somebody calling himself the Game Master who then grants them a time-limited quest. To aid them in this quest, he also bestows Shindou and Hakozaki with the roles of a Magician and a Warrior while Yotsuya is randomly granted the role of... a Farmer?!\n\nThis is how a hectic life of adventuring began for three students who now have no choice, but to complete random quests for several phases in the fantasy world if they want to stay alive and protect the real world from the demons and monsters they encounter. \n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1825/108800.jpg",
       "date": "Oct 2, 2020, 22:00 (JST)",
@@ -169,19 +182,6 @@
         "Fantasy",
         "Game",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Long ago, a war broke out in Japan that pitted Kantou against Kansai and divided the country. Kansai became dependent on Kantou, but slowly the police and government began losing control of Kansai to criminals known as Akudama.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
-      "date": "Oct 8, 2020, 21:30 (JST)",
-      "producer": "Studio Pierrot",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
@@ -1840,6 +1840,19 @@
     },
     {
       "title": "",
+      "description": "Mini anime for Kuma Kuma Kuma Bear released weekly on the Kadokawa Anime YouTube channel.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1584/109714.jpg",
+      "date": "Oct 9, 2020",
+      "producer": "EMT Squared",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Second season of Wan Sheng Jie.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1227/108806.jpg",
       "date": "Oct 14, 2020",
@@ -1849,19 +1862,6 @@
         "Slice of Life",
         "Comedy",
         "Supernatural"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Mini anime for Kuma Kuma Kuma Bear released weekly on the Kadokawa Anime YouTube channel.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1584/109714.jpg",
-      "date": "Oct 9, 2020",
-      "producer": "EMT Squared",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2010,7 +2010,7 @@
       "title": "",
       "description": "Second season Han Hua Ri Ji.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1861/109494.jpg",
-      "date": "Oct 25, 2020",
+      "date": "Nov 15, 2020",
       "producer": "L²Studio",
       "eps": null,
       "genres": [
@@ -2072,19 +2072,6 @@
     },
     {
       "title": "",
-      "description": "Fourth season of Menghuan Shuyuan.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1346/109452.jpg",
-      "date": "Oct 12, 2020",
-      "producer": "Painting Dream",
-      "eps": 14,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1295/109372.jpg",
       "date": "Oct 2, 2020",
@@ -2093,6 +2080,19 @@
       "genres": [
         "Music",
         "School"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Fourth season of Menghuan Shuyuan.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1346/109452.jpg",
+      "date": "Oct 12, 2020",
+      "producer": "Painting Dream",
+      "eps": 14,
+      "genres": [
+        "Comedy",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2168,6 +2168,18 @@
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/109071.jpg",
       "date": "Nov 27, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/106369.jpg",
+      "date": "Oct 30, 2020",
       "producer": "-",
       "eps": null,
       "genres": [
