@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-10-25",
+  "lastUpdate": "2020-10-26",
   "animes": [
     {
       "title": "",
@@ -929,19 +929,6 @@
     },
     {
       "title": "",
-      "description": "The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/106284.jpg",
-      "date": "Apr 6, 2020, 07:05 (JST)",
-      "producer": "OLM, Wit Studio",
-      "eps": null,
-      "genres": [
-        "Music",
-        "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
       "date": "Apr 3, 2020",
@@ -951,6 +938,19 @@
         "Action",
         "Fantasy",
         "Game"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/106284.jpg",
+      "date": "Apr 6, 2020, 07:05 (JST)",
+      "producer": "OLM, Wit Studio",
+      "eps": null,
+      "genres": [
+        "Music",
+        "School"
       ],
       "category": "TV (Continuing)"
     },
@@ -1457,19 +1457,6 @@
     },
     {
       "title": "",
-      "description": "Unicorn no Kyupi is a helpful sprite that lives in the kitchen and polishes dirty pots and pans clean with its fluffy white body. Harigorou, a rival sprite shaped like a hedgehog, tries to interfere. \n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1165/91319.jpg",
-      "date": "Mar 20, 2017",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
       "date": "Apr 8, 2020, 06:45 (JST)",
@@ -1480,6 +1467,19 @@
         "Parody",
         "Kids",
         "Samurai"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Unicorn no Kyupi is a helpful sprite that lives in the kitchen and polishes dirty pots and pans clean with its fluffy white body. Harigorou, a rival sprite shaped like a hedgehog, tries to interfere. \n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1165/91319.jpg",
+      "date": "Mar 20, 2017",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids",
+        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1779,20 +1779,6 @@
     },
     {
       "title": "",
-      "description": "In the twelve years of Tianbao, Kong Hongjun, a handsome young man who is not familiar with the world, left the Yaojin Palace on the Taihang Mountain with three important tasks, and came to Chang'an, which is full of prosperity. Kong Hongjun first entered the Datang Exorcism Division, and the head supervisor was actually Long Wujun general Li Jinglong who had dealt with it not long ago. But he accidentally broke the Chen's heart lamp, and the heart lamp entered Li Jinglong's body. In the light and shadow of the lamp, there are the bright red lights of Pingkangli, the exorcism of the sycamore in the summer sunshine, the vast sky and sand and flying snow, the peaceful singing of Artai. Mo Rigen and Lu Xu picked off early morning leaves, Qiu Yongsi's flying strokes.\n\n(Source: V2Anime)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1432/105225.jpg",
-      "date": "Jul 5, 2020",
-      "producer": "Sparkly Key Animation Studio",
-      "eps": 13,
-      "genres": [
-        "Action",
-        "Historical",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.\n\n(Source: Wuxia World)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1085/109745.jpg",
       "date": "Jul 25, 2020",
@@ -1801,6 +1787,20 @@
       "genres": [
         "Action",
         "Adventure",
+        "Historical",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "In the twelve years of Tianbao, Kong Hongjun, a handsome young man who is not familiar with the world, left the Yaojin Palace on the Taihang Mountain with three important tasks, and came to Chang'an, which is full of prosperity. Kong Hongjun first entered the Datang Exorcism Division, and the head supervisor was actually Long Wujun general Li Jinglong who had dealt with it not long ago. But he accidentally broke the Chen's heart lamp, and the heart lamp entered Li Jinglong's body. In the light and shadow of the lamp, there are the bright red lights of Pingkangli, the exorcism of the sycamore in the summer sunshine, the vast sky and sand and flying snow, the peaceful singing of Artai. Mo Rigen and Lu Xu picked off early morning leaves, Qiu Yongsi's flying strokes.\n\n(Source: V2Anime)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1432/105225.jpg",
+      "date": "Jul 5, 2020",
+      "producer": "Sparkly Key Animation Studio",
+      "eps": 13,
+      "genres": [
+        "Action",
         "Historical",
         "Fantasy"
       ],
@@ -2094,19 +2094,6 @@
     },
     {
       "title": "",
-      "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
-      "date": "Jul 19, 2020",
-      "producer": "Gaina",
-      "eps": 1,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "A girl quietly reads a book in her room. Suddenly, a monster comes crawling out from under her bed! Is it friend or foe?",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1537/107336.jpg",
       "date": "Jul 26, 2019",
@@ -2115,6 +2102,19 @@
       "genres": [
         "Comedy",
         "Horror"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
+      "date": "Jul 19, 2020",
+      "producer": "Gaina",
+      "eps": 1,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2424,18 +2424,6 @@
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1954/109495.jpg",
       "date": "Aug 28, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/106369.jpg",
-      "date": "Sep 25, 2020",
       "producer": "-",
       "eps": null,
       "genres": [
