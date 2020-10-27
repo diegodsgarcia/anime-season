@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-10-26",
+  "lastUpdate": "2020-10-27",
   "animes": [
     {
       "title": "",
@@ -266,21 +266,6 @@
     },
     {
       "title": "",
-      "description": "Third season of Golden Kamuy.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
-      "date": "Oct 5, 2020, 23:00 (JST)",
-      "producer": "Geno Studio",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Historical",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Ryouma Takebayashi dies in his sleep at the age of 39 after leading a life of misfortune. Taking pity on him, three deities offer him the chance to reincarnate in a world of magic where he has only one mission: to be himself and enjoy life. They bestow upon Ryouma powerful physical abilities as well as the affinity to master all elements, and promise to watch over him. His new life as a young child officially starts when he is teleported into a forest.\n\nThree years go by. Having spent most of his time researching slimes, Ryouma has managed to evolve unique kinds of slimes, training an army of them while developing his magic abilities. Although the young boy is happy with his hermit existence and comfortable cave home, he somewhat misses the company of humans. But after healing an injured member of a passing group of travelers from a duke's household, Ryouma is persuaded to go with them and exit the forest accompanied by his menagerie of slimes. A whole new world awaits him, where his skills as a magic user and slime tamer continue to elicit surprise and admiration. \n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
       "date": "Oct 4, 2020, 23:30 (JST)",
@@ -291,6 +276,21 @@
         "Slice of Life",
         "Magic",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Third season of Golden Kamuy.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
+      "date": "Oct 5, 2020, 23:00 (JST)",
+      "producer": "Geno Studio",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Historical",
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -451,20 +451,6 @@
     },
     {
       "title": "",
-      "description": "Set in Hinomoto, a fictional version of Japan, where for a long time railway travel served as the most important form of transport. Each locomotive was paired with a humanoid control module, so-called Raillord, that aided the train operator. However, many rail lines had been discontinued due to the rising popularity of \"aerocrafts,\" a safe and convenient aerial mode of transport. As such, their accompanying railroads also went into a deep sleep.\n\nSoutetsu had lost his entire family in a rail accident and was adopted into the Migita household, which runs a shochu brewery in the city of Ohitoyo. He returned to his hometown to save it from the potential water pollution that would occur if they accepted the proposal to build an aerocraft factory nearby. He woke up the Raillord Hachiroku by accident and became her owner. For different purposes, they agreed to help find her lost locomotive, with the help of his stepsister Hibiki, the town's mayor and local railway chief, Paulette and others.\n\n(Source: VNDB, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/108605.jpg",
-      "date": "Oct 3, 2020, 01:00 (JST)",
-      "producer": "Saetta",
-      "eps": 12,
-      "genres": [
-        "Sci-Fi",
-        "Harem",
-        "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Two young people living in the Wahrheit Empire are planning to relocate to the capital city: the shy Inumael who works as a transporter and left his beloved sister behind at his parents' home, and Leocadio, a naive new soldier of the Empire who spends his days in the imperial city thinking of his future as a soldier.\n\nIn the Empire, countless human beings were once extinguished from the world. The return of the \"light,\" the disaster that summoned a ferocious monster into the world, is predicted, and the remaining humans' spirits are devastated. Meanwhile, the fate of Inumael, Leocadio, and the history of the Empire will change drastically as a result of one weapon smuggling incident.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1109/108983.jpg",
       "date": "Oct 13, 2020, 23:00 (JST)",
@@ -474,6 +460,20 @@
         "Action",
         "Magic",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Set in Hinomoto, a fictional version of Japan, where for a long time railway travel served as the most important form of transport. Each locomotive was paired with a humanoid control module, so-called Raillord, that aided the train operator. However, many rail lines had been discontinued due to the rising popularity of \"aerocrafts,\" a safe and convenient aerial mode of transport. As such, their accompanying railroads also went into a deep sleep.\n\nSoutetsu had lost his entire family in a rail accident and was adopted into the Migita household, which runs a shochu brewery in the city of Ohitoyo. He returned to his hometown to save it from the potential water pollution that would occur if they accepted the proposal to build an aerocraft factory nearby. He woke up the Raillord Hachiroku by accident and became her owner. For different purposes, they agreed to help find her lost locomotive, with the help of his stepsister Hibiki, the town's mayor and local railway chief, Paulette and others.\n\n(Source: VNDB, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/108605.jpg",
+      "date": "Oct 3, 2020, 01:00 (JST)",
+      "producer": "Saetta",
+      "eps": 12,
+      "genres": [
+        "Sci-Fi",
+        "Harem",
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -1229,18 +1229,6 @@
     },
     {
       "title": "",
-      "description": "Based on the characters created by Study.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1877/91297.jpg",
-      "date": "Jun 8, 2016, 00:00 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "Third season of Kiratto Pri☆chan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/105552.jpg",
       "date": "Apr 5, 2020, 10:00 (JST)",
@@ -1252,6 +1240,18 @@
         "Comedy",
         "Magic",
         "Shoujo"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Based on the characters created by Study.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1877/91297.jpg",
+      "date": "Jun 8, 2016, 00:00 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1659,6 +1659,19 @@
     },
     {
       "title": "",
+      "description": "Unicorn no Kyupi is a helpful sprite that lives in the kitchen and polishes dirty pots and pans clean with its fluffy white body. Harigorou, a rival sprite shaped like a hedgehog, tries to interfere. \n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1165/91319.jpg",
+      "date": "Mar 20, 2017",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids",
+        "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
       "date": "Apr 8, 2020, 06:45 (JST)",
@@ -1669,19 +1682,6 @@
         "Parody",
         "Kids",
         "Samurai"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "Unicorn no Kyupi is a helpful sprite that lives in the kitchen and polishes dirty pots and pans clean with its fluffy white body. Harigorou, a rival sprite shaped like a hedgehog, tries to interfere. \n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1165/91319.jpg",
-      "date": "Mar 20, 2017",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids",
-        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -2060,18 +2060,6 @@
     },
     {
       "title": "",
-      "description": "The story centers on an RPG that people call \"kusoge\" (\"crap-tier game,\" referring to games with quirky or badly implemented mechanics and design). The main character Lidays decides to change the game's story, meeting with other characters while the game isn't being played. But as they flub their lines, the situation spirals out of control.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/109489.jpg",
-      "date": "Oct 19, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1295/109372.jpg",
       "date": "Oct 2, 2020",
@@ -2080,6 +2068,18 @@
       "genres": [
         "Music",
         "School"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The story centers on an RPG that people call \"kusoge\" (\"crap-tier game,\" referring to games with quirky or badly implemented mechanics and design). The main character Lidays decides to change the game's story, meeting with other characters while the game isn't being played. But as they flub their lines, the situation spirals out of control.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/109489.jpg",
+      "date": "Oct 19, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Comedy"
       ],
       "category": "ONA"
     },

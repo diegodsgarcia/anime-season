@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-10-26",
+  "lastUpdate": "2020-10-27",
   "animes": [
     {
       "title": "",
@@ -574,6 +574,19 @@
     },
     {
       "title": "",
+      "description": "The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/106284.jpg",
+      "date": "Apr 6, 2020, 07:05 (JST)",
+      "producer": "OLM, Wit Studio",
+      "eps": null,
+      "genres": [
+        "Music",
+        "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
       "date": "Apr 3, 2020",
@@ -583,19 +596,6 @@
         "Action",
         "Fantasy",
         "Game"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/106284.jpg",
-      "date": "Apr 6, 2020, 07:05 (JST)",
-      "producer": "OLM, Wit Studio",
-      "eps": null,
-      "genres": [
-        "Music",
-        "School"
       ],
       "category": "TV (New)"
     },
@@ -670,19 +670,6 @@
     },
     {
       "title": "",
-      "description": "50 years have passed since the events of the original Hakushon Daimaou series. Akubi is training to become queen when she meets Kantarou Yodama, the grandson of the genie bottle's original owner, Kan-chan. Together, Akubi and Kantarou take on many jobs in the human world and learn the importance of having a dream.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1621/105178.jpg",
-      "date": "Apr 11, 2020, 17:30 (JST)",
-      "producer": "Nippon Animation, Tatsunoko Production",
-      "eps": 20,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "The gag anime takes place at a school for youkai and other supernatural beings. A vampire named Rakuru transfers to the school from the West, and she tries to change the school as the class representative.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106451.jpg",
       "date": "Apr 7, 2020",
@@ -691,6 +678,19 @@
       "genres": [
         "Comedy",
         "Supernatural"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "50 years have passed since the events of the original Hakushon Daimaou series. Akubi is training to become queen when she meets Kantarou Yodama, the grandson of the genie bottle's original owner, Kan-chan. Together, Akubi and Kantarou take on many jobs in the human world and learn the importance of having a dream.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1621/105178.jpg",
+      "date": "Apr 11, 2020, 17:30 (JST)",
+      "producer": "Nippon Animation, Tatsunoko Production",
+      "eps": 20,
+      "genres": [
+        "Comedy",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -2097,7 +2097,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1429/108132.jpg",
       "date": "Jun 18, 2020",
       "producer": "Soyep",
-      "eps": 40,
+      "eps": 80,
       "genres": [
         "Action",
         "Martial Arts"
@@ -2687,18 +2687,6 @@
     },
     {
       "title": "",
-      "description": "Summary of the first 12 episodes of Kotodama Shoujo, aired on the official YouTube channel.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1868/108907.jpg",
-      "date": "Apr 25, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Music"
-      ],
-      "category": "Special"
-    },
-    {
-      "title": "",
       "description": "Toaru Kagaku no Railgun T specials that were released on Blu-ray and DVD volumes.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1220/109813.jpg",
       "date": "Apr 30, 2020",
@@ -2706,6 +2694,18 @@
       "eps": 2,
       "genres": [
         "Comedy"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "",
+      "description": "Summary of the first 12 episodes of Kotodama Shoujo, aired on the official YouTube channel.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1868/108907.jpg",
+      "date": "Apr 25, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Music"
       ],
       "category": "Special"
     }
