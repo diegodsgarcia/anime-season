@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-10-27",
+  "lastUpdate": "2020-10-28",
   "animes": [
     {
       "title": "",
@@ -929,19 +929,6 @@
     },
     {
       "title": "",
-      "description": "The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/106284.jpg",
-      "date": "Apr 6, 2020, 07:05 (JST)",
-      "producer": "OLM, Wit Studio",
-      "eps": null,
-      "genres": [
-        "Music",
-        "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "Second season of Bakugan: Battle Planet.\n\nThe anime began airing on February 16, 2020 in Canada on Teletoon and on March 1, 2020 in the U.S. on Cartoon Network. Regular streaming began on April 3, 2020 in Japan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
       "date": "Apr 3, 2020",
@@ -951,6 +938,19 @@
         "Action",
         "Fantasy",
         "Game"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/106284.jpg",
+      "date": "Apr 6, 2020, 07:05 (JST)",
+      "producer": "OLM, Wit Studio",
+      "eps": null,
+      "genres": [
+        "Music",
+        "School"
       ],
       "category": "TV (Continuing)"
     },
@@ -1457,19 +1457,6 @@
     },
     {
       "title": "",
-      "description": "Unicorn no Kyupi is a helpful sprite that lives in the kitchen and polishes dirty pots and pans clean with its fluffy white body. Harigorou, a rival sprite shaped like a hedgehog, tries to interfere. \n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1165/91319.jpg",
-      "date": "Mar 20, 2017",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
       "date": "Apr 8, 2020, 06:45 (JST)",
@@ -1480,6 +1467,19 @@
         "Parody",
         "Kids",
         "Samurai"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Unicorn no Kyupi is a helpful sprite that lives in the kitchen and polishes dirty pots and pans clean with its fluffy white body. Harigorou, a rival sprite shaped like a hedgehog, tries to interfere. \n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1165/91319.jpg",
+      "date": "Mar 20, 2017",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids",
+        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -2508,20 +2508,6 @@
     },
     {
       "title": "",
-      "description": "\"There's nothing wrong with liking another guy.\"\nTo be in the arms of the person I love... I thought that was an unattainable dream...\n\nOn an island off the coast of Okinawa, two young men meet on a beach. Shun Hashimoto is gay and aspires to be a novelist. He is interested in Mio Chibana, a somber high school student, and starts to flirt with him. Day by day, the two of them grow closer, but then, suddenly, Mio decides to leave the island.\n\nThree years later, Mio returns and approaches Shun with the words, \"I've thought about it for the past three years. I like you, Shun, even if you're a guy.\" However, when faced with the prospect of finally becoming lovers with Mio, Shun cannot take the first step towards commitment. This is a tantalizing love story about a gay novelist and a younger part-time worker. \n\n(Source: Renta!, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1668/108792.jpg",
-      "date": "Sep 11, 2020",
-      "producer": "Studio Hibari",
-      "eps": 1,
-      "genres": [
-        "Slice of Life",
-        "Romance",
-        "Shounen Ai"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "",
       "description": "Yuna and Akari are two high school girls with very different views on love: Yuna dreams about romance through rose-coloured glasses, while Akari is down-to-earth and practical. Meanwhile, high school boys Kazuomi and Rio also have different views on love: Kazuomi is an airhead who can't grasp the concept of love, while Rio grabs onto any confession as an opportunity—so long as the girl looks cute. Will these four classmates end up leading a youthful romance that meets their expectations?\n \n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1418/108748.jpg",
       "date": "Sep 18, 2020",
@@ -2532,6 +2518,20 @@
         "Romance",
         "School",
         "Shoujo"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
+      "description": "\"There's nothing wrong with liking another guy.\"\nTo be in the arms of the person I love... I thought that was an unattainable dream...\n\nOn an island off the coast of Okinawa, two young men meet on a beach. Shun Hashimoto is gay and aspires to be a novelist. He is interested in Mio Chibana, a somber high school student, and starts to flirt with him. Day by day, the two of them grow closer, but then, suddenly, Mio decides to leave the island.\n\nThree years later, Mio returns and approaches Shun with the words, \"I've thought about it for the past three years. I like you, Shun, even if you're a guy.\" However, when faced with the prospect of finally becoming lovers with Mio, Shun cannot take the first step towards commitment. This is a tantalizing love story about a gay novelist and a younger part-time worker. \n\n(Source: Renta!, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1668/108792.jpg",
+      "date": "Sep 11, 2020",
+      "producer": "Studio Hibari",
+      "eps": 1,
+      "genres": [
+        "Slice of Life",
+        "Romance",
+        "Shounen Ai"
       ],
       "category": "Movie"
     },
