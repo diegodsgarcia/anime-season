@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-10-28",
+  "lastUpdate": "2020-10-29",
   "animes": [
     {
       "title": "",
@@ -689,21 +689,6 @@
     },
     {
       "title": "",
-      "description": "After recovering from the inner struggles he faced in the past, Daigo Shigeno continues to play baseball and is now the captain of Fuurin Private Academy Middle School's baseball team. Alongside Mutsuko Sakura, his classmate from elementary school, he aims to lead the team to glory. However, due to unexpected circumstances, Fuurin's baseball team is left with only six members: Daigo, Mutsuko, Yayoi Sawa, Tao Sagara, Seira Kandori, and Hiromu Tanba. Left with mostly female players and lacking in experience, the team struggles to gain confidence and trust from the new recruits—Akira Nishina, Anita Kabashima, and Chisato Fujii. Facing challenges such as having no proper coach, problematic recruits, and a limited number of members, Daigo's resolution is put to the test as he tries to bring the team together in time to participate in their first ever tournament.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1025/105319.jpg",
-      "date": "Apr 4, 2020, 17:35 (JST)",
-      "producer": "OLM",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Sports",
-        "Drama",
-        "Shounen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "Demetrios, a timid and kind vase painter in Ancient Greece who dislikes sports and competitions, is one day forced to come up with a game to compete with the mayor of the neighboring town in order to save his village. While hiding inside a large vase outside his workshop, lightning strikes the vase Demetrios is in, transferring him to Tokyo, Japan, during the 1964 Summer Olympics.\n \n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1543/107116.jpg",
       "date": "Apr 20, 2020, 21:54 (JST)",
@@ -715,6 +700,21 @@
         "Historical",
         "Sports",
         "Seinen"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "After recovering from the inner struggles he faced in the past, Daigo Shigeno continues to play baseball and is now the captain of Fuurin Private Academy Middle School's baseball team. Alongside Mutsuko Sakura, his classmate from elementary school, he aims to lead the team to glory. However, due to unexpected circumstances, Fuurin's baseball team is left with only six members: Daigo, Mutsuko, Yayoi Sawa, Tao Sagara, Seira Kandori, and Hiromu Tanba. Left with mostly female players and lacking in experience, the team struggles to gain confidence and trust from the new recruits—Akira Nishina, Anita Kabashima, and Chisato Fujii. Facing challenges such as having no proper coach, problematic recruits, and a limited number of members, Daigo's resolution is put to the test as he tries to bring the team together in time to participate in their first ever tournament.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1025/105319.jpg",
+      "date": "Apr 4, 2020, 17:35 (JST)",
+      "producer": "OLM",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Sports",
+        "Drama",
+        "Shounen"
       ],
       "category": "TV (Continuing)"
     },
@@ -1135,19 +1135,6 @@
     },
     {
       "title": "",
-      "description": "The gag anime takes place at a school for youkai and other supernatural beings. A vampire named Rakuru transfers to the school from the West, and she tries to change the school as the class representative.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106451.jpg",
-      "date": "Apr 7, 2020",
-      "producer": "-",
-      "eps": 13,
-      "genres": [
-        "Comedy",
-        "Supernatural"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "50 years have passed since the events of the original Hakushon Daimaou series. Akubi is training to become queen when she meets Kantarou Yodama, the grandson of the genie bottle's original owner, Kan-chan. Together, Akubi and Kantarou take on many jobs in the human world and learn the importance of having a dream.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1621/105178.jpg",
       "date": "Apr 11, 2020, 17:30 (JST)",
@@ -1156,6 +1143,19 @@
       "genres": [
         "Comedy",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "The gag anime takes place at a school for youkai and other supernatural beings. A vampire named Rakuru transfers to the school from the West, and she tries to change the school as the class representative.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106451.jpg",
+      "date": "Apr 7, 2020",
+      "producer": "-",
+      "eps": 13,
+      "genres": [
+        "Comedy",
+        "Supernatural"
       ],
       "category": "TV (Continuing)"
     },
