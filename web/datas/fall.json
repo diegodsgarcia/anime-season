@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-10-29",
+  "lastUpdate": "2020-10-30",
   "animes": [
     {
       "title": "",
@@ -327,20 +327,6 @@
     },
     {
       "title": "",
-      "description": "In the near future, humanity faces imminent destruction from mysterious creatures known as \"Huge.\" The world wages war against the Huge, and develops the anti-weapon \"CHARM\" (Counter Huge Arms) by combining science and magic. CHARM works more effectively when used by teenage girls, and those who use the weapons are revered as \"Lilies.\" The Lilies are trained at military academies called \"Gardens,\" which also serve as bases to protect and advise people. This is a story about girls who aim to become Lilies so they can protect Earth. \n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1024/108413.jpg",
-      "date": "Oct 2, 2020, 01:28 (JST)",
-      "producer": "Shaft",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Magic",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has! \n\n(Source: Seven Seas Entertainment)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/108852.jpg",
       "date": "Oct 7, 2020, 21:00 (JST)",
@@ -349,6 +335,20 @@
       "genres": [
         "Adventure",
         "Comedy",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "In the near future, humanity faces imminent destruction from mysterious creatures known as \"Huge.\" The world wages war against the Huge, and develops the anti-weapon \"CHARM\" (Counter Huge Arms) by combining science and magic. CHARM works more effectively when used by teenage girls, and those who use the weapons are revered as \"Lilies.\" The Lilies are trained at military academies called \"Gardens,\" which also serve as bases to protect and advise people. This is a story about girls who aim to become Lilies so they can protect Earth. \n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1024/108413.jpg",
+      "date": "Oct 2, 2020, 01:28 (JST)",
+      "producer": "Shaft",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Magic",
         "Fantasy"
       ],
       "category": "TV (New)"
@@ -700,18 +700,6 @@
     },
     {
       "title": "",
-      "description": "",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1850/108933.jpg",
-      "date": "Oct 4, 2020, 09:55 (JST)",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Zenitendo is a mysterious candy store that only lucky people can reach. All the candy recommended by Beniko, the owner of the store, is perfectly suited to the buyer's troubles. However, it depends on whether the candy will be used or eaten correctly that it can bring happiness or misfortune.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1994/108212.jpg",
       "date": "Sep 8, 2020, 18:45 (JST)",
@@ -720,6 +708,18 @@
       "genres": [
         "Mystery",
         "Kids"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1850/108933.jpg",
+      "date": "Oct 4, 2020, 09:55 (JST)",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -1056,19 +1056,6 @@
       "genres": [
         "Comedy",
         "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "The second season of the mini series starring the girls of BanG Dream!",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1047/108094.jpg",
-      "date": "May 7, 2020",
-      "producer": "SANZIGEN",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1595,18 +1582,6 @@
     },
     {
       "title": "",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
       "date": "Apr 15, 2020",
@@ -1614,6 +1589,18 @@
       "eps": 100,
       "genres": [
         "Comedy",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
         "Kids"
       ],
       "category": "TV (Continuing)"
@@ -1969,6 +1956,18 @@
     },
     {
       "title": "",
+      "description": "The story centers on an RPG that people call \"kusoge\" (\"crap-tier game,\" referring to games with quirky or badly implemented mechanics and design). The main character Lidays decides to change the game's story, meeting with other characters while the game isn't being played. But as they flub their lines, the situation spirals out of control.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/109489.jpg",
+      "date": "Oct 19, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "The story centers on hero pair teams named \"Patraisers,\" consisting of \"Sugars\" and their supporter \"Patrons.\" The Patraiser teams \"reinvigorate people's frozen hearts.\"\n\nThe \"main story\" videos will focus on a single Patraiser pair, consisting of the Sugar Asahi Yuga and his Patron Ryouya Nekoyashiki. The \"side story\" videos will focus on their daily lives, as well as the other characters.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1521/109423.jpg",
       "date": "Oct 18, 2020",
@@ -2009,18 +2008,6 @@
     },
     {
       "title": "",
-      "description": "The story centers on an RPG that people call \"kusoge\" (\"crap-tier game,\" referring to games with quirky or badly implemented mechanics and design). The main character Lidays decides to change the game's story, meeting with other characters while the game isn't being played. But as they flub their lines, the situation spirals out of control.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/109489.jpg",
-      "date": "Oct 19, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "The encounter between Asahi and Ryouya.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/109791.jpg",
       "date": "Oct 11, 2020",
@@ -2028,19 +2015,6 @@
       "eps": 1,
       "genres": [
         "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Based on the video game \"Punishing: Gray Raven.\"",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1045/109449.jpg",
-      "date": "Oct 27, 2020",
-      "producer": "BigFireBird Animation",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2059,6 +2033,19 @@
     },
     {
       "title": "",
+      "description": "Based on the video game \"Punishing: Gray Raven.\"",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1045/109449.jpg",
+      "date": "Oct 27, 2020",
+      "producer": "BigFireBird Animation",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "One day in 20XX, the alien pig prince who planned to take a human body as his home arrived on Earth, but unexpectedly discovered that the human being he wanted to live in had not yet been born! The pig prince, who has nowhere to settle down, got to know Saiji and Rubi. The three pulled various funny pranks on humans, causing humans to have baldness, bad breath, headaches, emotional crisis and other problems.\n\n(Source: bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1737/109368.jpg",
       "date": "Oct 5, 2020",
@@ -2067,19 +2054,6 @@
       "genres": [
         "Slice of Life",
         "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Fourth season of Menghuan Shuyuan.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1346/109452.jpg",
-      "date": "Oct 12, 2020",
-      "producer": "Painting Dream",
-      "eps": 14,
-      "genres": [
-        "Comedy",
-        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2094,6 +2068,19 @@
         "Action",
         "Fantasy",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Fourth season of Menghuan Shuyuan.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1346/109452.jpg",
+      "date": "Oct 12, 2020",
+      "producer": "Painting Dream",
+      "eps": 14,
+      "genres": [
+        "Comedy",
+        "Fantasy"
       ],
       "category": "ONA"
     },

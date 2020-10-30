@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-10-29",
+  "lastUpdate": "2020-10-30",
   "animes": [
     {
       "title": "",
@@ -806,7 +806,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1047/108094.jpg",
       "date": "May 7, 2020",
       "producer": "SANZIGEN",
-      "eps": null,
+      "eps": 26,
       "genres": [
         "Music",
         "Comedy"
@@ -1378,6 +1378,19 @@
     },
     {
       "title": "",
+      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
+      "date": "Apr 15, 2020",
+      "producer": "J.C.Staff",
+      "eps": 100,
+      "genres": [
+        "Comedy",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
       "date": "Oct 3, 2019, 18:10 (JST)",
@@ -1399,19 +1412,6 @@
       "producer": "-",
       "eps": null,
       "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
-      "date": "Apr 15, 2020",
-      "producer": "J.C.Staff",
-      "eps": 100,
-      "genres": [
-        "Comedy",
         "Kids"
       ],
       "category": "TV (Continuing)"
@@ -2124,7 +2124,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
       "date": "Jul 23, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 4,
       "genres": [
         "Slice of Life"
       ],
@@ -2173,19 +2173,6 @@
     },
     {
       "title": "",
-      "description": "Fourth season of Qing Chi Hong Xiaodou Ba!",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108288.jpg",
-      "date": "Jul 10, 2020",
-      "producer": "Making Animation",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Each episode follows a character from the game.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
       "date": "Jun 23, 2020",
@@ -2194,6 +2181,19 @@
       "genres": [
         "Action",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Fourth season of Qing Chi Hong Xiaodou Ba!",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108288.jpg",
+      "date": "Jul 10, 2020",
+      "producer": "Making Animation",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },

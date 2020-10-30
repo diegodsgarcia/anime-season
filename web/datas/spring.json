@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-10-29",
+  "lastUpdate": "2020-10-30",
   "animes": [
     {
       "title": "",
@@ -98,20 +98,6 @@
     },
     {
       "title": "",
-      "description": "Kakushi Gotou is a somewhat popular manga artist whose works are known for inappropriate content. Because of this raunchiness, when his daughter Hime was born, he vowed to keep his profession hidden from her, believing that she will be disillusioned if she finds out. \n\nThis paranoia-induced belief leads Kakushi into hectic situations. Despite being a single father, he does his best and often resorts to extreme ends just to protect his secret, such as guising as a salaryman every day or holding emergency drills in case Hime somehow finds her way to his workplace.\n\nKakushigoto tells the story of a father and daughter living side by side, maintaining their peaceful existence as the father attempts to preserve the status quo. However, there is a saying: \"there are no secrets that time cannot reveal.\" In time, Hime must learn the reality behind the things she took for granted as she grew up.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1476/106372.jpg",
-      "date": "Apr 2, 2020, 23:30 (JST)",
-      "producer": "Ajia-Do",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Daisuke Kanbe, a man of extraordinary wealth, is assigned to the Modern Crime Prevention Headquarters as a detective. It is there that he gets partnered with Haru Katou, a humane detective who values justice above all. The two are polar opposites, and their morals clash time and time again. Haru despises Daisuke for using monetary wealth to solve cases, as he believes that money isn't everything. The two will have to combine their efforts, however, to solve the mysteries that are coming their way.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1066/106556.jpg",
       "date": "Apr 10, 2020, 00:55 (JST)",
@@ -121,6 +107,20 @@
         "Mystery",
         "Comedy",
         "Police"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Kakushi Gotou is a somewhat popular manga artist whose works are known for inappropriate content. Because of this raunchiness, when his daughter Hime was born, he vowed to keep his profession hidden from her, believing that she will be disillusioned if she finds out. \n\nThis paranoia-induced belief leads Kakushi into hectic situations. Despite being a single father, he does his best and often resorts to extreme ends just to protect his secret, such as guising as a salaryman every day or holding emergency drills in case Hime somehow finds her way to his workplace.\n\nKakushigoto tells the story of a father and daughter living side by side, maintaining their peaceful existence as the father attempts to preserve the status quo. However, there is a saying: \"there are no secrets that time cannot reveal.\" In time, Hime must learn the reality behind the things she took for granted as she grew up.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1476/106372.jpg",
+      "date": "Apr 2, 2020, 23:30 (JST)",
+      "producer": "Ajia-Do",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -505,7 +505,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1047/108094.jpg",
       "date": "May 7, 2020",
       "producer": "SANZIGEN",
-      "eps": null,
+      "eps": 26,
       "genres": [
         "Music",
         "Comedy"
