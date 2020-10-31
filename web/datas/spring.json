@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-10-30",
+  "lastUpdate": "2020-10-31",
   "animes": [
     {
       "title": "",
@@ -2229,18 +2229,6 @@
     },
     {
       "title": "",
-      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
-      "date": "Apr 6, 2020",
-      "producer": "-",
-      "eps": 3,
-      "genres": [
-        "Game"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Third season of Bai Gui Youeryuan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/108463.jpg",
       "date": "May 21, 2020",
@@ -2248,6 +2236,18 @@
       "eps": 12,
       "genres": [
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
+      "date": "Apr 6, 2020",
+      "producer": "-",
+      "eps": 3,
+      "genres": [
+        "Game"
       ],
       "category": "ONA"
     },

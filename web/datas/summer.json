@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-10-30",
+  "lastUpdate": "2020-10-31",
   "animes": [
     {
       "title": "",
@@ -2385,10 +2385,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
-      "date": "Jul 31, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1467/108042.jpg",
+      "date": "Aug 28, 2020",
       "producer": "-",
-      "eps": 1,
+      "eps": null,
       "genres": [
         "Hentai"
       ],
@@ -2397,10 +2397,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1467/108042.jpg",
-      "date": "Aug 28, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1463/107877.jpg",
+      "date": "Jul 31, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 1,
       "genres": [
         "Hentai"
       ],
