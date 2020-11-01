@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-10-31",
+  "lastUpdate": "2020-11-01",
   "animes": [
     {
       "title": "",
@@ -860,6 +860,19 @@
         "Comedy",
         "Kids",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1785/110019.jpg",
+      "date": "Mar 30, 2020",
+      "producer": "-",
+      "eps": 26,
+      "genres": [
+        "Action",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },

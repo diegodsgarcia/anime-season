@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-10-31",
+  "lastUpdate": "2020-11-01",
   "animes": [
     {
       "title": "",
@@ -1568,6 +1568,19 @@
     },
     {
       "title": "",
+      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
+      "date": "Apr 15, 2020",
+      "producer": "J.C.Staff",
+      "eps": 100,
+      "genres": [
+        "Comedy",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "The series follows a young girl named Shina who hopes to become the world's best DJ, and is interested in new sounds. Shina explores a mysterious world filled with Otoppe, strange creatures capable of unique sounds.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
       "date": "Apr 3, 2017, 08:40 (JST)",
@@ -1577,19 +1590,6 @@
         "Music",
         "Kids",
         "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
-      "date": "Apr 15, 2020",
-      "producer": "J.C.Staff",
-      "eps": 100,
-      "genres": [
-        "Comedy",
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -2046,19 +2046,6 @@
     },
     {
       "title": "",
-      "description": "One day in 20XX, the alien pig prince who planned to take a human body as his home arrived on Earth, but unexpectedly discovered that the human being he wanted to live in had not yet been born! The pig prince, who has nowhere to settle down, got to know Saiji and Rubi. The three pulled various funny pranks on humans, causing humans to have baldness, bad breath, headaches, emotional crisis and other problems.\n\n(Source: bilibili, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1737/109368.jpg",
-      "date": "Oct 5, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1889/109930.jpg",
       "date": "Oct 25, 2020",
@@ -2068,6 +2055,19 @@
         "Action",
         "Fantasy",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "One day in 20XX, the alien pig prince who planned to take a human body as his home arrived on Earth, but unexpectedly discovered that the human being he wanted to live in had not yet been born! The pig prince, who has nowhere to settle down, got to know Saiji and Rubi. The three pulled various funny pranks on humans, causing humans to have baldness, bad breath, headaches, emotional crisis and other problems.\n\n(Source: bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1737/109368.jpg",
+      "date": "Oct 5, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2154,8 +2154,8 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/109071.jpg",
-      "date": "Nov 27, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/106369.jpg",
+      "date": "Oct 30, 2020",
       "producer": "-",
       "eps": null,
       "genres": [
@@ -2166,8 +2166,8 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/106369.jpg",
-      "date": "Oct 30, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/109071.jpg",
+      "date": "Nov 27, 2020",
       "producer": "-",
       "eps": null,
       "genres": [

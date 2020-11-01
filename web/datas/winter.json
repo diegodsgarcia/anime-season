@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-10-31",
+  "lastUpdate": "2020-11-01",
   "animes": [
     {
       "title": "",
@@ -1791,7 +1791,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1035/106164.jpg",
       "date": "Jan 31, 2020",
       "producer": "8bit",
-      "eps": null,
+      "eps": 9,
       "genres": [
         "Action",
         "Game",

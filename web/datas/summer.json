@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-10-31",
+  "lastUpdate": "2020-11-01",
   "animes": [
     {
       "title": "",
@@ -1952,22 +1952,6 @@
     },
     {
       "title": "",
-      "description": "Second season of Mei Chuxi de Yinyangshi Yijia.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/108286.jpg",
-      "date": "Jul 15, 2020",
-      "producer": "Green Monster Team",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Historical",
-        "Demons",
-        "Supernatural"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Second season of Da Wang Bu Gaoxing.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/108228.jpg",
       "date": "Jul 21, 2020",
@@ -1979,6 +1963,22 @@
         "Magic",
         "Fantasy",
         "School"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Second season of Mei Chuxi de Yinyangshi Yijia.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/108286.jpg",
+      "date": "Jul 15, 2020",
+      "producer": "Green Monster Team",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Historical",
+        "Demons",
+        "Supernatural"
       ],
       "category": "ONA"
     },
