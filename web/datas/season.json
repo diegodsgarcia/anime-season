@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-11-01",
+  "lastUpdate": "2020-11-02",
   "animes": [
     {
       "title": "",
@@ -281,21 +281,6 @@
     },
     {
       "title": "",
-      "description": "Third season of Golden Kamuy.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
-      "date": "Oct 5, 2020, 23:00 (JST)",
-      "producer": "Geno Studio",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Historical",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Sshhh! Princess Syalis is trying to get a good night's sleep. Some shut-eye. Forty winks. Catch some Z's. Long ago in olden times when people and demons lived together in—well, disharmony, really—a demon king kidnaps a human princess and imprisons her in his castle. Bereft, the princess's subjects beat their chests in anguish...until a hero arises to spearhead Project Rescue Our Princess! While waiting for her knight in shining armor, what's an imprisoned princess to do...? Teddy-bear guards with bat wings are all very well, but her dungeon cell is bo-o-o-ring! So, she decides to wile away the long hours by sleeping. Now if only she could get comfortable...and didn't suffer from insomnia...\n\n(Source: VIZ Media)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg",
       "date": "Oct 6, 2020, 02:00 (JST)",
@@ -308,6 +293,21 @@
         "Magic",
         "Fantasy",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Third season of Golden Kamuy.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
+      "date": "Oct 5, 2020, 23:00 (JST)",
+      "producer": "Geno Studio",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Historical",
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -687,19 +687,6 @@
     },
     {
       "title": "",
-      "description": "Third season of Seizei Ganbare! Mahou Shoujo Kurumi.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1097/108552.jpg",
-      "date": "Oct 7, 2020, 23:54 (JST)",
-      "producer": "Pie in the sky",
-      "eps": null,
-      "genres": [
-        "Parody",
-        "Magic"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Zenitendo is a mysterious candy store that only lucky people can reach. All the candy recommended by Beniko, the owner of the store, is perfectly suited to the buyer's troubles. However, it depends on whether the candy will be used or eaten correctly that it can bring happiness or misfortune.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1994/108212.jpg",
       "date": "Sep 8, 2020, 18:45 (JST)",
@@ -708,6 +695,19 @@
       "genres": [
         "Mystery",
         "Kids"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Third season of Seizei Ganbare! Mahou Shoujo Kurumi.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1097/108552.jpg",
+      "date": "Oct 7, 2020, 23:54 (JST)",
+      "producer": "Pie in the sky",
+      "eps": null,
+      "genres": [
+        "Parody",
+        "Magic"
       ],
       "category": "TV (New)"
     },
@@ -2098,6 +2098,19 @@
     },
     {
       "title": "",
+      "description": "King Inglis, who lived for his country and people, strongly hoped to further temper my skills as a knight in his next life. The wish is heard by the goddess, who reincarnates the king into the far future, but in the form of a cute girl! However, it is declared at the age of six that she is incapable of being a knight, despite coming from a line of knights.\n\n(Source: MU, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1106/110029.jpg",
+      "date": "Nov 7, 2020",
+      "producer": "-",
+      "eps": 2,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "The episode bundled with the 13th volume will be about the Sumo competition that held at Tempest for the first time, suggested by Rimuru.\n\nThe three-part OVA bundled with the 14th, 15th, and 16th manga volumes will be an original trilogy written by Fuse. Volume 16 will be released in Japan on November 27, 2020. \n\nRimuru has been teaching Shizue's students at Ingracia Kingdom's Freedom Academy. The time has come for the school's annual outdoor training event, where the students will test their combat skills in the field. Rimuru is determined to win the competition and take home the prize money, but he is challenged by Jeff, an honorary teacher who sees Rimuru as a rival. The competition is underway when suddenly an unexpected enemy appears!\n\n(Source: MAL News & ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1116/104615.jpg",
       "date": "Jul 9, 2019",
@@ -2142,10 +2155,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1966/109606.jpg",
-      "date": "Oct 2, 2020",
-      "producer": "T-Rex",
-      "eps": 2,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/106369.jpg",
+      "date": "Oct 30, 2020",
+      "producer": "-",
+      "eps": null,
       "genres": [
         "Hentai"
       ],
@@ -2154,10 +2167,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/106369.jpg",
-      "date": "Oct 30, 2020",
-      "producer": "-",
-      "eps": null,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1966/109606.jpg",
+      "date": "Oct 2, 2020",
+      "producer": "T-Rex",
+      "eps": 2,
       "genres": [
         "Hentai"
       ],

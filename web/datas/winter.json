@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-11-01",
+  "lastUpdate": "2020-11-02",
   "animes": [
     {
       "title": "",
@@ -1840,6 +1840,23 @@
     },
     {
       "title": "",
+      "description": "Fourth part of Douluo Dalu.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/108562.jpg",
+      "date": "Feb 22, 2020",
+      "producer": "Sparkly Key Animation Studio",
+      "eps": 13,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Historical",
+        "Romance",
+        "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Mini anime of Koisuru Asteroid where characters explain astronomy and geology. Later included in the Blu-ray/DVD.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1756/105744.jpg",
       "date": "Jan 4, 2020",
@@ -1859,23 +1876,6 @@
       "eps": 26,
       "genres": [
         "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Fourth part of Douluo Dalu.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/108562.jpg",
-      "date": "Feb 22, 2020",
-      "producer": "Sparkly Key Animation Studio",
-      "eps": 13,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Historical",
-        "Romance",
-        "Martial Arts",
-        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -1935,6 +1935,18 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
+      "date": "Mar 11, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "\"Dream School Grand Prix\" to decide the No.1 idol school among five schools representing the Aikatsu world will be held! In this competition where top idols representing each school compete on stage, Dream Academy's new idol Noel Otoshiro is selected as one of them?! For each idol's dream, a new story starts running into the shining future! \n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1704/106781.jpg",
       "date": "Mar 28, 2020",
@@ -1945,18 +1957,6 @@
         "Slice of Life",
         "School",
         "Shoujo"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
-      "date": "Mar 11, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Hentai"
       ],
       "category": "ONA"
     },
@@ -2003,6 +2003,20 @@
     },
     {
       "title": "",
+      "description": "The fifth season of Ze Tian Ji.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
+      "date": "Mar 16, 2020",
+      "producer": "Shanghai Foch Film Culture Investment",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1520/105226.jpg",
       "date": "Jan 2, 2020",
@@ -2014,20 +2028,6 @@
         "Historical",
         "Romance",
         "Martial Arts",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "The fifth season of Ze Tian Ji.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
-      "date": "Mar 16, 2020",
-      "producer": "Shanghai Foch Film Culture Investment",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Adventure",
         "Fantasy"
       ],
       "category": "ONA"
@@ -2114,6 +2114,19 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1469/108739.jpg",
+      "date": "Feb 14, 2020",
+      "producer": "Wit Studio",
+      "eps": 1,
+      "genres": [
+        "Slice of Life",
+        "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Second season of Fei Ren Zai.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1401/108475.jpg",
       "date": "Jan 8, 2020",
@@ -2123,19 +2136,6 @@
         "Slice of Life",
         "Comedy",
         "Supernatural"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1469/108739.jpg",
-      "date": "Feb 14, 2020",
-      "producer": "Wit Studio",
-      "eps": 1,
-      "genres": [
-        "Slice of Life",
-        "Drama"
       ],
       "category": "ONA"
     },
@@ -2322,21 +2322,6 @@
     },
     {
       "title": "",
-      "description": "Rohan Kishibe accompanies Kyouka Izumi, a manga magazine editor, to a buy house at a village far off from civilization. They soon discover the village is home to a group of millionaires who had all mysteriously become rich at the age of 25. Rohan and Izumi enter one of the houses, only to realize that they are trapped by a mysterious power that won't let them progress unless they follow specific rules lest they suffer the consequences.\n\n(Source: JoJo Wiki)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1716/103072.jpg",
-      "date": "Sep 20, 2017",
-      "producer": "David Production",
-      "eps": 4,
-      "genres": [
-        "Action",
-        "Mystery",
-        "Supernatural",
-        "Shounen"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1145/103302.jpg",
       "date": "Jan 29, 2020",
@@ -2348,6 +2333,21 @@
         "Romance",
         "Ecchi",
         "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "",
+      "description": "Rohan Kishibe accompanies Kyouka Izumi, a manga magazine editor, to a buy house at a village far off from civilization. They soon discover the village is home to a group of millionaires who had all mysteriously become rich at the age of 25. Rohan and Izumi enter one of the houses, only to realize that they are trapped by a mysterious power that won't let them progress unless they follow specific rules lest they suffer the consequences.\n\n(Source: JoJo Wiki)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1716/103072.jpg",
+      "date": "Sep 20, 2017",
+      "producer": "David Production",
+      "eps": 4,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Supernatural",
+        "Shounen"
       ],
       "category": "OVA"
     },
@@ -2728,6 +2728,19 @@
     },
     {
       "title": "",
+      "description": "Yashiro is the young leader of Shinseikai and the president of the Shinseikai Enterprise, but like so many powerful men, he leads a double life as a deviant and a masochist. Doumeki Chikara comes to work as a bodyguard for him and, although Yashiro had decided that he would never lay a hand on his own men, he finds there's something about Doumeki that he can't resist. Yashiro makes advances toward Doumeki, but Doumeki has mysterious reasons for denying. Yashiro, who abuses his power just to abuse himself, and Doumeki, who faithfully obeys his every command, begin the tumultuous affair of two men with songs in their hearts and no wings to fly.\n\n(Source: Juné)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1689/109509.jpg",
+      "date": "Feb 15, 2020",
+      "producer": "GRIZZLY",
+      "eps": 1,
+      "genres": [
+        "Drama",
+        "Yaoi"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
       "description": "When Ritsu Onodera changes jobs, looking for a fresh start, he's not exactly thrilled when his new boss turns out to be his old flame. Ritsu's determined to leave all that in the past—but how can he when his boss is just as determined that they have a future?\n\nTired of accusations that family connections got him his current position, Ritsu Onodera quits his job as an editor at his father's company and transfers to Marukawa Publishing. Once there, he is assigned to the shojo manga editorial department—something he has no interest in and no experience with! Having sworn he'd never fall in love again, the last thing he wants to do is work on love stories. To make matters worse, it turns out that his overbearing boss, Masamune Takano, is actually his first love from high school! \n\n(Source: SuBLime)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1896/102829.jpg",
       "date": "Feb 21, 2020",
@@ -2738,19 +2751,6 @@
         "Drama",
         "Romance",
         "Shounen Ai"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "",
-      "description": "Yashiro is the young leader of Shinseikai and the president of the Shinseikai Enterprise, but like so many powerful men, he leads a double life as a deviant and a masochist. Doumeki Chikara comes to work as a bodyguard for him and, although Yashiro had decided that he would never lay a hand on his own men, he finds there's something about Doumeki that he can't resist. Yashiro makes advances toward Doumeki, but Doumeki has mysterious reasons for denying. Yashiro, who abuses his power just to abuse himself, and Doumeki, who faithfully obeys his every command, begin the tumultuous affair of two men with songs in their hearts and no wings to fly.\n\n(Source: Juné)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1689/109509.jpg",
-      "date": "Feb 15, 2020",
-      "producer": "GRIZZLY",
-      "eps": 1,
-      "genres": [
-        "Drama",
-        "Yaoi"
       ],
       "category": "Movie"
     },
@@ -2855,20 +2855,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/104637.jpg",
-      "date": "Feb 22, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Historical",
-        "Kids",
-        "Parody"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "",
       "description": "Ran, Sonoko, Conan, and the detective boys board the galactic railway train of Ihatov World, a theme park that reproduces the world of Kenji Miyazawa. While they are enjoying the fantastic starry sky, suddenly a notice from Kid arrives. It's time for a battle for treasure with Kid! But there was an unexpected trap...",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1318/108547.jpg",
       "date": "Feb 1, 2020",
@@ -2878,6 +2864,20 @@
         "Adventure",
         "Mystery",
         "Kids"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/104637.jpg",
+      "date": "Feb 22, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Historical",
+        "Kids",
+        "Parody"
       ],
       "category": "Movie"
     },
