@@ -24,11 +24,13 @@
     ]
   },
   "dependencies": {
+    "@svgr/webpack": "^5.4.0",
     "next": "10.0.0",
     "next-pwa": "^3.1.5",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "styled-components": "5.2.1"
+    "styled-components": "^5.2.1",
+    "styled-icons": "^10.22.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
