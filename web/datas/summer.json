@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-11-05",
+  "lastUpdate": "2020-11-06",
   "animes": [
     {
       "title": "",
@@ -1539,19 +1539,6 @@
     },
     {
       "title": "",
-      "description": "Koyan, the Origami Ninja, came to Earth from his planet Origamio to find the magical stone \"Hapiton\" that has the ability to make people happy. On the way, he was joined by childhood friend Namin anda new friend Lublin. One day, a villain called Evilrun appeared. Evilrun has a black hole in her stomach and tries to inhale anything. Every time an event happens, Evilrun gets in the way of Koyan and friends. But what Evilrun's aim is remains a mystery...",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1860/106477.jpg",
-      "date": "Apr 7, 2020, 07:30 (JST)",
-      "producer": "Directions",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "A prequel to Cogimyun covering her life at flour school before she runs her grandfather's apartment complex. Episodes air within the \"Millenia Girl\" live action program and then get released for a limited time later in the day on Sanrio's official YouTube channel.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1755/105960.jpg",
       "date": "Jan 31, 2020, 01:25 (JST)",
@@ -1561,6 +1548,19 @@
         "Fantasy",
         "Kids",
         "School"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Koyan, the Origami Ninja, came to Earth from his planet Origamio to find the magical stone \"Hapiton\" that has the ability to make people happy. On the way, he was joined by childhood friend Namin anda new friend Lublin. One day, a villain called Evilrun appeared. Evilrun has a black hole in her stomach and tries to inhale anything. Every time an event happens, Evilrun gets in the way of Koyan and friends. But what Evilrun's aim is remains a mystery...",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1860/106477.jpg",
+      "date": "Apr 7, 2020, 07:30 (JST)",
+      "producer": "Directions",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -2226,6 +2226,18 @@
     },
     {
       "title": "",
+      "description": "Sanwei Mountain is home to an ancient civilization, where Miao Qiansui and her sister Nuluo live. Miao Qiansui is an innocent little girl, full of curiosity about the outside world. In her memory, there has always been a mysterious place called Moon Lake. But is the Moon Lake real? Can she go to Moon Lake smoothly?\n\n(Source: bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1048/109273.jpg",
+      "date": "Aug 6, 2020",
+      "producer": "Ten Tails Animation",
+      "eps": 7,
+      "genres": [
+        "Adventure"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "A \"gourmet action movie\" that took place in the kitchen, the small alpaca who coveted a variety of delicacies decided to take two good friends to fight. In Sansan’s Kitchen of Pranks, sugar points! Calories! Carbon water... does not exist. A very attractive \"Zero Card\" Healing Fan will become delicious today!\n\n(Source: official Bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
       "date": "Jul 30, 2020",
@@ -2234,18 +2246,6 @@
       "genres": [
         "Slice of Life",
         "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Sanwei Mountain is home to an ancient civilization, where Miao Qiansui and her sister Nuluo live. Miao Qiansui is an innocent little girl, full of curiosity about the outside world. In her memory, there has always been a mysterious place called Moon Lake. But is the Moon Lake real? Can she go to Moon Lake smoothly?\n\n(Source: bilibili, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1048/109273.jpg",
-      "date": "Aug 6, 2020",
-      "producer": "Ten Tails Animation",
-      "eps": 7,
-      "genres": [
-        "Adventure"
       ],
       "category": "ONA"
     },
