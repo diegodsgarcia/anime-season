@@ -17,8 +17,11 @@ const List = ({ list }: ListProps) => (
         <S.Header>{category}</S.Header>
         <S.Items>
           {animes.map(
-            ({ title, description, imageUrl, date, producer, eps, genres }) => (
-              <S.Item key={title}>
+            (
+              { title, description, imageUrl, date, producer, eps, genres },
+              i
+            ) => (
+              <S.Item key={i}>
                 <S.Title>{title}</S.Title>
                 <figure>
                   <img src={imageUrl} alt={title} />

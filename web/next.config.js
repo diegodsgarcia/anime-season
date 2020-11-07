@@ -7,15 +7,21 @@ module.exports = withPWA({
     dest: 'public',
     disable: !isProd
   },
+  env: {
+    API_URL: process.env.API_URL
+  },
   webpack(config) {
     config.module.rules.push({
       test: /\.svg$/,
       issuer: {
-        test: /\.(js|ts)x?$/,
+        test: /\.(js|ts)x?$/
       },
-      use: ['@svgr/webpack'],
-    });
+      use: ['@svgr/webpack']
+    })
 
-    return config;
+    return config
   },
+  serverRuntimeConfig: {
+    PROJECT_ROOT: __dirname
+  }
 })

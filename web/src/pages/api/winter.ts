@@ -5,11 +5,11 @@ import getConfig from 'next/config'
 
 const { serverRuntimeConfig } = getConfig()
 
-export default function fall(req: NextApiRequest, res: NextApiResponse) {
+export default function winter(req: NextApiRequest, res: NextApiResponse) {
   try {
     const dir = path.resolve(
       serverRuntimeConfig.PROJECT_ROOT,
-      './datas/fall.json'
+      './datas/winter.json'
     )
 
     const seasonFile = fs.readFileSync(dir, 'utf8')

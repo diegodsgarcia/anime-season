@@ -1,3 +1,10 @@
+export type AnimeSeason = {
+  season: string
+  year: string
+  lastUpdate: string
+  animes: Anime[]
+}
+
 export type Anime = {
   title: string
   description: string
