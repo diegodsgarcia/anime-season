@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-11-06",
+  "lastUpdate": "2020-11-07",
   "animes": [
     {
       "title": "",
@@ -143,6 +143,19 @@
     },
     {
       "title": "",
+      "description": "Long ago, a war broke out in Japan that pitted Kantou against Kansai and divided the country. Kansai became dependent on Kantou, but slowly the police and government began losing control of Kansai to criminals known as Akudama.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
+      "date": "Oct 8, 2020, 21:30 (JST)",
+      "producer": "Studio Pierrot",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "A great war has raged for years between the scientifically advanced Empire and Nebulis, the realm of the witches―until the youngest knight ever to receive the title of the Empire's strongest meets the princess of the rival nation. Though they are sworn enemies, the knight is taken by her beauty and dignity, and the princess is moved by his strength and way of life. Will the fighting between them ever be allowed to end? \n\n(Source: Yen Press)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1100/109044.jpg",
       "date": "Oct 7, 2020, 23:30 (JST)",
@@ -153,19 +166,6 @@
         "Military",
         "Romance",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Long ago, a war broke out in Japan that pitted Kantou against Kansai and divided the country. Kansai became dependent on Kantou, but slowly the police and government began losing control of Kansai to criminals known as Akudama.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
-      "date": "Oct 8, 2020, 21:30 (JST)",
-      "producer": "Studio Pierrot",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
@@ -234,7 +234,7 @@
     {
       "title": "",
       "description": "The daughters of Sesshoumaru and Inuyasha set out on a journey transcending time!\n\nIn Feudal Japan, Half-Demon twins Towa and Setsuna are separated from each other during a forest fire. While desperately searching for her younger sister, Towa wanders into a mysterious tunnel that sends her into present-day Japan, where she is found and raised by Kagome Higurashi's brother, Souta, and his family.\n\nTen years later, the tunnel that connects the two eras has reopened, allowing Towa to be reunited with Setsuna, who is now a Demon Slayer working for Kohaku. But to Towa's shock, Setsuna appears to have lost all memories of her older sister.\n\nJoined by Moroha, the daughter of Inuyasha and Kagome, the three young women travel between the two eras on an adventure to regain their missing past. \n\n(Source: VIZ Media)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1783/108783.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/110105.jpg",
       "date": "Oct 3, 2020, 17:30 (JST)",
       "producer": "Sunrise",
       "eps": null,
@@ -560,19 +560,6 @@
     },
     {
       "title": "",
-      "description": "The anime centers on four girls at the full bloom of their youth, working hard to achieve their dreams as they struggle valiantly. In Japanese entertainment, Maesetsu! refers to an introductory talk or explanation addressed to the audience before the broadcast of television programs, usually performed by assistant directors and particularly comedians in variety or comedy shows.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1555/109492.jpg",
-      "date": "Oct 11, 2020, 23:30 (JST)",
-      "producer": "AXsiZ, Studio Gokumi",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106812.jpg",
       "date": "Oct 8, 2020, 21:54 (JST)",
@@ -581,6 +568,19 @@
       "genres": [
         "Adventure",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "The anime centers on four girls at the full bloom of their youth, working hard to achieve their dreams as they struggle valiantly. In Japanese entertainment, Maesetsu! refers to an introductory talk or explanation addressed to the audience before the broadcast of television programs, usually performed by assistant directors and particularly comedians in variety or comedy shows.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1555/109492.jpg",
+      "date": "Oct 11, 2020, 23:30 (JST)",
+      "producer": "AXsiZ, Studio Gokumi",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -673,20 +673,6 @@
     },
     {
       "title": "",
-      "description": "Latest Himitsukessha Taka no Tsume series to be aired on TV.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1649/109640.jpg",
-      "date": "Oct 5, 2020, 01:20 (JST)",
-      "producer": "DLE",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "Parody",
-        "Super Power"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Zenitendo is a mysterious candy store that only lucky people can reach. All the candy recommended by Beniko, the owner of the store, is perfectly suited to the buyer's troubles. However, it depends on whether the candy will be used or eaten correctly that it can bring happiness or misfortune.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1994/108212.jpg",
       "date": "Sep 8, 2020, 18:45 (JST)",
@@ -707,6 +693,20 @@
       "eps": 12,
       "genres": [
         "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Latest Himitsukessha Taka no Tsume series to be aired on TV.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1649/109640.jpg",
+      "date": "Oct 5, 2020, 01:20 (JST)",
+      "producer": "DLE",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Parody",
+        "Super Power"
       ],
       "category": "TV (New)"
     },
@@ -1075,6 +1075,20 @@
     },
     {
       "title": "",
+      "description": "The series revolve around a team of 12 high school students who love to play the trading card game Rebirth For You.\n\n(Source: Anime News Network)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1319/105669.jpg",
+      "date": "Jan 5, 2020, 01:00 (JST)",
+      "producer": "LIDENFILMS",
+      "eps": null,
+      "genres": [
+        "Game",
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "Momoko Sakura is an elementary school student who likes popular idol Momoe Yamaguchi and mangas. She is often called \"Chibi Maruko-chan\" due to her young age and small size. She lives together with her parents, her grandparents and her elder sister in a little town. In school, she has many friends with whom she studies and plays together everyday, including her close pal, Tama-chan; the student committee members, Maruo-kun and Migiwa-san; and the B-class trio: 'little master' Hanawa-kun, Hamaji-Bu Taro and Sekiguchi-kun. This is a fun-loving and enjoyable anime that portrays the simple things in life.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1108/100604.jpg",
       "date": "Jan 8, 1995, 18:00 (JST)",
@@ -1085,20 +1099,6 @@
         "Comedy",
         "Kids",
         "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "The series revolve around a team of 12 high school students who love to play the trading card game Rebirth For You.\n\n(Source: Anime News Network)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1319/105669.jpg",
-      "date": "Jan 5, 2020, 01:00 (JST)",
-      "producer": "LIDENFILMS",
-      "eps": null,
-      "genres": [
-        "Game",
-        "Slice of Life",
-        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1702,6 +1702,18 @@
     },
     {
       "title": "",
+      "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
+      "date": "Mar 28, 2011, 08:24 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "A gag anime about foods in a refrigerator. The anime airs within the Oha Suta children's morning TV program and will receive a simultaneous manga serialization by Kazumata Oguri.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1884/95217.jpg",
       "date": "Oct 1, 2018, 07:05 (JST)",
@@ -1711,18 +1723,6 @@
         "Comedy",
         "Kids",
         "Parody"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
-      "date": "Mar 28, 2011, 08:24 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1883,20 +1883,6 @@
     },
     {
       "title": "",
-      "description": "The anime will show ancient Egyptian gods relaxing and enjoying their time.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1955/107042.jpg",
-      "date": "Dec ??, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "The story follows a group of baseball players who after having quit playing baseball are reunited by fate after enrolling in the same university. At the time the university did not have a baseball team, so the group who have previously faced off against each other throughout the years. Form a team and start playing once again, reviving their passion for the sport.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1093/109641.jpg",
       "date": "Oct 11, 2020",
@@ -1906,6 +1892,20 @@
         "Sports",
         "School",
         "Shounen"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The anime will show ancient Egyptian gods relaxing and enjoying their time.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1955/107042.jpg",
+      "date": "Dec ??, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2203,9 +2203,9 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1122/109069.jpg",
-      "date": "Nov 27, 2020",
-      "producer": "Studio 1st",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1336/109070.jpg",
+      "date": "Oct 30, 2020",
+      "producer": "-",
       "eps": 1,
       "genres": [
         "Hentai"
@@ -2215,9 +2215,9 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1336/109070.jpg",
-      "date": "Oct 30, 2020",
-      "producer": "-",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1122/109069.jpg",
+      "date": "Nov 27, 2020",
+      "producer": "Studio 1st",
       "eps": 1,
       "genres": [
         "Hentai"

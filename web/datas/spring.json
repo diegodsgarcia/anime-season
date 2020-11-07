@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-11-06",
+  "lastUpdate": "2020-11-07",
   "animes": [
     {
       "title": "",
@@ -98,20 +98,6 @@
     },
     {
       "title": "",
-      "description": "Kakushi Gotou is a somewhat popular manga artist whose works are known for inappropriate content. Because of this raunchiness, when his daughter Hime was born, he vowed to keep his profession hidden from her, believing that she will be disillusioned if she finds out. \n\nThis paranoia-induced belief leads Kakushi into hectic situations. Despite being a single father, he does his best and often resorts to extreme ends just to protect his secret, such as guising as a salaryman every day or holding emergency drills in case Hime somehow finds her way to his workplace.\n\nKakushigoto tells the story of a father and daughter living side by side, maintaining their peaceful existence as the father attempts to preserve the status quo. However, there is a saying: \"there are no secrets that time cannot reveal.\" In time, Hime must learn the reality behind the things she took for granted as she grew up.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1476/106372.jpg",
-      "date": "Apr 2, 2020, 23:30 (JST)",
-      "producer": "Ajia-Do",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Daisuke Kanbe, a man of extraordinary wealth, is assigned to the Modern Crime Prevention Headquarters as a detective. It is there that he gets partnered with Haru Katou, a humane detective who values justice above all. The two are polar opposites, and their morals clash time and time again. Haru despises Daisuke for using monetary wealth to solve cases, as he believes that money isn't everything. The two will have to combine their efforts, however, to solve the mysteries that are coming their way.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1066/106556.jpg",
       "date": "Apr 10, 2020, 00:55 (JST)",
@@ -121,6 +107,20 @@
         "Mystery",
         "Comedy",
         "Police"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Kakushi Gotou is a somewhat popular manga artist whose works are known for inappropriate content. Because of this raunchiness, when his daughter Hime was born, he vowed to keep his profession hidden from her, believing that she will be disillusioned if she finds out. \n\nThis paranoia-induced belief leads Kakushi into hectic situations. Despite being a single father, he does his best and often resorts to extreme ends just to protect his secret, such as guising as a salaryman every day or holding emergency drills in case Hime somehow finds her way to his workplace.\n\nKakushigoto tells the story of a father and daughter living side by side, maintaining their peaceful existence as the father attempts to preserve the status quo. However, there is a saying: \"there are no secrets that time cannot reveal.\" In time, Hime must learn the reality behind the things she took for granted as she grew up.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1476/106372.jpg",
+      "date": "Apr 2, 2020, 23:30 (JST)",
+      "producer": "Ajia-Do",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -1130,6 +1130,20 @@
     },
     {
       "title": "",
+      "description": "The series revolve around a team of 12 high school students who love to play the trading card game Rebirth For You.\n\n(Source: Anime News Network)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1319/105669.jpg",
+      "date": "Jan 5, 2020, 01:00 (JST)",
+      "producer": "LIDENFILMS",
+      "eps": null,
+      "genres": [
+        "Game",
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "Momoko Sakura is an elementary school student who likes popular idol Momoe Yamaguchi and mangas. She is often called \"Chibi Maruko-chan\" due to her young age and small size. She lives together with her parents, her grandparents and her elder sister in a little town. In school, she has many friends with whom she studies and plays together everyday, including her close pal, Tama-chan; the student committee members, Maruo-kun and Migiwa-san; and the B-class trio: 'little master' Hanawa-kun, Hamaji-Bu Taro and Sekiguchi-kun. This is a fun-loving and enjoyable anime that portrays the simple things in life.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1108/100604.jpg",
       "date": "Jan 8, 1995, 18:00 (JST)",
@@ -1140,20 +1154,6 @@
         "Comedy",
         "Kids",
         "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "The series revolve around a team of 12 high school students who love to play the trading card game Rebirth For You.\n\n(Source: Anime News Network)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1319/105669.jpg",
-      "date": "Jan 5, 2020, 01:00 (JST)",
-      "producer": "LIDENFILMS",
-      "eps": null,
-      "genres": [
-        "Game",
-        "Slice of Life",
-        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1589,6 +1589,18 @@
     },
     {
       "title": "",
+      "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
+      "date": "Mar 28, 2011, 08:24 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "A gag anime about foods in a refrigerator. The anime airs within the Oha Suta children's morning TV program and will receive a simultaneous manga serialization by Kazumata Oguri.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1884/95217.jpg",
       "date": "Oct 1, 2018, 07:05 (JST)",
@@ -1598,18 +1610,6 @@
         "Comedy",
         "Kids",
         "Parody"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
-      "date": "Mar 28, 2011, 08:24 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
