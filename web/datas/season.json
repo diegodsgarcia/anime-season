@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-11-07",
+  "lastUpdate": "2020-11-08",
   "animes": [
     {
       "title": "",
@@ -673,6 +673,18 @@
     },
     {
       "title": "",
+      "description": "",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1850/108933.jpg",
+      "date": "Oct 4, 2020, 09:55 (JST)",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Zenitendo is a mysterious candy store that only lucky people can reach. All the candy recommended by Beniko, the owner of the store, is perfectly suited to the buyer's troubles. However, it depends on whether the candy will be used or eaten correctly that it can bring happiness or misfortune.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1994/108212.jpg",
       "date": "Sep 8, 2020, 18:45 (JST)",
@@ -681,18 +693,6 @@
       "genres": [
         "Mystery",
         "Kids"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1850/108933.jpg",
-      "date": "Oct 4, 2020, 09:55 (JST)",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -968,7 +968,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1025/105319.jpg",
       "date": "Apr 4, 2020, 17:35 (JST)",
       "producer": "OLM",
-      "eps": null,
+      "eps": 25,
       "genres": [
         "Comedy",
         "Sports",
@@ -1358,7 +1358,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1401/106017.jpg",
       "date": "Apr 5, 2020, 19:00 (JST)",
       "producer": "Ajia-Do, Bandai Namco Pictures",
-      "eps": null,
+      "eps": 25,
       "genres": [
         "Adventure",
         "Comedy",
@@ -2034,18 +2034,6 @@
     },
     {
       "title": "",
-      "description": "The encounter between Asahi and Ryouya.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/109791.jpg",
-      "date": "Oct 11, 2020",
-      "producer": "TANOsim",
-      "eps": 1,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1889/109930.jpg",
       "date": "Oct 25, 2020",
@@ -2055,6 +2043,18 @@
         "Action",
         "Fantasy",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The encounter between Asahi and Ryouya.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/109791.jpg",
+      "date": "Oct 11, 2020",
+      "producer": "TANOsim",
+      "eps": 1,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "ONA"
     },

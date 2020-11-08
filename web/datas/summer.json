@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-11-07",
+  "lastUpdate": "2020-11-08",
   "animes": [
     {
       "title": "",
@@ -709,7 +709,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1025/105319.jpg",
       "date": "Apr 4, 2020, 17:35 (JST)",
       "producer": "OLM",
-      "eps": null,
+      "eps": 25,
       "genres": [
         "Comedy",
         "Sports",
@@ -1182,7 +1182,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1401/106017.jpg",
       "date": "Apr 5, 2020, 19:00 (JST)",
       "producer": "Ajia-Do, Bandai Namco Pictures",
-      "eps": null,
+      "eps": 25,
       "genres": [
         "Adventure",
         "Comedy",
@@ -1779,6 +1779,20 @@
     },
     {
       "title": "",
+      "description": "In the twelve years of Tianbao, Kong Hongjun, a handsome young man who is not familiar with the world, left the Yaojin Palace on the Taihang Mountain with three important tasks, and came to Chang'an, which is full of prosperity. Kong Hongjun first entered the Datang Exorcism Division, and the head supervisor was actually Long Wujun general Li Jinglong who had dealt with it not long ago. But he accidentally broke the Chen's heart lamp, and the heart lamp entered Li Jinglong's body. In the light and shadow of the lamp, there are the bright red lights of Pingkangli, the exorcism of the sycamore in the summer sunshine, the vast sky and sand and flying snow, the peaceful singing of Artai. Mo Rigen and Lu Xu picked off early morning leaves, Qiu Yongsi's flying strokes.\n\n(Source: V2Anime)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1432/105225.jpg",
+      "date": "Jul 5, 2020",
+      "producer": "Sparkly Key Animation Studio",
+      "eps": 13,
+      "genres": [
+        "Action",
+        "Historical",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.\n\n(Source: Wuxia World)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1085/109745.jpg",
       "date": "Jul 25, 2020",
@@ -1787,20 +1801,6 @@
       "genres": [
         "Action",
         "Adventure",
-        "Historical",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "In the twelve years of Tianbao, Kong Hongjun, a handsome young man who is not familiar with the world, left the Yaojin Palace on the Taihang Mountain with three important tasks, and came to Chang'an, which is full of prosperity. Kong Hongjun first entered the Datang Exorcism Division, and the head supervisor was actually Long Wujun general Li Jinglong who had dealt with it not long ago. But he accidentally broke the Chen's heart lamp, and the heart lamp entered Li Jinglong's body. In the light and shadow of the lamp, there are the bright red lights of Pingkangli, the exorcism of the sycamore in the summer sunshine, the vast sky and sand and flying snow, the peaceful singing of Artai. Mo Rigen and Lu Xu picked off early morning leaves, Qiu Yongsi's flying strokes.\n\n(Source: V2Anime)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1432/105225.jpg",
-      "date": "Jul 5, 2020",
-      "producer": "Sparkly Key Animation Studio",
-      "eps": 13,
-      "genres": [
-        "Action",
         "Historical",
         "Fantasy"
       ],
@@ -2199,6 +2199,19 @@
     },
     {
       "title": "",
+      "description": "The \"Chibi Godzilla\" project was launched to celebrate the 65th anniversary of Toho's Godzilla franchise.\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/108564.jpg",
+      "date": "Jul 15, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Due to the dissipation of the heavenly scripture powers, Dunhuang will face adversity. Wu Tianji is ordered to repair the heavenly scriptures. In order to perfect the heavenly scripture powers, you need to relive the story originally recorded in the heavenly scripture. Wu Tianji took the god beast, the angel pig, to the ancient city of Dunhuang. Just when she had no idea how to start repairing the scriptures, she accidentally strayed into the world of frescoes in the Mogao Caves...\n\n(Source: bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1611/108293.jpg",
       "date": "Jul 6, 2020",
@@ -2207,19 +2220,6 @@
       "genres": [
         "Comedy",
         "Historical",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "The \"Chibi Godzilla\" project was launched to celebrate the 65th anniversary of Toho's Godzilla franchise.\n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/108564.jpg",
-      "date": "Jul 15, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
         "Fantasy"
       ],
       "category": "ONA"
@@ -2385,7 +2385,7 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1467/108042.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1961/110109.jpg",
       "date": "Aug 28, 2020",
       "producer": "-",
       "eps": null,

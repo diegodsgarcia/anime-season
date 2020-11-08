@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-11-07",
+  "lastUpdate": "2020-11-08",
   "animes": [
     {
       "title": "",
@@ -465,7 +465,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1025/105319.jpg",
       "date": "Apr 4, 2020, 17:35 (JST)",
       "producer": "OLM",
-      "eps": null,
+      "eps": 25,
       "genres": [
         "Comedy",
         "Sports",
@@ -700,7 +700,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1401/106017.jpg",
       "date": "Apr 5, 2020, 19:00 (JST)",
       "producer": "Ajia-Do, Bandai Namco Pictures",
-      "eps": null,
+      "eps": 25,
       "genres": [
         "Adventure",
         "Comedy",
@@ -2132,6 +2132,19 @@
     },
     {
       "title": "",
+      "description": "Last century, Shi Dali was sealed for 100 years, but he accidentally discovered Qingqing, the celestial nine tails fox. He started his path to become Chief Soul Master, to find out the mistery of his origin and to protect the world.\n\n(Source: themoviedb)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1457/108134.jpg",
+      "date": "Jun 20, 2020",
+      "producer": "Soyep",
+      "eps": 40,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1324/103548.jpg",
       "date": "Apr 10, 2020",
@@ -2144,19 +2157,6 @@
         "Mecha",
         "Sci-Fi",
         "Shounen"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Last century, Shi Dali was sealed for 100 years, but he accidentally discovered Qingqing, the celestial nine tails fox. He started his path to become Chief Soul Master, to find out the mistery of his origin and to protect the world.\n\n(Source: themoviedb)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1457/108134.jpg",
-      "date": "Jun 20, 2020",
-      "producer": "Soyep",
-      "eps": 40,
-      "genres": [
-        "Action",
-        "Fantasy"
       ],
       "category": "ONA"
     },
