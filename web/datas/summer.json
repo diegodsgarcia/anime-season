@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-11-08",
+  "lastUpdate": "2020-11-09",
   "animes": [
     {
       "title": "",
@@ -689,6 +689,21 @@
     },
     {
       "title": "",
+      "description": "After recovering from the inner struggles he faced in the past, Daigo Shigeno continues to play baseball and is now the captain of Fuurin Private Academy Middle School's baseball team. Alongside Mutsuko Sakura, his classmate from elementary school, he aims to lead the team to glory. However, due to unexpected circumstances, Fuurin's baseball team is left with only six members: Daigo, Mutsuko, Yayoi Sawa, Tao Sagara, Seira Kandori, and Hiromu Tanba. Left with mostly female players and lacking in experience, the team struggles to gain confidence and trust from the new recruits—Akira Nishina, Anita Kabashima, and Chisato Fujii. Facing challenges such as having no proper coach, problematic recruits, and a limited number of members, Daigo's resolution is put to the test as he tries to bring the team together in time to participate in their first ever tournament.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1025/105319.jpg",
+      "date": "Apr 4, 2020, 17:35 (JST)",
+      "producer": "OLM",
+      "eps": 25,
+      "genres": [
+        "Comedy",
+        "Sports",
+        "Drama",
+        "Shounen"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "Demetrios, a timid and kind vase painter in Ancient Greece who dislikes sports and competitions, is one day forced to come up with a game to compete with the mayor of the neighboring town in order to save his village. While hiding inside a large vase outside his workshop, lightning strikes the vase Demetrios is in, transferring him to Tokyo, Japan, during the 1964 Summer Olympics.\n \n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1543/107116.jpg",
       "date": "Apr 20, 2020, 21:54 (JST)",
@@ -700,21 +715,6 @@
         "Historical",
         "Sports",
         "Seinen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "After recovering from the inner struggles he faced in the past, Daigo Shigeno continues to play baseball and is now the captain of Fuurin Private Academy Middle School's baseball team. Alongside Mutsuko Sakura, his classmate from elementary school, he aims to lead the team to glory. However, due to unexpected circumstances, Fuurin's baseball team is left with only six members: Daigo, Mutsuko, Yayoi Sawa, Tao Sagara, Seira Kandori, and Hiromu Tanba. Left with mostly female players and lacking in experience, the team struggles to gain confidence and trust from the new recruits—Akira Nishina, Anita Kabashima, and Chisato Fujii. Facing challenges such as having no proper coach, problematic recruits, and a limited number of members, Daigo's resolution is put to the test as he tries to bring the team together in time to participate in their first ever tournament.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1025/105319.jpg",
-      "date": "Apr 4, 2020, 17:35 (JST)",
-      "producer": "OLM",
-      "eps": 25,
-      "genres": [
-        "Comedy",
-        "Sports",
-        "Drama",
-        "Shounen"
       ],
       "category": "TV (Continuing)"
     },
@@ -1500,19 +1500,6 @@
     },
     {
       "title": "",
-      "description": "Chashin was selected by the legendary choicar \"Stormbone,\" as the strongest racer, and will showcase a new concept of bite racing.\n\nBite racing is a new racing game that never hits a rail with two cars chasing in a match. The bite-free rail running on the track creates a more realistic racing experience. Various types of super cars such as speed type, balance type, and power type create unique racing on 3 types of tracks (crash track, line track, outdoor race).\n\n(Source: enewstoday.co.kr)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1656/106927.jpg",
-      "date": "Apr 18, 2020, 07:15 (JST)",
-      "producer": "-",
-      "eps": 26,
-      "genres": [
-        "Cars",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
       "date": "Mar 28, 2011, 08:24 (JST)",
@@ -1534,6 +1521,19 @@
         "Comedy",
         "Kids",
         "Parody"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Chashin was selected by the legendary choicar \"Stormbone,\" as the strongest racer, and will showcase a new concept of bite racing.\n\nBite racing is a new racing game that never hits a rail with two cars chasing in a match. The bite-free rail running on the track creates a more realistic racing experience. Various types of super cars such as speed type, balance type, and power type create unique racing on 3 types of tracks (crash track, line track, outdoor race).\n\n(Source: enewstoday.co.kr)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1656/106927.jpg",
+      "date": "Apr 18, 2020, 07:15 (JST)",
+      "producer": "-",
+      "eps": 26,
+      "genres": [
+        "Cars",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
