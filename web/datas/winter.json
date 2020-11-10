@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-11-09",
+  "lastUpdate": "2020-11-10",
   "animes": [
     {
       "title": "",
@@ -1328,6 +1328,18 @@
     },
     {
       "title": "",
+      "description": "An everyday life of yellow frog with horn.  Based on the web manga of the same title.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1189/98233.jpg",
+      "date": "Feb 21, 2019, 21:54 (JST)",
+      "producer": "MMDGP",
+      "eps": 50,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
       "date": "Apr 8, 2016, 18:20 (JST)",
@@ -1338,18 +1350,6 @@
         "Parody",
         "Kids",
         "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "An everyday life of yellow frog with horn.  Based on the web manga of the same title.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1189/98233.jpg",
-      "date": "Feb 21, 2019, 21:54 (JST)",
-      "producer": "MMDGP",
-      "eps": 50,
-      "genres": [
-        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1947,6 +1947,21 @@
     },
     {
       "title": "",
+      "description": "\"Dream School Grand Prix\" to decide the No.1 idol school among five schools representing the Aikatsu world will be held! In this competition where top idols representing each school compete on stage, Dream Academy's new idol Noel Otoshiro is selected as one of them?! For each idol's dream, a new story starts running into the shining future! \n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1704/106781.jpg",
+      "date": "Mar 28, 2020",
+      "producer": "Bandai Namco Pictures",
+      "eps": 6,
+      "genres": [
+        "Music",
+        "Slice of Life",
+        "School",
+        "Shoujo"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "The protagonist Qin Chen, who was originally the top genius in the military domain, was conspired by the people to fall into the death canyon in the forbidden land of the mainland. Qin Chen, who was inevitably dead, unexpectedly triggered the power of the mysterious ancient sword.\n\nThree hundred years later, in a remote part of the Tianwu mainland, a boy of the same name accidentally inherited Qin Chen’s will. As the beloved grandson of King Dingwu of the Daqi National Army, due to the birth father’s birth, the mother and son were treated coldly in Dingwu’s palace and lived together. In order to rewrite the myth of the strong man in hope of the sun, and to protect everything he loves, Qin Chen resolutely took up the responsibility of maintaining the five kingdoms of the world and set foot on the road of martial arts again.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
       "date": "Mar 8, 2020",
@@ -1958,21 +1973,6 @@
         "Drama",
         "Martial Arts",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "\"Dream School Grand Prix\" to decide the No.1 idol school among five schools representing the Aikatsu world will be held! In this competition where top idols representing each school compete on stage, Dream Academy's new idol Noel Otoshiro is selected as one of them?! For each idol's dream, a new story starts running into the shining future! \n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1704/106781.jpg",
-      "date": "Mar 28, 2020",
-      "producer": "Bandai Namco Pictures",
-      "eps": 6,
-      "genres": [
-        "Music",
-        "Slice of Life",
-        "School",
-        "Shoujo"
       ],
       "category": "ONA"
     },
@@ -2170,6 +2170,19 @@
     },
     {
       "title": "",
+      "description": "Short 3DCG anime for Japanese band MAN WITH A MISSION.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1378/106615.jpg",
+      "date": "Mar 16, 2020",
+      "producer": "-",
+      "eps": 6,
+      "genres": [
+        "Music",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "A collaboration between the live-action horror film Inunaki-mura slated to be released in theaters February 7, 2020 and the Eagle Talon franchise. The film is based on the urban legend of the real-life abandoned Inunaki Village and the old tunnel that cut through the area.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1632/105513.jpg",
       "date": "Jan 17, 2020",
@@ -2179,19 +2192,6 @@
         "Comedy",
         "Horror",
         "Parody"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Short 3DCG anime for Japanese band MAN WITH A MISSION.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1378/106615.jpg",
-      "date": "Mar 16, 2020",
-      "producer": "-",
-      "eps": 6,
-      "genres": [
-        "Music",
-        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2380,7 +2380,7 @@
     },
     {
       "title": "",
-      "description": "Includes six segments: Boku no Tsukumogami-sama, Sentou nite, Boku no Goshujin-sama, Kokuyou no Ongaeshi, Saigo no Toride, and Erohon Kaigi.",
+      "description": "Includes six segments: Boku no Tsukumogami-sama, Sentou nite, Boku no Goshujin-sama, Kokuyou no Ongaeshi, Saigo no Toride, and Erohon Kaigi. Bundled with the special edition of the 24th manga volume.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1269/110128.jpg",
       "date": "Jan 22, 2020",
       "producer": "Zero-G",
@@ -2671,7 +2671,7 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
+      "description": "Goblin Slayer and his party head up to the snowy mountains in the north after receiving that request from the Sword Maiden. A small village gets attacked, they encounter a mysterious chapel, and something about how these goblins are acting bothers the Goblin slayer.\n\nFirst 25 minute is a recap of season 1. Movie is an adaption of the fifth light novel.\n\n(Source: Crunchyroll, Goblin Slayer Wiki)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1885/100023.jpg",
       "date": "Feb 1, 2020",
       "producer": "White Fox",
