@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-11-10",
+  "lastUpdate": "2020-11-11",
   "animes": [
     {
       "title": "",
@@ -737,19 +737,6 @@
     },
     {
       "title": "",
-      "description": "Second season of Kaijuu Step Wandabada.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1934/109054.jpg",
-      "date": "Sep 25, 2020, 17:20 (JST)",
-      "producer": "Usagi Ou",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "The story centers on the Seven Gods of Fortune in Japanese mythology as they reside on Awaji Island in Hyogo. In the shorts' story, the Seven Gods of Fortune slack in their duties in heaven, and Susanoo-no-Mikoto banishes them to Awaji Island. In order to return to the heavenly realm, they must help bring happiness to humans and rebuild their virtue. The outcast gods reluctantly grant human wishes and accumulate points in their \"god phones\" to be able to return to heaven. They aim to perform good deeds on particularly auspicious days to maximize point accumulation. Despite their best efforts at accumulating virtue, sometimes the Seven Gods of Fortune end up bringing misfortune to humans. When they fail, they lose points, further prolonging their stay on Awaji Island.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1860/109576.jpg",
       "date": "Oct 5, 2020, 07:30 (JST)",
@@ -759,6 +746,19 @@
         "Comedy",
         "Kids",
         "Supernatural"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Second season of Kaijuu Step Wandabada.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1934/109054.jpg",
+      "date": "Sep 25, 2020, 17:20 (JST)",
+      "producer": "Usagi Ou",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (New)"
     },
@@ -1883,15 +1883,13 @@
     },
     {
       "title": "",
-      "description": "The anime will show ancient Egyptian gods relaxing and enjoying their time.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1955/107042.jpg",
-      "date": "Dec ??, 2020",
+      "description": "The story centers on an RPG that people call \"kusoge\" (\"crap-tier game,\" referring to games with quirky or badly implemented mechanics and design). The main character Lidays decides to change the game's story, meeting with other characters while the game isn't being played. But as they flub their lines, the situation spirals out of control.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/109489.jpg",
+      "date": "Oct 19, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 12,
       "genres": [
-        "Comedy",
-        "Fantasy",
-        "Slice of Life"
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -1911,13 +1909,15 @@
     },
     {
       "title": "",
-      "description": "The story centers on an RPG that people call \"kusoge\" (\"crap-tier game,\" referring to games with quirky or badly implemented mechanics and design). The main character Lidays decides to change the game's story, meeting with other characters while the game isn't being played. But as they flub their lines, the situation spirals out of control.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/109489.jpg",
-      "date": "Oct 19, 2020",
+      "description": "The anime will show ancient Egyptian gods relaxing and enjoying their time.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1955/107042.jpg",
+      "date": "Dec ??, 2020",
       "producer": "-",
-      "eps": 12,
+      "eps": null,
       "genres": [
-        "Comedy"
+        "Comedy",
+        "Fantasy",
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2191,10 +2191,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/109071.jpg",
-      "date": "Nov 27, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1336/109070.jpg",
+      "date": "Oct 30, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 1,
       "genres": [
         "Hentai"
       ],
@@ -2203,10 +2203,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1336/109070.jpg",
-      "date": "Oct 30, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/109071.jpg",
+      "date": "Nov 27, 2020",
       "producer": "-",
-      "eps": 1,
+      "eps": null,
       "genres": [
         "Hentai"
       ],
@@ -2370,6 +2370,22 @@
       "eps": 1,
       "genres": [
         "Drama",
+        "Shounen Ai"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
+      "description": "Love is love. Someday, the pain of being in love will be an endearing memory. No matter who the feelings are towards, no matter what form it takes, all love and lifestyles have the same value. An omnibus anime tells the stories of “The wedding of an ex”, “a student and a teacher at an all-boys’ school” and “childhood friends whose bodies and hearts change with adolescence.”\n\n(Source: Kotonoha)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1924/106583.jpg",
+      "date": "Oct 23, 2020",
+      "producer": "LIDENFILMS",
+      "eps": 1,
+      "genres": [
+        "Slice of Life",
+        "Drama",
+        "Romance",
+        "Shoujo Ai",
         "Shounen Ai"
       ],
       "category": "Movie"
