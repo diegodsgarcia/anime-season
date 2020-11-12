@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-11-11",
+  "lastUpdate": "2020-11-12",
   "animes": [
     {
       "title": "",
@@ -1539,6 +1539,19 @@
     },
     {
       "title": "",
+      "description": "Koyan, the Origami Ninja, came to Earth from his planet Origamio to find the magical stone \"Hapiton\" that has the ability to make people happy. On the way, he was joined by childhood friend Namin anda new friend Lublin. One day, a villain called Evilrun appeared. Evilrun has a black hole in her stomach and tries to inhale anything. Every time an event happens, Evilrun gets in the way of Koyan and friends. But what Evilrun's aim is remains a mystery...",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1860/106477.jpg",
+      "date": "Apr 7, 2020, 07:30 (JST)",
+      "producer": "Directions",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "A prequel to Cogimyun covering her life at flour school before she runs her grandfather's apartment complex. Episodes air within the \"Millenia Girl\" live action program and then get released for a limited time later in the day on Sanrio's official YouTube channel.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1755/105960.jpg",
       "date": "Jan 31, 2020, 01:25 (JST)",
@@ -1548,19 +1561,6 @@
         "Fantasy",
         "Kids",
         "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "Koyan, the Origami Ninja, came to Earth from his planet Origamio to find the magical stone \"Hapiton\" that has the ability to make people happy. On the way, he was joined by childhood friend Namin anda new friend Lublin. One day, a villain called Evilrun appeared. Evilrun has a black hole in her stomach and tries to inhale anything. Every time an event happens, Evilrun gets in the way of Koyan and friends. But what Evilrun's aim is remains a mystery...",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1860/106477.jpg",
-      "date": "Apr 7, 2020, 07:30 (JST)",
-      "producer": "Directions",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -2779,6 +2779,18 @@
       "genres": [
         "Game",
         "Slice of Life",
+        "Comedy"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "",
+      "description": "A picture drama epilogue to the film Boku no Hero Academia the Movie 2: Heroes:Rising, bundled with the BD/DVD release.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1475/109945.jpg",
+      "date": "Jul 15, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
         "Comedy"
       ],
       "category": "Special"
