@@ -1,23 +1,37 @@
 import { useState } from 'react'
-import { AnimeSeason } from 'types/Anime'
+import { AnimeSeason, Anime } from 'types/Anime'
 
 import Header from 'components/Header'
 import { Container } from 'components/Container'
 import List from 'components/List'
 import Info from 'components/Info'
-import Select, { SelectOption } from 'components/Select'
+import Select from 'components/Select'
 import Global from 'styles/global'
 
 import { getAnimesSeason } from 'service/api'
-import { listAnimes, getSelectSeasons } from 'utils'
+import {
+  listAnimes,
+  filterAnimesByCategory,
+  getSelectSeasons,
+  getSelectCategories
+} from 'utils'
 
 export default function Home(props: AnimeSeason) {
   const [animeSeason, setAnimeSeason] = useState<AnimeSeason>(props)
-  const { animes, season, year } = animeSeason
+  const [animes, setAnimes] = useState<Anime[]>(animeSeason.animes)
+  const { season, year } = animeSeason
 
-  const onChangeSeason = async ({ value }: SelectOption) => {
+  const onChangeSeason = async (value: string) => {
     const result = await getAnimesSeason(value)
     setAnimeSeason(result)
+  }
+
+  const onChangeCategory = async (value: string) => {
+    if (value === 'All') {
+      setAnimes(animeSeason.animes)
+    } else {
+      setAnimes(filterAnimesByCategory(animeSeason.animes, value))
+    }
   }
 
   return (
@@ -29,13 +43,20 @@ export default function Home(props: AnimeSeason) {
 
       <Container>
         <Select
-          placeholder="Season"
+          label="Season"
           options={getSelectSeasons()}
-          value={{ label: '', value: season }}
+          value={season}
           onChange={onChangeSeason}
+        />
+        <Select
+          label="Category"
+          options={getSelectCategories()}
+          value={season}
+          onChange={onChangeCategory}
         />
         <List list={listAnimes(animes)} />
       </Container>
+
       <Info />
     </div>
   )
