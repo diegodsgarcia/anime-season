@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-11-12",
+  "lastUpdate": "2020-11-13",
   "animes": [
     {
       "title": "",
@@ -2007,6 +2007,18 @@
     },
     {
       "title": "",
+      "description": "Omake mini anime released after each episode of Tsukiuta. The Animation 2 on the Tsukino Production official YouTube channel.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1366/110166.jpg",
+      "date": "Oct 7, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Second season Han Hua Ri Ji.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1861/109494.jpg",
       "date": "Nov 15, 2020",
@@ -2080,18 +2092,6 @@
       "eps": 12,
       "genres": [
         "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Omake mini anime released after each episode of Tsukiuta. The Animation 2 on the Tsukino Production official YouTube channel.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1366/110166.jpg",
-      "date": "Oct 7, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
         "Comedy"
       ],
       "category": "ONA"
@@ -2203,10 +2203,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1991/108753.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1336/109070.jpg",
       "date": "Oct 30, 2020",
       "producer": "-",
-      "eps": 2,
+      "eps": 1,
       "genres": [
         "Hentai"
       ],
@@ -2215,10 +2215,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1336/109070.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1991/108753.jpg",
       "date": "Oct 30, 2020",
       "producer": "-",
-      "eps": 1,
+      "eps": 2,
       "genres": [
         "Hentai"
       ],
@@ -2253,7 +2253,7 @@
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1496/109753.jpg",
       "date": "Oct 30, 2020",
-      "producer": "-",
+      "producer": "Teatro Nishi Tokyo Studio",
       "eps": 1,
       "genres": [
         "Hentai",
@@ -2573,6 +2573,18 @@
     },
     {
       "title": "",
+      "description": "Not every orphan would love living at St. Morwald's Home for Children, but Earwig does. She gets whatever she wants, whenever she wants it, and it's been that way since she was dropped on the orphanage doorstep as a baby. But all that changes the day Bella Yaga and the Mandrake come to St. Morwald's, disguised as foster parents.\n\nEarwig is whisked off to their mysterious house full of invisible rooms, potions, and spell books, with magic around every corner. Most children would run in terror from a house like that... but not Earwig. Using her own cleverness—with a lot of help from a talking cat—she decides to show the witch who's boss. \n\n(Source: HarperCollins Publishers)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1242/110170.jpg",
+      "date": "Dec 30, 2020",
+      "producer": "Studio Ghibli",
+      "eps": 1,
+      "genres": [
+        "Magic"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
       "description": "The story begins when the protagonist Hikaru meets aliens Lala, Prunce, and Fuwa while watching the night sky. She learns of the “Star Palace,” where the 12 Star Princesses of the constellations kept the balance of the universe until they were attacked. Lala is searching for the legendary Precure warriors to help find the 12 scattered “Princess Star Color Pens” and revive the princesses. When Fuwa is captured by an enemy, Hikaru wishes to save Fuwa, and a Star Color Pendent and a Star Color Pen appear to allow her to transform into Cure Star. From then on she works to collect the pens and raise Fuwa, who is the key to reviving the princesses.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1313/105361.jpg",
       "date": "Oct 31, 2020",
@@ -2583,18 +2595,6 @@
         "Fantasy",
         "Magic",
         "Shoujo"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "",
-      "description": "Not every orphan would love living at St. Morwald's Home for Children, but Earwig does. She gets whatever she wants, whenever she wants it, and it's been that way since she was dropped on the orphanage doorstep as a baby. But all that changes the day Bella Yaga and the Mandrake come to St. Morwald's, disguised as foster parents.\n\nEarwig is whisked off to their mysterious house full of invisible rooms, potions, and spell books, with magic around every corner. Most children would run in terror from a house like that... but not Earwig. Using her own cleverness—with a lot of help from a talking cat—she decides to show the witch who's boss. \n\n(Source: HarperCollins Publishers)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1189/108109.jpg",
-      "date": "Dec ??, 2020",
-      "producer": "Studio Ghibli",
-      "eps": 1,
-      "genres": [
-        "Magic"
       ],
       "category": "Movie"
     },
@@ -2649,6 +2649,19 @@
         "Adventure",
         "Magic",
         "Fantasy"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "",
+      "description": "Senku has found yet another way to un-petrify people and let them live in the Stone World, Snickers bars! A new collaboration between the confectionary bar and the Dr. STONE TV anime sees the hero of the Stone World bring back Japanese comedian Kouki Kusanagi to life with a Snickers bar ... which hopefully gave Kusanagi the strength to come back to life, rather than have Nitric Acid in it ...\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1489/109705.jpg",
+      "date": "Oct 4, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Sci-Fi",
+        "Comedy"
       ],
       "category": "Special"
     }

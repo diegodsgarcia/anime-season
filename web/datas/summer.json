@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-11-12",
+  "lastUpdate": "2020-11-13",
   "animes": [
     {
       "title": "",
@@ -1721,20 +1721,6 @@
     },
     {
       "title": "",
-      "description": "Recap of the first 5 episodes of Deca-Dence.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1480/108948.jpg",
-      "date": "Aug 7, 2020",
-      "producer": "Nut",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Adventure"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "This is a story of a guy who transmigrates into the scum villain of one of those harem xuanhuan/xianxia novels. The scum villain, Shen Qingqiu, is one of those looks-noble-but-is-actually-a-hypocrite type. Shen Qingqiu’s disciple, Luo Binghe, is the main character of the novel who gradually turns darker as tragic events occur upon him.\n\nWith the help of a very troll system, the new Shen Qingqiu tries to stay alive by staying on Luo Binghe’s good side, as the original Shen Qingqiu treated Luo Binghe badly, thus receiving a horrifying ending. However, Shen Qingqiu's plan of staying alive is not as simple as it seems as he soon finds out that the system limits his actions.\n\nThis is a sometimes angsty, but also touching, story of a master and his disciple.\n\n(Source: CNovels; edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1367/109171.jpg",
       "date": "Sep 10, 2020",
@@ -1745,6 +1731,20 @@
         "Demons",
         "Supernatural",
         "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Recap of the first 5 episodes of Deca-Dence.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1480/108948.jpg",
+      "date": "Aug 7, 2020",
+      "producer": "Nut",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
       ],
       "category": "ONA"
     },
@@ -2159,6 +2159,19 @@
     },
     {
       "title": "",
+      "description": "Each episode follows a character from the game.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
+      "date": "Jun 23, 2020",
+      "producer": "domerica, Studio Hibari",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1240/108694.jpg",
       "date": "Aug ??, 2020",
@@ -2168,19 +2181,6 @@
         "Action",
         "Music",
         "Sci-Fi"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Each episode follows a character from the game.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
-      "date": "Jun 23, 2020",
-      "producer": "domerica, Studio Hibari",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Martial Arts"
       ],
       "category": "ONA"
     },
