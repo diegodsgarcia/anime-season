@@ -1,22 +1,23 @@
 import { useState } from 'react'
-import ReactDOM from 'react-dom'
 
-import Overlay from 'components/Overlay'
-import * as S from './styled'
-
+import { InfoCircle } from '@styled-icons/fa-solid/InfoCircle'
 import { Github } from '@styled-icons/icomoon/Github'
 import { Twitter } from '@styled-icons/icomoon/Twitter'
+
+import Portal from 'components/Portal'
+
+import * as S from './styled'
 
 export default function Info() {
   const [isOpen, setOpen] = useState(false)
 
-  function renderAbout() {
-    if (typeof window !== 'undefined') {
-      return ReactDOM.createPortal(
-        <Overlay
-          onClick={() => setOpen(false)}
-          className={isOpen ? '--open' : '--closed'}
-        >
+  return (
+    <>
+      <S.Info onClick={() => setOpen(true)}>
+        <InfoCircle />
+      </S.Info>
+      <Portal selector="#__next">
+        <S.Overlay isOpen={isOpen} onClick={() => setOpen(false)}>
           <S.Container
             onClick={(e) => {
               e.stopPropagation()
@@ -35,7 +36,7 @@ export default function Info() {
               , you can see more and contribute below
             </p>
             <p>
-              You can see more about the{' '}
+              You can see more about the
               <a href="https://anime-season-doc.netlify.com/">API here</a>
             </p>
             <S.SocialLinks>
@@ -55,16 +56,8 @@ export default function Info() {
               </a>
             </S.SocialLinks>
           </S.Container>
-        </Overlay>,
-        document.body
-      )
-    }
-  }
-
-  return (
-    <>
-      <S.ButtonInfo onClick={() => setOpen(true)} />
-      {renderAbout()}
+        </S.Overlay>
+      </Portal>
     </>
   )
 }

@@ -13,7 +13,7 @@ const GlobalStyles = createGlobalStyle`
     background-color: #DDD;
   }
 
-  body, input, button {
+  body, input, select, button {
     font-family: 'Roboto', sans-serif;
     font-size: 1rem;
   }

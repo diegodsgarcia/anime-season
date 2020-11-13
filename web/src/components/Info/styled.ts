@@ -1,5 +1,25 @@
-import styled from 'styled-components'
-import { InfoCircle } from '@styled-icons/fa-solid/InfoCircle'
+import styled, { css } from 'styled-components'
+
+type OverlayProps = {
+  isOpen: boolean
+}
+
+export const Overlay = styled.div<OverlayProps>`
+  ${({ isOpen }) => css`
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #000000b5;
+    transition: opacity 0.3s, visibility 0.3s;
+    opacity: ${isOpen ? 1 : 0};
+    visibility: ${isOpen ? 'visible' : 'hidden'};
+  `}
+`
 
 export const Container = styled.div`
   padding: 20px;
@@ -25,19 +45,26 @@ export const SocialLinks = styled.div`
   justify-content: center;
   margin: 20px 0;
 
-  > a {
+  a {
     width: 50px;
     height: 50px;
     margin: 0 10px;
-    color: #000;
+  }
+
+  path {
+    fill: #000;
   }
 `
 
-export const ButtonInfo = styled(InfoCircle)`
+export const Info = styled.a`
   position: fixed;
   bottom: 20px;
   right: 20px;
   width: 30px;
   height: 30px;
   cursor: pointer;
+
+  path {
+    fill: #000;
+  }
 `
