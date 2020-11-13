@@ -14,7 +14,6 @@ const Title = styled.h1`
 `
 
 const Icon = styled.div`
-  width: 70px;
   margin: 0 10px;
 `
 
