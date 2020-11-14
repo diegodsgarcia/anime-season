@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-11-13",
+  "lastUpdate": "2020-11-14",
   "animes": [
     {
       "title": "",
@@ -1328,18 +1328,6 @@
     },
     {
       "title": "",
-      "description": "An everyday life of yellow frog with horn.  Based on the web manga of the same title.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1189/98233.jpg",
-      "date": "Feb 21, 2019, 21:54 (JST)",
-      "producer": "MMDGP",
-      "eps": 50,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
       "date": "Apr 8, 2016, 18:20 (JST)",
@@ -1350,6 +1338,18 @@
         "Parody",
         "Kids",
         "School"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "An everyday life of yellow frog with horn.  Based on the web manga of the same title.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1189/98233.jpg",
+      "date": "Feb 21, 2019, 21:54 (JST)",
+      "producer": "MMDGP",
+      "eps": 50,
+      "genres": [
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
