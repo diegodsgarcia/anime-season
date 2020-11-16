@@ -41,7 +41,7 @@ export default function Season(props: AnimeSeason) {
   return (
     <div className={season.toLowerCase()}>
       <Global />
-      <Header season={season}>
+      <Header season={season.toLowerCase()}>
         {season} - {year}
       </Header>
 
