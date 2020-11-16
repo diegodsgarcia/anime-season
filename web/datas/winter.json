@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-11-15",
+  "lastUpdate": "2020-11-16",
   "animes": [
     {
       "title": "",
@@ -1775,18 +1775,6 @@
     },
     {
       "title": "",
-      "description": "Short episodes of Kotoko doing fortune telling posted on the official Twitter account.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1422/108679.jpg",
-      "date": "Jan 17, 2020",
-      "producer": "AQUA ARIS",
-      "eps": 12,
-      "genres": [
-        "Supernatural"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Hinaria is unemployed, gaming every day. One day she decides to hack the servers belonging to the Beholder Group for some money, and she stumbles across a carefully secured record of two witches, Alice and Rimel. The two women wished to coexist with mankind, and the history they experienced is connected to the modern ZENONZARD.\n\n(Source: Official Site)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1035/106164.jpg",
       "date": "Jan 31, 2020",
@@ -1796,6 +1784,18 @@
         "Action",
         "Game",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Short episodes of Kotoko doing fortune telling posted on the official Twitter account.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1422/108679.jpg",
+      "date": "Jan 17, 2020",
+      "producer": "AQUA ARIS",
+      "eps": 12,
+      "genres": [
+        "Supernatural"
       ],
       "category": "ONA"
     },
