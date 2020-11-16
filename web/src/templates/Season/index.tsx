@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { useRouter } from 'next/router'
 
 import { AnimeSeason, Anime } from 'types/Anime'
@@ -21,6 +21,10 @@ export default function Season(props: AnimeSeason) {
   const { season, year } = props
   const [animes, setAnimes] = useState<Anime[]>(props.animes)
   const router = useRouter()
+
+  useEffect(() => {
+    setAnimes(props.animes)
+  }, [props.animes])
 
   const onChangeSeason = async (value: string) => {
     router.replace(`/season/${value}`)
@@ -45,7 +49,7 @@ export default function Season(props: AnimeSeason) {
         <Select
           label="Season"
           options={getSelectSeasons()}
-          value={season}
+          value={season.toLowerCase()}
           onChange={onChangeSeason}
         />
         <Select

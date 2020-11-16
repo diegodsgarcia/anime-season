@@ -22,13 +22,9 @@ export default function Select({
   return (
     <S.Container>
       <S.Label>{label}</S.Label>
-      <S.Select onChange={(e) => onChange(e.target.value)}>
+      <S.Select defaultValue={value} onChange={(e) => onChange(e.target.value)}>
         {options.map((option) => (
-          <S.Option
-            key={option.value}
-            value={option.value}
-            selected={option.value.toLowerCase() === value.toLowerCase()}
-          >
+          <S.Option key={option.value} value={option.value}>
             {option.label}
           </S.Option>
         ))}
