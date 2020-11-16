@@ -15,6 +15,7 @@ export type SelectProps = {
 
 export default function Select({
   label,
+  value,
   options,
   onChange = () => null
 }: SelectProps) {
@@ -22,9 +23,13 @@ export default function Select({
     <S.Container>
       <S.Label>{label}</S.Label>
       <S.Select onChange={(e) => onChange(e.target.value)}>
-        {options.map(({ label, value, selected }) => (
-          <S.Option key={value} value={value} selected={selected}>
-            {label}
+        {options.map((option) => (
+          <S.Option
+            key={option.value}
+            value={option.value}
+            selected={option.value.toLowerCase() === value.toLowerCase()}
+          >
+            {option.label}
           </S.Option>
         ))}
       </S.Select>
