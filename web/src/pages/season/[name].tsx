@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { useRouter } from 'next/router'
+import { GetStaticPropsContext } from 'next'
 
 import { AnimeSeason, Anime } from 'types/Anime'
 
@@ -63,8 +64,19 @@ export default function Home(props: AnimeSeason) {
   )
 }
 
-export async function getStaticProps() {
-  const animeSeason = await getAnimesSeason()
+export async function getStaticPaths() {
+  const seasons = ['fall', 'spring', 'summer', 'winter']
+  return {
+    paths: seasons.map((season) => ({
+      params: { name: season }
+    })),
+    fallback: false
+  }
+}
+
+export async function getStaticProps({ params }: GetStaticPropsContext) {
+  const seasonName = (params?.name as string) ?? ''
+  const animeSeason = await getAnimesSeason(seasonName)
 
   return {
     props: animeSeason
