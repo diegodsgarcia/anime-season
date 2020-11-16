@@ -9,8 +9,5 @@ module.exports = withPWA({
   },
   env: {
     API_URL: process.env.API_URL
-  },
-  serverRuntimeConfig: {
-    PROJECT_ROOT: __dirname
   }
 })
