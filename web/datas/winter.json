@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-11-16",
+  "lastUpdate": "2020-11-17",
   "animes": [
     {
       "title": "",
@@ -692,7 +692,7 @@
     {
       "title": "",
       "description": "After successfully passing his Provisional Hero License exam, Izuku \"Deku\" Midoriya seeks out an extracurricular internship with a professional hero agency. At the recommendation of his mentor All Might, Midoriya lands a position under All Might's former sidekick, Sir Nighteye, now a famous hero in his own right.\n\nAs Midoriya's classmates further their own abilities through various internships, up-and-coming villain Kai Chisaki utilizes his terrifying powers to gather favor in the criminal underworld. Known by the moniker Overhaul, Chisaki's ambitions collide with the League of Villains and its leader, Tomura Shigaraki.\n\nThrough his work with Sir Nighteye, Midoriya discovers Chisaki's crime syndicate and the villain's hostile relationship with a mysterious young girl named Eri. Fearing for the child's safety, Midoriya and his upperclassman Mirio Toogata must work together to put an end to Chisaki's reign of terror.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1315/102961.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
       "date": "Oct 12, 2019, 17:30 (JST)",
       "producer": "Bones",
       "eps": 25,
@@ -1775,6 +1775,18 @@
     },
     {
       "title": "",
+      "description": "Short episodes of Kotoko doing fortune telling posted on the official Twitter account.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1422/108679.jpg",
+      "date": "Jan 17, 2020",
+      "producer": "AQUA ARIS",
+      "eps": 12,
+      "genres": [
+        "Supernatural"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Hinaria is unemployed, gaming every day. One day she decides to hack the servers belonging to the Beholder Group for some money, and she stumbles across a carefully secured record of two witches, Alice and Rimel. The two women wished to coexist with mankind, and the history they experienced is connected to the modern ZENONZARD.\n\n(Source: Official Site)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1035/106164.jpg",
       "date": "Jan 31, 2020",
@@ -1784,18 +1796,6 @@
         "Action",
         "Game",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Short episodes of Kotoko doing fortune telling posted on the official Twitter account.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1422/108679.jpg",
-      "date": "Jan 17, 2020",
-      "producer": "AQUA ARIS",
-      "eps": 12,
-      "genres": [
-        "Supernatural"
       ],
       "category": "ONA"
     },
@@ -2170,19 +2170,6 @@
     },
     {
       "title": "",
-      "description": "Short 3DCG anime for Japanese band MAN WITH A MISSION.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1378/106615.jpg",
-      "date": "Mar 16, 2020",
-      "producer": "-",
-      "eps": 6,
-      "genres": [
-        "Music",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "A collaboration between the live-action horror film Inunaki-mura slated to be released in theaters February 7, 2020 and the Eagle Talon franchise. The film is based on the urban legend of the real-life abandoned Inunaki Village and the old tunnel that cut through the area.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1632/105513.jpg",
       "date": "Jan 17, 2020",
@@ -2192,6 +2179,19 @@
         "Comedy",
         "Horror",
         "Parody"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Short 3DCG anime for Japanese band MAN WITH A MISSION.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1378/106615.jpg",
+      "date": "Mar 16, 2020",
+      "producer": "-",
+      "eps": 6,
+      "genres": [
+        "Music",
+        "Comedy"
       ],
       "category": "ONA"
     },

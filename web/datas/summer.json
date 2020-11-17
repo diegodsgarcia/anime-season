@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-11-16",
+  "lastUpdate": "2020-11-17",
   "animes": [
     {
       "title": "",
@@ -984,19 +984,6 @@
     },
     {
       "title": "",
-      "description": "The story is set in modern day Japan following the growth of the protagonist Taiga Akashi, an elementary school kid who wants to be a professional gamer someday. \n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1535/95070.jpg",
-      "date": "Apr 2, 2018, 18:25 (JST)",
-      "producer": "Studio Pierrot",
-      "eps": null,
-      "genres": [
-        "Game",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "Third season of Kiratto Pri☆chan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/105552.jpg",
       "date": "Apr 5, 2020, 10:00 (JST)",
@@ -1008,6 +995,19 @@
         "Comedy",
         "Magic",
         "Shoujo"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "The story is set in modern day Japan following the growth of the protagonist Taiga Akashi, an elementary school kid who wants to be a professional gamer someday. \n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1535/95070.jpg",
+      "date": "Apr 2, 2018, 18:25 (JST)",
+      "producer": "Studio Pierrot",
+      "eps": null,
+      "genres": [
+        "Game",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1215,18 +1215,6 @@
     },
     {
       "title": "",
-      "description": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
-      "date": "Jan 6, 2020, 00:30 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
       "date": "Apr 8, 2016, 18:20 (JST)",
@@ -1237,6 +1225,18 @@
         "Parody",
         "Kids",
         "School"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
+      "date": "Jan 6, 2020, 00:30 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -2031,7 +2031,7 @@
     {
       "title": "",
       "description": "A special anime based on the beginning of iOS/Android RPG by the same name.\n\n(Source: AniDB)",
-      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1651/110195.jpg",
       "date": "Sep 2, 2020",
       "producer": "CloverWorks",
       "eps": 1,
@@ -2094,19 +2094,6 @@
     },
     {
       "title": "",
-      "description": "A girl quietly reads a book in her room. Suddenly, a monster comes crawling out from under her bed! Is it friend or foe?",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1537/107336.jpg",
-      "date": "Jul 26, 2019",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Horror"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
       "date": "Jul 19, 2020",
@@ -2115,6 +2102,19 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "A girl quietly reads a book in her room. Suddenly, a monster comes crawling out from under her bed! Is it friend or foe?",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1537/107336.jpg",
+      "date": "Jul 26, 2019",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Horror"
       ],
       "category": "ONA"
     },
@@ -2730,8 +2730,20 @@
     },
     {
       "title": "",
+      "description": "A picture drama epilogue to the film Boku no Hero Academia the Movie 2: Heroes:Rising, bundled with the BD/DVD release.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1447/110165.jpg",
+      "date": "Jul 15, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "",
       "description": "Thirteenth episode included in sixth Blu-ray volume.\n\nThis episode centers on the story of Mikami Kamiki, Yuuki Toujou, and Tsubomi Hiiragi.\n\n(Source: Official Website)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1892/105979.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1259/109909.jpg",
       "date": "Sep 16, 2020",
       "producer": "A-1 Pictures",
       "eps": 1,
@@ -2779,18 +2791,6 @@
       "genres": [
         "Game",
         "Slice of Life",
-        "Comedy"
-      ],
-      "category": "Special"
-    },
-    {
-      "title": "",
-      "description": "A picture drama epilogue to the film Boku no Hero Academia the Movie 2: Heroes:Rising, bundled with the BD/DVD release.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1447/110165.jpg",
-      "date": "Jul 15, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
         "Comedy"
       ],
       "category": "Special"

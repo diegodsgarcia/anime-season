@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-11-16",
+  "lastUpdate": "2020-11-17",
   "animes": [
     {
       "title": "",
@@ -834,6 +834,19 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1785/110019.jpg",
+      "date": "Mar 30, 2020",
+      "producer": "-",
+      "eps": 26,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Fourth season of Oshiri Tantei.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1229/107371.jpg",
       "date": "Apr 4, 2020, 09:00 (JST)",
@@ -844,19 +857,6 @@
         "Fantasy",
         "Kids",
         "Mystery"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1785/110019.jpg",
-      "date": "Mar 30, 2020",
-      "producer": "-",
-      "eps": 26,
-      "genres": [
-        "Action",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -1375,18 +1375,6 @@
     },
     {
       "title": "",
-      "description": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
-      "date": "Jan 6, 2020, 00:30 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
       "date": "Apr 8, 2016, 18:20 (JST)",
@@ -1397,6 +1385,18 @@
         "Parody",
         "Kids",
         "School"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
+      "date": "Jan 6, 2020, 00:30 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1913,18 +1913,6 @@
     },
     {
       "title": "",
-      "description": "Silent animation released on YouTube resembling typical slapstick American cartoons.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108582.jpg",
-      "date": "Jun 4, 2020",
-      "producer": "DandeLion Animation Studio",
-      "eps": 1,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "We follow the daily life of Shen Shi, a young man looking for his brother. To find him, he goes to the Dali Temple. One thing led to another, he eventually became an officer for Li Bing, a senior official with the appearance of a white cat.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1659/105254.jpg",
       "date": "Apr 10, 2020",
@@ -1937,6 +1925,18 @@
         "Historical",
         "Demons",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Silent animation released on YouTube resembling typical slapstick American cartoons.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108582.jpg",
+      "date": "Jun 4, 2020",
+      "producer": "DandeLion Animation Studio",
+      "eps": 1,
+      "genres": [
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2334,6 +2334,18 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1156/109635.jpg",
+      "date": "Jun 5, 2020",
+      "producer": "FILMONY",
+      "eps": 1,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Third season of Menghuan Shuyuan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1799/108466.jpg",
       "date": "Apr 6, 2020",
@@ -2342,18 +2354,6 @@
       "genres": [
         "Comedy",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1156/109635.jpg",
-      "date": "Jun 5, 2020",
-      "producer": "FILMONY",
-      "eps": 1,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "ONA"
     },
