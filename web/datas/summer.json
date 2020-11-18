@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-11-17",
+  "lastUpdate": "2020-11-18",
   "animes": [
     {
       "title": "",
@@ -1205,16 +1205,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1058/102001.jpg",
-      "date": "Oct 9, 2017",
-      "producer": "-",
-      "eps": null,
-      "genres": [],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
       "date": "Apr 8, 2016, 18:20 (JST)",
@@ -1226,6 +1216,16 @@
         "Kids",
         "School"
       ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1058/102001.jpg",
+      "date": "Oct 9, 2017",
+      "producer": "-",
+      "eps": null,
+      "genres": [],
       "category": "TV (Continuing)"
     },
     {
@@ -1252,18 +1252,6 @@
         "Adventure",
         "Comedy",
         "Shounen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "A tourism promotional anime for the Akita prefecture. Highlighting Akita cuisine, actors, landmarks, etc. through the banter of two high school friends who are a red oni and an akita (dog breed).",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/84867.jpg",
-      "date": "Mar 14, 2017",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1866,20 +1854,6 @@
     },
     {
       "title": "",
-      "description": "Special Forces Wang Sheng traveled to the soul world and was possessed by the waste carp Yuan soul, becoming a veritable waste person in the soul world. Wang Sheng used the knowledge he had learned in the world of master spirits like Yun Yuan to pass the battle, and even found a way to evolve the waste carp Yuan soul! The sparrow becomes a phoenix, and the carp leaps to the dragon gate. Wang Sheng has embarked on a road of Jackie Chan from the sinister soul dispute!\n\n(Source: Immortal Sun Scans)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
-      "date": "Jul 11, 2020",
-      "producer": "CG Year",
-      "eps": 16,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "The story is set in Nagasaki prefecture in Minami Shimabara city, the fabled origin of the Shimabara Rebellion that sent shockwaves through all of Japan in the early Edo period. It is also where a third-year junior high school student named Shirou spends his days with his school friends.\n\nOne summer day, Shirou's older childhood friend Akane returns to Minami Shimabara from Tokyo. Shirou and Akane take a stroll around Minami Shimabara with another longtime friend, Tokiya. While these friends are dealing with nostalgia and more complex feelings, a mysterious creature named Goron suddenly appears before them. This encounter with a mere little creature causes great events to unfold once more in this city...\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/107681.jpg",
       "date": "Aug 8, 2020",
@@ -1889,6 +1863,20 @@
         "Mystery",
         "Supernatural",
         "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Special Forces Wang Sheng traveled to the soul world and was possessed by the waste carp Yuan soul, becoming a veritable waste person in the soul world. Wang Sheng used the knowledge he had learned in the world of master spirits like Yun Yuan to pass the battle, and even found a way to evolve the waste carp Yuan soul! The sparrow becomes a phoenix, and the carp leaps to the dragon gate. Wang Sheng has embarked on a road of Jackie Chan from the sinister soul dispute!\n\n(Source: Immortal Sun Scans)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
+      "date": "Jul 11, 2020",
+      "producer": "CG Year",
+      "eps": 16,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
       ],
       "category": "ONA"
     },

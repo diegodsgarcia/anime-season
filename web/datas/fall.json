@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-11-17",
+  "lastUpdate": "2020-11-18",
   "animes": [
     {
       "title": "",
@@ -128,6 +128,19 @@
     },
     {
       "title": "",
+      "description": "Long ago, a war broke out in Japan that pitted Kantou against Kansai and divided the country. Kansai became dependent on Kantou, but slowly the police and government began losing control of Kansai to criminals known as Akudama.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
+      "date": "Oct 8, 2020, 21:30 (JST)",
+      "producer": "Studio Pierrot",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Raizel awakens from his 820-year slumber. He holds the special title of Noblesse which is a pure-blooded Noble and protector of all other Nobles. In an attempt to protect Raizel, his servant Frankenstein enrolls him at Ye-Ran High School, where Raizel learn the simple and quotidian routines of the human world through his classmates.\n \nHowever, the Union—a mighty secret organization with strings around the globe and a goal to rule the world—dispatches modified humans and gradually encroaches on Raizel's life progressively—which causes him to wield his mighty power to protect those around him.\n \nAfter 820 years of intrigue, the secrets behind his slumber are finally revealed and Raizel's absolute protection as the Noblesse begins.\n\n(Source: Crunchyroll, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1798/109141.jpg",
       "date": "Oct 8, 2020, 00:00 (JST)",
@@ -138,19 +151,6 @@
         "Supernatural",
         "Vampire",
         "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Long ago, a war broke out in Japan that pitted Kantou against Kansai and divided the country. Kansai became dependent on Kantou, but slowly the police and government began losing control of Kansai to criminals known as Akudama.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
-      "date": "Oct 8, 2020, 21:30 (JST)",
-      "producer": "Studio Pierrot",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
@@ -1381,16 +1381,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1058/102001.jpg",
-      "date": "Oct 9, 2017",
-      "producer": "-",
-      "eps": null,
-      "genres": [],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
       "date": "Apr 8, 2016, 18:20 (JST)",
@@ -1402,6 +1392,16 @@
         "Kids",
         "School"
       ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1058/102001.jpg",
+      "date": "Oct 9, 2017",
+      "producer": "-",
+      "eps": null,
+      "genres": [],
       "category": "TV (Continuing)"
     },
     {
@@ -1830,6 +1830,19 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1648/110089.jpg",
+      "date": "Nov 5, 2020",
+      "producer": "Studio Colorido",
+      "eps": 1,
+      "genres": [
+        "Kids",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1789/109403.jpg",
       "date": "Oct 28, 2020",
       "producer": "-",
@@ -1897,6 +1910,20 @@
     },
     {
       "title": "",
+      "description": "Across thousands of years, a terracotta warrior comes back to life! With a girl who looks exactly like his sister-in-law, they fight crimes and become heroes to bring back justice!\n\n(Source: WeComics)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1076/109488.jpg",
+      "date": "Oct 16, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "The anime will show ancient Egyptian gods relaxing and enjoying their time.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1955/107042.jpg",
       "date": "Dec ??, 2020",
@@ -1911,15 +1938,14 @@
     },
     {
       "title": "",
-      "description": "Across thousands of years, a terracotta warrior comes back to life! With a girl who looks exactly like his sister-in-law, they fight crimes and become heroes to bring back justice!\n\n(Source: WeComics)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1076/109488.jpg",
-      "date": "Oct 16, 2020",
+      "description": "Senku has found yet another way to un-petrify people and let them live in the Stone World, Snickers bars! A new collaboration between the confectionary bar and the Dr. Stone TV anime sees the hero of the Stone World bring back Japanese comedian Kouki Kusanagi to life with a Snickers bar... which hopefully gave Kusanagi the strength to come back to life, rather than have Nitric Acid in it...\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1489/109705.jpg",
+      "date": "Oct 4, 2020",
       "producer": "-",
-      "eps": 12,
+      "eps": 1,
       "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
+        "Sci-Fi",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -1935,19 +1961,6 @@
         "Sci-Fi",
         "Adventure",
         "Magic"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Senku has found yet another way to un-petrify people and let them live in the Stone World, Snickers bars! A new collaboration between the confectionary bar and the Dr. Stone TV anime sees the hero of the Stone World bring back Japanese comedian Kouki Kusanagi to life with a Snickers bar... which hopefully gave Kusanagi the strength to come back to life, rather than have Nitric Acid in it...\n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1489/109705.jpg",
-      "date": "Oct 4, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Sci-Fi",
-        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2035,6 +2048,18 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "date": "Oct 30, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1295/109372.jpg",
       "date": "Oct 2, 2020",
       "producer": "Shanghai Foch Film Culture Investment",
@@ -2056,18 +2081,6 @@
         "Action",
         "Fantasy",
         "Martial Arts"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "date": "Oct 30, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
       ],
       "category": "ONA"
     },
@@ -2111,6 +2124,18 @@
     },
     {
       "title": "",
+      "description": "Concept movie for All Nippon Esthetic Association (AEA).",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1657/109997.jpg",
+      "date": "Oct 25, 2020",
+      "producer": "Flat Studio",
+      "eps": 1,
+      "genres": [
+        "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Fourth season of Menghuan Shuyuan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1346/109452.jpg",
       "date": "Oct 12, 2020",
@@ -2119,18 +2144,6 @@
       "genres": [
         "Comedy",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Concept movie for All Nippon Esthetic Association (AEA).",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1657/109997.jpg",
-      "date": "Oct 25, 2020",
-      "producer": "Flat Studio",
-      "eps": 1,
-      "genres": [
-        "Drama"
       ],
       "category": "ONA"
     },
