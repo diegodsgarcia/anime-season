@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-11-18",
+  "lastUpdate": "2020-11-19",
   "animes": [
     {
       "title": "",
@@ -101,7 +101,7 @@
     },
     {
       "title": "",
-      "description": "The second season of Enen no Shouboutai.\n\nShinra and Company 8 have figured out the Evangelist’s goal: to gather Adolla Bursts from Shinra and Shou. After learning more about his past from Captain Burns, Shinra becomes more motivated to discover the truth about his mother and save Shou again.\n\nBut a mysterious girl known as the \"First Pillar\" reveals the Evangelist’s master plan to start another Great Cataclysm!\n\n(Source: Funimation)",
+      "description": "After his confrontation in the Nether with his younger brother Shou, Shinra Kusakabe's resolve to become a hero that saves lives from the flame terror strengthens. Finding a way to turn the Infernals back into people, unraveling the mystery of the Evangelist and Adolla Burst, and saving his mother and Shou—these are the goals Shinra has in mind. However, he has come to realize that attaining these goals will not be easy, especially with the imminent danger the Evangelist poses.\n\nThe Evangelist's plan is clear: to gather the eight pillars—the individuals who possess Adolla Burst—and sacrifice them to recreate the Great Cataclysm from 250 years ago. Having been revealed by the First Pillar that the birth of a new pillar is approaching, Shinra is determined to protect his fellow pillars from the Evangelist. Thus, the fiery battle between the Special Fire Force and the Evangelist ignites. Together with the Special Fire Force, Shinra's fight continues as he uncovers the truth about the Great Cataclysm and the nature of Adolla Bursts, as well as the mysteries behind human combustion. \n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1673/107657.jpg",
       "date": "Jul 4, 2020, 01:55 (JST)",
       "producer": "David Production",
@@ -467,7 +467,7 @@
     },
     {
       "title": "",
-      "description": "Fifth season of Shokugeki no Souma.",
+      "description": "Thanks to Souma Yukihira, Erina Nakiri, and the rebel forces overthrowing the regime of Azami Nakiri—the previous school director—and the former Elite Ten, Tootsuki Culinary Academy is back in order. However, its students have one more great battle ahead of them: the BLUE, a competition where young chefs seeking world-class fame compete. Faced with new trials and rivals, Souma and his friends will fight to conquer the BLUE and to defeat Asahi Saiba, the leader of an underworld organization of chefs known as Noir, who once defeated Souma and his father in a Shokugeki.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1756/108000.jpg",
       "date": "Apr 11, 2020, 00:30 (JST)",
       "producer": "J.C.Staff",
@@ -1600,7 +1600,7 @@
       "description": "A continuation of Quanzhi Gaoshou series.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1573/109220.jpg",
       "date": "Sep 25, 2020",
-      "producer": "Colored-Pencil Animation Design",
+      "producer": "B.CMAY PICTURES, Colored-Pencil Animation Design",
       "eps": 12,
       "genres": [
         "Action",
@@ -2082,19 +2082,6 @@
     },
     {
       "title": "",
-      "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
-      "date": "Jul 19, 2020",
-      "producer": "Gaina",
-      "eps": 1,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "A girl quietly reads a book in her room. Suddenly, a monster comes crawling out from under her bed! Is it friend or foe?",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1537/107336.jpg",
       "date": "Jul 26, 2019",
@@ -2103,6 +2090,19 @@
       "genres": [
         "Comedy",
         "Horror"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
+      "date": "Jul 19, 2020",
+      "producer": "Gaina",
+      "eps": 1,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
