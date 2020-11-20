@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-11-19",
+  "lastUpdate": "2020-11-20",
   "animes": [
     {
       "title": "",
@@ -307,14 +307,14 @@
     },
     {
       "title": "",
-      "description": "\"I want Akagashira-sensei to be my first!\"\n\nHaving a run in with the \"skirt bandit,\" Ookami almost has her skirt stolen. Her teacher, Akagashira, passes by and becomes her hero after stopping the theft. As thanks, Ookami invites Akagashira to her home, but she has another reason for bringing him over. \n\n(Source: WWWave Corporation, edited)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX an hour later.\n\nThis database entry reflects censored TV version of the anime.",
+      "description": "\"I want Akagashira-sensei to be my first!\"\n\nHaving a run in with the \"skirt bandit,\" Ookami almost has her skirt stolen. Her teacher, Akagashira, passes by and becomes her hero after stopping the theft. As thanks, Ookami invites Akagashira to her home, but she has another reason for bringing him over. \n\n(Source: WWWave Corporation, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1020/108606.jpg",
       "date": "Sep 7, 2020, 01:00 (JST)",
       "producer": "Peak Hunt",
       "eps": 3,
       "genres": [
-        "Ecchi",
-        "Romance"
+        "Romance",
+        "Ecchi"
       ],
       "category": "TV (New)"
     },
