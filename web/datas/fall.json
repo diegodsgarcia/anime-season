@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-11-20",
+  "lastUpdate": "2020-11-21",
   "animes": [
     {
       "title": "",
@@ -560,19 +560,6 @@
     },
     {
       "title": "",
-      "description": "The anime centers on four girls at the full bloom of their youth, working hard to achieve their dreams as they struggle valiantly. In Japanese entertainment, Maesetsu! refers to an introductory talk or explanation addressed to the audience before the broadcast of television programs, usually performed by assistant directors and particularly comedians in variety or comedy shows.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1555/109492.jpg",
-      "date": "Oct 11, 2020, 23:30 (JST)",
-      "producer": "AXsiZ, Studio Gokumi",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106812.jpg",
       "date": "Oct 8, 2020, 21:54 (JST)",
@@ -581,6 +568,19 @@
       "genres": [
         "Adventure",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "The anime centers on four girls at the full bloom of their youth, working hard to achieve their dreams as they struggle valiantly. In Japanese entertainment, Maesetsu! refers to an introductory talk or explanation addressed to the audience before the broadcast of television programs, usually performed by assistant directors and particularly comedians in variety or comedy shows.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1555/109492.jpg",
+      "date": "Oct 11, 2020, 23:30 (JST)",
+      "producer": "AXsiZ, Studio Gokumi",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -720,6 +720,18 @@
       "genres": [
         "Parody",
         "Magic"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "The story will take place 100 years after the world was destroyed in the 21st century due to environmental destruction and depletion of resources. The story follows four girls who work at PARK, based on a real store in Harajuku that follows the theme of \"Fashion × Otaku × Creation.\"\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1758/110280.jpg",
+      "date": "Nov 21, 2020, 03:20 (JST)",
+      "producer": "Jumonji",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -1396,16 +1408,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1058/102001.jpg",
-      "date": "Oct 9, 2017",
-      "producer": "-",
-      "eps": null,
-      "genres": [],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
       "date": "Jan 6, 2020, 00:30 (JST)",
@@ -1414,6 +1416,16 @@
       "genres": [
         "Comedy"
       ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1058/102001.jpg",
+      "date": "Oct 9, 2017",
+      "producer": "-",
+      "eps": null,
+      "genres": [],
       "category": "TV (Continuing)"
     },
     {
@@ -1583,18 +1595,6 @@
     },
     {
       "title": "",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
       "date": "Apr 6, 2020, 23:29 (JST)",
@@ -1602,6 +1602,18 @@
       "eps": null,
       "genres": [
         "Slice of Life",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
         "Kids"
       ],
       "category": "TV (Continuing)"
@@ -1870,18 +1882,6 @@
     },
     {
       "title": "",
-      "description": "The story centers on an RPG that people call \"kusoge\" (\"crap-tier game,\" referring to games with quirky or badly implemented mechanics and design). The main character Lidays decides to change the game's story, meeting with other characters while the game isn't being played. But as they flub their lines, the situation spirals out of control.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1776/110162.jpg",
-      "date": "Oct 19, 2020",
-      "producer": "Charaction",
-      "eps": 12,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Senku has found yet another way to un-petrify people and let them live in the Stone World, Snickers bars! A new collaboration between the confectionary bar and the Dr. Stone TV anime sees the hero of the Stone World bring back Japanese comedian Kouki Kusanagi to life with a Snickers bar... which hopefully gave Kusanagi the strength to come back to life, rather than have Nitric Acid in it...\n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1489/109705.jpg",
       "date": "Oct 4, 2020",
@@ -1889,6 +1889,18 @@
       "eps": 1,
       "genres": [
         "Sci-Fi",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The story centers on an RPG that people call \"kusoge\" (\"crap-tier game,\" referring to games with quirky or badly implemented mechanics and design). The main character Lidays decides to change the game's story, meeting with other characters while the game isn't being played. But as they flub their lines, the situation spirals out of control.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1776/110162.jpg",
+      "date": "Oct 19, 2020",
+      "producer": "Charaction",
+      "eps": 12,
+      "genres": [
         "Comedy"
       ],
       "category": "ONA"
@@ -1909,20 +1921,6 @@
     },
     {
       "title": "",
-      "description": "Second season of Shaonu Qianxian: Renxing Xiao Juchang.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1331/109369.jpg",
-      "date": "Oct 7, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Military",
-        "Sci-Fi",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Across thousands of years, a terracotta warrior comes back to life! With a girl who looks exactly like his sister-in-law, they fight crimes and become heroes to bring back justice!\n\n(Source: WeComics)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1076/109488.jpg",
       "date": "Oct 16, 2020",
@@ -1937,9 +1935,23 @@
     },
     {
       "title": "",
+      "description": "Second season of Shaonu Qianxian: Renxing Xiao Juchang.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1331/109369.jpg",
+      "date": "Oct 7, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Military",
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "The anime will show ancient Egyptian gods relaxing and enjoying their time.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1955/107042.jpg",
-      "date": "Dec ??, 2020",
+      "date": "Dec 7, 2020",
       "producer": "-",
       "eps": null,
       "genres": [
@@ -1982,6 +1994,32 @@
     },
     {
       "title": "",
+      "description": "It's the highlight of GBN's anniversary event, the \"Gunpla Battle One-Day Battle Royal\"!\n\nParticipants are selected from the Divers who played most passionately this season, and they're fighting in machines randomly assigned mainly from those Gunpla ranked highest by all Divers in the Great Gunpla Ballot! Now the final round is about to begin, with the tough fighters who've won their respective blocks! There, an unpredictable, super special, never-seen-before Gunpla dream battle will... START!!!\n\n(Source: AniDB)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1436/110252.jpg",
+      "date": "Nov 13, 2020",
+      "producer": "Sunrise Beyond",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Mecha"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "date": "Oct 30, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Omake mini anime released after each episode of Tsukiuta. The Animation 2 on the Tsukino Production official YouTube channel.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1366/110166.jpg",
       "date": "Oct 7, 2020",
@@ -2006,18 +2044,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "date": "Oct 30, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "King Inglis, who lived for his country and people, strongly hoped to further temper my skills as a knight in his next life. The wish is heard by the goddess, who reincarnates the king into the far future, but in the form of a cute girl! However, it is declared at the age of six that she is incapable of being a knight, despite coming from a line of knights.\n\n(Source: MU, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1106/110029.jpg",
       "date": "Nov 7, 2020",
@@ -2026,6 +2052,18 @@
       "genres": [
         "Action",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Independent short animation by Shingo Tamagawa.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1308/110285.jpg",
+      "date": "Nov 20, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Dementia"
       ],
       "category": "ONA"
     },
@@ -2171,6 +2209,31 @@
         "Fantasy",
         "Historical",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Lipstick advertisement involving Rei Ayanami.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1576/110060.jpg",
+      "date": "Nov 3, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Music"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Web commercial for chemical and cosmetics company Kao's Attack ZERO detergent line in collaboration with the Neon Genesis Evangelion franchise.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1662/110189.jpg",
+      "date": "Nov 2, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Music",
+        "Slice of Life"
       ],
       "category": "ONA"
     },

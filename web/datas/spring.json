@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-11-20",
+  "lastUpdate": "2020-11-21",
   "animes": [
     {
       "title": "",
@@ -1380,16 +1380,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1058/102001.jpg",
-      "date": "Oct 9, 2017",
-      "producer": "-",
-      "eps": null,
-      "genres": [],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
       "date": "Jan 6, 2020, 00:30 (JST)",
@@ -1398,6 +1388,16 @@
       "genres": [
         "Comedy"
       ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1058/102001.jpg",
+      "date": "Oct 9, 2017",
+      "producer": "-",
+      "eps": null,
+      "genres": [],
       "category": "TV (Continuing)"
     },
     {
