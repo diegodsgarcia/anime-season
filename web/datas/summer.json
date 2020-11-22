@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-11-21",
+  "lastUpdate": "2020-11-22",
   "animes": [
     {
       "title": "",
@@ -735,19 +735,6 @@
     },
     {
       "title": "",
-      "description": "Gudetama, an egg that is dead to the world and completely lacks motivation. No matter what cooking method you use, Gudetama remains unmoved.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/79996.jpg",
-      "date": "Mar 31, 2014",
-      "producer": "Gathering",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "The hottest battle is about to begin! While attending Tensei Academy, Hiro Ryugasaki ends up acquiring a mysterious smartphone. It comes installed with the popular card game, Shadowverse! Meeting new rivals, facing major tournaments, forging bonds with friends... Shadowverse leads Hiro to all sorts of new experiences, all that serve to \"evolve\" him.\n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1003/106498.jpg",
       "date": "Apr 7, 2020, 17:55 (JST)",
@@ -756,6 +743,19 @@
       "genres": [
         "Game",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Gudetama, an egg that is dead to the world and completely lacks motivation. No matter what cooking method you use, Gudetama remains unmoved.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/79996.jpg",
+      "date": "Mar 31, 2014",
+      "producer": "Gathering",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1394,6 +1394,18 @@
     },
     {
       "title": "",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
       "date": "Apr 6, 2020, 23:29 (JST)",
@@ -1401,18 +1413,6 @@
       "eps": null,
       "genres": [
         "Slice of Life",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
         "Kids"
       ],
       "category": "TV (Continuing)"
@@ -2035,7 +2035,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/107440.jpg",
       "date": "Aug 15, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 16,
       "genres": [
         "Action"
       ],
@@ -2082,19 +2082,6 @@
     },
     {
       "title": "",
-      "description": "A girl quietly reads a book in her room. Suddenly, a monster comes crawling out from under her bed! Is it friend or foe?",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1537/107336.jpg",
-      "date": "Jul 26, 2019",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Horror"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
       "date": "Jul 19, 2020",
@@ -2103,6 +2090,19 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "A girl quietly reads a book in her room. Suddenly, a monster comes crawling out from under her bed! Is it friend or foe?",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1537/107336.jpg",
+      "date": "Jul 26, 2019",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Horror"
       ],
       "category": "ONA"
     },
@@ -2648,19 +2648,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1645/109108.jpg",
-      "date": "Sep 10, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "",
       "description": "An experimental film by mareykrap about the color blue. Blue pigment in the natural world is very rare. Instead, what we typically observe is the reflection of blue light waves. How much \"true blue\" really exists in our world? A series of blue images. Or are they?",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1066/109137.jpg",
       "date": "Jul 29, 2020",
@@ -2669,6 +2656,19 @@
       "genres": [
         "Dementia",
         "Music"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1645/109108.jpg",
+      "date": "Sep 10, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Adventure",
+        "Fantasy"
       ],
       "category": "Movie"
     },
