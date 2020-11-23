@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-11-22",
+  "lastUpdate": "2020-11-23",
   "animes": [
     {
       "title": "",
@@ -560,19 +560,6 @@
     },
     {
       "title": "",
-      "description": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106812.jpg",
-      "date": "Oct 8, 2020, 21:54 (JST)",
-      "producer": "DMM.futureworks, W-Toon Studio",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "The anime centers on four girls at the full bloom of their youth, working hard to achieve their dreams as they struggle valiantly. In Japanese entertainment, Maesetsu! refers to an introductory talk or explanation addressed to the audience before the broadcast of television programs, usually performed by assistant directors and particularly comedians in variety or comedy shows.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1555/109492.jpg",
       "date": "Oct 11, 2020, 23:30 (JST)",
@@ -586,14 +573,27 @@
     },
     {
       "title": "",
+      "description": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106812.jpg",
+      "date": "Oct 8, 2020, 21:54 (JST)",
+      "producer": "DMM.futureworks, W-Toon Studio",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Mio Sudou, a 30-year-old office lady has gone five years without a boyfriend and has forgotten all about love. Shuuji Mashima, a foreign-affiliated consultant has not had a girlfriend in seven years and has lost almost all interest in women. Meeting at a matchmaking party, Mio is disgusted by Shuuji as he states, \"I am not into women.\" However, when Mio makes a provocative comment toward Shuuji, things take an unexpected direction.\n\n(Source: MAL News)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1603/108938.jpg",
       "date": "Oct 5, 2020, 01:00 (JST)",
       "producer": "Ether Kitten",
-      "eps": null,
+      "eps": 8,
       "genres": [
-        "Ecchi",
-        "Romance"
+        "Romance",
+        "Ecchi"
       ],
       "category": "TV (New)"
     },
@@ -667,7 +667,8 @@
       "producer": "Lesprit, Shin-Ei Animation",
       "eps": null,
       "genres": [
-        "Comedy"
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (New)"
     },
@@ -1595,18 +1596,6 @@
     },
     {
       "title": "",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
       "date": "Apr 6, 2020, 23:29 (JST)",
@@ -1614,6 +1603,18 @@
       "eps": null,
       "genres": [
         "Slice of Life",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
         "Kids"
       ],
       "category": "TV (Continuing)"
@@ -1867,16 +1868,13 @@
     },
     {
       "title": "",
-      "description": "Sixth season of Qin Shi Ming Yue.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1040/109401.jpg",
-      "date": "Oct 8, 2020",
-      "producer": "Sparkly Key Animation Studio",
-      "eps": null,
+      "description": "Independent short animation by Shingo Tamagawa.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1308/110285.jpg",
+      "date": "Nov 20, 2020",
+      "producer": "-",
+      "eps": 1,
       "genres": [
-        "Action",
-        "Historical",
-        "Martial Arts",
-        "Fantasy"
+        "Dementia"
       ],
       "category": "ONA"
     },
@@ -1890,6 +1888,21 @@
       "genres": [
         "Sci-Fi",
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Sixth season of Qin Shi Ming Yue.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1040/109401.jpg",
+      "date": "Oct 8, 2020",
+      "producer": "Sparkly Key Animation Studio",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Historical",
+        "Martial Arts",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -1930,18 +1943,6 @@
         "Action",
         "Adventure",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Independent short animation by Shingo Tamagawa.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1308/110285.jpg",
-      "date": "Nov 20, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Dementia"
       ],
       "category": "ONA"
     },
@@ -2149,14 +2150,13 @@
     },
     {
       "title": "",
-      "description": "One day in 20XX, the alien pig prince who planned to take a human body as his home arrived on Earth, but unexpectedly discovered that the human being he wanted to live in had not yet been born! The pig prince, who has nowhere to settle down, got to know Saiji and Rubi. The three pulled various funny pranks on humans, causing humans to have baldness, bad breath, headaches, emotional crisis and other problems.\n\n(Source: bilibili, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1737/109368.jpg",
-      "date": "Oct 5, 2020",
+      "description": "Lipstick advertisement involving Rei Ayanami.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1576/110060.jpg",
+      "date": "Nov 3, 2020",
       "producer": "-",
-      "eps": 12,
+      "eps": 1,
       "genres": [
-        "Slice of Life",
-        "Comedy"
+        "Music"
       ],
       "category": "ONA"
     },
@@ -2174,13 +2174,27 @@
     },
     {
       "title": "",
-      "description": "Lipstick advertisement involving Rei Ayanami.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1576/110060.jpg",
-      "date": "Nov 3, 2020",
+      "description": "One day in 20XX, the alien pig prince who planned to take a human body as his home arrived on Earth, but unexpectedly discovered that the human being he wanted to live in had not yet been born! The pig prince, who has nowhere to settle down, got to know Saiji and Rubi. The three pulled various funny pranks on humans, causing humans to have baldness, bad breath, headaches, emotional crisis and other problems.\n\n(Source: bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1737/109368.jpg",
+      "date": "Oct 5, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Web commercial for chemical and cosmetics company Kao's Attack ZERO detergent line in collaboration with the Neon Genesis Evangelion franchise.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1662/110189.jpg",
+      "date": "Nov 2, 2020",
       "producer": "-",
       "eps": 1,
       "genres": [
-        "Music"
+        "Music",
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2194,18 +2208,6 @@
       "genres": [
         "Comedy",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1106/109450.jpg",
-      "date": "Oct 22, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2226,14 +2228,13 @@
     },
     {
       "title": "",
-      "description": "Web commercial for chemical and cosmetics company Kao's Attack ZERO detergent line in collaboration with the Neon Genesis Evangelion franchise.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1662/110189.jpg",
-      "date": "Nov 2, 2020",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1106/109450.jpg",
+      "date": "Oct 22, 2020",
       "producer": "-",
-      "eps": 1,
+      "eps": 12,
       "genres": [
-        "Music",
-        "Slice of Life"
+        "Comedy"
       ],
       "category": "ONA"
     },
