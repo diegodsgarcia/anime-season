@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-11-23",
+  "lastUpdate": "2020-11-24",
   "animes": [
     {
       "title": "",
@@ -2022,7 +2022,7 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
+      "description": "This is \"Holy Hierarchy Academy,\" the world's best girls' high school that trains future stars. Here, the top dog students have all the control, and they possess a unique beverage: the Hierar Milk, extracted from the mythical bovine, the Hierar Beef. One swig from these divine drops bestows enough radiance and go-getter energy that nothing but the position of top dog will satisfy.\n\nGetting it means winning in battle at the academy. This year will feature the highest form of competitive self-expression, the rap battle! This youth story is about four students at the bottom of the hierarchy who meet in a rap battle and climb to to the top!\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/102079.jpg",
       "date": "Jan 11, 2020",
       "producer": "-",
@@ -2415,6 +2415,19 @@
     },
     {
       "title": "",
+      "description": "A stop-motion anime that will bundle with the 42nd compiled book volume of Haruichi Furudate's Haikyu!! manga. Anime will have 10 short episodes featuring the Karasuno team as puppets.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1618/102929.jpg",
+      "date": "Mar 4, 2020",
+      "producer": "-",
+      "eps": 10,
+      "genres": [
+        "Sports",
+        "Shounen"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "",
       "description": "Set in the capital city of Badon one year after the events of the TV anime, Jean and the rest of the ACCA department are preparing for the one-year anniversary of the establishment of the new order. For the characters — caught between rumors of unrest, unchanging days, new crossroads, gazes remembered in memories, and days of new beginnings — time once again begins to move forward.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1878/101560.jpg",
       "date": "Feb 14, 2020",
@@ -2426,19 +2439,6 @@
         "Drama",
         "Fantasy",
         "Seinen"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "",
-      "description": "A stop-motion anime that will bundle with the 42nd compiled book volume of Haruichi Furudate's Haikyu!! manga. Anime will have 10 short episodes featuring the Karasuno team as puppets.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1618/102929.jpg",
-      "date": "Mar 4, 2020",
-      "producer": "-",
-      "eps": 10,
-      "genres": [
-        "Sports",
-        "Shounen"
       ],
       "category": "OVA"
     },
@@ -2473,18 +2473,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1487/103719.jpg",
-      "date": "May 31, 2019",
-      "producer": "PoRO",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "",
       "description": "The protagonist (interpreted by the spectators in a subjective view) shows up at the Palace of the Mystic Courtesans to savor strong pleasures, choosing from a wide variety of courtesans of various species. The protagonist will be guided by Marina of the receptionist to find the right courtesans who can satisfy him.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1230/106167.jpg",
       "date": "Feb 7, 2020",
@@ -2495,6 +2483,18 @@
         "Demons",
         "Supernatural",
         "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1487/103719.jpg",
+      "date": "May 31, 2019",
+      "producer": "PoRO",
+      "eps": null,
+      "genres": [
+        "Hentai"
       ],
       "category": "OVA"
     },

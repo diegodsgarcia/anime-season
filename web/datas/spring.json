@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-11-23",
+  "lastUpdate": "2020-11-24",
   "animes": [
     {
       "title": "",
@@ -2230,18 +2230,6 @@
     },
     {
       "title": "",
-      "description": "Third season of Bai Gui Youeryuan.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/108463.jpg",
-      "date": "May 21, 2020",
-      "producer": "Painting Dream",
-      "eps": 12,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Each episode follows a character from the game.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
       "date": "Jun 23, 2020",
@@ -2250,6 +2238,18 @@
       "genres": [
         "Action",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Third season of Bai Gui Youeryuan.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/108463.jpg",
+      "date": "May 21, 2020",
+      "producer": "Painting Dream",
+      "eps": 12,
+      "genres": [
+        "Comedy"
       ],
       "category": "ONA"
     },

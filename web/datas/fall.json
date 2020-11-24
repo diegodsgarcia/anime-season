@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-11-23",
+  "lastUpdate": "2020-11-24",
   "animes": [
     {
       "title": "",
@@ -109,6 +109,7 @@
       "eps": 12,
       "genres": [
         "Adventure",
+        "Magic",
         "Fantasy"
       ],
       "category": "TV (New)"
@@ -492,7 +493,7 @@
     },
     {
       "title": "",
-      "description": "Set in Hinomoto, a fictional version of Japan, where for a long time railway travel served as the most important form of transport. Each locomotive was paired with a humanoid control module, so-called Raillord, that aided the train operator. However, many rail lines had been discontinued due to the rising popularity of \"aerocrafts,\" a safe and convenient aerial mode of transport. As such, their accompanying railroads also went into a deep sleep.\n\nSoutetsu had lost his entire family in a rail accident and was adopted into the Migita household, which runs a shochu brewery in the city of Ohitoyo. He returned to his hometown to save it from the potential water pollution that would occur if they accepted the proposal to build an aerocraft factory nearby. He woke up the Raillord Hachiroku by accident and became her owner. For different purposes, they agreed to help find her lost locomotive, with the help of his stepsister Hibiki, the town's mayor and local railway chief, Paulette and others.\n\n(Source: VNDB, edited)",
+      "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/108605.jpg",
       "date": "Oct 3, 2020, 01:00 (JST)",
       "producer": "Saetta",
@@ -692,7 +693,8 @@
       "producer": "-",
       "eps": 12,
       "genres": [
-        "Slice of Life"
+        "Slice of Life",
+        "Kids"
       ],
       "category": "TV (New)"
     },
@@ -961,21 +963,6 @@
     },
     {
       "title": "",
-      "description": "In the ever-growing world of Duel Monsters, as duelists improve their skills and rise up the ranks, duels become increasingly complex. By adhering to strict rules, in addition to using and learning proven strategies, one can develop into a strong duelist. However, as a boy who loves inventions and discovering new possibilities, elementary school student Yuuga Oudou finds the current way of dueling predictable and rigid—in other words, boring.\n\nThus, he aims to craft a new path in dueling with his exhilarating new invention: Rush Duels. His ambition soon catches the attention of Tatsuhisa Kamijou, a fellow elementary school student, who brings him to a mysterious place in an attempt to discover the potential of the new system. \n\nWhile Yuuga aims to implement Rush Duels as the new dueling standard and overthrow the conventions of the game, he opens the door to his ultimate goal—to make dueling exciting again.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1148/106883.jpg",
-      "date": "Apr 4, 2020, 07:30 (JST)",
-      "producer": "Bridge",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Game",
-        "Fantasy",
-        "Shounen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "Demetrios, a timid and kind vase painter in Ancient Greece who dislikes sports and competitions, is one day forced to come up with a game to compete with the mayor of the neighboring town in order to save his village. While hiding inside a large vase outside his workshop, lightning strikes the vase Demetrios is in, transferring him to Tokyo, Japan, during the 1964 Summer Olympics.\n \n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1543/107116.jpg",
       "date": "Apr 20, 2020, 21:54 (JST)",
@@ -987,6 +974,21 @@
         "Historical",
         "Sports",
         "Seinen"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "In the ever-growing world of Duel Monsters, as duelists improve their skills and rise up the ranks, duels become increasingly complex. By adhering to strict rules, in addition to using and learning proven strategies, one can develop into a strong duelist. However, as a boy who loves inventions and discovering new possibilities, elementary school student Yuuga Oudou finds the current way of dueling predictable and rigid—in other words, boring.\n\nThus, he aims to craft a new path in dueling with his exhilarating new invention: Rush Duels. His ambition soon catches the attention of Tatsuhisa Kamijou, a fellow elementary school student, who brings him to a mysterious place in an attempt to discover the potential of the new system. \n\nWhile Yuuga aims to implement Rush Duels as the new dueling standard and overthrow the conventions of the game, he opens the door to his ultimate goal—to make dueling exciting again.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1148/106883.jpg",
+      "date": "Apr 4, 2020, 07:30 (JST)",
+      "producer": "Bridge",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Game",
+        "Fantasy",
+        "Shounen"
       ],
       "category": "TV (Continuing)"
     },
@@ -1855,6 +1857,18 @@
     },
     {
       "title": "",
+      "description": "Independent short animation by Shingo Tamagawa.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1308/110285.jpg",
+      "date": "Nov 20, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Dementia"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1789/109403.jpg",
       "date": "Oct 28, 2020",
@@ -1863,18 +1877,6 @@
       "genres": [
         "Historical",
         "Romance"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Independent short animation by Shingo Tamagawa.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1308/110285.jpg",
-      "date": "Nov 20, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Dementia"
       ],
       "category": "ONA"
     },
@@ -1962,20 +1964,6 @@
     },
     {
       "title": "",
-      "description": "The anime will show ancient Egyptian gods relaxing and enjoying their time.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1955/107042.jpg",
-      "date": "Dec 7, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "It's the highlight of GBN's anniversary event, the \"Gunpla Battle One-Day Battle Royal\"!\n\nParticipants are selected from the Divers who played most passionately this season, and they're fighting in machines randomly assigned mainly from those Gunpla ranked highest by all Divers in the Great Gunpla Ballot! Now the final round is about to begin, with the tough fighters who've won their respective blocks! There, an unpredictable, super special, never-seen-before Gunpla dream battle will... START!!!\n\n(Source: AniDB)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1436/110252.jpg",
       "date": "Nov 13, 2020",
@@ -1985,6 +1973,20 @@
         "Action",
         "Sci-Fi",
         "Mecha"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The anime will show ancient Egyptian gods relaxing and enjoying their time.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1955/107042.jpg",
+      "date": "Dec 7, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2045,6 +2047,22 @@
     },
     {
       "title": "",
+      "description": "Ordinary high school student Haoxuan Sun was taken hostage in a seemingly robbery and rescued by a girl wearing winged battledress with bee bionics designs. Haoxuan Sun’s peaceful life was stirred by the girl – human bioengineering weapon Vanguard Liuli. Discovered that he is the \"Son of Eden\" wanted by all the great powers, Haoxuan Sun and Liuli have been searching for the truth and fight against the so-called destiny. At the same time, people around Haoxuan Sun, senpai Ye Bai who he has a crash on, his best friend, and many others, were discovered to have a second identities.\n\nThe new BEE anime is based on the original manga plot. In addition, BEE manga's author Baimao personally joined the production team. The new BEE will also include two subplots entirely new to the viewers.\n\n(Source: u17)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1140/110288.jpg",
+      "date": "Nov 18, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Romance",
+        "Fantasy",
+        "Mecha"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "The story centers on hero pair teams named \"Patraisers,\" consisting of \"Sugars\" and their supporter \"Patrons.\" The Patraiser teams \"reinvigorate people's frozen hearts.\"\n\nThe \"main story\" videos will focus on a single Patraiser pair, consisting of the Sugar Asahi Yuga and his Patron Ryouya Nekoyashiki. The \"side story\" videos will focus on their daily lives, as well as the other characters.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1521/109423.jpg",
       "date": "Oct 18, 2020",
@@ -2093,6 +2111,22 @@
         "Slice of Life",
         "Comedy",
         "Supernatural"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The 10th season of Huyao Xiao Hongniang.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1047/110338.jpg",
+      "date": "Dec 11, 2020",
+      "producer": "Haoliners Animation League",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Historical",
+        "Supernatural",
+        "Drama",
+        "Romance"
       ],
       "category": "ONA"
     },
@@ -2174,19 +2208,6 @@
     },
     {
       "title": "",
-      "description": "One day in 20XX, the alien pig prince who planned to take a human body as his home arrived on Earth, but unexpectedly discovered that the human being he wanted to live in had not yet been born! The pig prince, who has nowhere to settle down, got to know Saiji and Rubi. The three pulled various funny pranks on humans, causing humans to have baldness, bad breath, headaches, emotional crisis and other problems.\n\n(Source: bilibili, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1737/109368.jpg",
-      "date": "Oct 5, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Web commercial for chemical and cosmetics company Kao's Attack ZERO detergent line in collaboration with the Neon Genesis Evangelion franchise.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1662/110189.jpg",
       "date": "Nov 2, 2020",
@@ -2200,14 +2221,14 @@
     },
     {
       "title": "",
-      "description": "Fourth season of Menghuan Shuyuan.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1346/109452.jpg",
-      "date": "Oct 12, 2020",
-      "producer": "Painting Dream",
-      "eps": 14,
+      "description": "One day in 20XX, the alien pig prince who planned to take a human body as his home arrived on Earth, but unexpectedly discovered that the human being he wanted to live in had not yet been born! The pig prince, who has nowhere to settle down, got to know Saiji and Rubi. The three pulled various funny pranks on humans, causing humans to have baldness, bad breath, headaches, emotional crisis and other problems.\n\n(Source: bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1737/109368.jpg",
+      "date": "Oct 5, 2020",
+      "producer": "-",
+      "eps": 12,
       "genres": [
-        "Comedy",
-        "Fantasy"
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2223,6 +2244,19 @@
         "Fantasy",
         "Historical",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Fourth season of Menghuan Shuyuan.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1346/109452.jpg",
+      "date": "Oct 12, 2020",
+      "producer": "Painting Dream",
+      "eps": 14,
+      "genres": [
+        "Comedy",
+        "Fantasy"
       ],
       "category": "ONA"
     },

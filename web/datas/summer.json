@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-11-23",
+  "lastUpdate": "2020-11-24",
   "animes": [
     {
       "title": "",
@@ -2621,19 +2621,6 @@
     },
     {
       "title": "",
-      "description": "The movie will adapt the first volume following an eight-year-old boy Keiji getting a mysterious snack that can make him fish taiyaki (Japanese fish-shaped cake).\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1524/108656.jpg",
-      "date": "Aug 14, 2020",
-      "producer": "Toei Animation",
-      "eps": 1,
-      "genres": [
-        "Kids",
-        "Mystery"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "",
       "description": "An experimental film by mareykrap about the color blue. Blue pigment in the natural world is very rare. Instead, what we typically observe is the reflection of blue light waves. How much \"true blue\" really exists in our world? A series of blue images. Or are they?",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1066/109137.jpg",
       "date": "Jul 29, 2020",
@@ -2642,6 +2629,19 @@
       "genres": [
         "Dementia",
         "Music"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
+      "description": "The movie will adapt the first volume following an eight-year-old boy Keiji getting a mysterious snack that can make him fish taiyaki (Japanese fish-shaped cake).\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1524/108656.jpg",
+      "date": "Aug 14, 2020",
+      "producer": "Toei Animation",
+      "eps": 1,
+      "genres": [
+        "Kids",
+        "Mystery"
       ],
       "category": "Movie"
     },
