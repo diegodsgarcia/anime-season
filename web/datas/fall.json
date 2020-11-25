@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-11-24",
+  "lastUpdate": "2020-11-25",
   "animes": [
     {
       "title": "",
@@ -561,19 +561,6 @@
     },
     {
       "title": "",
-      "description": "The anime centers on four girls at the full bloom of their youth, working hard to achieve their dreams as they struggle valiantly. In Japanese entertainment, Maesetsu! refers to an introductory talk or explanation addressed to the audience before the broadcast of television programs, usually performed by assistant directors and particularly comedians in variety or comedy shows.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1555/109492.jpg",
-      "date": "Oct 11, 2020, 23:30 (JST)",
-      "producer": "AXsiZ, Studio Gokumi",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106812.jpg",
       "date": "Oct 8, 2020, 21:54 (JST)",
@@ -582,6 +569,19 @@
       "genres": [
         "Adventure",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "The anime centers on four girls at the full bloom of their youth, working hard to achieve their dreams as they struggle valiantly. In Japanese entertainment, Maesetsu! refers to an introductory talk or explanation addressed to the audience before the broadcast of television programs, usually performed by assistant directors and particularly comedians in variety or comedy shows.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1555/109492.jpg",
+      "date": "Oct 11, 2020, 23:30 (JST)",
+      "producer": "AXsiZ, Studio Gokumi",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -1623,19 +1623,6 @@
     },
     {
       "title": "",
-      "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
-      "date": "Jul 12, 2017",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
       "date": "Dec 2, 2015",
@@ -1644,6 +1631,19 @@
       "genres": [
         "Sports",
         "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
+      "date": "Jul 12, 2017",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids",
+        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1843,6 +1843,18 @@
     },
     {
       "title": "",
+      "description": "Independent short animation by Shingo Tamagawa.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1308/110285.jpg",
+      "date": "Nov 20, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Dementia"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Second season of Wan Sheng Jie.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1227/108806.jpg",
       "date": "Oct 14, 2020",
@@ -1852,18 +1864,6 @@
         "Slice of Life",
         "Comedy",
         "Supernatural"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Independent short animation by Shingo Tamagawa.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1308/110285.jpg",
-      "date": "Nov 20, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Dementia"
       ],
       "category": "ONA"
     },
@@ -1936,6 +1936,20 @@
     },
     {
       "title": "",
+      "description": "It's the highlight of GBN's anniversary event, the \"Gunpla Battle One-Day Battle Royal\"!\n\nParticipants are selected from the Divers who played most passionately this season, and they're fighting in machines randomly assigned mainly from those Gunpla ranked highest by all Divers in the Great Gunpla Ballot! Now the final round is about to begin, with the tough fighters who've won their respective blocks! There, an unpredictable, super special, never-seen-before Gunpla dream battle will... START!!!\n\n(Source: AniDB)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1436/110252.jpg",
+      "date": "Nov 13, 2020",
+      "producer": "Sunrise Beyond",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Mecha"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Across thousands of years, a terracotta warrior comes back to life! With a girl who looks exactly like his sister-in-law, they fight crimes and become heroes to bring back justice!\n\n(Source: WeComics)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1076/109488.jpg",
       "date": "Oct 16, 2020",
@@ -1959,20 +1973,6 @@
         "Military",
         "Sci-Fi",
         "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "It's the highlight of GBN's anniversary event, the \"Gunpla Battle One-Day Battle Royal\"!\n\nParticipants are selected from the Divers who played most passionately this season, and they're fighting in machines randomly assigned mainly from those Gunpla ranked highest by all Divers in the Great Gunpla Ballot! Now the final round is about to begin, with the tough fighters who've won their respective blocks! There, an unpredictable, super special, never-seen-before Gunpla dream battle will... START!!!\n\n(Source: AniDB)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1436/110252.jpg",
-      "date": "Nov 13, 2020",
-      "producer": "Sunrise Beyond",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Mecha"
       ],
       "category": "ONA"
     },
@@ -2035,6 +2035,22 @@
     },
     {
       "title": "",
+      "description": "Ordinary high school student Haoxuan Sun was taken hostage in a seemingly robbery and rescued by a girl wearing winged battledress with bee bionics designs. Haoxuan Sun’s peaceful life was stirred by the girl – human bioengineering weapon Vanguard Liuli. Discovered that he is the \"Son of Eden\" wanted by all the great powers, Haoxuan Sun and Liuli have been searching for the truth and fight against the so-called destiny. At the same time, people around Haoxuan Sun, senpai Ye Bai who he has a crash on, his best friend, and many others, were discovered to have a second identities.\n\nThe new BEE anime is based on the original manga plot. In addition, BEE manga's author Baimao personally joined the production team. The new BEE will also include two subplots entirely new to the viewers.\n\n(Source: u17)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1140/110288.jpg",
+      "date": "Nov 18, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Romance",
+        "Fantasy",
+        "Mecha"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Omake mini anime released after each episode of Tsukiuta. The Animation 2 on the Tsukino Production official YouTube channel.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1366/110166.jpg",
       "date": "Oct 7, 2020",
@@ -2047,17 +2063,17 @@
     },
     {
       "title": "",
-      "description": "Ordinary high school student Haoxuan Sun was taken hostage in a seemingly robbery and rescued by a girl wearing winged battledress with bee bionics designs. Haoxuan Sun’s peaceful life was stirred by the girl – human bioengineering weapon Vanguard Liuli. Discovered that he is the \"Son of Eden\" wanted by all the great powers, Haoxuan Sun and Liuli have been searching for the truth and fight against the so-called destiny. At the same time, people around Haoxuan Sun, senpai Ye Bai who he has a crash on, his best friend, and many others, were discovered to have a second identities.\n\nThe new BEE anime is based on the original manga plot. In addition, BEE manga's author Baimao personally joined the production team. The new BEE will also include two subplots entirely new to the viewers.\n\n(Source: u17)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1140/110288.jpg",
-      "date": "Nov 18, 2020",
-      "producer": "-",
+      "description": "The 10th season of Huyao Xiao Hongniang.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1047/110338.jpg",
+      "date": "Dec 11, 2020",
+      "producer": "Haoliners Animation League",
       "eps": 12,
       "genres": [
-        "Action",
-        "Sci-Fi",
-        "Romance",
-        "Fantasy",
-        "Mecha"
+        "Comedy",
+        "Historical",
+        "Supernatural",
+        "Drama",
+        "Romance"
       ],
       "category": "ONA"
     },
@@ -2088,20 +2104,6 @@
     },
     {
       "title": "",
-      "description": "The anime centers around a boy named Kouta Kouka (Kouka Kouta in Japanese name order, an apparent wordplay on Coca-Cola). Kouta strives to be the world's best Bottle King at the Bottle Battles in the virtual Drink World. He comes across his Bottleman partner Colamaru and then wages battles with various rivals.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1581/109225.jpg",
-      "date": "Oct 9, 2020",
-      "producer": "-",
-      "eps": 25,
-      "genres": [
-        "Action",
-        "Game",
-        "Kids"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Second season Han Hua Ri Ji.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1861/109494.jpg",
       "date": "Nov 15, 2020",
@@ -2116,17 +2118,15 @@
     },
     {
       "title": "",
-      "description": "The 10th season of Huyao Xiao Hongniang.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1047/110338.jpg",
-      "date": "Dec 11, 2020",
-      "producer": "Haoliners Animation League",
-      "eps": 12,
+      "description": "The anime centers around a boy named Kouta Kouka (Kouka Kouta in Japanese name order, an apparent wordplay on Coca-Cola). Kouta strives to be the world's best Bottle King at the Bottle Battles in the virtual Drink World. He comes across his Bottleman partner Colamaru and then wages battles with various rivals.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1581/109225.jpg",
+      "date": "Oct 9, 2020",
+      "producer": "-",
+      "eps": 25,
       "genres": [
-        "Comedy",
-        "Historical",
-        "Supernatural",
-        "Drama",
-        "Romance"
+        "Action",
+        "Game",
+        "Kids"
       ],
       "category": "ONA"
     },
@@ -2196,18 +2196,6 @@
     },
     {
       "title": "",
-      "description": "Concept movie for All Nippon Esthetic Association (AEA).",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1657/109997.jpg",
-      "date": "Oct 25, 2020",
-      "producer": "Flat Studio",
-      "eps": 1,
-      "genres": [
-        "Drama"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Web commercial for chemical and cosmetics company Kao's Attack ZERO detergent line in collaboration with the Neon Genesis Evangelion franchise.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1662/110189.jpg",
       "date": "Nov 2, 2020",
@@ -2216,6 +2204,18 @@
       "genres": [
         "Music",
         "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Concept movie for All Nippon Esthetic Association (AEA).",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1657/109997.jpg",
+      "date": "Oct 25, 2020",
+      "producer": "Flat Studio",
+      "eps": 1,
+      "genres": [
+        "Drama"
       ],
       "category": "ONA"
     },
