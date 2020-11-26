@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-11-25",
+  "lastUpdate": "2020-11-26",
   "animes": [
     {
       "title": "",
@@ -2226,19 +2226,6 @@
     },
     {
       "title": "",
-      "description": "A \"gourmet action movie\" that took place in the kitchen, the small alpaca who coveted a variety of delicacies decided to take two good friends to fight. In Sansan’s Kitchen of Pranks, sugar points! Calories! Carbon water... does not exist. A very attractive \"Zero Card\" Healing Fan will become delicious today!\n\n(Source: official Bilibili, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
-      "date": "Jul 30, 2020",
-      "producer": "-",
-      "eps": 10,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "This is an adventure story about Ah Shu and Ah Lang. Ah Shu is the executor of the mission, and Ah Lang is the intermediary of the \"Task Association,\" specifically looking for tasks for Ah Rat. While the two were constantly completing various difficult tasks, Ah Shu revealed his yearning for something indescribable – \"The Sea of ​​Stars\"; while Ah Lang was also looking for clues to the disappearance of the family during various tasks. The two learned from the mission that in addition to the present world, there is an \"upper world,\" and various signs indicate that Ah Shu's yearning and the clues Ah Lang is looking for point directly to the \"upper world,\" even \"more upper world.\"\n\nThrough their continuous adventures, they gradually learned that no matter which world, they cannot escape the fate of the tipping point of entropy.\n\n(Source: bilibili, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1726/109274.jpg",
       "date": "Aug 3, 2020",
@@ -2248,6 +2235,19 @@
         "Action",
         "Adventure",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "A \"gourmet action movie\" that took place in the kitchen, the small alpaca who coveted a variety of delicacies decided to take two good friends to fight. In Sansan’s Kitchen of Pranks, sugar points! Calories! Carbon water... does not exist. A very attractive \"Zero Card\" Healing Fan will become delicious today!\n\n(Source: official Bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/108270.jpg",
+      "date": "Jul 30, 2020",
+      "producer": "-",
+      "eps": 10,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
