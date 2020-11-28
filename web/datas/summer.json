@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-11-27",
+  "lastUpdate": "2020-11-28",
   "animes": [
     {
       "title": "",
@@ -1854,20 +1854,6 @@
     },
     {
       "title": "",
-      "description": "The story is set in Nagasaki prefecture in Minami Shimabara city, the fabled origin of the Shimabara Rebellion that sent shockwaves through all of Japan in the early Edo period. It is also where a third-year junior high school student named Shirou spends his days with his school friends.\n\nOne summer day, Shirou's older childhood friend Akane returns to Minami Shimabara from Tokyo. Shirou and Akane take a stroll around Minami Shimabara with another longtime friend, Tokiya. While these friends are dealing with nostalgia and more complex feelings, a mysterious creature named Goron suddenly appears before them. This encounter with a mere little creature causes great events to unfold once more in this city...\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/107681.jpg",
-      "date": "Aug 8, 2020",
-      "producer": "TriF Studio",
-      "eps": 4,
-      "genres": [
-        "Mystery",
-        "Supernatural",
-        "Drama"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Special Forces Wang Sheng traveled to the soul world and was possessed by the waste carp Yuan soul, becoming a veritable waste person in the soul world. Wang Sheng used the knowledge he had learned in the world of master spirits like Yun Yuan to pass the battle, and even found a way to evolve the waste carp Yuan soul! The sparrow becomes a phoenix, and the carp leaps to the dragon gate. Wang Sheng has embarked on a road of Jackie Chan from the sinister soul dispute!\n\n(Source: Immortal Sun Scans)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
       "date": "Jul 11, 2020",
@@ -1877,6 +1863,20 @@
         "Action",
         "Adventure",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The story is set in Nagasaki prefecture in Minami Shimabara city, the fabled origin of the Shimabara Rebellion that sent shockwaves through all of Japan in the early Edo period. It is also where a third-year junior high school student named Shirou spends his days with his school friends.\n\nOne summer day, Shirou's older childhood friend Akane returns to Minami Shimabara from Tokyo. Shirou and Akane take a stroll around Minami Shimabara with another longtime friend, Tokiya. While these friends are dealing with nostalgia and more complex feelings, a mysterious creature named Goron suddenly appears before them. This encounter with a mere little creature causes great events to unfold once more in this city...\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/107681.jpg",
+      "date": "Aug 8, 2020",
+      "producer": "TriF Studio",
+      "eps": 4,
+      "genres": [
+        "Mystery",
+        "Supernatural",
+        "Drama"
       ],
       "category": "ONA"
     },

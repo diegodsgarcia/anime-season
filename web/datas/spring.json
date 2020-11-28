@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-11-27",
+  "lastUpdate": "2020-11-28",
   "animes": [
     {
       "title": "",
@@ -2080,6 +2080,19 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1429/108132.jpg",
+      "date": "Jun 18, 2020",
+      "producer": "Soyep",
+      "eps": 80,
+      "genres": [
+        "Action",
+        "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "A second season of Puso Ni Comi, once again following the in-game avatars of the cast.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1466/106923.jpg",
       "date": "Apr 7, 2020",
@@ -2089,19 +2102,6 @@
         "Game",
         "Comedy",
         "Parody"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1429/108132.jpg",
-      "date": "Jun 18, 2020",
-      "producer": "Soyep",
-      "eps": 80,
-      "genres": [
-        "Action",
-        "Martial Arts"
       ],
       "category": "ONA"
     },
@@ -2586,7 +2586,7 @@
     },
     {
       "title": "",
-      "description": "OVA included with the special edition of volume two of the Blu-ray release.",
+      "description": "Dorohedoro: Ma no Omake further explores the world of sorcerers and the Hole, honing in on what the characters do in their spare time when they are not seeking out their enemies. \n\nKamen Kakusa\nFujita attends a mask conjuring ritual in hopes of a Devil bestowing him with an appropriate mask, like the ones his colleagues Noi and Shin possess. Hopefully his offering entices the mask-maker! \n\nTenpo For You\nNikaidou, lacking money and forced to sell gyoza on the streets of the Hole, stumbles upon a quaint shop selling tea and sweets. Its owner is the gentle and hospitable Syueron, but it seems the denizens of the Hole bear a grudge against him.\n\nShitappa Seishun Graffiti\nIntrigued by the photographs hanging around the mansion, Ebisu approaches En hoping for a portrait of her own. However, she is disappointed to find that only members of the En Family can have their pictures taken. \n\nAnata no Shiranai Gyoza no Kai\nThe Gyoza Fairy keeps the Hungry Bug in pristine condition, but his primary responsibility is ensuring the gyoza tastes good. So he becomes rather agitated when Nikaidou's customers do not properly enjoy their meals.\n\nOdoru Ma no Utage\nEn is enthusiastic about his masquerade ball and is adamant on his family's participation. Per tradition, attendees must choose a partner and dance to appease the Devils. To their horror, they discover that failing to do so may incur nasty consequences!\n\nYokaze ni Fukarete Ooba Kinenbi\nNikaidou gives detailed instructions on preparing oba gyoza and Kaiman is eager to help!\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1611/105459.jpg",
       "date": "Jun 17, 2020",
       "producer": "MAPPA",
