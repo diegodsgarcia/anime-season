@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-11-28",
+  "lastUpdate": "2020-11-29",
   "animes": [
     {
       "title": "",
@@ -1830,6 +1830,18 @@
     },
     {
       "title": "",
+      "description": "Independent short animation by Shingo Tamagawa.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1308/110285.jpg",
+      "date": "Nov 20, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Dementia"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1648/110089.jpg",
       "date": "Nov 5, 2020",
@@ -1838,18 +1850,6 @@
       "genres": [
         "Kids",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Independent short animation by Shingo Tamagawa.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1308/110285.jpg",
-      "date": "Nov 20, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Dementia"
       ],
       "category": "ONA"
     },
@@ -2023,6 +2023,18 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "date": "Oct 30, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Second season of Wo Jia Da Shixiong Naozi You Keng.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1764/109493.jpg",
       "date": "Oct 29, 2020",
@@ -2034,18 +2046,6 @@
         "Comedy",
         "Historical",
         "Martial Arts"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "date": "Oct 30, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
       ],
       "category": "ONA"
     },
@@ -2104,6 +2104,18 @@
     },
     {
       "title": "",
+      "description": "Mini web anime streamed online leading up to the Mars Red TV anime premiere.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1965/110358.jpg",
+      "date": "Nov 24, 2020",
+      "producer": "Signal.MD",
+      "eps": 5,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Second season Han Hua Ri Ji.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1861/109494.jpg",
       "date": "Nov 15, 2020",
@@ -2127,18 +2139,6 @@
         "Action",
         "Game",
         "Kids"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Mini web anime streamed online leading up to the Mars Red TV anime premiere.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1965/110358.jpg",
-      "date": "Nov 24, 2020",
-      "producer": "Signal.MD",
-      "eps": 5,
-      "genres": [
-        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2427,7 +2427,7 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
+      "description": "Erin is a mercenary who was once on the brink of death, but saved by Nighthawk a sword spirit. Since then they have been traveling together, this is the story of these two.\n\n(Source: Hanime)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1687/110301.jpg",
       "date": "Oct 30, 2020",
       "producer": "Majin",

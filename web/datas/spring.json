@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-11-28",
+  "lastUpdate": "2020-11-29",
   "animes": [
     {
       "title": "",
@@ -1868,22 +1868,6 @@
     },
     {
       "title": "",
-      "description": "We follow the adventures of a mysterious young girl, accompanied by a young monk and a demon doctor. Together, they solve human problems and cure illnesses caused by demons and ghosts.\n\n(Source: Anilist)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1403/108297.jpg",
-      "date": "Apr 25, 2020",
-      "producer": "Haoliners Animation League",
-      "eps": 12,
-      "genres": [
-        "Adventure",
-        "Mystery",
-        "Historical",
-        "Supernatural",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Fifth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/108563.jpg",
       "date": "May 23, 2020",
@@ -1895,6 +1879,22 @@
         "Historical",
         "Romance",
         "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "We follow the adventures of a mysterious young girl, accompanied by a young monk and a demon doctor. Together, they solve human problems and cure illnesses caused by demons and ghosts.\n\n(Source: Anilist)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1403/108297.jpg",
+      "date": "Apr 25, 2020",
+      "producer": "Haoliners Animation League",
+      "eps": 12,
+      "genres": [
+        "Adventure",
+        "Mystery",
+        "Historical",
+        "Supernatural",
         "Fantasy"
       ],
       "category": "ONA"
@@ -2403,10 +2403,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1372/105978.jpg",
-      "date": "May 29, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1824/105790.jpg",
+      "date": "Apr 24, 2020",
       "producer": "-",
-      "eps": 2,
+      "eps": null,
       "genres": [
         "Hentai"
       ],
@@ -2415,10 +2415,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1824/105790.jpg",
-      "date": "Apr 24, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1372/105978.jpg",
+      "date": "May 29, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 2,
       "genres": [
         "Hentai"
       ],

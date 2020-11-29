@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-11-28",
+  "lastUpdate": "2020-11-29",
   "animes": [
     {
       "title": "",
@@ -1379,19 +1379,6 @@
     },
     {
       "title": "",
-      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
-      "date": "Apr 6, 2020, 23:29 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
       "date": "Oct 3, 2019, 18:10 (JST)",
@@ -1402,6 +1389,19 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
+      "date": "Apr 6, 2020, 23:29 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1610,14 +1610,14 @@
     },
     {
       "title": "",
-      "description": "Third Season of Aggressive Retsuko.",
+      "description": "After an emotional breakup with her boyfriend, red panda Retsuko closes herself off to the thought of ever being in love again—well, with an actual person anyway. Retreating into the world of VR, her virtual boyfriend showers her with praise and shows up in cute outfits, albeit for a price.\n\nWhile scrambling to find other ways to earn money, Retsuko finds herself in yet another financial bind after accidentally ramming into a parked van with a rental vehicle. The owner of the van, a gruff cheetah named Hyoudou, recruits her as an accountant for an underground idol group which he manages. Retsuko soon begins to buckle under the pressure from the new job, leading to plenty of inspiration for her next death metal vent sessions.\n\nIn the midst of it all, Retsuko begins to wonder if she truly desires a colorless and uninteresting life, or if there's something waiting beyond her office desk. Will Retsuko finally come out on top, both in love and in the workplace? Or will she once again be convinced that the dull and sterile life in her office environment is the one she must lead?\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1049/108692.jpg",
       "date": "Aug 27, 2020",
       "producer": "Fanworks",
       "eps": 10,
       "genres": [
-        "Comedy",
-        "Slice of Life"
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2309,7 +2309,7 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
+      "description": "A young man with an incredible sex drive gets transported to another world where he has to provide semen to three women to help them fight the demon king.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/107872.jpg",
       "date": "Jul 31, 2020",
       "producer": "-",
