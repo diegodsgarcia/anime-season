@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-11-29",
+  "lastUpdate": "2020-11-30",
   "animes": [
     {
       "title": "",
@@ -2499,6 +2499,18 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/103712.jpg",
+      "date": "Mar 6, 2020",
+      "producer": "Studio 1st",
+      "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "",
       "description": "The OVA will be focus on when Kujaku Nijou first entering group, which occurs one year before the main anime begins.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1417/104653.jpg",
       "date": "Jan 24, 2020",
@@ -2509,18 +2521,6 @@
         "Police",
         "Vampire",
         "Fantasy"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1774/103712.jpg",
-      "date": "Mar 6, 2020",
-      "producer": "Studio 1st",
-      "eps": null,
-      "genres": [
-        "Hentai"
       ],
       "category": "OVA"
     },

@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-11-29",
+  "lastUpdate": "2020-11-30",
   "animes": [
     {
       "title": "",
@@ -363,7 +363,7 @@
     },
     {
       "title": "",
-      "description": "One day, Kaede, a gyaru, picks up a dinosaur and begins living with it. The short comedy depicts their daily lives together as the dinosaur consumes human food, watches TV, and enjoys fashionable things. Thus begins the story of a gal and a dinosaur cohabiting that transcends time.\n\n(Source: MAL News)",
+      "description": "Wasted from the night before, Kaede wakes up the next morning to find herself at home with a dinosaur she had brought along with her. The two start living together as an odd pair consisting of a typical gal girl and a mute dinosaur going about daily lives. Although not the most experienced paleontologist, Kaede begins to learn more about her new prehistoric roommate through a series of comedic gags and adventures.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1332/106887.jpg",
       "date": "Apr 5, 2020, 01:00 (JST)",
       "producer": "Kamikaze Douga, Space Neko Company",
@@ -1707,21 +1707,6 @@
     },
     {
       "title": "",
-      "description": "Special episodes released on AbemaTV.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1919/107275.jpg",
-      "date": "Apr 5, 2020",
-      "producer": "Doga Kobo",
-      "eps": 6,
-      "genres": [
-        "Slice of Life",
-        "Drama",
-        "Romance",
-        "Seinen"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Third season of Hitori no Shita: The Outcast.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1197/106650.jpg",
       "date": "Apr 24, 2020",
@@ -1735,6 +1720,21 @@
         "Supernatural",
         "Drama",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Special episodes released on AbemaTV.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1919/107275.jpg",
+      "date": "Apr 5, 2020",
+      "producer": "Doga Kobo",
+      "eps": 6,
+      "genres": [
+        "Slice of Life",
+        "Drama",
+        "Romance",
+        "Seinen"
       ],
       "category": "ONA"
     },
