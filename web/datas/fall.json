@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-11-30",
+  "lastUpdate": "2020-12-01",
   "animes": [
     {
       "title": "",
@@ -173,7 +173,7 @@
     {
       "title": "",
       "description": "It is the year 20XX. Earth was assaulted by monsters that would come to be known as \"the Enemy of Humanity.\" In order to deal with this threat, special schools composed of teenagers with extraordinary abilities were formed. These people, who came to be known as \"the Talented,\" had abilities that could defy the rules of reality.\n\nAmong these people with supernatural powers was an outlier, an individual who was sent to one of these schools despite having no innate special abilities whatsoever. This is the story of our protagonist, who attempts to defeat the Enemies of Humanity through the use of intelligence and manipulation alone. \n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1662/109146.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1301/110433.jpg",
       "date": "Oct 4, 2020, 21:30 (JST)",
       "producer": "Bridge",
       "eps": 13,
@@ -539,7 +539,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1511/109127.jpg",
       "date": "Oct 13, 2020, 01:30 (JST)",
       "producer": "Studio Pierrot",
-      "eps": null,
+      "eps": 25,
       "genres": [
         "Comedy",
         "Parody"
@@ -1533,6 +1533,18 @@
     },
     {
       "title": "",
+      "description": "Sequel of Taeko no Nichijou",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/108538.jpg",
+      "date": "Jul 1, 2020, 17:59 (JST)",
+      "producer": "DLE",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "A stop-motion animation about Liv, a curious little girl and Bell, a gluttonous hedgehog. Together they go on an adventure in a picture book.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/6/70717.jpg",
       "date": "Feb 15, 2013",
@@ -1541,18 +1553,6 @@
       "genres": [
         "Adventure",
         "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "Sequel of Taeko no Nichijou",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/108538.jpg",
-      "date": "Jul 1, 2020, 17:59 (JST)",
-      "producer": "DLE",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "TV (Continuing)"
     },
@@ -2035,6 +2035,23 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/110419.jpg",
+      "date": "Dec 11, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Martial Arts",
+        "Romance"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Second season of Wo Jia Da Shixiong Naozi You Keng.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1764/109493.jpg",
       "date": "Oct 29, 2020",
@@ -2158,7 +2175,7 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1889/109930.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1183/110438.jpg",
       "date": "Oct 25, 2020",
       "producer": "-",
       "eps": 60,
@@ -2183,18 +2200,6 @@
     },
     {
       "title": "",
-      "description": "The encounter between Asahi and Ryouya.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/109791.jpg",
-      "date": "Oct 11, 2020",
-      "producer": "TANOsim",
-      "eps": 1,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Web commercial for chemical and cosmetics company Kao's Attack ZERO detergent line in collaboration with the Neon Genesis Evangelion franchise.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1662/110189.jpg",
       "date": "Nov 2, 2020",
@@ -2202,6 +2207,18 @@
       "eps": 1,
       "genres": [
         "Music",
+        "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The encounter between Asahi and Ryouya.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/109791.jpg",
+      "date": "Oct 11, 2020",
+      "producer": "TANOsim",
+      "eps": 1,
+      "genres": [
         "Slice of Life"
       ],
       "category": "ONA"
@@ -2234,7 +2251,7 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1242/110243.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1946/110439.jpg",
       "date": "Nov 18, 2020",
       "producer": "-",
       "eps": 80,
@@ -2281,6 +2298,31 @@
       "eps": 12,
       "genres": [
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1792/110429.jpg",
+      "date": "Oct 24, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Historical"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/110437.jpg",
+      "date": "Nov 29, 2020",
+      "producer": "-",
+      "eps": 26,
+      "genres": [
+        "Sci-Fi"
       ],
       "category": "ONA"
     },
@@ -2825,6 +2867,19 @@
         "Adventure",
         "Magic",
         "Fantasy"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "",
+      "description": "Recap of the first eight episodes of Senyoku no Sigrdrifa.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1256/110447.jpg",
+      "date": "Nov 28, 2020",
+      "producer": "A-1 Pictures",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Military"
       ],
       "category": "Special"
     }
