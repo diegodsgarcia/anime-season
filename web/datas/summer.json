@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-12-02",
+  "lastUpdate": "2020-12-03",
   "animes": [
     {
       "title": "",
@@ -2082,14 +2082,13 @@
     },
     {
       "title": "",
-      "description": "A girl quietly reads a book in her room. Suddenly, a monster comes crawling out from under her bed! Is it friend or foe?",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1537/107336.jpg",
-      "date": "Jul 26, 2019",
+      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
+      "date": "Jul 23, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 4,
       "genres": [
-        "Comedy",
-        "Horror"
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2108,13 +2107,14 @@
     },
     {
       "title": "",
-      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
-      "date": "Jul 23, 2020",
+      "description": "A girl quietly reads a book in her room. Suddenly, a monster comes crawling out from under her bed! Is it friend or foe?",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1537/107336.jpg",
+      "date": "Jul 26, 2019",
       "producer": "-",
-      "eps": 4,
+      "eps": null,
       "genres": [
-        "Slice of Life"
+        "Comedy",
+        "Horror"
       ],
       "category": "ONA"
     },

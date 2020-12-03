@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-12-02",
+  "lastUpdate": "2020-12-03",
   "animes": [
     {
       "title": "",
@@ -1868,22 +1868,6 @@
     },
     {
       "title": "",
-      "description": "We follow the adventures of a mysterious young girl, accompanied by a young monk and a demon doctor. Together, they solve human problems and cure illnesses caused by demons and ghosts.\n\n(Source: Anilist)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1403/108297.jpg",
-      "date": "Apr 25, 2020",
-      "producer": "Haoliners Animation League",
-      "eps": 12,
-      "genres": [
-        "Adventure",
-        "Mystery",
-        "Historical",
-        "Supernatural",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Fifth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/108563.jpg",
       "date": "May 23, 2020",
@@ -1895,6 +1879,22 @@
         "Historical",
         "Romance",
         "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "We follow the adventures of a mysterious young girl, accompanied by a young monk and a demon doctor. Together, they solve human problems and cure illnesses caused by demons and ghosts.\n\n(Source: Anilist)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1403/108297.jpg",
+      "date": "Apr 25, 2020",
+      "producer": "Haoliners Animation League",
+      "eps": 12,
+      "genres": [
+        "Adventure",
+        "Mystery",
+        "Historical",
+        "Supernatural",
         "Fantasy"
       ],
       "category": "ONA"
@@ -2203,19 +2203,6 @@
     },
     {
       "title": "",
-      "description": "A girl quietly reads a book in her room. Suddenly, a monster comes crawling out from under her bed! Is it friend or foe?",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1537/107336.jpg",
-      "date": "Jul 26, 2019",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Horror"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Third season of Fei Ren Zai.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1096/108476.jpg",
       "date": "Jun 17, 2020",
@@ -2225,6 +2212,19 @@
         "Slice of Life",
         "Comedy",
         "Supernatural"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "A girl quietly reads a book in her room. Suddenly, a monster comes crawling out from under her bed! Is it friend or foe?",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1537/107336.jpg",
+      "date": "Jul 26, 2019",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Horror"
       ],
       "category": "ONA"
     },

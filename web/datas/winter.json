@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-12-02",
+  "lastUpdate": "2020-12-03",
   "animes": [
     {
       "title": "",
@@ -132,7 +132,7 @@
     {
       "title": "",
       "description": "Midori Asakusa sees the world a bit differently. Always having her nose in a sketchbook, Asakusa draws detailed landscapes and backgrounds of both the world around her and the one within her boundless imagination. Even the simple act of doodling on a wall evolves into an emergency repair on the outer hull of her spaceship. She is only brought back to reality by her best friend Sayaka Kanamori. The pair are stark opposites, with Asakusa's childlike wonder contrasted by Kanamori's calculated approach to life. \n\nAfter a chance encounter where the two \"save\" the young model Tsubame Misuzaki from her overprotective bodyguard, a connection instantly sparks between Asakusa and Misuzaki, as both share an intense passion for art and animation. Whereas Asakusa is interested in backgrounds and settings, Misuzaki loves drawing the human form. Sensing a money-making opportunity, Kanamori suggests that they start an animation club, which they disguise as a motion picture club since the school already has an anime club. Thus begins the trio's journey of producing animation that will awe the world. \n\nFrom the brilliant mind of Masaaki Yuasa, Eizouken ni wa Te wo Dasu na! is a love letter to animation, wildly creative in its approach, and a testament to the potential of the medium.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1561/106329.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1680/110451.jpg",
       "date": "Jan 6, 2020, 00:10 (JST)",
       "producer": "Science SARU",
       "eps": 12,
@@ -1965,6 +1965,18 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1409/105799.jpg",
+      "date": "Jan 25, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "The fifth season of Ze Tian Ji.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
       "date": "Mar 16, 2020",
@@ -1974,18 +1986,6 @@
         "Action",
         "Adventure",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1409/105799.jpg",
-      "date": "Jan 25, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
       ],
       "category": "ONA"
     },
@@ -2460,13 +2460,13 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1839/104009.jpg",
       "date": "Jan 31, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 4,
       "genres": [
+        "Demons",
+        "Fantasy",
         "Harem",
         "Hentai",
-        "Demons",
-        "Magic",
-        "Fantasy"
+        "Magic"
       ],
       "category": "OVA"
     },
@@ -2551,8 +2551,8 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/103705.jpg",
-      "date": "Jan 31, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1761/105097.jpg",
+      "date": "Mar 27, 2020",
       "producer": "-",
       "eps": null,
       "genres": [
@@ -2563,8 +2563,8 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1761/105097.jpg",
-      "date": "Mar 27, 2020",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/103705.jpg",
+      "date": "Jan 31, 2020",
       "producer": "-",
       "eps": null,
       "genres": [
@@ -2838,6 +2838,18 @@
       "producer": "Yumeta Company",
       "eps": 1,
       "genres": [],
+      "category": "Movie"
+    },
+    {
+      "title": "",
+      "description": "When Gon, a playful orphaned fox, finds that young Hyoju has lost his mother, he tries to comfort him and makes amends for his own earlier mischief by secretly bringing small gifts to the boy every day.\n\nBut Hyoju doesn't realize who is behind the anonymous gifts, and the two are headed for a heartbreaking climax.\n\n(Source: Official Site)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1194/107736.jpg",
+      "date": "Feb 28, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Drama"
+      ],
       "category": "Movie"
     },
     {
