@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-12-03",
+  "lastUpdate": "2020-12-04",
   "animes": [
     {
       "title": "",
@@ -634,7 +634,7 @@
     },
     {
       "title": "",
-      "description": "You are in a world where you can meet famous Japanese historical writers. With a party composed of other writers, you delve into tainted books to purify them, unlock secrets, and gain new allies.\n\n(Source: MAL News)",
+      "description": "Famous writers throughout history find themselves being reincarnated by a mysterious, unseen entity known as the Alchemist. With their souls confined and bound to an expansive library, they are tasked by the Alchemist to jump into books to purify the pages of monsters called Taints. Along the way, they must also rescue and recruit fellow authors trapped within the very stories they themselves had written.\n\nAlthough the writers take on new and powerful forms for this endeavor, some still maintain a semblance of who they once were, while others struggle to remember their pasts and the works they had penned. Despite there being no apparent end to their grand mission, they remain committed to the cause in hope of resolving the mystery behind their collective resurrection as well as questions that have haunted their former lives.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1642/106316.jpg",
       "date": "Apr 4, 2020, 01:23 (JST)",
       "producer": "OLM",
@@ -2094,19 +2094,6 @@
     },
     {
       "title": "",
-      "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
-      "date": "Jul 19, 2020",
-      "producer": "Gaina",
-      "eps": 1,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "A girl quietly reads a book in her room. Suddenly, a monster comes crawling out from under her bed! Is it friend or foe?",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1537/107336.jpg",
       "date": "Jul 26, 2019",
@@ -2115,6 +2102,19 @@
       "genres": [
         "Comedy",
         "Horror"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
+      "date": "Jul 19, 2020",
+      "producer": "Gaina",
+      "eps": 1,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2309,15 +2309,15 @@
     },
     {
       "title": "",
-      "description": "A young man with an incredible sex drive gets transported to another world where he has to provide semen to three women to help them fight the demon king.",
+      "description": "A 16-year-old named Naoki Oikawa is addicted to masturbating. One day, while pleasuring himself as usual, his erotic magazine begins to glow and Naoki suddenly finds himself in a fantastic world. He appears among three female adventurers who later present themselves as the swordswoman Filia Shiora, the priestess Tiane Rutheim, and the elf Llusse. They explain to Naoki that the world is in danger of destruction due to the resurrection of the Demon King, and the only way to save it is for him to use his special power—feeding his semen to the three girls so as to increase their strength exponentially. Of course, the young hero agrees to join the party, and his erotic quest begins.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/107872.jpg",
       "date": "Jul 31, 2020",
       "producer": "-",
       "eps": null,
       "genres": [
+        "Fantasy",
         "Harem",
-        "Hentai",
-        "Fantasy"
+        "Hentai"
       ],
       "category": "OVA"
     },

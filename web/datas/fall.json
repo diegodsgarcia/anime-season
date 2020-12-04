@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-12-03",
+  "lastUpdate": "2020-12-04",
   "animes": [
     {
       "title": "",
@@ -1936,6 +1936,23 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/110419.jpg",
+      "date": "Dec 11, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Across thousands of years, a terracotta warrior comes back to life! With a girl who looks exactly like his sister-in-law, they fight crimes and become heroes to bring back justice!\n\n(Source: WeComics)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1076/109488.jpg",
       "date": "Oct 16, 2020",
@@ -1959,23 +1976,6 @@
         "Sports",
         "School",
         "Shounen"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/110419.jpg",
-      "date": "Dec 11, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Drama",
-        "Fantasy",
-        "Martial Arts",
-        "Romance"
       ],
       "category": "ONA"
     },
@@ -2133,14 +2133,13 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1295/109372.jpg",
-      "date": "Oct 2, 2020",
-      "producer": "Shanghai Foch Film Culture Investment",
-      "eps": 12,
+      "description": "Lipstick advertisement involving Rei Ayanami.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1576/110060.jpg",
+      "date": "Nov 3, 2020",
+      "producer": "-",
+      "eps": 1,
       "genres": [
-        "Music",
-        "School"
+        "Music"
       ],
       "category": "ONA"
     },
@@ -2155,6 +2154,19 @@
         "Slice of Life",
         "Comedy",
         "Supernatural"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1295/109372.jpg",
+      "date": "Oct 2, 2020",
+      "producer": "Shanghai Foch Film Culture Investment",
+      "eps": 12,
+      "genres": [
+        "Music",
+        "School"
       ],
       "category": "ONA"
     },
@@ -2188,18 +2200,6 @@
     },
     {
       "title": "",
-      "description": "Lipstick advertisement involving Rei Ayanami.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1576/110060.jpg",
-      "date": "Nov 3, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Music"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Web commercial for chemical and cosmetics company Kao's Attack ZERO detergent line in collaboration with the Neon Genesis Evangelion franchise.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1662/110189.jpg",
       "date": "Nov 2, 2020",
@@ -2225,14 +2225,16 @@
     },
     {
       "title": "",
-      "description": "Based on the video game \"Punishing: Gray Raven.\"",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1045/109449.jpg",
-      "date": "Oct 27, 2020",
-      "producer": "BigFireBird Animation",
-      "eps": 12,
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1946/110439.jpg",
+      "date": "Nov 18, 2020",
+      "producer": "-",
+      "eps": 80,
       "genres": [
         "Action",
-        "Comedy"
+        "Fantasy",
+        "Historical",
+        "Martial Arts"
       ],
       "category": "ONA"
     },
@@ -2250,16 +2252,14 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1946/110439.jpg",
-      "date": "Nov 18, 2020",
-      "producer": "-",
-      "eps": 80,
+      "description": "Based on the video game \"Punishing: Gray Raven.\"",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1045/109449.jpg",
+      "date": "Oct 27, 2020",
+      "producer": "BigFireBird Animation",
+      "eps": 12,
       "genres": [
         "Action",
-        "Fantasy",
-        "Historical",
-        "Martial Arts"
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2279,6 +2279,18 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/110437.jpg",
+      "date": "Nov 29, 2020",
+      "producer": "-",
+      "eps": 26,
+      "genres": [
+        "Sci-Fi"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1792/110429.jpg",
       "date": "Oct 24, 2020",
       "producer": "-",
@@ -2286,18 +2298,6 @@
       "genres": [
         "Comedy",
         "Historical"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/110437.jpg",
-      "date": "Nov 29, 2020",
-      "producer": "-",
-      "eps": 26,
-      "genres": [
-        "Sci-Fi"
       ],
       "category": "ONA"
     },
@@ -2432,10 +2432,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/109071.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1122/109069.jpg",
       "date": "Nov 27, 2020",
-      "producer": "-",
-      "eps": null,
+      "producer": "Studio 1st",
+      "eps": 1,
       "genres": [
         "Hentai"
       ],
@@ -2444,10 +2444,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1122/109069.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/109071.jpg",
       "date": "Nov 27, 2020",
-      "producer": "Studio 1st",
-      "eps": 1,
+      "producer": "-",
+      "eps": null,
       "genres": [
         "Hentai"
       ],
