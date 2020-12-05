@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-12-04",
+  "lastUpdate": "2020-12-05",
   "animes": [
     {
       "title": "",
@@ -1869,19 +1869,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1789/109403.jpg",
-      "date": "Oct 28, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Historical",
-        "Romance"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Senku has found yet another way to un-petrify people and let them live in the Stone World, Snickers bars! A new collaboration between the confectionary bar and the Dr. Stone TV anime sees the hero of the Stone World bring back Japanese comedian Kouki Kusanagi to life with a Snickers bar... which hopefully gave Kusanagi the strength to come back to life, rather than have Nitric Acid in it...\n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1489/109705.jpg",
       "date": "Oct 4, 2020",
@@ -1890,6 +1877,19 @@
       "genres": [
         "Sci-Fi",
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1789/109403.jpg",
+      "date": "Oct 28, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Historical",
+        "Romance"
       ],
       "category": "ONA"
     },
@@ -2225,6 +2225,18 @@
     },
     {
       "title": "",
+      "description": "Concept movie for All Nippon Esthetic Association (AEA).",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1657/109997.jpg",
+      "date": "Oct 25, 2020",
+      "producer": "Flat Studio",
+      "eps": 1,
+      "genres": [
+        "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1946/110439.jpg",
       "date": "Nov 18, 2020",
@@ -2240,18 +2252,6 @@
     },
     {
       "title": "",
-      "description": "Concept movie for All Nippon Esthetic Association (AEA).",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1657/109997.jpg",
-      "date": "Oct 25, 2020",
-      "producer": "Flat Studio",
-      "eps": 1,
-      "genres": [
-        "Drama"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Based on the video game \"Punishing: Gray Raven.\"",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1045/109449.jpg",
       "date": "Oct 27, 2020",
@@ -2259,19 +2259,6 @@
       "eps": 12,
       "genres": [
         "Action",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "One day in 20XX, the alien pig prince who planned to take a human body as his home arrived on Earth, but unexpectedly discovered that the human being he wanted to live in had not yet been born! The pig prince, who has nowhere to settle down, got to know Saiji and Rubi. The three pulled various funny pranks on humans, causing humans to have baldness, bad breath, headaches, emotional crisis and other problems.\n\n(Source: bilibili, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1737/109368.jpg",
-      "date": "Oct 5, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
         "Comedy"
       ],
       "category": "ONA"
@@ -2298,6 +2285,19 @@
       "genres": [
         "Comedy",
         "Historical"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "One day in 20XX, the alien pig prince who planned to take a human body as his home arrived on Earth, but unexpectedly discovered that the human being he wanted to live in had not yet been born! The pig prince, who has nowhere to settle down, got to know Saiji and Rubi. The three pulled various funny pranks on humans, causing humans to have baldness, bad breath, headaches, emotional crisis and other problems.\n\n(Source: bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1737/109368.jpg",
+      "date": "Oct 5, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },

@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-12-04",
+  "lastUpdate": "2020-12-05",
   "animes": [
     {
       "title": "",
@@ -1977,6 +1977,19 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/106098.jpg",
+      "date": "Mar 24, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "The fifth season of Ze Tian Ji.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
       "date": "Mar 16, 2020",
@@ -1986,19 +1999,6 @@
         "Action",
         "Adventure",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/106098.jpg",
-      "date": "Mar 24, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
       ],
       "category": "ONA"
     },
