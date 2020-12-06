@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-12-05",
+  "lastUpdate": "2020-12-06",
   "animes": [
     {
       "title": "",
@@ -427,6 +427,18 @@
     },
     {
       "title": "",
+      "description": "Year 2002. Japan's gymnastics world was once strong. Former Japanese representative Shoutarou Aragaki (29), who devoted his time to gymnastics, was unable to perform as expected. Even so, after training on a daily basis, his coach Amakusa recommends Shoutarou to retire. However, the fate of the Aragaki family will change significantly due to a certain \"encounter.\"\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1484/109365.jpg",
+      "date": "Oct 11, 2020, 01:30 (JST)",
+      "producer": "MAPPA",
+      "eps": 11,
+      "genres": [
+        "Sports"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "The Pillars suddenly appeared above Earth, threatening all life. A god who called himself Odin came to the aid of humanity as it was driven to near complete defeat. To counter the Pillars, Odin declared a counterattack by bequeathing humanity with the battle maidens Walküres and the \"herocraft\" as their wings.\n\nSeveral years later, the battle between humanity and Pillars rages on, with men supporting the Walküres as they soar through the treacherous skies to save the world.\n\nJapan is no exception. Three Walküres confront the giant Pillar looming over sacred Mt. Fuji. Each Walküre is skilled, but each also has issues. And now, an ace pilot has arrived from Europe.\n\n\"Now is the time to fight back, humanity. The day of reckoning has arrived. The time of Ragnarok draws nears.\"\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1576/109007.jpg",
       "date": "Oct 3, 2020, 23:30 (JST)",
@@ -435,18 +447,6 @@
       "genres": [
         "Action",
         "Military"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Year 2002. Japan's gymnastics world was once strong. Former Japanese representative Shoutarou Aragaki (29), who devoted his time to gymnastics, was unable to perform as expected. Even so, after training on a daily basis, his coach Amakusa recommends Shoutarou to retire. However, the fate of the Aragaki family will change significantly due to a certain \"encounter.\"\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1484/109365.jpg",
-      "date": "Oct 11, 2020, 01:30 (JST)",
-      "producer": "MAPPA",
-      "eps": 11,
-      "genres": [
-        "Sports"
       ],
       "category": "TV (New)"
     },
@@ -1424,16 +1424,6 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1058/102001.jpg",
-      "date": "Oct 9, 2017",
-      "producer": "-",
-      "eps": null,
-      "genres": [],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1117/106742.jpg",
       "date": "Apr 5, 2020, 08:30 (JST)",
       "producer": "Brain's Base, Shogakukan Music & Digital Entertainment",
@@ -1444,6 +1434,16 @@
         "Comedy",
         "Shounen"
       ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1058/102001.jpg",
+      "date": "Oct 9, 2017",
+      "producer": "-",
+      "eps": null,
+      "genres": [],
       "category": "TV (Continuing)"
     },
     {
@@ -1895,6 +1895,18 @@
     },
     {
       "title": "",
+      "description": "The story centers on an RPG that people call \"kusoge\" (\"crap-tier game,\" referring to games with quirky or badly implemented mechanics and design). The main character Lidays decides to change the game's story, meeting with other characters while the game isn't being played. But as they flub their lines, the situation spirals out of control.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1776/110162.jpg",
+      "date": "Oct 19, 2020",
+      "producer": "Charaction",
+      "eps": 12,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Sixth season of Qin Shi Ming Yue.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1040/109401.jpg",
       "date": "Oct 8, 2020",
@@ -1905,18 +1917,6 @@
         "Historical",
         "Martial Arts",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "The story centers on an RPG that people call \"kusoge\" (\"crap-tier game,\" referring to games with quirky or badly implemented mechanics and design). The main character Lidays decides to change the game's story, meeting with other characters while the game isn't being played. But as they flub their lines, the situation spirals out of control.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1776/110162.jpg",
-      "date": "Oct 19, 2020",
-      "producer": "Charaction",
-      "eps": 12,
-      "genres": [
-        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2109,13 +2109,13 @@
     },
     {
       "title": "",
-      "description": "The story centers on hero pair teams named \"Patraisers,\" consisting of \"Sugars\" and their supporter \"Patrons.\" The Patraiser teams \"reinvigorate people's frozen hearts.\"\n\nThe \"main story\" videos will focus on a single Patraiser pair, consisting of the Sugar Asahi Yuga and his Patron Ryouya Nekoyashiki. The \"side story\" videos will focus on their daily lives, as well as the other characters.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1521/109423.jpg",
-      "date": "Oct 18, 2020",
-      "producer": "TANOsim",
-      "eps": null,
+      "description": "Lipstick advertisement involving Rei Ayanami.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1576/110060.jpg",
+      "date": "Nov 3, 2020",
+      "producer": "-",
+      "eps": 1,
       "genres": [
-        "Slice of Life"
+        "Music"
       ],
       "category": "ONA"
     },
@@ -2133,13 +2133,13 @@
     },
     {
       "title": "",
-      "description": "Lipstick advertisement involving Rei Ayanami.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1576/110060.jpg",
-      "date": "Nov 3, 2020",
-      "producer": "-",
-      "eps": 1,
+      "description": "The story centers on hero pair teams named \"Patraisers,\" consisting of \"Sugars\" and their supporter \"Patrons.\" The Patraiser teams \"reinvigorate people's frozen hearts.\"\n\nThe \"main story\" videos will focus on a single Patraiser pair, consisting of the Sugar Asahi Yuga and his Patron Ryouya Nekoyashiki. The \"side story\" videos will focus on their daily lives, as well as the other characters.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1521/109423.jpg",
+      "date": "Oct 18, 2020",
+      "producer": "TANOsim",
+      "eps": null,
       "genres": [
-        "Music"
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2225,18 +2225,6 @@
     },
     {
       "title": "",
-      "description": "Concept movie for All Nippon Esthetic Association (AEA).",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1657/109997.jpg",
-      "date": "Oct 25, 2020",
-      "producer": "Flat Studio",
-      "eps": 1,
-      "genres": [
-        "Drama"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1946/110439.jpg",
       "date": "Nov 18, 2020",
@@ -2247,6 +2235,18 @@
         "Fantasy",
         "Historical",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Concept movie for All Nippon Esthetic Association (AEA).",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1657/109997.jpg",
+      "date": "Oct 25, 2020",
+      "producer": "Flat Studio",
+      "eps": 1,
+      "genres": [
+        "Drama"
       ],
       "category": "ONA"
     },

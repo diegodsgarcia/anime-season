@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-12-05",
+  "lastUpdate": "2020-12-06",
   "animes": [
     {
       "title": "",
@@ -1233,16 +1233,6 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1058/102001.jpg",
-      "date": "Oct 9, 2017",
-      "producer": "-",
-      "eps": null,
-      "genres": [],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1117/106742.jpg",
       "date": "Apr 5, 2020, 08:30 (JST)",
       "producer": "Brain's Base, Shogakukan Music & Digital Entertainment",
@@ -1253,6 +1243,16 @@
         "Comedy",
         "Shounen"
       ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1058/102001.jpg",
+      "date": "Oct 9, 2017",
+      "producer": "-",
+      "eps": null,
+      "genres": [],
       "category": "TV (Continuing)"
     },
     {
@@ -1808,6 +1808,19 @@
     },
     {
       "title": "",
+      "description": "On the far side of the Milky Way, there is a planet gestating magical power-Wilhallen. There are four very different countries on this magical continent: the ancient and mysterious eastern empire—Huang; the free and open Nanyang island country—Tapaz; the iron-clad western republic—Vrsaris; and, Civilized and elegant Beilian Gang-Agnesa. All countries enshrine the High God and obtain the gift of divine power. Although there are occasional conflicts, most people enjoy a peaceful life. Until the era of 3836, when a mysterious man in black suddenly came with an unknown dark force, but found himself in the wrong place at the wrong time. Fortunately, the established fate was as recorded in the time document in his hand. Verhallen opened a new parallel world...\n\n(Source: bilibili, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1261/108209.jpg",
+      "date": "Jul 16, 2020",
+      "producer": "-",
+      "eps": 13,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Second season of Wu Dong Qian Kun.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/108277.jpg",
       "date": "Jul 12, 2020",
@@ -1819,20 +1832,6 @@
         "Historical",
         "Romance",
         "Martial Arts",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "On the far side of the Milky Way, there is a planet gestating magical power-Wilhallen. There are four very different countries on this magical continent: the ancient and mysterious eastern empire—Huang; the free and open Nanyang island country—Tapaz; the iron-clad western republic—Vrsaris; and, Civilized and elegant Beilian Gang-Agnesa. All countries enshrine the High God and obtain the gift of divine power. Although there are occasional conflicts, most people enjoy a peaceful life. Until the era of 3836, when a mysterious man in black suddenly came with an unknown dark force, but found himself in the wrong place at the wrong time. Fortunately, the established fate was as recorded in the time document in his hand. Verhallen opened a new parallel world...\n\n(Source: bilibili, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1261/108209.jpg",
-      "date": "Jul 16, 2020",
-      "producer": "-",
-      "eps": 13,
-      "genres": [
-        "Action",
-        "Music",
         "Fantasy"
       ],
       "category": "ONA"
@@ -2082,6 +2081,18 @@
     },
     {
       "title": "",
+      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
+      "date": "Jul 23, 2020",
+      "producer": "-",
+      "eps": 4,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "A girl quietly reads a book in her room. Suddenly, a monster comes crawling out from under her bed! Is it friend or foe?",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1537/107336.jpg",
       "date": "Jul 26, 2019",
@@ -2090,18 +2101,6 @@
       "genres": [
         "Comedy",
         "Horror"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
-      "date": "Jul 23, 2020",
-      "producer": "-",
-      "eps": 4,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "ONA"
     },
