@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-12-08",
+  "lastUpdate": "2020-12-09",
   "animes": [
     {
       "title": "",
@@ -157,21 +157,6 @@
     },
     {
       "title": "",
-      "description": "A great war has raged for years between the scientifically advanced Empire and Nebulis, the realm of the witches―until the youngest knight ever to receive the title of the Empire's strongest meets the princess of the rival nation. Though they are sworn enemies, the knight is taken by her beauty and dignity, and the princess is moved by his strength and way of life. Will the fighting between them ever be allowed to end? \n\n(Source: Yen Press)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1100/109044.jpg",
-      "date": "Oct 7, 2020, 23:30 (JST)",
-      "producer": "Silver Link.",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Military",
-        "Romance",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "It is the year 20XX. Earth was assaulted by monsters that would come to be known as \"the Enemy of Humanity.\" In order to deal with this threat, special schools composed of teenagers with extraordinary abilities were formed. These people, who came to be known as \"the Talented,\" had abilities that could defy the rules of reality.\n\nAmong these people with supernatural powers was an outlier, an individual who was sent to one of these schools despite having no innate special abilities whatsoever. This is the story of our protagonist, who attempts to defeat the Enemies of Humanity through the use of intelligence and manipulation alone. \n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1301/110433.jpg",
       "date": "Oct 4, 2020, 21:30 (JST)",
@@ -183,6 +168,21 @@
         "Supernatural",
         "Thriller",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "A great war has raged for years between the scientifically advanced Empire and Nebulis, the realm of the witches―until the youngest knight ever to receive the title of the Empire's strongest meets the princess of the rival nation. Though they are sworn enemies, the knight is taken by her beauty and dignity, and the princess is moved by his strength and way of life. Will the fighting between them ever be allowed to end? \n\n(Source: Yen Press)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1100/109044.jpg",
+      "date": "Oct 7, 2020, 23:30 (JST)",
+      "producer": "Silver Link.",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Military",
+        "Romance",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -574,19 +574,6 @@
     },
     {
       "title": "",
-      "description": "The anime centers on four girls at the full bloom of their youth, working hard to achieve their dreams as they struggle valiantly. In Japanese entertainment, Maesetsu! refers to an introductory talk or explanation addressed to the audience before the broadcast of television programs, usually performed by assistant directors and particularly comedians in variety or comedy shows.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1555/109492.jpg",
-      "date": "Oct 11, 2020, 23:30 (JST)",
-      "producer": "AXsiZ, Studio Gokumi",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Mio Sudou, a 30-year-old office lady has gone five years without a boyfriend and has forgotten all about love. Shuuji Mashima, a foreign-affiliated consultant has not had a girlfriend in seven years and has lost almost all interest in women. Meeting at a matchmaking party, Mio is disgusted by Shuuji as he states, \"I am not into women.\" However, when Mio makes a provocative comment toward Shuuji, things take an unexpected direction.\n\n(Source: MAL News)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1603/108938.jpg",
       "date": "Oct 5, 2020, 01:00 (JST)",
@@ -595,6 +582,19 @@
       "genres": [
         "Romance",
         "Ecchi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "The anime centers on four girls at the full bloom of their youth, working hard to achieve their dreams as they struggle valiantly. In Japanese entertainment, Maesetsu! refers to an introductory talk or explanation addressed to the audience before the broadcast of television programs, usually performed by assistant directors and particularly comedians in variety or comedy shows.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1555/109492.jpg",
+      "date": "Oct 11, 2020, 23:30 (JST)",
+      "producer": "AXsiZ, Studio Gokumi",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -2084,18 +2084,6 @@
     },
     {
       "title": "",
-      "description": "Omake mini anime released after each episode of Tsukiuta. The Animation 2 on the Tsukino Production official YouTube channel.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1366/110166.jpg",
-      "date": "Oct 7, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Lipstick advertisement involving Rei Ayanami.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1576/110060.jpg",
       "date": "Nov 3, 2020",
@@ -2103,6 +2091,18 @@
       "eps": 1,
       "genres": [
         "Music"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Omake mini anime released after each episode of Tsukiuta. The Animation 2 on the Tsukino Production official YouTube channel.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1366/110166.jpg",
+      "date": "Oct 7, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2225,18 +2225,6 @@
     },
     {
       "title": "",
-      "description": "The encounter between Asahi and Ryouya.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/109791.jpg",
-      "date": "Oct 11, 2020",
-      "producer": "TANOsim",
-      "eps": 1,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1946/110439.jpg",
       "date": "Nov 18, 2020",
@@ -2247,6 +2235,18 @@
         "Fantasy",
         "Historical",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The encounter between Asahi and Ryouya.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/109791.jpg",
+      "date": "Oct 11, 2020",
+      "producer": "TANOsim",
+      "eps": 1,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2340,6 +2340,20 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1694/110605.jpg",
+      "date": "Dec 30, 2020",
+      "producer": "-",
+      "eps": 14,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "The episode bundled with the 13th volume will be about the Sumo competition that held at Tempest for the first time, suggested by Rimuru.\n\nThe three-part OVA bundled with the 14th, 15th, and 16th manga volumes will be an original trilogy written by Fuse. Volume 16 will be released in Japan on November 27, 2020. \n\nRimuru has been teaching Shizue's students at Ingracia Kingdom's Freedom Academy. The time has come for the school's annual outdoor training event, where the students will test their combat skills in the field. Rimuru is determined to win the competition and take home the prize money, but he is challenged by Jeff, an honorary teacher who sees Rimuru as a rival. The competition is underway when suddenly an unexpected enemy appears!\n\n(Source: MAL News & ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1116/104615.jpg",
       "date": "Jul 9, 2019",
@@ -2420,10 +2434,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1991/108753.jpg",
-      "date": "Oct 30, 2020",
-      "producer": "-",
-      "eps": 2,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1122/109069.jpg",
+      "date": "Nov 27, 2020",
+      "producer": "Studio 1st",
+      "eps": 1,
       "genres": [
         "Hentai"
       ],
@@ -2432,10 +2446,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1122/109069.jpg",
-      "date": "Nov 27, 2020",
-      "producer": "Studio 1st",
-      "eps": 1,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1991/108753.jpg",
+      "date": "Oct 30, 2020",
+      "producer": "-",
+      "eps": 2,
       "genres": [
         "Hentai"
       ],
@@ -2494,11 +2508,11 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "date": "Dec 18, 2020",
+      "description": "Shiori and Saori are twins, and they have a secret crush on the \"oniichan\" that lives next door. Recently they developed an interest in H. \"I'll have \"oniichan\" teach me various things.\" \n\nWhen summer comes he is asked to look after the house and the girls by their mother.Since its summer vacation there is a lot of free time. How fun can house sitting become?\n \n(Source: Getchu)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1793/110579.jpg",
+      "date": "Dec 4, 2020",
       "producer": "-",
-      "eps": 2,
+      "eps": null,
       "genres": [
         "Hentai"
       ],
@@ -2506,11 +2520,11 @@
     },
     {
       "title": "",
-      "description": "Shiori and Saori are twins, and they have a secret crush on the \"oniichan\" that lives next door. Recently they developed an interest in H. \"I'll have \"oniichan\" teach me various things.\" \n\nWhen summer comes he is asked to look after the house and the girls by their mother.Since its summer vacation there is a lot of free time. How fun can house sitting become?\n \n(Source: Getchu)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1793/110579.jpg",
-      "date": "Dec 4, 2020",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "date": "Dec 18, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 2,
       "genres": [
         "Hentai"
       ],
