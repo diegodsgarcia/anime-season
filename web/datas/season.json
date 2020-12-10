@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-12-09",
+  "lastUpdate": "2020-12-10",
   "animes": [
     {
       "title": "",
@@ -2186,6 +2186,19 @@
     },
     {
       "title": "",
+      "description": "Web commercial for chemical and cosmetics company Kao's Attack ZERO detergent line in collaboration with the Neon Genesis Evangelion franchise.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1662/110189.jpg",
+      "date": "Nov 2, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Music",
+        "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "The anime centers around a boy named Kouta Kouka (Kouka Kouta in Japanese name order, an apparent wordplay on Coca-Cola). Kouta strives to be the world's best Bottle King at the Bottle Battles in the virtual Drink World. He comes across his Bottleman partner Colamaru and then wages battles with various rivals.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1581/109225.jpg",
       "date": "Oct 9, 2020",
@@ -2195,19 +2208,6 @@
         "Action",
         "Game",
         "Kids"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Web commercial for chemical and cosmetics company Kao's Attack ZERO detergent line in collaboration with the Neon Genesis Evangelion franchise.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1662/110189.jpg",
-      "date": "Nov 2, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Music",
-        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2240,18 +2240,6 @@
     },
     {
       "title": "",
-      "description": "The encounter between Asahi and Ryouya.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/109791.jpg",
-      "date": "Oct 11, 2020",
-      "producer": "TANOsim",
-      "eps": 1,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Concept movie for All Nippon Esthetic Association (AEA).",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1657/109997.jpg",
       "date": "Oct 25, 2020",
@@ -2259,6 +2247,18 @@
       "eps": 1,
       "genres": [
         "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The encounter between Asahi and Ryouya.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/109791.jpg",
+      "date": "Oct 11, 2020",
+      "producer": "TANOsim",
+      "eps": 1,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "ONA"
     },

@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-12-09",
+  "lastUpdate": "2020-12-10",
   "animes": [
     {
       "title": "",
@@ -1511,18 +1511,6 @@
     },
     {
       "title": "",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
       "date": "Oct 3, 2019, 18:10 (JST)",
@@ -1533,6 +1521,18 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1617,20 +1617,6 @@
     },
     {
       "title": "",
-      "description": "Throughout history, humans have been at odds with Beastmen—a species capable of changing shape due to their genetic \"Beast Factor.\" Because of this conflict, Beastmen have been forced into hiding. Anima City serves as a safe haven for these oppressed individuals to live free from human interference.\n\nDuring a festival celebrating the town's 10th anniversary, Michiru Kagemori, a human who suddenly turned into a tanuki, finds that Anima City is a far cry from paradise. After witnessing an explosion in the square, she is confronted by Shirou Ogami, a seemingly indestructible wolf and sworn protector of all Beastmen. As they pursue the criminals behind the bombing, the two discover that Michiru is anything but an ordinary Beastman, and look to investigate her mysterious past and uncanny abilities. Could she turn out to be the missing link between Humans and Beastmen?\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/106986.jpg",
-      "date": "Apr 9, 2020",
-      "producer": "Trigger",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Super Power",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "A series of unfortunate events has led Makoto \"Edamame\" Edamura to adopt the life of crime—pickpocketing and scamming others for a living. However, after swindling a seemingly clueless tourist, Makoto discovers that he was the one tricked and, to make matters worse, the police are now after him. \n\nWhile making his escape, he runs into the tourist once again, who turns out to be a fellow con man named Laurent Thierry, and ends up following him to Los Angeles. In an attempt to defend his self-proclaimed title of \"Japan's Greatest Swindler,\" Makoto challenges his rival to determine the better scammer. Accepting the competition, Laurent drops them off outside a huge mansion and claims that their target will be the biggest mafia boss on the West Coast.\n\nJumping from city to city, Great Pretender follows the endeavors of Makoto alongside the cunning Laurent and his colorful associates in the world of international high-stakes fraud. Soon, Makoto realizes that he got more than what he bargained for as his self-declared skills are continually put to the test.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1418/107954.jpg",
       "date": "Jun 2, 2020",
@@ -1642,6 +1628,20 @@
         "Mystery",
         "Comedy",
         "Psychological"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Throughout history, humans have been at odds with Beastmen—a species capable of changing shape due to their genetic \"Beast Factor.\" Because of this conflict, Beastmen have been forced into hiding. Anima City serves as a safe haven for these oppressed individuals to live free from human interference.\n\nDuring a festival celebrating the town's 10th anniversary, Michiru Kagemori, a human who suddenly turned into a tanuki, finds that Anima City is a far cry from paradise. After witnessing an explosion in the square, she is confronted by Shirou Ogami, a seemingly indestructible wolf and sworn protector of all Beastmen. As they pursue the criminals behind the bombing, the two discover that Michiru is anything but an ordinary Beastman, and look to investigate her mysterious past and uncanny abilities. Could she turn out to be the missing link between Humans and Beastmen?\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/106986.jpg",
+      "date": "Apr 9, 2020",
+      "producer": "Trigger",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Super Power",
+        "Fantasy"
       ],
       "category": "ONA"
     },
