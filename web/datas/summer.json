@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-12-10",
+  "lastUpdate": "2020-12-11",
   "animes": [
     {
       "title": "",
@@ -2294,20 +2294,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1456/108076.jpg",
-      "date": "Aug 26, 2020",
-      "producer": "Production I.G",
-      "eps": 6,
-      "genres": [
-        "Mystery",
-        "Comedy",
-        "Drama"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "",
       "description": "A 16-year-old named Naoki Oikawa is addicted to masturbating. One day, while pleasuring himself as usual, his erotic magazine begins to glow and Naoki suddenly finds himself in a fantastic world. He appears among three female adventurers who later present themselves as the swordswoman Filia Shiora, the priestess Tiane Rutheim, and the elf Llusse. They explain to Naoki that the world is in danger of destruction due to the resurrection of the Demon King, and the only way to save it is for him to use his special power—feeding his semen to the three girls so as to increase their strength exponentially. Of course, the young hero agrees to join the party, and his erotic quest begins.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/107872.jpg",
       "date": "Jul 31, 2020",
@@ -2317,6 +2303,20 @@
         "Fantasy",
         "Harem",
         "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1456/108076.jpg",
+      "date": "Aug 26, 2020",
+      "producer": "Production I.G",
+      "eps": 6,
+      "genres": [
+        "Mystery",
+        "Comedy",
+        "Drama"
       ],
       "category": "OVA"
     },
