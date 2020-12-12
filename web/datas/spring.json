@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-12-11",
+  "lastUpdate": "2020-12-12",
   "animes": [
     {
       "title": "",
@@ -2283,19 +2283,6 @@
     },
     {
       "title": "",
-      "description": "A young man who has left his parents' home follows the path of a customs officer. And what lies ahead is...\n\n(Source: Anilist)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1785/108594.jpg",
-      "date": "May 20, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Music",
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Two neighboring childhood friends. An airheaded girl and the boy who takes care of her like a mother hen. And of course, there is his family background with a tiny, insignificant supernatural secret. Now that her parents have left the girl in their neighbor's care, will she ever discover her friend's secret?\n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1550/107929.jpg",
       "date": "May 30, 2020",
@@ -2305,6 +2292,19 @@
         "Comedy",
         "Supernatural",
         "Romance"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "A young man who has left his parents' home follows the path of a customs officer. And what lies ahead is...\n\n(Source: Anilist)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1785/108594.jpg",
+      "date": "May 20, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Music",
+        "Slice of Life"
       ],
       "category": "ONA"
     },
