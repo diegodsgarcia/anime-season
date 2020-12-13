@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-12-12",
+  "lastUpdate": "2020-12-13",
   "animes": [
     {
       "title": "",
@@ -1533,6 +1533,18 @@
     },
     {
       "title": "",
+      "description": "Sequel of Taeko no Nichijou",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/108538.jpg",
+      "date": "Jul 1, 2020, 17:59 (JST)",
+      "producer": "DLE",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "A stop-motion animation about Liv, a curious little girl and Bell, a gluttonous hedgehog. Together they go on an adventure in a picture book.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/6/70717.jpg",
       "date": "Feb 15, 2013",
@@ -1541,18 +1553,6 @@
       "genres": [
         "Adventure",
         "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "Sequel of Taeko no Nichijou",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1263/108538.jpg",
-      "date": "Jul 1, 2020, 17:59 (JST)",
-      "producer": "DLE",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "TV (Continuing)"
     },
@@ -2009,6 +2009,18 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1342/110205.jpg",
+      "date": "Oct 30, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Ordinary high school student Haoxuan Sun was taken hostage in a seemingly robbery and rescued by a girl wearing winged battledress with bee bionics designs. Haoxuan Sun’s peaceful life was stirred by the girl – human bioengineering weapon Vanguard Liuli. Discovered that he is the \"Son of Eden\" wanted by all the great powers, Haoxuan Sun and Liuli have been searching for the truth and fight against the so-called destiny. At the same time, people around Haoxuan Sun, senpai Ye Bai who he has a crash on, his best friend, and many others, were discovered to have a second identities.\n\nThe new BEE anime is based on the original manga plot. In addition, BEE manga's author Baimao personally joined the production team. The new BEE will also include two subplots entirely new to the viewers.\n\n(Source: u17)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1140/110288.jpg",
       "date": "Nov 18, 2020",
@@ -2020,18 +2032,6 @@
         "Romance",
         "Fantasy",
         "Mecha"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1342/110205.jpg",
-      "date": "Oct 30, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
       ],
       "category": "ONA"
     },
@@ -2145,19 +2145,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1295/109372.jpg",
-      "date": "Oct 2, 2020",
-      "producer": "Shanghai Foch Film Culture Investment",
-      "eps": 12,
-      "genres": [
-        "Music",
-        "School"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Web commercial for chemical and cosmetics company Kao's Attack ZERO detergent line in collaboration with the Neon Genesis Evangelion franchise.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1662/110189.jpg",
       "date": "Nov 2, 2020",
@@ -2166,6 +2153,19 @@
       "genres": [
         "Music",
         "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1295/109372.jpg",
+      "date": "Oct 2, 2020",
+      "producer": "Shanghai Foch Film Culture Investment",
+      "eps": 12,
+      "genres": [
+        "Music",
+        "School"
       ],
       "category": "ONA"
     },
@@ -2225,18 +2225,6 @@
     },
     {
       "title": "",
-      "description": "Concept movie for All Nippon Esthetic Association (AEA).",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1657/109997.jpg",
-      "date": "Oct 25, 2020",
-      "producer": "Flat Studio",
-      "eps": 1,
-      "genres": [
-        "Drama"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1946/110439.jpg",
       "date": "Nov 18, 2020",
@@ -2247,6 +2235,18 @@
         "Fantasy",
         "Historical",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Concept movie for All Nippon Esthetic Association (AEA).",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1657/109997.jpg",
+      "date": "Oct 25, 2020",
+      "producer": "Flat Studio",
+      "eps": 1,
+      "genres": [
+        "Drama"
       ],
       "category": "ONA"
     },
