@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-12-14",
+  "lastUpdate": "2020-12-15",
   "animes": [
     {
       "title": "",
@@ -315,7 +315,7 @@
     {
       "title": "",
       "description": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has! \n\n(Source: Seven Seas Entertainment)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/108852.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1413/110712.jpg",
       "date": "Oct 7, 2020, 21:00 (JST)",
       "producer": "EMT Squared",
       "eps": 12,
@@ -636,7 +636,7 @@
     {
       "title": "",
       "description": "Set in a convenience store that seems to be everywhere, through the appearance of a convenience store clerk who does not talk properly, while raising problems with the way of modern communication, we will approach the secret of the mysterious hero Mutou.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1898/110206.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1768/109666.jpg",
       "date": "Oct 13, 2020, 02:30 (JST)",
       "producer": "Toho Interactive Animation",
       "eps": null,
@@ -648,7 +648,7 @@
     {
       "title": "",
       "description": "Anime adaptation of 12 romantic works from the Eternity Books manga label.\n\nThe complete edition with explicit scenes was distributed online via the official website for Eternity Books. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1899/108400.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1724/110698.jpg",
       "date": "Oct 5, 2020, 01:05 (JST)",
       "producer": "Seven",
       "eps": 12,
@@ -2131,18 +2131,6 @@
     },
     {
       "title": "",
-      "description": "The story centers on hero pair teams named \"Patraisers,\" consisting of \"Sugars\" and their supporter \"Patrons.\" The Patraiser teams \"reinvigorate people's frozen hearts.\"\n\nThe \"main story\" videos will focus on a single Patraiser pair, consisting of the Sugar Asahi Yuga and his Patron Ryouya Nekoyashiki. The \"side story\" videos will focus on their daily lives, as well as the other characters.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1521/109423.jpg",
-      "date": "Oct 18, 2020",
-      "producer": "TANOsim",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Web commercial for chemical and cosmetics company Kao's Attack ZERO detergent line in collaboration with the Neon Genesis Evangelion franchise.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1662/110189.jpg",
       "date": "Nov 2, 2020",
@@ -2157,6 +2145,30 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/110437.jpg",
+      "date": "Nov 29, 2020",
+      "producer": "-",
+      "eps": 26,
+      "genres": [
+        "Sci-Fi"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The story centers on hero pair teams named \"Patraisers,\" consisting of \"Sugars\" and their supporter \"Patrons.\" The Patraiser teams \"reinvigorate people's frozen hearts.\"\n\nThe \"main story\" videos will focus on a single Patraiser pair, consisting of the Sugar Asahi Yuga and his Patron Ryouya Nekoyashiki. The \"side story\" videos will focus on their daily lives, as well as the other characters.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1521/109423.jpg",
+      "date": "Oct 18, 2020",
+      "producer": "TANOsim",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1295/109372.jpg",
       "date": "Oct 2, 2020",
       "producer": "Shanghai Foch Film Culture Investment",
@@ -2164,18 +2176,6 @@
       "genres": [
         "Music",
         "School"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/110437.jpg",
-      "date": "Nov 29, 2020",
-      "producer": "-",
-      "eps": 26,
-      "genres": [
-        "Sci-Fi"
       ],
       "category": "ONA"
     },
@@ -2408,10 +2408,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1966/109606.jpg",
-      "date": "Oct 2, 2020",
-      "producer": "T-Rex",
-      "eps": 2,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1336/109070.jpg",
+      "date": "Oct 30, 2020",
+      "producer": "-",
+      "eps": 1,
       "genres": [
         "Hentai"
       ],
@@ -2420,10 +2420,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1336/109070.jpg",
-      "date": "Oct 30, 2020",
-      "producer": "-",
-      "eps": 1,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1966/109606.jpg",
+      "date": "Oct 2, 2020",
+      "producer": "T-Rex",
+      "eps": 2,
       "genres": [
         "Hentai"
       ],
@@ -2702,7 +2702,7 @@
     {
       "title": "",
       "description": "27-year-old Tokyo office worker Mire Yoshizuki just returned to Japan, while 22-year-old fourth-year college student Sora Nagase aspires to be a teacher, and 20-year-old boyish Reika Kawatani is a part-time Hiroshima okonomiyaki shop worker and freelancer. What draws together these three women from completely different walks of life is a magic gem. A \"New Magical Story\" begins when they are mysteriously brought together by chance and embark on a journey.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1732/106488.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1937/110713.jpg",
       "date": "Nov 13, 2020",
       "producer": "Toei Animation",
       "eps": 1,

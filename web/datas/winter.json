@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-12-14",
+  "lastUpdate": "2020-12-15",
   "animes": [
     {
       "title": "",
@@ -131,21 +131,6 @@
     },
     {
       "title": "",
-      "description": "Midori Asakusa sees the world a bit differently. Always having her nose in a sketchbook, Asakusa draws detailed landscapes and backgrounds of both the world around her and the one within her boundless imagination. Even the simple act of doodling on a wall evolves into an emergency repair on the outer hull of her spaceship. She is only brought back to reality by her best friend Sayaka Kanamori. The pair are stark opposites, with Asakusa's childlike wonder contrasted by Kanamori's calculated approach to life. \n\nAfter a chance encounter where the two \"save\" the young model Tsubame Misuzaki from her overprotective bodyguard, a connection instantly sparks between Asakusa and Misuzaki, as both share an intense passion for art and animation. Whereas Asakusa is interested in backgrounds and settings, Misuzaki loves drawing the human form. Sensing a money-making opportunity, Kanamori suggests that they start an animation club, which they disguise as a motion picture club since the school already has an anime club. Thus begins the trio's journey of producing animation that will awe the world. \n\nFrom the brilliant mind of Masaaki Yuasa, Eizouken ni wa Te wo Dasu na! is a love letter to animation, wildly creative in its approach, and a testament to the potential of the medium.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1680/110451.jpg",
-      "date": "Jan 6, 2020, 00:10 (JST)",
-      "producer": "Science SARU",
-      "eps": 12,
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "School",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "The Mizuhanome System is a highly advanced development that allows people to enter one of the most intriguing places in existence—the human mind. Through the use of so-called \"cognition particles\" left behind at a crime scene by the perpetrator, detectives from the specialized police squad Kura can manifest a criminal's unconscious mind as a bizarre stream of thoughts in a virtual world. Their task is to explore this psychological plane, called an \"id well,\" to reveal the identity of the culprit.\n\nNot just anyone can enter the id wells; the prerequisite is that you must have killed someone yourself. Such is the case for former detective Akihito Narihisago, who is known as \"Sakaido\" inside the id wells. Once a respected member of the police, tragedy struck, and he soon found himself on the other side of the law.\n\nNevertheless, Narihisago continues to assist Kura in confinement. While his prodigious detective skills still prove useful toward investigations, Narihisago discovers that not everything is as it seems, as behind the seemingly standalone series of murder cases lurks a much more sinister truth.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1889/105337.jpg",
       "date": "Jan 6, 2020, 00:30 (JST)",
@@ -156,6 +141,21 @@
         "Police",
         "Psychological",
         "Sci-Fi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Midori Asakusa sees the world a bit differently. Always having her nose in a sketchbook, Asakusa draws detailed landscapes and backgrounds of both the world around her and the one within her boundless imagination. Even the simple act of doodling on a wall evolves into an emergency repair on the outer hull of her spaceship. She is only brought back to reality by her best friend Sayaka Kanamori. The pair are stark opposites, with Asakusa's childlike wonder contrasted by Kanamori's calculated approach to life. \n\nAfter a chance encounter where the two \"save\" the young model Tsubame Misuzaki from her overprotective bodyguard, a connection instantly sparks between Asakusa and Misuzaki, as both share an intense passion for art and animation. Whereas Asakusa is interested in backgrounds and settings, Misuzaki loves drawing the human form. Sensing a money-making opportunity, Kanamori suggests that they start an animation club, which they disguise as a motion picture club since the school already has an anime club. Thus begins the trio's journey of producing animation that will awe the world. \n\nFrom the brilliant mind of Masaaki Yuasa, Eizouken ni wa Te wo Dasu na! is a love letter to animation, wildly creative in its approach, and a testament to the potential of the medium.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1680/110451.jpg",
+      "date": "Jan 6, 2020, 00:10 (JST)",
+      "producer": "Science SARU",
+      "eps": 12,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "School",
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -1911,10 +1911,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1124/105798.jpg",
-      "date": "Jan 24, 2020",
-      "producer": "Peak Hunt",
-      "eps": null,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
+      "date": "Mar 11, 2020",
+      "producer": "-",
+      "eps": 1,
       "genres": [
         "Hentai"
       ],
@@ -1923,10 +1923,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
-      "date": "Mar 11, 2020",
-      "producer": "-",
-      "eps": 1,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1124/105798.jpg",
+      "date": "Jan 24, 2020",
+      "producer": "Peak Hunt",
+      "eps": null,
       "genres": [
         "Hentai"
       ],
@@ -2511,6 +2511,18 @@
     },
     {
       "title": "",
+      "description": "A middle-aged man who has lost his job and home because of his arrogant nature. Leading a vagrant lifestyle, he became embittered and aggressive towards society. One day he meets a mysterious beauty Shima Itski, who invites him to become the founder of the sex cult \"Ishin No Kai\" and in addition to this, she offers him a huge amount of money, a house, and a car. Of course, our hero just could not refuse the sultry beauty and now he has become the \"Lord\" of a mad sex cult with unimaginably depraved rituals…",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/105665.jpg",
+      "date": "Mar 6, 2020",
+      "producer": "-",
+      "eps": 2,
+      "genres": [
+        "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "",
       "description": "The OVA will be focus on when Kujaku Nijou first entering group, which occurs one year before the main anime begins.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1417/104653.jpg",
       "date": "Jan 24, 2020",
@@ -2521,18 +2533,6 @@
         "Police",
         "Vampire",
         "Fantasy"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "",
-      "description": "A middle-aged man who has lost his job and home because of his arrogant nature. Leading a vagrant lifestyle, he became embittered and aggressive towards society. One day he meets a mysterious beauty Shima Itski, who invites him to become the founder of the sex cult \"Ishin No Kai\" and in addition to this, she offers him a huge amount of money, a house, and a car. Of course, our hero just could not refuse the sultry beauty and now he has become the \"Lord\" of a mad sex cult with unimaginably depraved rituals…",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1115/105665.jpg",
-      "date": "Mar 6, 2020",
-      "producer": "-",
-      "eps": 2,
-      "genres": [
-        "Hentai"
       ],
       "category": "OVA"
     },
