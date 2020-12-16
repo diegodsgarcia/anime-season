@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-12-15",
+  "lastUpdate": "2020-12-16",
   "animes": [
     {
       "title": "",
@@ -84,7 +84,7 @@
     {
       "title": "",
       "description": "Rikuo Uozumi has all but resigned himself to a bleak future, aimlessly working at a convenience store in Tokyo after graduating from college. His monotonous life is interrupted when the peculiar Haru Nonaka makes a lively appearance, frequently dropping by his workplace to befriend him. When Rikuo learns that an old college friend and crush, Shinako Morinome, has moved back into town, he reaches out to further their relationship. Unbeknownst to Rikuo however, Shinako is carrying painful memories from her past that were holding her back from accepting his feelings. Meanwhile, as Haru continually opens up to Rikuo, he discovers that she, much like him, is living by herself and wants to step out of her comfort zone into an uncertain future.\n\nThe past lingers long in the mind, and the future remains elusive. At a crossroads along their intertwined paths, these three experience what it means to let go of their feelings of yesterday and embrace the change that tomorrow brings.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1986/105547.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1553/107721.jpg",
       "date": "Apr 5, 2020, 01:30 (JST)",
       "producer": "Doga Kobo",
       "eps": 12,
@@ -1855,19 +1855,6 @@
     },
     {
       "title": "",
-      "description": "Lian En is a god who has lied too much and has now attracted bad karma. One day, he meets a high school student who will change his destiny forever!\n\n(Source: Exodus Chaos)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/107502.jpg",
-      "date": "Apr 1, 2020",
-      "producer": "Haoliners Animation League",
-      "eps": 13,
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Fifth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/108563.jpg",
       "date": "May 23, 2020",
@@ -1880,6 +1867,19 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Lian En is a god who has lied too much and has now attracted bad karma. One day, he meets a high school student who will change his destiny forever!\n\n(Source: Exodus Chaos)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/107502.jpg",
+      "date": "Apr 1, 2020",
+      "producer": "Haoliners Animation League",
+      "eps": 13,
+      "genres": [
+        "Action",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2271,18 +2271,6 @@
     },
     {
       "title": "",
-      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
-      "date": "Apr 6, 2020",
-      "producer": "-",
-      "eps": 3,
-      "genres": [
-        "Game"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Two neighboring childhood friends. An airheaded girl and the boy who takes care of her like a mother hen. And of course, there is his family background with a tiny, insignificant supernatural secret. Now that her parents have left the girl in their neighbor's care, will she ever discover her friend's secret?\n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1550/107929.jpg",
       "date": "May 30, 2020",
@@ -2292,6 +2280,18 @@
         "Comedy",
         "Supernatural",
         "Romance"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Web commercials for Tokyo handbag company BIGOTRE that were posted on their official Instagram account. The commercials simulate mission briefings for a fictitious video game where players capture specific handbags in the SS20 (Spring/Summer 2020) BIGOTRE lookbook lineup.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
+      "date": "Apr 6, 2020",
+      "producer": "-",
+      "eps": 3,
+      "genres": [
+        "Game"
       ],
       "category": "ONA"
     },
