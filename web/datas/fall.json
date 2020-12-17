@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-12-16",
+  "lastUpdate": "2020-12-17",
   "animes": [
     {
       "title": "",
@@ -99,6 +99,19 @@
     },
     {
       "title": "",
+      "description": "The bustling metropolis of Kansai, where cybernetic screens litter the neon landscape, may seem like a technological utopia at first glance. But in the dark alleys around the brightly-lit buildings, an unforgiving criminal underbelly still exists in the form of fugitives known as \"Akudama.\" \n\nNo stranger to these individuals, Kansai police begin the countdown to the public execution of an infamous Akudama \"Cutthroat,\" guilty of killing 999 people. However, a mysterious message is sent to several elite Akudama, enlisting them to free Cutthroat for a substantial amount of money. An invisible hand seeks to gather these dangerous personas in one place, ensuring that the execution is well underway to becoming a full-blown bloodbath.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
+      "date": "Oct 8, 2020, 21:30 (JST)",
+      "producer": "Studio Pierrot",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "New kid Keiichi Maebara is settling into his new home of peaceful Hinamizawa village. Making quick friends with the girls from his school, he’s arrived in time for the big festival of the year.\n\nBut something about this isolated town seems \"off,\" and his feelings of dread continue to grow. With a gnawing fear that he’s right, what dark secrets could this small community be hiding?\n\n(Source: Funimation)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1287/109031.jpg",
       "date": "Oct 1, 2020, 23:30 (JST)",
@@ -111,19 +124,6 @@
         "Psychological",
         "Supernatural",
         "Thriller"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "The bustling metropolis of Kansai, where cybernetic screens litter the neon landscape, may seem like a technological utopia at first glance. But in the dark alleys around the brightly-lit buildings, an unforgiving criminal underbelly still exists in the form of fugitives known as \"Akudama.\" \n\nNo stranger to these individuals, Kansai police begin the countdown to the public execution of an infamous Akudama \"Cutthroat,\" guilty of killing 999 people. However, a mysterious message is sent to several elite Akudama, enlisting them to free Cutthroat for a substantial amount of money. An invisible hand seeks to gather these dangerous personas in one place, ensuring that the execution is well underway to becoming a full-blown bloodbath.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
-      "date": "Oct 8, 2020, 21:30 (JST)",
-      "producer": "Studio Pierrot",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
@@ -1543,19 +1543,6 @@
     },
     {
       "title": "",
-      "description": "A stop-motion animation about Liv, a curious little girl and Bell, a gluttonous hedgehog. Together they go on an adventure in a picture book.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/70717.jpg",
-      "date": "Feb 15, 2013",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "A gag comedy aimed at young children featuring Zombie-kun, a child zombie, and his interactions with the world. It's not intended to be scary in the slightest, but rather, it focuses on the comical and bizarre things Zombie-kun's body can do, and the common-sense-defying way Zombie-kun behaves. For example, he'll take out his stomach and inflate it with air to use as a pillow, or if he gets wet, he'll detach parts of his body and wring them out like towels, then reattach them with a glue stick. Everything is depicted in a cute, cartoony fashion so as not to be too graphic for kids.\n\n(Source: Baka-Updates)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
       "date": "Apr 15, 2020",
@@ -1563,6 +1550,19 @@
       "eps": 100,
       "genres": [
         "Comedy",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A stop-motion animation about Liv, a curious little girl and Bell, a gluttonous hedgehog. Together they go on an adventure in a picture book.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/70717.jpg",
+      "date": "Feb 15, 2013",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Adventure",
         "Kids"
       ],
       "category": "TV (Continuing)"
@@ -1703,18 +1703,6 @@
     },
     {
       "title": "",
-      "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
-      "date": "Mar 28, 2011, 08:24 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "A gag anime about foods in a refrigerator. The anime airs within the Oha Suta children's morning TV program and will receive a simultaneous manga serialization by Kazumata Oguri.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1884/95217.jpg",
       "date": "Oct 1, 2018, 07:05 (JST)",
@@ -1724,6 +1712,18 @@
         "Comedy",
         "Kids",
         "Parody"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
+      "date": "Mar 28, 2011, 08:24 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1857,7 +1857,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1677/102822.jpg",
       "date": "Dec 9, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 9,
       "genres": [
         "Adventure",
         "Historical",
@@ -2315,18 +2315,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1106/109450.jpg",
-      "date": "Oct 22, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Fourth season of Menghuan Shuyuan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1346/109452.jpg",
       "date": "Oct 12, 2020",
@@ -2335,6 +2323,18 @@
       "genres": [
         "Comedy",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1106/109450.jpg",
+      "date": "Oct 22, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Comedy"
       ],
       "category": "ONA"
     },
