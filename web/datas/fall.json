@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-12-17",
+  "lastUpdate": "2020-12-18",
   "animes": [
     {
       "title": "",
@@ -92,8 +92,8 @@
       "eps": 12,
       "genres": [
         "Adventure",
-        "Fantasy",
-        "Magic"
+        "Magic",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -234,6 +234,23 @@
     },
     {
       "title": "",
+      "description": "Sshhh! Princess Syalis is trying to get a good night's sleep. Some shut-eye. Forty winks. Catch some Z's. Long ago in olden times when people and demons lived together in—well, disharmony, really—a demon king kidnaps a human princess and imprisons her in his castle. Bereft, the princess's subjects beat their chests in anguish...until a hero arises to spearhead Project Rescue Our Princess! While waiting for her knight in shining armor, what's an imprisoned princess to do...? Teddy-bear guards with bat wings are all very well, but her dungeon cell is bo-o-o-ring! So, she decides to wile away the long hours by sleeping. Now if only she could get comfortable...and didn't suffer from insomnia...\n\n(Source: VIZ Media)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg",
+      "date": "Oct 6, 2020, 02:00 (JST)",
+      "producer": "Doga Kobo",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Supernatural",
+        "Magic",
+        "Fantasy",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "The daughters of Sesshoumaru and Inuyasha set out on a journey transcending time!\n\nIn Feudal Japan, Half-Demon twins Towa and Setsuna are separated from each other during a forest fire. While desperately searching for her younger sister, Towa wanders into a mysterious tunnel that sends her into present-day Japan, where she is found and raised by Kagome Higurashi's brother, Souta, and his family.\n\nTen years later, the tunnel that connects the two eras has reopened, allowing Towa to be reunited with Setsuna, who is now a Demon Slayer working for Kohaku. But to Towa's shock, Setsuna appears to have lost all memories of her older sister.\n\nJoined by Moroha, the daughter of Inuyasha and Kagome, the three young women travel between the two eras on an adventure to regain their missing past. \n\n(Source: VIZ Media)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/110105.jpg",
       "date": "Oct 3, 2020, 17:30 (JST)",
@@ -248,23 +265,6 @@
         "Supernatural",
         "Magic",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Sshhh! Princess Syalis is trying to get a good night's sleep. Some shut-eye. Forty winks. Catch some Z's. Long ago in olden times when people and demons lived together in—well, disharmony, really—a demon king kidnaps a human princess and imprisons her in his castle. Bereft, the princess's subjects beat their chests in anguish...until a hero arises to spearhead Project Rescue Our Princess! While waiting for her knight in shining armor, what's an imprisoned princess to do...? Teddy-bear guards with bat wings are all very well, but her dungeon cell is bo-o-o-ring! So, she decides to wile away the long hours by sleeping. Now if only she could get comfortable...and didn't suffer from insomnia...\n\n(Source: VIZ Media)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg",
-      "date": "Oct 6, 2020, 02:00 (JST)",
-      "producer": "Doga Kobo",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Supernatural",
-        "Magic",
-        "Fantasy",
-        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -346,7 +346,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1024/108413.jpg",
       "date": "Oct 2, 2020, 01:28 (JST)",
       "producer": "Shaft",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Action",
         "Magic",
@@ -550,7 +550,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1049/108197.jpg",
       "date": "Oct 13, 2020, 00:00 (JST)",
       "producer": "P.A. Works, Studio 3Hz",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Slice of Life",
         "Drama"
@@ -1329,19 +1329,6 @@
     },
     {
       "title": "",
-      "description": "Spin-off of Micchiri Neko.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1793/106522.jpg",
-      "date": "Apr 1, 2020, 07:30 (JST)",
-      "producer": "Charaction",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "The story centers around a cat who answers people's wishes and delivers happiness. (\"Tane\" and \"neko\" are the Japanese words for \"seed\" and \"cat,\" respectively.)\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/2/28900.jpg",
       "date": "Mar 26, 2011",
@@ -1921,8 +1908,8 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/110419.jpg",
+      "description": "Second season of Xie Wang Zhui Qi.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1385/110769.jpg",
       "date": "Dec 11, 2020",
       "producer": "-",
       "eps": null,
@@ -2080,7 +2067,7 @@
     },
     {
       "title": "",
-      "description": "The 10th season of Huyao Xiao Hongniang.",
+      "description": "The tenth season of Huyao Xiao Hongniang.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1047/110338.jpg",
       "date": "Dec 11, 2020",
       "producer": "Haoliners Animation League",
@@ -2133,18 +2120,6 @@
     },
     {
       "title": "",
-      "description": "Mini web anime streamed online leading up to the Mars Red TV anime premiere.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1965/110358.jpg",
-      "date": "Nov 24, 2020",
-      "producer": "Signal.MD",
-      "eps": 5,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Web commercial for chemical and cosmetics company Kao's Attack ZERO detergent line in collaboration with the Neon Genesis Evangelion franchise.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1662/110189.jpg",
       "date": "Nov 2, 2020",
@@ -2153,6 +2128,18 @@
       "genres": [
         "Music",
         "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Mini web anime streamed online leading up to the Mars Red TV anime premiere.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1965/110358.jpg",
+      "date": "Nov 24, 2020",
+      "producer": "Signal.MD",
+      "eps": 5,
+      "genres": [
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2315,6 +2302,20 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1439/110782.jpg",
+      "date": "Dec 30, 2020",
+      "producer": "-",
+      "eps": 14,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Fourth season of Menghuan Shuyuan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1346/109452.jpg",
       "date": "Oct 12, 2020",
@@ -2335,20 +2336,6 @@
       "eps": 12,
       "genres": [
         "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1694/110605.jpg",
-      "date": "Dec 30, 2020",
-      "producer": "-",
-      "eps": 14,
-      "genres": [
-        "Action",
-        "Fantasy",
-        "Sci-Fi"
       ],
       "category": "ONA"
     },
@@ -2422,10 +2409,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/106369.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1336/109070.jpg",
       "date": "Oct 30, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 1,
       "genres": [
         "Hentai"
       ],
@@ -2434,10 +2421,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1336/109070.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/106369.jpg",
       "date": "Oct 30, 2020",
       "producer": "-",
-      "eps": 1,
+      "eps": null,
       "genres": [
         "Hentai"
       ],
@@ -2817,18 +2804,6 @@
     },
     {
       "title": "",
-      "description": "The story is based on the original story of Mulan, but is adapted more realistically. Mulan has dreamed of becoming a heroine since she was a child, but she suffers repeated blows after joining the army for her father. \n\n(Source: V2Anime, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1654/109228.jpg",
-      "date": "Oct 1, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Action"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "",
       "description": "Not every orphan would love living at St. Morwald's Home for Children, but Earwig does. She gets whatever she wants, whenever she wants it, and it's been that way since she was dropped on the orphanage doorstep as a baby. But all that changes the day Bella Yaga and the Mandrake come to St. Morwald's, disguised as foster parents.\n\nEarwig is whisked off to their mysterious house full of invisible rooms, potions, and spell books, with magic around every corner. Most children would run in terror from a house like that... but not Earwig. Using her own cleverness—with a lot of help from a talking cat—she decides to show the witch who's boss. \n\n(Source: HarperCollins Publishers)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1242/110170.jpg",
       "date": "Dec 30, 2020",
@@ -2836,6 +2811,18 @@
       "eps": 1,
       "genres": [
         "Magic"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
+      "description": "The story is based on the original story of Mulan, but is adapted more realistically. Mulan has dreamed of becoming a heroine since she was a child, but she suffers repeated blows after joining the army for her father. \n\n(Source: V2Anime, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1654/109228.jpg",
+      "date": "Oct 1, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action"
       ],
       "category": "Movie"
     },
