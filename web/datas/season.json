@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2020-12-18",
+  "lastUpdate": "2020-12-19",
   "animes": [
     {
       "title": "",
@@ -257,20 +257,6 @@
     },
     {
       "title": "",
-      "description": "Third season of Non Non Biyori.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1159/107670.jpg",
-      "date": "Jan 11, 2021, 01:35 (JST)",
-      "producer": "Silver Link.",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Noir is the son of a minor noble with very little to his name other than a job offer—which is canceled before he can even start his first day. He does possess one rare trait, though: the magical ability to consult with a great sage, even if using the skill gives him terrible headaches! Unsure of what his future holds, he accesses the sage for advice on how to move forward and is directed to a secret dungeon filled with rare beasts and magical items. It is here that Noir will train, compiling experience and wealth, until he's powerful enough to change his fate.\n\n(Source: Seven Seas Entertainment)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1266/109120.jpg",
       "date": "Jan 9, 2021, 02:25 (JST)",
@@ -296,6 +282,20 @@
         "Drama",
         "Romance",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Third season of Non Non Biyori.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1159/107670.jpg",
+      "date": "Jan 11, 2021, 01:35 (JST)",
+      "producer": "Silver Link.",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -512,19 +512,6 @@
     },
     {
       "title": "",
-      "description": "\"All stars\" season of Show by Rock!! featuring all the bands from previous seasons.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1713/106712.jpg",
-      "date": "Jan 7, 2021, 22:00 (JST)",
-      "producer": "Kinema Citrus",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "The story follows Rena Yukuhasahi, a reserved office lady and Ryouhei Hachiya, a businessman and fellow colleague. Yukuhasahi appears to be the most reserved girl in the company, but becomes a super beautiful woman when she dresses up. Flustered in the presence of her transformed self, Hachiya insists on taking her out, only to find themselves in front of a love hotel.\n\n(Source: MAL News)\n\nThe standard TV version of the anime debuted on January 4 at 1:00 a.m. on Tokyo MX, while the complete version streamed on the ComicFesta Anime Zone website.\n\nThis entry reflects standard TV version of the anime.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/110273.jpg",
       "date": "Jan 4, 2021, 01:00 (JST)",
@@ -533,6 +520,19 @@
       "genres": [
         "Romance",
         "Ecchi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "\"All stars\" season of Show by Rock!! featuring all the bands from previous seasons.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1713/106712.jpg",
+      "date": "Jan 7, 2021, 22:00 (JST)",
+      "producer": "Kinema Citrus",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Comedy"
       ],
       "category": "TV (New)"
     },

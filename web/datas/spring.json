@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-12-18",
+  "lastUpdate": "2020-12-19",
   "animes": [
     {
       "title": "",
@@ -661,7 +661,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1793/106522.jpg",
       "date": "Apr 1, 2020, 07:30 (JST)",
       "producer": "Charaction",
-      "eps": null,
+      "eps": 24,
       "genres": [
         "Comedy",
         "Kids"
@@ -2255,6 +2255,20 @@
     },
     {
       "title": "",
+      "description": "Two neighboring childhood friends. An airheaded girl and the boy who takes care of her like a mother hen. And of course, there is his family background with a tiny, insignificant supernatural secret. Now that her parents have left the girl in their neighbor's care, will she ever discover her friend's secret?\n\n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1550/107929.jpg",
+      "date": "May 30, 2020",
+      "producer": "Studio Shelter",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Supernatural",
+        "Romance"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Second season of Guan Hai Ce.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1686/108542.jpg",
       "date": "Apr 26, 2020",
@@ -2266,20 +2280,6 @@
         "Historical",
         "Martial Arts",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Two neighboring childhood friends. An airheaded girl and the boy who takes care of her like a mother hen. And of course, there is his family background with a tiny, insignificant supernatural secret. Now that her parents have left the girl in their neighbor's care, will she ever discover her friend's secret?\n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1550/107929.jpg",
-      "date": "May 30, 2020",
-      "producer": "Studio Shelter",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Supernatural",
-        "Romance"
       ],
       "category": "ONA"
     },

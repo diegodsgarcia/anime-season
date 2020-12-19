@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-12-18",
+  "lastUpdate": "2020-12-19",
   "animes": [
     {
       "title": "",
@@ -1114,7 +1114,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1793/106522.jpg",
       "date": "Apr 1, 2020, 07:30 (JST)",
       "producer": "Charaction",
-      "eps": null,
+      "eps": 24,
       "genres": [
         "Comedy",
         "Kids"
@@ -2094,6 +2094,18 @@
     },
     {
       "title": "",
+      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
+      "date": "Jul 23, 2020",
+      "producer": "-",
+      "eps": 4,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
       "date": "Jul 19, 2020",
@@ -2102,18 +2114,6 @@
       "genres": [
         "Slice of Life",
         "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
-      "date": "Jul 23, 2020",
-      "producer": "-",
-      "eps": 4,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "ONA"
     },
