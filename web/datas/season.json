@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2020-12-21",
+  "lastUpdate": "2020-12-22",
   "animes": [
     {
       "title": "",
@@ -241,6 +241,20 @@
     },
     {
       "title": "",
+      "description": "Tomozaki is one of the best gamers in Japan, and in his opinion, the game of real life is one of the worst. No clear-cut rules for success, horribly balanced, and nothing makes sense. But then he meets a gamer who's just as good as him, and she offers to teach him a few exploits...\n\n(Source: Yen Press)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1120/109232.jpg",
+      "date": "Jan 8, 2021, 21:00 (JST)",
+      "producer": "Project No.9",
+      "eps": null,
+      "genres": [
+        "Drama",
+        "Romance",
+        "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Second season of World Trigger.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/110462.jpg",
       "date": "Jan 10, 2021, 01:30 (JST)",
@@ -252,20 +266,6 @@
         "Supernatural",
         "School",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Tomozaki is one of the best gamers in Japan, and in his opinion, the game of real life is one of the worst. No clear-cut rules for success, horribly balanced, and nothing makes sense. But then he meets a gamer who's just as good as him, and she offers to teach him a few exploits...\n\n(Source: Yen Press)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1120/109232.jpg",
-      "date": "Jan 8, 2021, 21:00 (JST)",
-      "producer": "Project No.9",
-      "eps": null,
-      "genres": [
-        "Drama",
-        "Romance",
-        "School"
       ],
       "category": "TV (New)"
     },
@@ -317,15 +317,13 @@
     },
     {
       "title": "",
-      "description": "The peaceful days of the very popular work Bungou Stray Dogs are here. The characters of the Armed Detective Agency and the Mafia are in miniature form?! Due to Atsushi and co. becoming cute, this is a different experience to the original work—a pleasant gag manga! \n\n(Source: Bungo Stray Dogs Wiki)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1368/110483.jpg",
-      "date": "Jan 13, 2021, 00:30 (JST)",
-      "producer": "Bones, Nomad",
+      "description": "Reki, a high school sophomore and skater, is addicted to \"S,\" a highly secret and dangerous downhill skateboarding race that takes place in an abandoned mine. The skaters are especially wild about the \"beefs,\" or heated battles that erupt in the races.\n\nReki takes Langa, a transfer student returning to Japan after studying abroad, to the mine where the races are held. Langa, who has no skateboarding experience, finds himself pulled into the world of \"S\"... \n\n(Source: Aniplex US)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1264/110117.jpg",
+      "date": "Jan 10, 2021, 02:00 (JST)",
+      "producer": "Bones",
       "eps": null,
       "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Supernatural"
+        "Sports"
       ],
       "category": "TV (New)"
     },
@@ -344,13 +342,15 @@
     },
     {
       "title": "",
-      "description": "Reki, a high school sophomore and skater, is addicted to \"S,\" a highly secret and dangerous downhill skateboarding race that takes place in an abandoned mine. The skaters are especially wild about the \"beefs,\" or heated battles that erupt in the races.\n\nReki takes Langa, a transfer student returning to Japan after studying abroad, to the mine where the races are held. Langa, who has no skateboarding experience, finds himself pulled into the world of \"S\"... \n\n(Source: Aniplex US)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1264/110117.jpg",
-      "date": "Jan 10, 2021, 02:00 (JST)",
-      "producer": "Bones",
+      "description": "The peaceful days of the very popular work Bungou Stray Dogs are here. The characters of the Armed Detective Agency and the Mafia are in miniature form?! Due to Atsushi and co. becoming cute, this is a different experience to the original work—a pleasant gag manga! \n\n(Source: Bungo Stray Dogs Wiki)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1368/110483.jpg",
+      "date": "Jan 13, 2021, 00:30 (JST)",
+      "producer": "Bones, Nomad",
       "eps": null,
       "genres": [
-        "Sports"
+        "Slice of Life",
+        "Comedy",
+        "Supernatural"
       ],
       "category": "TV (New)"
     },
@@ -675,19 +675,6 @@
     },
     {
       "title": "",
-      "description": "Sequel of Shin Chuuka Ichiban.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1503/109131.jpg",
-      "date": "Jan 11, 2021, 01:10 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "The story is set in Kyoto's \"hanamachi\" geisha quarter. Here, after geisha finish their work late at night, they spend the night resting at a lodge to prepare for the next day. The story centers on Kiyo, an Aomori native who works as a cook in a geisha lodge in Kyoto after finishing junior high school and leaving home. She also has a friend named Sumire who is a maiko, or apprentice geisha. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1483/107591.jpg",
       "date": "Feb ??, 2021",
@@ -702,6 +689,19 @@
     },
     {
       "title": "",
+      "description": "Sequel of Shin Chuuka Ichiban.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1503/109131.jpg",
+      "date": "Jan 11, 2021, 01:10 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "The anime's production will use motion capture technology to capture the movements of the voice cast while simultaneously producing voice recordings. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1091/109508.jpg",
       "date": "Jan 8, 2021",
@@ -709,21 +709,6 @@
       "eps": null,
       "genres": [
         "Music"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1181/110384.jpg",
-      "date": "Feb ??, 2021",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Magic",
-        "Fantasy",
-        "Shoujo"
       ],
       "category": "TV (New)"
     },

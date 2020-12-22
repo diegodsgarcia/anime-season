@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-12-21",
+  "lastUpdate": "2020-12-22",
   "animes": [
     {
       "title": "",
@@ -1813,20 +1813,6 @@
     },
     {
       "title": "",
-      "description": "U.C. 0079 - A squadron of Zakus from the Principality of Zeon invades a neutral space colony. Amuro Ray reluctantly pilots the Gundam G40 prototype mobile suit to combat the threat, as well as Zeon ace pilot Char Aznable and his custom red Zaku II.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1770/105718.jpg",
-      "date": "Jan 1, 2020",
-      "producer": "Bandai Spirits, Sunrise",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Mecha"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Fourth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/108562.jpg",
       "date": "Feb 22, 2020",
@@ -1839,6 +1825,20 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "U.C. 0079 - A squadron of Zakus from the Principality of Zeon invades a neutral space colony. Amuro Ray reluctantly pilots the Gundam G40 prototype mobile suit to combat the threat, as well as Zeon ace pilot Char Aznable and his custom red Zaku II.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1770/105718.jpg",
+      "date": "Jan 1, 2020",
+      "producer": "Bandai Spirits, Sunrise",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Mecha"
       ],
       "category": "ONA"
     },
@@ -1992,19 +1992,6 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/106098.jpg",
-      "date": "Mar 24, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1520/105226.jpg",
       "date": "Jan 2, 2020",
       "producer": "-",
@@ -2016,6 +2003,19 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/106098.jpg",
+      "date": "Mar 24, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
