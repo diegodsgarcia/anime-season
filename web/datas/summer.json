@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-12-22",
+  "lastUpdate": "2020-12-23",
   "animes": [
     {
       "title": "",
@@ -604,21 +604,6 @@
     },
     {
       "title": "",
-      "description": "Hina Tsurugi and her family have just moved to a quaint seaside town. Hoping to savor the sight of the peaceful ocean, Hina stumbles upon a girl named Yuuki Kuroiwa—an upperclassman at her new school—who invites Hina to join her in fishing. Hina reels in an octopus, which falls onto her; being afraid of bugs and big creatures, she panics and begs Yuuki to remove it from her. Yuuki sees this as an opportunity to force Hina to join the school's Breakwater Club—a club where members gather, catch, and eat various types of marine life as their main activity.\n\nAlthough her attempts to refuse to join fail, Hina slowly begins to discover the hidden joy in fishing. Her view on the sport changes, now looking forward to all the delightful experiences she can take part in alongside her fellow club members.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106362.jpg",
-      "date": "Apr 7, 2020, 22:00 (JST)",
-      "producer": "Doga Kobo",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "School",
-        "Seinen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "Following the successful Sanyou campaign, the Qin army, including 1,000-Man Commander Li Xin, inches ever closer to fulfilling King Ying Zheng's dream of unifying China. With a major geographical foothold in the state of Wei now under its control, Qin sets its sights eastward toward the remaining warring states.\n\nMeanwhile Li Mu—an unparalleled strategist and the newly appointed prime minister of the state of Zhao—has taken advantage of Zhao's temporary truce with Qin to negotiate with the other states without interruption. Seemingly without warning, Ying Zheng receives news that armies from the states of Chu, Zhao, Wei, Han, Yan, and Qi have crossed into Qin territory. Realizing too late the purpose behind Li Mu's truce with Qin, Zheng quickly gathers his advisors to devise a plan to address the six-state coalition army on their doorstep. For the first time in history, the state of Qin faces complete destruction and must use every resource and strategy at their disposal to prevent themselves from being wiped off the map.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1723/109872.jpg",
       "date": "Apr 6, 2020, 00:15 (JST)",
@@ -628,6 +613,21 @@
         "Action",
         "Historical",
         "Military",
+        "Seinen"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Hina Tsurugi and her family have just moved to a quaint seaside town. Hoping to savor the sight of the peaceful ocean, Hina stumbles upon a girl named Yuuki Kuroiwa—an upperclassman at her new school—who invites Hina to join her in fishing. Hina reels in an octopus, which falls onto her; being afraid of bugs and big creatures, she panics and begs Yuuki to remove it from her. Yuuki sees this as an opportunity to force Hina to join the school's Breakwater Club—a club where members gather, catch, and eat various types of marine life as their main activity.\n\nAlthough her attempts to refuse to join fail, Hina slowly begins to discover the hidden joy in fishing. Her view on the sport changes, now looking forward to all the delightful experiences she can take part in alongside her fellow club members.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106362.jpg",
+      "date": "Apr 7, 2020, 22:00 (JST)",
+      "producer": "Doga Kobo",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "School",
         "Seinen"
       ],
       "category": "TV (Continuing)"
@@ -2030,18 +2030,6 @@
     },
     {
       "title": "",
-      "description": "Rookie Jianghu and swordsman Xiao Yao Sheng have defeated the baby-eater that caused Chang'an, but they now find themselves falling into a bigger mystery. They traveled to the distant Spirit Beast Village and met the beautiful Demon Fox Girl, the Bone Elves, and people of all kinds inhabiting rivers and lakes along the way. They gained growth and friendship, but are now entangled in a greater crisis: a dispute between immortals and demons. The animation will combine elements such as martial arts, fantasy, blood, adventure, and more, to present to the audience a tale of ups and downs in legendary stories!\n\n(Source: V2Anime)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/107440.jpg",
-      "date": "Aug 15, 2020",
-      "producer": "-",
-      "eps": 16,
-      "genres": [
-        "Action"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Kotone is a fudanshi. One day while he was buying BL manga outside of a manga stand, a truck loses control and kills him with BL manga all over him. To his surprise, he wakes up in an Asian ancient-looking palace. A man named Nagi, that is half serpent, tells him that he is now his Miko. They need to have sex in order for Nagi to become a higher being and become a Dragon. Kotone knows everything about BL and he realizes that he will be the bottom. Kotone will use his knowledge of BL to not fall in love and not a bottom in this Isekai world.\n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1987/109164.jpg",
       "date": "Sep 10, 2020",
@@ -2050,6 +2038,18 @@
       "genres": [
         "Fantasy",
         "Shounen Ai"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Rookie Jianghu and swordsman Xiao Yao Sheng have defeated the baby-eater that caused Chang'an, but they now find themselves falling into a bigger mystery. They traveled to the distant Spirit Beast Village and met the beautiful Demon Fox Girl, the Bone Elves, and people of all kinds inhabiting rivers and lakes along the way. They gained growth and friendship, but are now entangled in a greater crisis: a dispute between immortals and demons. The animation will combine elements such as martial arts, fantasy, blood, adventure, and more, to present to the audience a tale of ups and downs in legendary stories!\n\n(Source: V2Anime)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/107440.jpg",
+      "date": "Aug 15, 2020",
+      "producer": "-",
+      "eps": 16,
+      "genres": [
+        "Action"
       ],
       "category": "ONA"
     },
@@ -2094,18 +2094,6 @@
     },
     {
       "title": "",
-      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
-      "date": "Jul 23, 2020",
-      "producer": "-",
-      "eps": 4,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
       "date": "Jul 19, 2020",
@@ -2114,6 +2102,18 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
+      "date": "Jul 23, 2020",
+      "producer": "-",
+      "eps": 4,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "ONA"
     },
