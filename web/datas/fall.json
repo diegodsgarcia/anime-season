@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-12-23",
+  "lastUpdate": "2020-12-24",
   "animes": [
     {
       "title": "",
@@ -146,7 +146,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1798/109141.jpg",
       "date": "Oct 8, 2020, 00:00 (JST)",
       "producer": "Production I.G",
-      "eps": null,
+      "eps": 13,
       "genres": [
         "Action",
         "Supernatural",
@@ -559,19 +559,6 @@
     },
     {
       "title": "",
-      "description": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106812.jpg",
-      "date": "Oct 8, 2020, 21:54 (JST)",
-      "producer": "DMM.futureworks, W-Toon Studio",
-      "eps": 12,
-      "genres": [
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Mio Sudou, a 30-year-old office lady has gone five years without a boyfriend and has forgotten all about love. Shuuji Mashima, a foreign-affiliated consultant has not had a girlfriend in seven years and has lost almost all interest in women. Meeting at a matchmaking party, Mio is disgusted by Shuuji as he states, \"I am not into women.\" However, when Mio makes a provocative comment toward Shuuji, things take an unexpected direction.\n\n(Source: MAL News)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1603/108938.jpg",
       "date": "Oct 5, 2020, 01:00 (JST)",
@@ -580,6 +567,19 @@
       "genres": [
         "Romance",
         "Ecchi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106812.jpg",
+      "date": "Oct 8, 2020, 21:54 (JST)",
+      "producer": "DMM.futureworks, W-Toon Studio",
+      "eps": 12,
+      "genres": [
+        "Adventure",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -1690,6 +1690,18 @@
     },
     {
       "title": "",
+      "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
+      "date": "Mar 28, 2011, 08:24 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "A gag anime about foods in a refrigerator. The anime airs within the Oha Suta children's morning TV program and will receive a simultaneous manga serialization by Kazumata Oguri.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1884/95217.jpg",
       "date": "Oct 1, 2018, 07:05 (JST)",
@@ -1699,18 +1711,6 @@
         "Comedy",
         "Kids",
         "Parody"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
-      "date": "Mar 28, 2011, 08:24 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -2120,11 +2120,11 @@
     },
     {
       "title": "",
-      "description": "Omake mini anime released after each episode of Tsukiuta. The Animation 2 on the Tsukino Production official YouTube channel.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1366/110166.jpg",
-      "date": "Oct 7, 2020",
-      "producer": "-",
-      "eps": null,
+      "description": "Mini web anime streamed online leading up to the Mars Red TV anime premiere.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1965/110358.jpg",
+      "date": "Nov 24, 2020",
+      "producer": "Signal.MD",
+      "eps": 5,
       "genres": [
         "Comedy"
       ],
@@ -2132,11 +2132,11 @@
     },
     {
       "title": "",
-      "description": "Mini web anime streamed online leading up to the Mars Red TV anime premiere.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1965/110358.jpg",
-      "date": "Nov 24, 2020",
-      "producer": "Signal.MD",
-      "eps": 5,
+      "description": "Omake mini anime released after each episode of Tsukiuta. The Animation 2 on the Tsukino Production official YouTube channel.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1366/110166.jpg",
+      "date": "Oct 7, 2020",
+      "producer": "-",
+      "eps": null,
       "genres": [
         "Comedy"
       ],

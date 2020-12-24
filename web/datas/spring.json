@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-12-23",
+  "lastUpdate": "2020-12-24",
   "animes": [
     {
       "title": "",
@@ -1577,6 +1577,18 @@
     },
     {
       "title": "",
+      "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
+      "date": "Mar 28, 2011, 08:24 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "A gag anime about foods in a refrigerator. The anime airs within the Oha Suta children's morning TV program and will receive a simultaneous manga serialization by Kazumata Oguri.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1884/95217.jpg",
       "date": "Oct 1, 2018, 07:05 (JST)",
@@ -1586,18 +1598,6 @@
         "Comedy",
         "Kids",
         "Parody"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
-      "date": "Mar 28, 2011, 08:24 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },

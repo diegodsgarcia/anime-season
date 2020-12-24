@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2020-12-23",
+  "lastUpdate": "2020-12-24",
   "animes": [
     {
       "title": "",
@@ -255,22 +255,6 @@
     },
     {
       "title": "",
-      "description": "Second season of World Trigger.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/110462.jpg",
-      "date": "Jan 10, 2021, 01:30 (JST)",
-      "producer": "Toei Animation",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Supernatural",
-        "School",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Noir is the son of a minor noble with very little to his name other than a job offer—which is canceled before he can even start his first day. He does possess one rare trait, though: the magical ability to consult with a great sage, even if using the skill gives him terrible headaches! Unsure of what his future holds, he accesses the sage for advice on how to move forward and is directed to a secret dungeon filled with rare beasts and magical items. It is here that Noir will train, compiling experience and wealth, until he's powerful enough to change his fate.\n\n(Source: Seven Seas Entertainment)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1266/109120.jpg",
       "date": "Jan 9, 2021, 02:25 (JST)",
@@ -282,6 +266,22 @@
         "Harem",
         "Ecchi",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Second season of World Trigger.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1598/110462.jpg",
+      "date": "Jan 10, 2021, 01:30 (JST)",
+      "producer": "Toei Animation",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Supernatural",
+        "School",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -497,6 +497,20 @@
     },
     {
       "title": "",
+      "description": "As long as hearts exist inside people, there will always be those who suffer. And then something \"strange\" enters their mind and causes a strange disease to manifest itself in the body. The illness, which is called a \"mystery disease\" is unknown to most, but certainly exists. There is a doctor and apprentice who fights the disease, which modern medicine cannot cure.\n \nHis name is Ramune. He acts freely all the time, is foul-mouthed, and doesn't even look like a doctor! However, once he is confronted with the mysterious disease, he is able to quickly uncover the root cause of his patients' deep-seated distress and cure them. And beyond that... \n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1443/110157.jpg",
+      "date": "Jan 10, 2021, 01:30 (JST)",
+      "producer": "Platinum Vision",
+      "eps": null,
+      "genres": [
+        "Psychological",
+        "Supernatural",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Second season of Majutsushi Orphen Hagure Tabi.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1556/110736.jpg",
       "date": "Jan 20, 2021",
@@ -509,20 +523,6 @@
         "Magic",
         "Martial Arts",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "As long as hearts exist inside people, there will always be those who suffer. And then something \"strange\" enters their mind and causes a strange disease to manifest itself in the body. The illness, which is called a \"mystery disease\" is unknown to most, but certainly exists. There is a doctor and apprentice who fights the disease, which modern medicine cannot cure.\n \nHis name is Ramune. He acts freely all the time, is foul-mouthed, and doesn't even look like a doctor! However, once he is confronted with the mysterious disease, he is able to quickly uncover the root cause of his patients' deep-seated distress and cure them. And beyond that... \n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1443/110157.jpg",
-      "date": "Jan 10, 2021, 01:30 (JST)",
-      "producer": "Platinum Vision",
-      "eps": null,
-      "genres": [
-        "Psychological",
-        "Supernatural",
-        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -1095,6 +1095,20 @@
         "Parody",
         "Samurai",
         "Shounen"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "",
+      "description": "Unaired episode 13 of Dogeza de Tanondemita.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1973/109541.jpg",
+      "date": "Jan 27, 2021",
+      "producer": "DMM pictures",
+      "eps": 1,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Fantasy"
       ],
       "category": "Special"
     },
