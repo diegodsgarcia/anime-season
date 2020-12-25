@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-12-24",
+  "lastUpdate": "2020-12-25",
   "animes": [
     {
       "title": "",
@@ -559,19 +559,6 @@
     },
     {
       "title": "",
-      "description": "Mio Sudou, a 30-year-old office lady has gone five years without a boyfriend and has forgotten all about love. Shuuji Mashima, a foreign-affiliated consultant has not had a girlfriend in seven years and has lost almost all interest in women. Meeting at a matchmaking party, Mio is disgusted by Shuuji as he states, \"I am not into women.\" However, when Mio makes a provocative comment toward Shuuji, things take an unexpected direction.\n\n(Source: MAL News)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1603/108938.jpg",
-      "date": "Oct 5, 2020, 01:00 (JST)",
-      "producer": "Ether Kitten",
-      "eps": 8,
-      "genres": [
-        "Romance",
-        "Ecchi"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106812.jpg",
       "date": "Oct 8, 2020, 21:54 (JST)",
@@ -580,6 +567,19 @@
       "genres": [
         "Adventure",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Mio Sudou, a 30-year-old office lady has gone five years without a boyfriend and has forgotten all about love. Shuuji Mashima, a foreign-affiliated consultant has not had a girlfriend in seven years and has lost almost all interest in women. Meeting at a matchmaking party, Mio is disgusted by Shuuji as he states, \"I am not into women.\" However, when Mio makes a provocative comment toward Shuuji, things take an unexpected direction.\n\n(Source: MAL News)\n\nThe uncensored episodes were distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1603/108938.jpg",
+      "date": "Oct 5, 2020, 01:00 (JST)",
+      "producer": "Ether Kitten",
+      "eps": 8,
+      "genres": [
+        "Romance",
+        "Ecchi"
       ],
       "category": "TV (New)"
     },
@@ -1583,18 +1583,6 @@
     },
     {
       "title": "",
-      "description": "A stop-motion anime using bentou ingredients as the characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
-      "date": "Feb 20, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
       "date": "Apr 6, 2020, 23:29 (JST)",
@@ -1602,6 +1590,18 @@
       "eps": null,
       "genres": [
         "Slice of Life",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A stop-motion anime using bentou ingredients as the characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+      "date": "Feb 20, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
         "Kids"
       ],
       "category": "TV (Continuing)"
@@ -1885,7 +1885,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1789/109403.jpg",
       "date": "Oct 28, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Historical",
         "Romance"
@@ -1951,6 +1951,20 @@
     },
     {
       "title": "",
+      "description": "Across thousands of years, a terracotta warrior comes back to life! With a girl who looks exactly like his sister-in-law, they fight crimes and become heroes to bring back justice!\n\n(Source: WeComics)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1076/109488.jpg",
+      "date": "Oct 16, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Sixth season of Qin Shi Ming Yue.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1040/109401.jpg",
       "date": "Oct 8, 2020",
@@ -1960,20 +1974,6 @@
         "Action",
         "Historical",
         "Martial Arts",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Across thousands of years, a terracotta warrior comes back to life! With a girl who looks exactly like his sister-in-law, they fight crimes and become heroes to bring back justice!\n\n(Source: WeComics)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1076/109488.jpg",
-      "date": "Oct 16, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Adventure",
         "Fantasy"
       ],
       "category": "ONA"
@@ -2040,7 +2040,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1764/109493.jpg",
       "date": "Oct 29, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 13,
       "genres": [
         "Action",
         "Adventure",
@@ -2186,7 +2186,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1861/109494.jpg",
       "date": "Nov 15, 2020",
       "producer": "L²Studio",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Slice of Life",
         "Comedy",
@@ -2267,7 +2267,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1792/110429.jpg",
       "date": "Oct 24, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 20,
       "genres": [
         "Comedy",
         "Historical"

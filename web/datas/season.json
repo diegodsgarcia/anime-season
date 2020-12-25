@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2020-12-24",
+  "lastUpdate": "2020-12-25",
   "animes": [
     {
       "title": "",
@@ -174,21 +174,22 @@
     },
     {
       "title": "",
-      "description": "Second season of Yuru Camp△.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1255/110636.jpg",
-      "date": "Jan 7, 2021, 23:00 (JST)",
-      "producer": "C-Station",
+      "description": "Killed while saving a stranger from a traffic collision, a 34-year-old NEET is reincarnated into a world of magic as Rudeus Greyrat, a newborn baby. With knowledge, experience, and regrets from his previous life retained, Rudeus vows to lead a fulfilling life and not repeat his past mistakes.\n \nNow gifted with a tremendous amount of magical power as well as the mind of a grown adult, Rudeus is seen as a genius in the making by his new parents. Soon, he finds himself studying under powerful warriors, such as his swordsman father and a mage named Roxy Migurdia—all in order to hone his apparent talents. But despite his innocent exterior, Rudeus is still a perverted otaku, who uses his wealth of knowledge to make moves on women whom he could never make in his previous life.\n \n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1117/110633.jpg",
+      "date": "Jan 11, 2021, 00:00 (JST)",
+      "producer": "Studio Bind",
       "eps": null,
       "genres": [
-        "Slice of Life",
-        "Comedy"
+        "Drama",
+        "Magic",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
     {
       "title": "",
       "description": "Alcohol, smoking, and stress—in the body subjected to these irritants, the cells responsible for maintaining life seem to fight a war that never ends. Due to a severe shortage of workers, Red Blood Cell AA2153 has to quickly learn to deliver oxygen and collect carbon dioxide, even in dangerous conditions. Meanwhile, White Blood Cell U-1196 has to do her part by dealing with germs and viruses during life-threatening situations. In the midst of these crises, they have to work together to keep the body healthy, despite not knowing if their sacrifices will be worthwhile.\n\nHataraku Saibou Black takes a different approach by showing the grittier side of the jobs our cells perform.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1128/110431.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1837/110799.jpg",
       "date": "Jan 10, 2021, 00:00 (JST)",
       "producer": "LIDENFILMS",
       "eps": null,
@@ -200,15 +201,14 @@
     },
     {
       "title": "",
-      "description": "Killed while saving a stranger from a traffic collision, a 34-year-old NEET is reincarnated into a world of magic as Rudeus Greyrat, a newborn baby. With knowledge, experience, and regrets from his previous life retained, Rudeus vows to lead a fulfilling life and not repeat his past mistakes.\n \nNow gifted with a tremendous amount of magical power as well as the mind of a grown adult, Rudeus is seen as a genius in the making by his new parents. Soon, he finds himself studying under powerful warriors, such as his swordsman father and a mage named Roxy Migurdia—all in order to hone his apparent talents. But despite his innocent exterior, Rudeus is still a perverted otaku, who uses his wealth of knowledge to make moves on women whom he could never make in his previous life.\n \n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1117/110633.jpg",
-      "date": "Jan 11, 2021, 00:00 (JST)",
-      "producer": "Studio Bind",
+      "description": "Second season of Yuru Camp△.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1255/110636.jpg",
+      "date": "Jan 7, 2021, 23:00 (JST)",
+      "producer": "C-Station",
       "eps": null,
       "genres": [
-        "Drama",
-        "Magic",
-        "Fantasy"
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -430,7 +430,7 @@
     },
     {
       "title": "",
-      "description": "The anime's story begins when the protagonist, a 14-year-old girl named Ai Ooto, hears a mysterious voice while walking around town late at night. It gives her an egg, and beckons to her: \"If you wish to change the future, you need only choose now. Now, believe in yourself, and smash the egg.\"\n\n(Source: Anime News Network)",
+      "description": "A story of troubled girls, spun by screenwriter Shinji Nojima in the world of anime.\n\nLed by a mysterious voice while on a midnight stroll, 14-year-old girl Ai Ooto picks up an egg. The voice coaxes her: \"If you want to change the future, you only need to choose now. Now, believe in yourself and break the egg.\"\n\nWhat awaits Ai after the breaking of the egg...\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1507/110750.jpg",
       "date": "Jan 13, 2021, 01:29 (JST)",
       "producer": "CloverWorks",
@@ -443,7 +443,7 @@
     {
       "title": "",
       "description": "Second season of Uma Musume: Pretty Derby.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/109358.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1417/110803.jpg",
       "date": "Jan 5, 2021, 00:00 (JST)",
       "producer": "-",
       "eps": null,
@@ -709,6 +709,21 @@
       "eps": null,
       "genres": [
         "Music"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1181/110384.jpg",
+      "date": "Feb 28, 2021",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Magic",
+        "Fantasy",
+        "Shoujo"
       ],
       "category": "TV (New)"
     },
@@ -1145,7 +1160,7 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1194/109205.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/110836.jpg",
       "date": "Jan 12, 2021",
       "producer": "CANDY BOX, Yostar Pictures",
       "eps": null,
