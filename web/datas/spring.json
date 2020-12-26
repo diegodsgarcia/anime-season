@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2020",
-  "lastUpdate": "2020-12-25",
+  "lastUpdate": "2020-12-26",
   "animes": [
     {
       "title": "",
@@ -1838,23 +1838,6 @@
     },
     {
       "title": "",
-      "description": "Fourth season of Yao Shen Ji.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1196/107545.jpg",
-      "date": "Apr 8, 2020",
-      "producer": "Ruo Hong Culture",
-      "eps": 52,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Demons",
-        "Romance",
-        "Martial Arts",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Fifth part of Douluo Dalu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1188/108563.jpg",
       "date": "May 23, 2020",
@@ -1864,6 +1847,23 @@
         "Action",
         "Adventure",
         "Historical",
+        "Romance",
+        "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Fourth season of Yao Shen Ji.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1196/107545.jpg",
+      "date": "Apr 8, 2020",
+      "producer": "Ruo Hong Culture",
+      "eps": 52,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Demons",
         "Romance",
         "Martial Arts",
         "Fantasy"

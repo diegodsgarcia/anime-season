@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2020-12-25",
+  "lastUpdate": "2020-12-26",
   "animes": [
     {
       "title": "",
@@ -99,7 +99,7 @@
       "title": "",
       "description": "Second season of Beastars",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1097/109646.jpg",
-      "date": "Jan 5, 2021",
+      "date": "Jan 5, 2021, 00:55 (JST)",
       "producer": "Orange",
       "eps": null,
       "genres": [
@@ -130,7 +130,7 @@
       "title": "",
       "description": "Second season of Hataraku Saibou.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1624/106600.jpg",
-      "date": "Jan 9, 2021",
+      "date": "Jan 9, 2021, 23:30 (JST)",
       "producer": "David Production",
       "eps": null,
       "genres": [
@@ -230,7 +230,7 @@
       "title": "",
       "description": "\"Healing magicians cannot fight alone.\"\n\nKeare, who was bound by this common knowledge, was exploited again and again by others. One day, he noticed what lay beyond healing magic, and was convinced that a healing magician was the strongest class. However, by the time he realized that potential, he was deprived of everything. Thus, he used healing magic on the world itself to go back four years, deciding to redo everything.\n\nThis is a heroic tale of one healing magician who became the strongest by using knowledge from his past life and healing magic. \n\n(Source: Novel Updates, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1301/110018.jpg",
-      "date": "Jan 13, 2021",
+      "date": "Jan 13, 2021, 23:30 (JST)",
       "producer": "TNK",
       "eps": null,
       "genres": [
@@ -342,20 +342,6 @@
     },
     {
       "title": "",
-      "description": "The peaceful days of the very popular work Bungou Stray Dogs are here. The characters of the Armed Detective Agency and the Mafia are in miniature form?! Due to Atsushi and co. becoming cute, this is a different experience to the original work—a pleasant gag manga! \n\n(Source: Bungo Stray Dogs Wiki)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1368/110483.jpg",
-      "date": "Jan 13, 2021, 00:30 (JST)",
-      "producer": "Bones, Nomad",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Supernatural"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "2014: Akira Natsume seems to almost have a phobia of electrical devices while also being very good at diagnosing them. He resolves to change himself for the better and get a girlfriend like his older brother did. ...But then Akira suddenly dies in an accident. 16 years later a special policewoman and her android partner retrieve and activate a highly advanced AI and superweapon called EX-ARM and put it into full control of their ship as a last resort. Turns out the AI is actually just Akira's brain!\n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1257/110345.jpg",
       "date": "Jan 11, 2021, 01:05 (JST)",
@@ -366,6 +352,20 @@
         "Sci-Fi",
         "Ecchi",
         "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "The peaceful days of the very popular work Bungou Stray Dogs are here. The characters of the Armed Detective Agency and the Mafia are in miniature form?! Due to Atsushi and co. becoming cute, this is a different experience to the original work—a pleasant gag manga! \n\n(Source: Bungo Stray Dogs Wiki)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1368/110483.jpg",
+      "date": "Jan 13, 2021, 00:30 (JST)",
+      "producer": "Bones, Nomad",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Supernatural"
       ],
       "category": "TV (New)"
     },
@@ -769,6 +769,53 @@
     },
     {
       "title": "",
+      "description": "In order to protect the residents of Xiaoji Island and the peaceful life here, Wu Liuqi and his partners Dabao and Xiaofei embark on a journey to the Xuanwu Kingdom to find out the truth about his identity and a way to save the island. Waiting for them is more unknowns and adventures.\n\n(Source: bilibili, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1213/110888.jpg",
+      "date": "Jan 27, 2021",
+      "producer": "-",
+      "eps": 10,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Martial Arts",
+        "Mystery",
+        "Super Power"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1051/110891.jpg",
+      "date": "Feb 7, 2021",
+      "producer": "-",
+      "eps": 4,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Historical",
+        "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1094/110890.jpg",
+      "date": "Jan 22, 2021",
+      "producer": "-",
+      "eps": 10,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "The July issue of Dear+ has announced that a series of manga serialized in the magazine will get anime adaptations in celebration of the magazine's 20th anniversary. These anime will be collected into an \"in motion\" animation series titled 6 Lovers.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/86278.jpg",
       "date": "Mar 20, 2021",
@@ -1020,19 +1067,6 @@
         "Military",
         "Sci-Fi",
         "Space",
-        "Drama"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "",
-      "description": "The series centers on Joelle Davidovich Pomponette (Pompo-san), a talented film producer at the movie capital \"Nyallywood.\" Despite her prowess to see through to the potential of actors and staff and bring out their talent to the fullest, she has only been producing B-class action and erotic films. One day, Pompo's \"film-worm\" assistant Gene, who has been doubtful of her choices of film genres, is given the task to direct a film based on a script written by her. Will Gene be able to bring Pompo's \"masterpiece\" to fruition?\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1893/109683.jpg",
-      "date": "Mar 19, 2021",
-      "producer": "CLAP",
-      "eps": 1,
-      "genres": [
-        "Comedy",
         "Drama"
       ],
       "category": "Movie"

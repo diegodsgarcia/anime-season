@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-12-25",
+  "lastUpdate": "2020-12-26",
   "animes": [
     {
       "title": "",
@@ -1379,6 +1379,19 @@
     },
     {
       "title": "",
+      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
+      "date": "Apr 6, 2020, 23:29 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
       "date": "Oct 3, 2019, 18:10 (JST)",
@@ -1400,19 +1413,6 @@
       "producer": "-",
       "eps": null,
       "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
-      "date": "Apr 6, 2020, 23:29 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
         "Kids"
       ],
       "category": "TV (Continuing)"

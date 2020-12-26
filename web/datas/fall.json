@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-12-25",
+  "lastUpdate": "2020-12-26",
   "animes": [
     {
       "title": "",
@@ -386,7 +386,7 @@
     },
     {
       "title": "",
-      "description": "Buried within the numerous clubs at Nijigasaki High School lies the school idol club. The club, while lacking popularity, definitely does not lack potential. During their debut performance, they were able to seize a sizable audience, along with the attention of their schoolmates Ayumu Uehara and Yuu Takasaki.\n\nEnamored, the duo makes their way to join the club; however, they are disappointed to find out that the club had just been disbanded. Nevertheless, Ayumu does not believe that it should have ended there. Together with Yuu, they begin restoring the school idol club, hoping to recreate the idol performances that dazzled them before.\n\nLove Live! Nijigasaki Gakuen School Idol Doukoukai shines its spotlight over the reformed school idol club as they recruit both former members of the club alongside newcomers. Taking the first step towards their dreams, how will these girls achieve idol stardom?\n\n[Written by MAL Rewrite]",
+      "description": "Buried within the numerous clubs at Nijigasaki High School lies the school idol club. The club, while lacking popularity, definitely does not lack potential. During their debut performance, they were able to seize a sizable audience, along with the attention of their schoolmates Ayumu Uehara and Yuu Takasaki.\n\nEnamored, the duo makes their way to join the club; however, they are disappointed to find out that the club had just been disbanded. Nevertheless, Ayumu does not believe that it should have ended there. Together with Yuu, they begin restoring the school idol club, hoping to recreate the idol performances that dazzled them before.\n\nLove Live! Nijigasaki Gakuen School Idol Doukoukai shines its spotlight over the reformed school idol club as they recruit both former members of the club alongside newcomers. Taking the first step toward their dreams, how will these girls achieve idol stardom?\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1393/109203.jpg",
       "date": "Oct 3, 2020, 22:30 (JST)",
       "producer": "Sunrise",
@@ -2251,18 +2251,6 @@
     },
     {
       "title": "",
-      "description": "The encounter between Asahi and Ryouya.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/109791.jpg",
-      "date": "Oct 11, 2020",
-      "producer": "TANOsim",
-      "eps": 1,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1792/110429.jpg",
       "date": "Oct 24, 2020",
@@ -2271,6 +2259,18 @@
       "genres": [
         "Comedy",
         "Historical"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The encounter between Asahi and Ryouya.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/109791.jpg",
+      "date": "Oct 11, 2020",
+      "producer": "TANOsim",
+      "eps": 1,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2348,6 +2348,22 @@
       "eps": null,
       "genres": [
         "Kids"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1441/110837.jpg",
+      "date": "Dec 21, 2020",
+      "producer": "-",
+      "eps": 13,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Historical",
+        "Martial Arts"
       ],
       "category": "ONA"
     },
@@ -2788,6 +2804,18 @@
     },
     {
       "title": "",
+      "description": "Not every orphan would love living at St. Morwald's Home for Children, but Earwig does. She gets whatever she wants, whenever she wants it, and it's been that way since she was dropped on the orphanage doorstep as a baby. But all that changes the day Bella Yaga and the Mandrake come to St. Morwald's, disguised as foster parents.\n\nEarwig is whisked off to their mysterious house full of invisible rooms, potions, and spell books, with magic around every corner. Most children would run in terror from a house like that... but not Earwig. Using her own cleverness—with a lot of help from a talking cat—she decides to show the witch who's boss. \n\n(Source: HarperCollins Publishers)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1242/110170.jpg",
+      "date": "Dec 30, 2020",
+      "producer": "Studio Ghibli",
+      "eps": 1,
+      "genres": [
+        "Magic"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
       "description": "Episodes 7-9 of the Soukyuu no Fafner: Dead Aggressor - The Beyond series.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1023/107083.jpg",
       "date": "Nov 13, 2020",
@@ -2799,18 +2827,6 @@
         "Sci-Fi",
         "Drama",
         "Mecha"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "",
-      "description": "Not every orphan would love living at St. Morwald's Home for Children, but Earwig does. She gets whatever she wants, whenever she wants it, and it's been that way since she was dropped on the orphanage doorstep as a baby. But all that changes the day Bella Yaga and the Mandrake come to St. Morwald's, disguised as foster parents.\n\nEarwig is whisked off to their mysterious house full of invisible rooms, potions, and spell books, with magic around every corner. Most children would run in terror from a house like that... but not Earwig. Using her own cleverness—with a lot of help from a talking cat—she decides to show the witch who's boss. \n\n(Source: HarperCollins Publishers)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1242/110170.jpg",
-      "date": "Dec 30, 2020",
-      "producer": "Studio Ghibli",
-      "eps": 1,
-      "genres": [
-        "Magic"
       ],
       "category": "Movie"
     },
