@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2020-12-26",
+  "lastUpdate": "2020-12-27",
   "animes": [
     {
       "title": "",
@@ -675,13 +675,12 @@
     },
     {
       "title": "",
-      "description": "The story is set in Kyoto's \"hanamachi\" geisha quarter. Here, after geisha finish their work late at night, they spend the night resting at a lodge to prepare for the next day. The story centers on Kiyo, an Aomori native who works as a cook in a geisha lodge in Kyoto after finishing junior high school and leaving home. She also has a friend named Sumire who is a maiko, or apprentice geisha. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1483/107591.jpg",
-      "date": "Feb ??, 2021",
+      "description": "Sequel of Shin Chuuka Ichiban.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1503/109131.jpg",
+      "date": "Jan 11, 2021, 01:10 (JST)",
       "producer": "-",
       "eps": null,
       "genres": [
-        "Slice of Life",
         "Comedy",
         "Shounen"
       ],
@@ -689,12 +688,13 @@
     },
     {
       "title": "",
-      "description": "Sequel of Shin Chuuka Ichiban.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1503/109131.jpg",
-      "date": "Jan 11, 2021, 01:10 (JST)",
+      "description": "The story is set in Kyoto's \"hanamachi\" geisha quarter. Here, after geisha finish their work late at night, they spend the night resting at a lodge to prepare for the next day. The story centers on Kiyo, an Aomori native who works as a cook in a geisha lodge in Kyoto after finishing junior high school and leaving home. She also has a friend named Sumire who is a maiko, or apprentice geisha. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1483/107591.jpg",
+      "date": "Feb ??, 2021",
       "producer": "-",
       "eps": null,
       "genres": [
+        "Slice of Life",
         "Comedy",
         "Shounen"
       ],
@@ -1098,6 +1098,21 @@
         "Magic",
         "Fantasy",
         "Shoujo"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
+      "description": "The new anime will tell an original story, featuring a match between the Hyoutei Academy Secondary Department led by Keigo Atobe and Rikkai University-Affiliated Middle School led by Seiichi Yukimura. The story was previously not depicted in the manga.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1277/110063.jpg",
+      "date": "Feb 13, 2021",
+      "producer": "M.S.C, Studio Kai",
+      "eps": 1,
+      "genres": [
+        "Game",
+        "Sports",
+        "School",
+        "Shounen"
       ],
       "category": "Movie"
     },
