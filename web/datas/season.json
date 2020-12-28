@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2020-12-27",
+  "lastUpdate": "2020-12-28",
   "animes": [
     {
       "title": "",
@@ -357,20 +357,6 @@
     },
     {
       "title": "",
-      "description": "The peaceful days of the very popular work Bungou Stray Dogs are here. The characters of the Armed Detective Agency and the Mafia are in miniature form?! Due to Atsushi and co. becoming cute, this is a different experience to the original work—a pleasant gag manga! \n\n(Source: Bungo Stray Dogs Wiki)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1368/110483.jpg",
-      "date": "Jan 13, 2021, 00:30 (JST)",
-      "producer": "Bones, Nomad",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Supernatural"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Her first encounter with Toriko Nishina was on the Otherside after seeing \"that thing\" and nearly dying. Ever since that day, exhausted university student Sorawo Kamikoshi's life changed. In this Otherworld, full of mystery, which exists alongside our own, dangerous beings like the Kunekune and Hasshaku-sama that are spoken of in real ghost stories appear. For research, for profit, and to find an important person, Toriko and Sorao set foot into the abnormal.\n\n(Source: J-Novel Club, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1601/110081.jpg",
       "date": "Jan 4, 2021, 00:30 (JST)",
@@ -382,6 +368,20 @@
         "Mystery",
         "Fantasy",
         "Shoujo Ai"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "The peaceful days of the very popular work Bungou Stray Dogs are here. The characters of the Armed Detective Agency and the Mafia are in miniature form?! Due to Atsushi and co. becoming cute, this is a different experience to the original work—a pleasant gag manga! \n\n(Source: Bungo Stray Dogs Wiki)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1368/110483.jpg",
+      "date": "Jan 13, 2021, 00:30 (JST)",
+      "producer": "Bones, Nomad",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Supernatural"
       ],
       "category": "TV (New)"
     },
@@ -442,20 +442,6 @@
     },
     {
       "title": "",
-      "description": "Second season of Uma Musume: Pretty Derby.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1417/110803.jpg",
-      "date": "Jan 5, 2021, 00:00 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Sports"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Ringarindo is a land surrounded by a wall. The wall covers, protects, cultivates, and nutures this land. The wall is god ... it is the foundation of this land of Ringarindo.\n\nOne day, a mysterious man named Back Arrow appears in Essha village on the outskirts of Ringarindo. Arrow lost his memories, but says that all he knows is, \"I came from beyond the wall.\" To restore his memories, Arrow heads out beyond the wall, but is embroiled in a battle with himself as the stakes.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1450/110674.jpg",
       "date": "Jan 9, 2021, 00:00 (JST)",
@@ -465,6 +451,20 @@
         "Action",
         "Fantasy",
         "Mecha"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Second season of Uma Musume: Pretty Derby.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1417/110803.jpg",
+      "date": "Jan 5, 2021, 00:00 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Sports"
       ],
       "category": "TV (New)"
     },

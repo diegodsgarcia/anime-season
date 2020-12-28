@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-12-27",
+  "lastUpdate": "2020-12-28",
   "animes": [
     {
       "title": "",
@@ -585,18 +585,6 @@
     },
     {
       "title": "",
-      "description": "A new media mix project by Bushiroad.\n\nEpisode one was streamed in advance on October 23, 2020. Regular broadcast began on October 30, 2020.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1765/109713.jpg",
-      "date": "Oct 23, 2020, 23:00 (JST)",
-      "producer": "SANZIGEN",
-      "eps": null,
-      "genres": [
-        "Music"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "The anime centers on four girls at the full bloom of their youth, working hard to achieve their dreams as they struggle valiantly. In Japanese entertainment, Maesetsu! refers to an introductory talk or explanation addressed to the audience before the broadcast of television programs, usually performed by assistant directors and particularly comedians in variety or comedy shows.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1555/109492.jpg",
       "date": "Oct 11, 2020, 23:30 (JST)",
@@ -605,6 +593,18 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "A new media mix project by Bushiroad.\n\nEpisode one was streamed in advance on October 23, 2020. Regular broadcast began on October 30, 2020.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1765/109713.jpg",
+      "date": "Oct 23, 2020, 23:00 (JST)",
+      "producer": "SANZIGEN",
+      "eps": null,
+      "genres": [
+        "Music"
       ],
       "category": "TV (New)"
     },
@@ -1381,6 +1381,18 @@
     },
     {
       "title": "",
+      "description": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
+      "date": "Jan 6, 2020, 00:30 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
       "date": "Apr 8, 2016, 18:20 (JST)",
@@ -1391,18 +1403,6 @@
         "Parody",
         "Kids",
         "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
-      "date": "Jan 6, 2020, 00:30 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1840,6 +1840,19 @@
     },
     {
       "title": "",
+      "description": "Senku has found yet another way to un-petrify people and let them live in the Stone World, Snickers bars! A new collaboration between the confectionary bar and the Dr. Stone TV anime sees the hero of the Stone World bring back Japanese comedian Kouki Kusanagi to life with a Snickers bar... which hopefully gave Kusanagi the strength to come back to life, rather than have Nitric Acid in it...\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1489/109705.jpg",
+      "date": "Oct 4, 2020",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1677/102822.jpg",
       "date": "Dec 9, 2020",
@@ -1849,19 +1862,6 @@
         "Adventure",
         "Historical",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Senku has found yet another way to un-petrify people and let them live in the Stone World, Snickers bars! A new collaboration between the confectionary bar and the Dr. Stone TV anime sees the hero of the Stone World bring back Japanese comedian Kouki Kusanagi to life with a Snickers bar... which hopefully gave Kusanagi the strength to come back to life, rather than have Nitric Acid in it...\n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1489/109705.jpg",
-      "date": "Oct 4, 2020",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Sci-Fi",
-        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2170,6 +2170,18 @@
     },
     {
       "title": "",
+      "description": "The story centers on hero pair teams named \"Patraisers,\" consisting of \"Sugars\" and their supporter \"Patrons.\" The Patraiser teams \"reinvigorate people's frozen hearts.\"\n\nThe \"main story\" videos will focus on a single Patraiser pair, consisting of the Sugar Asahi Yuga and his Patron Ryouya Nekoyashiki. The \"side story\" videos will focus on their daily lives, as well as the other characters.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1521/109423.jpg",
+      "date": "Oct 18, 2020",
+      "producer": "TANOsim",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Second season Han Hua Ri Ji.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1861/109494.jpg",
       "date": "Nov 15, 2020",
@@ -2179,18 +2191,6 @@
         "Slice of Life",
         "Comedy",
         "Supernatural"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "The story centers on hero pair teams named \"Patraisers,\" consisting of \"Sugars\" and their supporter \"Patrons.\" The Patraiser teams \"reinvigorate people's frozen hearts.\"\n\nThe \"main story\" videos will focus on a single Patraiser pair, consisting of the Sugar Asahi Yuga and his Patron Ryouya Nekoyashiki. The \"side story\" videos will focus on their daily lives, as well as the other characters.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1521/109423.jpg",
-      "date": "Oct 18, 2020",
-      "producer": "TANOsim",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2472,18 +2472,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/109071.jpg",
-      "date": "Nov 27, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "",
       "description": "Erin is a mercenary who was once on the brink of death, but saved by Nighthawk a sword spirit. Since then they have been traveling together, this is the story of these two.\n\n(Source: Hanime)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1687/110301.jpg",
       "date": "Oct 30, 2020",
@@ -2492,6 +2480,18 @@
       "genres": [
         "Hentai",
         "Fantasy"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/109071.jpg",
+      "date": "Nov 27, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Hentai"
       ],
       "category": "OVA"
     },

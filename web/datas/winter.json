@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-12-27",
+  "lastUpdate": "2020-12-28",
   "animes": [
     {
       "title": "",
@@ -1927,10 +1927,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
-      "date": "Mar 11, 2020",
-      "producer": "-",
-      "eps": 1,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1124/105798.jpg",
+      "date": "Jan 24, 2020",
+      "producer": "Peak Hunt",
+      "eps": null,
       "genres": [
         "Hentai"
       ],
@@ -1939,10 +1939,10 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1124/105798.jpg",
-      "date": "Jan 24, 2020",
-      "producer": "Peak Hunt",
-      "eps": null,
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1359/107878.jpg",
+      "date": "Mar 11, 2020",
+      "producer": "-",
+      "eps": 1,
       "genres": [
         "Hentai"
       ],
