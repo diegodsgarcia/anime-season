@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2020-12-28",
+  "lastUpdate": "2020-12-29",
   "animes": [
     {
       "title": "",
@@ -128,13 +128,29 @@
     },
     {
       "title": "",
-      "description": "Second season of Hataraku Saibou.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1624/106600.jpg",
-      "date": "Jan 9, 2021, 23:30 (JST)",
+      "description": "Second season of Hataraku Saibou.\n\nThe episodes were streamed two days ahead of the Japanese broadcast on Funimation beginning on January 7, 2020. Regular broadcast began January 9, 2020.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1823/110914.jpg",
+      "date": "Jan 7, 2021, 23:30 (JST)",
       "producer": "David Production",
       "eps": null,
       "genres": [
         "Comedy",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Although admired at school for her amiability and academic prowess, high school student Kyouko Hori has been hiding another side of her. With her parents often away from home due to work, Hori has to look after her younger brother and do the housework, leaving no chance to socialize away from school.\n\nMeanwhile, Izumi Miyamura is seen as a brooding, glasses-wearing otaku. However, in reality, he is a gentle person inept at studying. Furthermore, he has nine piercings hidden behind his long hair and a tattoo along his back and left shoulder.\n\nBy sheer chance, Hori and Miyamura cross paths outside of school—neither looking as the other expects. These seemingly polar opposites become friends, sharing with each other a side they have never shown to anyone else.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1791/110336.jpg",
+      "date": "Jan 10, 2021, 00:30 (JST)",
+      "producer": "CloverWorks",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Romance",
+        "School",
         "Shounen"
       ],
       "category": "TV (New)"
@@ -152,22 +168,6 @@
         "Supernatural",
         "Magic",
         "Fantasy",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Although admired at school for her amiability and academic prowess, high school student Kyouko Hori has been hiding another side of her. With her parents often away from home due to work, Hori has to look after her younger brother and do the housework, leaving no chance to socialize away from school.\n\nMeanwhile, Izumi Miyamura is seen as a brooding, glasses-wearing otaku. However, in reality, he is a gentle person inept at studying. Furthermore, he has nine piercings hidden behind his long hair and a tattoo along his back and left shoulder.\n\nBy sheer chance, Hori and Miyamura cross paths outside of school—neither looking as the other expects. These seemingly polar opposites become friends, sharing with each other a side they have never shown to anyone else.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1791/110336.jpg",
-      "date": "Jan 10, 2021, 00:30 (JST)",
-      "producer": "CloverWorks",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Romance",
-        "School",
         "Shounen"
       ],
       "category": "TV (New)"
@@ -342,21 +342,6 @@
     },
     {
       "title": "",
-      "description": "2014: Akira Natsume seems to almost have a phobia of electrical devices while also being very good at diagnosing them. He resolves to change himself for the better and get a girlfriend like his older brother did. ...But then Akira suddenly dies in an accident. 16 years later a special policewoman and her android partner retrieve and activate a highly advanced AI and superweapon called EX-ARM and put it into full control of their ship as a last resort. Turns out the AI is actually just Akira's brain!\n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1257/110345.jpg",
-      "date": "Jan 11, 2021, 01:05 (JST)",
-      "producer": "Visual Flight",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Ecchi",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Her first encounter with Toriko Nishina was on the Otherside after seeing \"that thing\" and nearly dying. Ever since that day, exhausted university student Sorawo Kamikoshi's life changed. In this Otherworld, full of mystery, which exists alongside our own, dangerous beings like the Kunekune and Hasshaku-sama that are spoken of in real ghost stories appear. For research, for profit, and to find an important person, Toriko and Sorao set foot into the abnormal.\n\n(Source: J-Novel Club, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1601/110081.jpg",
       "date": "Jan 4, 2021, 00:30 (JST)",
@@ -368,6 +353,21 @@
         "Mystery",
         "Fantasy",
         "Shoujo Ai"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "2014: Akira Natsume seems to almost have a phobia of electrical devices while also being very good at diagnosing them. He resolves to change himself for the better and get a girlfriend like his older brother did. ...But then Akira suddenly dies in an accident. 16 years later a special policewoman and her android partner retrieve and activate a highly advanced AI and superweapon called EX-ARM and put it into full control of their ship as a last resort. Turns out the AI is actually just Akira's brain!\n\n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1257/110345.jpg",
+      "date": "Jan 11, 2021, 01:05 (JST)",
+      "producer": "Visual Flight",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Ecchi",
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -470,9 +470,9 @@
     },
     {
       "title": "",
-      "description": "The anime will tell the story of high school students as they compete in groups in a unique form of figure skating called \"Skate-Leading.\"\n\n(Source: MAL News)",
+      "description": "The anime will tell the story of high school students as they compete in groups in a unique form of figure skating called \"Skate-Leading.\"\n\n(Source: MAL News)\n\nEpisode 1 was streamed in advance on December 27, 2020 on Funimation. Regular broadcast began January 10, 2021.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1807/106481.jpg",
-      "date": "Jan 10, 2021, 22:30 (JST)",
+      "date": "Dec 27, 2020, 22:30 (JST)",
       "producer": "J.C.Staff",
       "eps": null,
       "genres": [
@@ -511,6 +511,19 @@
     },
     {
       "title": "",
+      "description": "The story follows Rena Yukuhasahi, a reserved office lady and Ryouhei Hachiya, a businessman and fellow colleague. Yukuhasahi appears to be the most reserved girl in the company, but becomes a super beautiful woman when she dresses up. Flustered in the presence of her transformed self, Hachiya insists on taking her out, only to find themselves in front of a love hotel.\n\n(Source: MAL News)\n\nThe standard TV version of the anime debuted on January 4 at 1:00 a.m. on Tokyo MX, while the complete version streamed on the ComicFesta Anime Zone website.\n\nThis entry reflects standard TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/110273.jpg",
+      "date": "Jan 4, 2021, 01:00 (JST)",
+      "producer": "Studio Hokiboshi",
+      "eps": null,
+      "genres": [
+        "Romance",
+        "Ecchi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Second season of Majutsushi Orphen Hagure Tabi.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1556/110736.jpg",
       "date": "Jan 20, 2021",
@@ -536,19 +549,6 @@
       "genres": [
         "Action",
         "Super Power"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "The story follows Rena Yukuhasahi, a reserved office lady and Ryouhei Hachiya, a businessman and fellow colleague. Yukuhasahi appears to be the most reserved girl in the company, but becomes a super beautiful woman when she dresses up. Flustered in the presence of her transformed self, Hachiya insists on taking her out, only to find themselves in front of a love hotel.\n\n(Source: MAL News)\n\nThe standard TV version of the anime debuted on January 4 at 1:00 a.m. on Tokyo MX, while the complete version streamed on the ComicFesta Anime Zone website.\n\nThis entry reflects standard TV version of the anime.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/110273.jpg",
-      "date": "Jan 4, 2021, 01:00 (JST)",
-      "producer": "Studio Hokiboshi",
-      "eps": null,
-      "genres": [
-        "Romance",
-        "Ecchi"
       ],
       "category": "TV (New)"
     },
@@ -675,19 +675,6 @@
     },
     {
       "title": "",
-      "description": "Sequel of Shin Chuuka Ichiban.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1503/109131.jpg",
-      "date": "Jan 11, 2021, 01:10 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "The story is set in Kyoto's \"hanamachi\" geisha quarter. Here, after geisha finish their work late at night, they spend the night resting at a lodge to prepare for the next day. The story centers on Kiyo, an Aomori native who works as a cook in a geisha lodge in Kyoto after finishing junior high school and leaving home. She also has a friend named Sumire who is a maiko, or apprentice geisha. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1483/107591.jpg",
       "date": "Feb ??, 2021",
@@ -695,6 +682,19 @@
       "eps": null,
       "genres": [
         "Slice of Life",
+        "Comedy",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Sequel of Shin Chuuka Ichiban.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1503/109131.jpg",
+      "date": "Jan 11, 2021, 01:10 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
         "Comedy",
         "Shounen"
       ],
@@ -715,7 +715,7 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1181/110384.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1184/110907.jpg",
       "date": "Feb 28, 2021",
       "producer": "-",
       "eps": null,
@@ -935,7 +935,7 @@
     {
       "title": "",
       "description": "The fourth and final movie of the Evangelion rebuild movie series.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1929/107081.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1421/110903.jpg",
       "date": "Jan 23, 2021",
       "producer": "Khara",
       "eps": 1,

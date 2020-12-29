@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-12-28",
+  "lastUpdate": "2020-12-29",
   "animes": [
     {
       "title": "",
@@ -604,21 +604,6 @@
     },
     {
       "title": "",
-      "description": "Following the successful Sanyou campaign, the Qin army, including 1,000-Man Commander Li Xin, inches ever closer to fulfilling King Ying Zheng's dream of unifying China. With a major geographical foothold in the state of Wei now under its control, Qin sets its sights eastward toward the remaining warring states.\n\nMeanwhile Li Mu—an unparalleled strategist and the newly appointed prime minister of the state of Zhao—has taken advantage of Zhao's temporary truce with Qin to negotiate with the other states without interruption. Seemingly without warning, Ying Zheng receives news that armies from the states of Chu, Zhao, Wei, Han, Yan, and Qi have crossed into Qin territory. Realizing too late the purpose behind Li Mu's truce with Qin, Zheng quickly gathers his advisors to devise a plan to address the six-state coalition army on their doorstep. For the first time in history, the state of Qin faces complete destruction and must use every resource and strategy at their disposal to prevent themselves from being wiped off the map.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1723/109872.jpg",
-      "date": "Apr 6, 2020, 00:15 (JST)",
-      "producer": "Studio Signpost",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Historical",
-        "Military",
-        "Seinen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "Hina Tsurugi and her family have just moved to a quaint seaside town. Hoping to savor the sight of the peaceful ocean, Hina stumbles upon a girl named Yuuki Kuroiwa—an upperclassman at her new school—who invites Hina to join her in fishing. Hina reels in an octopus, which falls onto her; being afraid of bugs and big creatures, she panics and begs Yuuki to remove it from her. Yuuki sees this as an opportunity to force Hina to join the school's Breakwater Club—a club where members gather, catch, and eat various types of marine life as their main activity.\n\nAlthough her attempts to refuse to join fail, Hina slowly begins to discover the hidden joy in fishing. Her view on the sport changes, now looking forward to all the delightful experiences she can take part in alongside her fellow club members.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1802/106362.jpg",
       "date": "Apr 7, 2020, 22:00 (JST)",
@@ -628,6 +613,21 @@
         "Slice of Life",
         "Comedy",
         "School",
+        "Seinen"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Following the successful Sanyou campaign, the Qin army, including 1,000-Man Commander Li Xin, inches ever closer to fulfilling King Ying Zheng's dream of unifying China. With a major geographical foothold in the state of Wei now under its control, Qin sets its sights eastward toward the remaining warring states.\n\nMeanwhile Li Mu—an unparalleled strategist and the newly appointed prime minister of the state of Zhao—has taken advantage of Zhao's temporary truce with Qin to negotiate with the other states without interruption. Seemingly without warning, Ying Zheng receives news that armies from the states of Chu, Zhao, Wei, Han, Yan, and Qi have crossed into Qin territory. Realizing too late the purpose behind Li Mu's truce with Qin, Zheng quickly gathers his advisors to devise a plan to address the six-state coalition army on their doorstep. For the first time in history, the state of Qin faces complete destruction and must use every resource and strategy at their disposal to prevent themselves from being wiped off the map.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1723/109872.jpg",
+      "date": "Apr 6, 2020, 00:15 (JST)",
+      "producer": "Studio Signpost",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Historical",
+        "Military",
         "Seinen"
       ],
       "category": "TV (Continuing)"
@@ -1365,6 +1365,19 @@
     },
     {
       "title": "",
+      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
+      "date": "Apr 6, 2020, 23:29 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "The series follows a young girl named Shina who hopes to become the world's best DJ, and is interested in new sounds. Shina explores a mysterious world filled with Otoppe, strange creatures capable of unique sounds.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
       "date": "Apr 3, 2017, 08:40 (JST)",
@@ -1374,19 +1387,6 @@
         "Music",
         "Kids",
         "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
-      "date": "Apr 6, 2020, 23:29 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1652,20 +1652,6 @@
     },
     {
       "title": "",
-      "description": "Distribution via Internet in China starts in August 2020. The Japanese broadcast on Tokyo MX started on October 2, 2020.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1016/109604.jpg",
-      "date": "Aug 5, 2020",
-      "producer": "Fanworks, Imagineer",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "School"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Galar is a region where Pokemon battles have developed into a cultural sensation. Over the span of seven episodes, Pokemon: Twilight Wings will show in detail the dreams of Galar's residents, the realities they face, the challenges they must overcome and the conflicts they must resolve. In addition to these new stories, fans can expect to see a variety of Pokemon originally discovered in the Galar region appearing in the capsule series. \n\n(Source: Press Release)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1399/104762.jpg",
       "date": "Jan 15, 2020",
@@ -1677,6 +1663,20 @@
         "Comedy",
         "Kids",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Distribution via Internet in China starts in August 2020. The Japanese broadcast on Tokyo MX started on October 2, 2020.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1016/109604.jpg",
+      "date": "Aug 5, 2020",
+      "producer": "Fanworks, Imagineer",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "School"
       ],
       "category": "ONA"
     },
@@ -2094,18 +2094,6 @@
     },
     {
       "title": "",
-      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
-      "date": "Jul 23, 2020",
-      "producer": "-",
-      "eps": 4,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1345/108661.jpg",
       "date": "Jul 19, 2020",
@@ -2119,13 +2107,13 @@
     },
     {
       "title": "",
-      "description": "The franchise has a theme of sumo, taiko drumming, and music. Characters in the franchise will have both a \"sumode\" and a \"kamizmode,\" and can transform between them. Characters in the franchise will battle to become a yokozuna.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/108815.jpg",
-      "date": "Sep 28, 2020",
-      "producer": "Bandai Namco Pictures",
-      "eps": null,
+      "description": "Kamen Rider Zero-One shorts released on the Toei Tokusatsu Fanclub (TTFC) app.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
+      "date": "Jul 23, 2020",
+      "producer": "-",
+      "eps": 4,
       "genres": [
-        "Action"
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2141,6 +2129,18 @@
         "Adventure",
         "Romance",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The franchise has a theme of sumo, taiko drumming, and music. Characters in the franchise will have both a \"sumode\" and a \"kamizmode,\" and can transform between them. Characters in the franchise will battle to become a yokozuna.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/108815.jpg",
+      "date": "Sep 28, 2020",
+      "producer": "Bandai Namco Pictures",
+      "eps": null,
+      "genres": [
+        "Action"
       ],
       "category": "ONA"
     },
@@ -2185,19 +2185,6 @@
     },
     {
       "title": "",
-      "description": "Fourth season of Qing Chi Hong Xiaodou Ba!",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108288.jpg",
-      "date": "Jul 10, 2020",
-      "producer": "Making Animation",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "The \"Chibi Godzilla\" project was launched to celebrate the 65th anniversary of Toho's Godzilla franchise.\n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/108564.jpg",
       "date": "Jul 15, 2020",
@@ -2206,6 +2193,19 @@
       "genres": [
         "Slice of Life",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Fourth season of Qing Chi Hong Xiaodou Ba!",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108288.jpg",
+      "date": "Jul 10, 2020",
+      "producer": "Making Animation",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "ONA"
     },
