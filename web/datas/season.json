@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2020-12-29",
+  "lastUpdate": "2020-12-30",
   "animes": [
     {
       "title": "",
@@ -524,6 +524,19 @@
     },
     {
       "title": "",
+      "description": "Project Scard depicts the encounters and battles of those who have tattoos which possess the sealed powers of divine beasts and gods. The story is set in the Akatsuki Special Zone, a lawless zone in Tokyo.\n\n\"Helios\" are those who use the ability of the tattoos to protect the city, \"Artemis\" are committed to maintain security and control, whilst having a strong commercial motive, and the \"Public Security Special Service\" are Scard Staff of the metropolitan police department. They live through the turbulent days to keep on going.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1995/109124.jpg",
+      "date": "Jan 9, 2021, 01:55 (JST)",
+      "producer": "GoHands",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Super Power"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Second season of Majutsushi Orphen Hagure Tabi.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1556/110736.jpg",
       "date": "Jan 20, 2021",
@@ -536,19 +549,6 @@
         "Magic",
         "Martial Arts",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Project Scard depicts the encounters and battles of those who have tattoos which possess the sealed powers of divine beasts and gods. The story is set in the Akatsuki Special Zone, a lawless zone in Tokyo.\n\n\"Helios\" are those who use the ability of the tattoos to protect the city, \"Artemis\" are committed to maintain security and control, whilst having a strong commercial motive, and the \"Public Security Special Service\" are Scard Staff of the metropolitan police department. They live through the turbulent days to keep on going.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1995/109124.jpg",
-      "date": "Jan 9, 2021, 01:55 (JST)",
-      "producer": "GoHands",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Super Power"
       ],
       "category": "TV (New)"
     },
@@ -758,7 +758,7 @@
       "description": "Special episode of Tian Guan Ci Fu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1043/110306.jpg",
       "date": "Feb 16, 2021",
-      "producer": "-",
+      "producer": "Haoliners Animation League",
       "eps": 1,
       "genres": [
         "Historical",
