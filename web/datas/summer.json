@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2020",
-  "lastUpdate": "2020-12-30",
+  "lastUpdate": "2020-12-31",
   "animes": [
     {
       "title": "",
@@ -1652,6 +1652,20 @@
     },
     {
       "title": "",
+      "description": "Distribution via Internet in China starts in August 2020. The Japanese broadcast on Tokyo MX started on October 2, 2020.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1016/109604.jpg",
+      "date": "Aug 5, 2020",
+      "producer": "Fanworks, Imagineer",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "School"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Galar is a region where Pokemon battles have developed into a cultural sensation. Over the span of seven episodes, Pokemon: Twilight Wings will show in detail the dreams of Galar's residents, the realities they face, the challenges they must overcome and the conflicts they must resolve. In addition to these new stories, fans can expect to see a variety of Pokemon originally discovered in the Galar region appearing in the capsule series. \n\n(Source: Press Release)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1399/104762.jpg",
       "date": "Jan 15, 2020",
@@ -1663,20 +1677,6 @@
         "Comedy",
         "Kids",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Distribution via Internet in China starts in August 2020. The Japanese broadcast on Tokyo MX started on October 2, 2020.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1016/109604.jpg",
-      "date": "Aug 5, 2020",
-      "producer": "Fanworks, Imagineer",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "School"
       ],
       "category": "ONA"
     },
@@ -1939,6 +1939,20 @@
     },
     {
       "title": "",
+      "description": "The ancient Shenzhou Mainland, the ancient Chinese dynasty, and the demon kingdom of Tushan had been in conflict for thousands of years. Zhang Kuangyun from China and Bai Binglan, Princess Tianhu from Tushan, met each other because of a misunderstanding.\n\nTo explore the details of the enemy, Bai Binglan lurked to Zhang Kuangyun’s side and became her follower. While identity gaps, differences in ideas, and emotional growth, with step-by-step exploration, Zhang Kuangyun slowly discovered that his aunt and teacher’s family were slaughtered and killed in the mountains only incidents that were covered up. An unprecedented great conspiracy gradually emerged from the surface.\n\n(Source: Narul Donghua)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1092/108634.jpg",
+      "date": "Jul 11, 2020",
+      "producer": "Ruo Hong Culture",
+      "eps": 70,
+      "genres": [
+        "Action",
+        "Supernatural",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Second season of Da Wang Bu Gaoxing.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/108228.jpg",
       "date": "Jul 21, 2020",
@@ -1950,20 +1964,6 @@
         "Magic",
         "Fantasy",
         "School"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "The ancient Shenzhou Mainland, the ancient Chinese dynasty, and the demon kingdom of Tushan had been in conflict for thousands of years. Zhang Kuangyun from China and Bai Binglan, Princess Tianhu from Tushan, met each other because of a misunderstanding.\n\nTo explore the details of the enemy, Bai Binglan lurked to Zhang Kuangyun’s side and became her follower. While identity gaps, differences in ideas, and emotional growth, with step-by-step exploration, Zhang Kuangyun slowly discovered that his aunt and teacher’s family were slaughtered and killed in the mountains only incidents that were covered up. An unprecedented great conspiracy gradually emerged from the surface.\n\n(Source: Narul Donghua)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1092/108634.jpg",
-      "date": "Jul 11, 2020",
-      "producer": "Ruo Hong Culture",
-      "eps": 70,
-      "genres": [
-        "Action",
-        "Supernatural",
-        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2185,19 +2185,6 @@
     },
     {
       "title": "",
-      "description": "The \"Chibi Godzilla\" project was launched to celebrate the 65th anniversary of Toho's Godzilla franchise.\n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/108564.jpg",
-      "date": "Jul 15, 2020",
-      "producer": "-",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Fourth season of Qing Chi Hong Xiaodou Ba!",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/108288.jpg",
       "date": "Jul 10, 2020",
@@ -2206,6 +2193,19 @@
       "genres": [
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The \"Chibi Godzilla\" project was launched to celebrate the 65th anniversary of Toho's Godzilla franchise.\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/108564.jpg",
+      "date": "Jul 15, 2020",
+      "producer": "-",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Fantasy"
       ],
       "category": "ONA"
     },

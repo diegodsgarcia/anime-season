@@ -1,7 +1,7 @@
 {
   "season": "Fall",
   "year": "2020",
-  "lastUpdate": "2020-12-30",
+  "lastUpdate": "2020-12-31",
   "animes": [
     {
       "title": "",
@@ -2136,7 +2136,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1366/110166.jpg",
       "date": "Oct 7, 2020",
       "producer": "-",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Comedy"
       ],
@@ -2276,19 +2276,6 @@
     },
     {
       "title": "",
-      "description": "Based on the video game \"Punishing: Gray Raven.\"",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1045/109449.jpg",
-      "date": "Oct 27, 2020",
-      "producer": "BigFireBird Animation",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1822/110970.jpg",
       "date": "Dec 31, 2020",
@@ -2301,6 +2288,19 @@
         "Historical",
         "Martial Arts",
         "Romance"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Based on the video game \"Punishing: Gray Raven.\"",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1045/109449.jpg",
+      "date": "Oct 27, 2020",
+      "producer": "BigFireBird Animation",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2348,6 +2348,19 @@
     },
     {
       "title": "",
+      "description": "An animated short for the Arknights smartphone game's 1-year anniversary.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/110959.jpg",
+      "date": "Dec 26, 2020",
+      "producer": "Yostar Pictures",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1106/109450.jpg",
       "date": "Oct 22, 2020",
@@ -2373,19 +2386,6 @@
     },
     {
       "title": "",
-      "description": "An animated short for the Arknights smartphone game's 1-year anniversary.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/110959.jpg",
-      "date": "Dec 26, 2020",
-      "producer": "Yostar Pictures",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "The series follows the over 3,000 endangered species in the world.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1059/110482.jpg",
       "date": "Dec 16, 2020",
@@ -2393,6 +2393,21 @@
       "eps": null,
       "genres": [
         "Kids"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "At the age of seven, the very short-lived child prodigy, who was growing too fast, returned to the immortal world to prevent his abnormal growing. From then on, with his gifted brain and wisdom he obtained from earth, he walked in path immortality to became the legendary god to return his normal life...\n\n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1255/110963.jpg",
+      "date": "Nov 12, 2020",
+      "producer": "CG Year",
+      "eps": 16,
+      "genres": [
+        "Action",
+        "Martial Arts",
+        "Fantasy",
+        "Shounen"
       ],
       "category": "ONA"
     },
@@ -2409,21 +2424,6 @@
         "Fantasy",
         "Historical",
         "Martial Arts"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "At the age of seven, the very short-lived child prodigy, who was growing too fast, returned to the immortal world to prevent his abnormal growing. From then on, with his gifted brain and wisdom he obtained from earth, he walked in path immortality to became the legendary god to return his normal life...\n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1255/110963.jpg",
-      "date": "Dec 12, 2020",
-      "producer": "CG Year",
-      "eps": 16,
-      "genres": [
-        "Action",
-        "Martial Arts",
-        "Fantasy",
-        "Shounen"
       ],
       "category": "ONA"
     },
@@ -2976,6 +2976,20 @@
       "genres": [
         "Sci-Fi",
         "Adventure",
+        "Shounen"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "",
+      "description": "Recap of all 12 episodes of Tonikaku Kawaii.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1980/110984.jpg",
+      "date": "Dec 26, 2020",
+      "producer": "Seven Arcs",
+      "eps": 1,
+      "genres": [
+        "Comedy",
+        "Romance",
         "Shounen"
       ],
       "category": "Special"

@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2020",
-  "lastUpdate": "2020-12-30",
+  "lastUpdate": "2020-12-31",
   "animes": [
     {
       "title": "",
@@ -1992,6 +1992,19 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/106098.jpg",
+      "date": "Mar 24, 2020",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1520/105226.jpg",
       "date": "Jan 2, 2020",
       "producer": "Mili Pictures",
@@ -2003,19 +2016,6 @@
         "Romance",
         "Martial Arts",
         "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/106098.jpg",
-      "date": "Mar 24, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
       ],
       "category": "ONA"
     },
