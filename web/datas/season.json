@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2020-12-31",
+  "lastUpdate": "2021-01-01",
   "animes": [
     {
       "title": "",
@@ -344,7 +344,7 @@
       "title": "",
       "description": "Her first encounter with Toriko Nishina was on the Otherside after seeing \"that thing\" and nearly dying. Ever since that day, exhausted university student Sorawo Kamikoshi's life changed. In this Otherworld, full of mystery, which exists alongside our own, dangerous beings like the Kunekune and Hasshaku-sama that are spoken of in real ghost stories appear. For research, for profit, and to find an important person, Toriko and Sorao set foot into the abnormal.\n\n(Source: J-Novel Club, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1601/110081.jpg",
-      "date": "Jan 4, 2021, 00:30 (JST)",
+      "date": "Jan 4, 2021, 23:30 (JST)",
       "producer": "Felix Film, LIDENFILMS",
       "eps": null,
       "genres": [
@@ -554,19 +554,6 @@
     },
     {
       "title": "",
-      "description": "\"All stars\" season of Show by Rock!! featuring all the bands from previous seasons.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1713/106712.jpg",
-      "date": "Jan 7, 2021, 22:00 (JST)",
-      "producer": "Kinema Citrus",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Third season of Yatogame-chan Kansatsu Nikki.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1739/109426.jpg",
       "date": "Jan 10, 2021, 21:54 (JST)",
@@ -577,6 +564,19 @@
         "Comedy",
         "School",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "\"All stars\" season of Show by Rock!! featuring all the bands from previous seasons.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1713/106712.jpg",
+      "date": "Jan 7, 2021, 22:00 (JST)",
+      "producer": "Kinema Citrus",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -782,6 +782,18 @@
         "Martial Arts",
         "Mystery",
         "Super Power"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The president of Mujina Company, Najimu Mujina, isn't originally an adult, nor does she possess a genius intellect: she's a very ordinary 5-year-old girl. Followed by her indulgent and talented secretary, an office clerk of unknown nationality, and an employee who plays the straight man, the president charges into the world every day. \n\n(Source: MU, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1844/110500.jpg",
+      "date": "Jan 1, 2021",
+      "producer": "Project No.9",
+      "eps": null,
+      "genres": [
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -1041,6 +1053,21 @@
     },
     {
       "title": "",
+      "description": "The season is fall and the city of Neo-Venezia is covered in fallen leaves. Something is bothering Anya, who works at Orange Planet. Her senior colleagues Alice and Athena haven't seen each other due to their busy schedules, which is making Athena feel sad. But for some reason, Alice seems to be avoiding her altogether. With her friends Ai and Azusa's help, Anya tries to find a definitive way for Alice and Athena to get together. But during this time, Anya learns of a situation that only she can see because of where she stands.\n\n(Source: Shochiku)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1934/111002.jpg",
+      "date": "Mar 5, 2021",
+      "producer": "J.C.Staff",
+      "eps": 1,
+      "genres": [
+        "Sci-Fi",
+        "Slice of Life",
+        "Fantasy",
+        "Shounen"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
       "description": "Compilation of Uchuu Senkan Yamato 2202: Ai no Senshi-tachi.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/109427.jpg",
       "date": "Jan 15, 2021",
@@ -1232,18 +1259,6 @@
         "Comedy",
         "Ecchi",
         "Fantasy"
-      ],
-      "category": "Unknown"
-    },
-    {
-      "title": "",
-      "description": "The president of Mujina Company, Najimu Mujina, isn't originally an adult, nor does she possess a genius intellect: she's a very ordinary 5-year-old girl. Followed by her indulgent and talented secretary, an office clerk of unknown nationality, and an employee who plays the straight man, the president charges into the world every day. \n\n(Source: MU, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1844/110500.jpg",
-      "date": "Jan 1, 2021",
-      "producer": "Project No.9",
-      "eps": null,
-      "genres": [
-        "Comedy"
       ],
       "category": "Unknown"
     }
