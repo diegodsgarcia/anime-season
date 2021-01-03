@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-01-02",
+  "lastUpdate": "2021-01-03",
   "animes": [
     {
       "title": "",
@@ -287,20 +287,6 @@
     },
     {
       "title": "",
-      "description": "Third season of Non Non Biyori.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1159/107670.jpg",
-      "date": "Jan 11, 2021, 01:35 (JST)",
-      "producer": "Silver Link.",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "When a series of animal bodies that rot away after a single night begin appearing in a remote mountain village, Inugami, a detective from Tokyo who specializes in the occult, is called to investigate.\n\nWhile working the case, he befriends a strange boy who works in the field every day instead of going to school. Shunned by his peers and nicknamed \"Dorota-bou\" after a yokai that lives in the mud, he helps Inugami uncover the truth behind the killings—but supernatural forces are at work, and while Dorota-bou is just a nickname, it might not be the only thing about the boy that isn't human. \n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1258/108331.jpg",
       "date": "Jan 10, 2021, 22:00 (JST)",
@@ -312,6 +298,20 @@
         "Demons",
         "Supernatural",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Third season of Non Non Biyori.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1159/107670.jpg",
+      "date": "Jan 11, 2021, 01:35 (JST)",
+      "producer": "Silver Link.",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -400,16 +400,28 @@
     },
     {
       "title": "",
-      "description": "Mitsugu Banba is a high school girl who finds meaning in donating blood. She frequently visits a blood bank to donate blood, despite being harshly treated by the nurse. One day, she encounters a beautiful girl who looks like she's from overseas at the blood bank. The pale girl looks like she's about to faint any minute, but then, she starts destroying the blood bank. The girl loses consciousness and Mitsugu takes her home... \n\n(Source: Official Website)",
+      "description": "Mitsugu Banba is a high school girl who finds meaning in donating blood. She frequently visits a blood bank to donate blood, despite being harshly treated by the nurse. One day, she encounters a beautiful girl who looks like she's from overseas at the blood bank. The pale girl looks like she's about to faint any minute, but then, she starts destroying the blood bank. The girl loses consciousness and Mitsugu takes her home... \n\n(Source: Official Website)\n\nThe regular airing starts 14.02.2021",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1796/110394.jpg",
       "date": "Dec 18, 2020",
       "producer": "Drive, Production I.G",
       "eps": 12,
       "genres": [
         "Comedy",
+        "School",
         "Supernatural",
-        "Vampire",
-        "School"
+        "Vampire"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "A story of troubled girls, spun by screenwriter Shinji Nojima in the world of anime.\n\nLed by a mysterious voice while on a midnight stroll, 14-year-old girl Ai Ooto picks up an egg. The voice coaxes her: \"If you want to change the future, you only need to choose now. Now, believe in yourself and break the egg.\"\n\nWhat awaits Ai after the breaking of the egg...\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1507/110750.jpg",
+      "date": "Jan 13, 2021, 01:29 (JST)",
+      "producer": "CloverWorks",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -425,18 +437,6 @@
         "Adventure",
         "Magic",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "A story of troubled girls, spun by screenwriter Shinji Nojima in the world of anime.\n\nLed by a mysterious voice while on a midnight stroll, 14-year-old girl Ai Ooto picks up an egg. The voice coaxes her: \"If you want to change the future, you only need to choose now. Now, believe in yourself and break the egg.\"\n\nWhat awaits Ai after the breaking of the egg...\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1507/110750.jpg",
-      "date": "Jan 13, 2021, 01:29 (JST)",
-      "producer": "CloverWorks",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -468,20 +468,6 @@
     },
     {
       "title": "",
-      "description": "Second season of Uma Musume: Pretty Derby.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1417/110803.jpg",
-      "date": "Jan 5, 2021, 00:00 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Sports"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "\"In Heaven's Animal Design Department, designers create a variety of new animals daily while contending with the unreasonable requests of their client: God. This series answers questions such as, 'Why can’t unicorns exist?', 'What makes an animal taste delicious?', 'What’s the most powerful creature in the ocean?', and, 'Bird versus snake: who would win?'\" \n\n(Source: Kodansha Comics, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1816/109865.jpg",
       "date": "Jan 7, 2021, 23:30 (JST)",
@@ -492,6 +478,20 @@
         "Comedy",
         "Fantasy",
         "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Second season of Uma Musume: Pretty Derby.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1417/110803.jpg",
+      "date": "Jan 5, 2021, 00:00 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Sports"
       ],
       "category": "TV (New)"
     },
@@ -594,6 +594,18 @@
     },
     {
       "title": "",
+      "description": "To become an idol, I shed blood, sweat, and tears. Even so, I push on. I want to shine. I want to earn it. I want to become number one. I want to smile. I want to make my dreams come true. I want to look back at a sea of people. I want to be noticed. I want to find it. I want to overcome obstacles. I have only pride inside my chest.\n\nNo one is in the spotlight from the beginning. Everyone is weak. Only those who do not break will reach the highest peak to become an idol. This is the story of idols who face big dreams and harsh reality.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1940/109582.jpg",
+      "date": "Jan 10, 2021, 23:30 (JST)",
+      "producer": "Lerche",
+      "eps": null,
+      "genres": [
+        "Music"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Countries all over the world formed an alliance to counter the emerging enemy of mankind \"Neuroi,\" whom only girls with special powers could counter. However, the Neuroi never appeared. Instead of fighting, the witches spend their days idly. This time following not only unit 501, but also unit 502 known as \"Brave Witches!\" The 2nd volume of the comical daily drama of the witches who do not fight Neuroi begins!\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1132/110412.jpg",
       "date": "Jan 13, 2021, 00:45 (JST)",
@@ -602,18 +614,6 @@
       "genres": [
         "Military",
         "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "To become an idol, I shed blood, sweat, and tears. Even so, I push on. I want to shine. I want to earn it. I want to become number one. I want to smile. I want to make my dreams come true. I want to look back at a sea of people. I want to be noticed. I want to find it. I want to overcome obstacles. I have only pride inside my chest.\n\nNo one is in the spotlight from the beginning. Everyone is weak. Only those who do not break will reach the highest peak to become an idol. This is the story of idols who face big dreams and harsh reality.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1940/109582.jpg",
-      "date": "Jan 10, 2021, 23:30 (JST)",
-      "producer": "Lerche",
-      "eps": null,
-      "genres": [
-        "Music"
       ],
       "category": "TV (New)"
     },
@@ -1414,6 +1414,18 @@
     },
     {
       "title": "",
+      "description": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
+      "date": "Jan 6, 2020, 00:30 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "A long, long time ago, there was a prestigious school called \"Ryuuguu Elementary School\" that produced many masterpiece characters. One day, an ordinary boy named Meisaku Matsuda enrolled at the school. Little did he know that the place for learning was filled with crazy characters like Sweets, the energetic idiot; Musubi, a rice ball who gets angry when called \"onigiri\"; Nokio, a narcissistic self-proclaimed robot; and Bolt, who's clearly faster than a rabbit. Surrounded by such unique characters, will Meisaku be able to graduate as a splendid masterpiece character?\n\n(Source: Anime News Network)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
       "date": "Apr 8, 2016, 18:20 (JST)",
@@ -1424,18 +1436,6 @@
         "Parody",
         "Kids",
         "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
-      "date": "Jan 6, 2020, 00:30 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
