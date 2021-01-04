@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-01-03",
+  "lastUpdate": "2021-01-04",
   "animes": [
     {
       "title": "",
@@ -569,6 +569,18 @@
     },
     {
       "title": "",
+      "description": "Set five years after the mysterious disaster of a city's sudden disappearance, a group of girls fascinated by the \"Theatrical Material System\" using 3D holograms aims to brighten the stage during the city's post-apocalyptic recovery.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1438/110365.jpg",
+      "date": "Jan 5, 2021, 21:00 (JST)",
+      "producer": "Hoods Entertainment",
+      "eps": null,
+      "genres": [
+        "Music"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "\"All stars\" season of Show by Rock!! featuring all the bands from previous seasons.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1713/106712.jpg",
       "date": "Jan 7, 2021, 22:00 (JST)",
@@ -577,18 +589,6 @@
       "genres": [
         "Music",
         "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Set five years after the mysterious disaster of a city's sudden disappearance, a group of girls fascinated by the \"Theatrical Material System\" using 3D holograms aims to brighten the stage during the city's post-apocalyptic recovery.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1438/110365.jpg",
-      "date": "Jan 5, 2021, 21:00 (JST)",
-      "producer": "Hoods Entertainment",
-      "eps": null,
-      "genres": [
-        "Music"
       ],
       "category": "TV (New)"
     },
@@ -663,7 +663,7 @@
       "title": "",
       "description": "Eighth season of Yami Shibai.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1311/110392.jpg",
-      "date": "Jan ??, 2021",
+      "date": "Jan 11, 2021",
       "producer": "ILCA",
       "eps": null,
       "genres": [
@@ -736,6 +736,19 @@
       "eps": null,
       "genres": [
         "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1102/111039.jpg",
+      "date": "Dec 29, 2020, 01:05 (JST)",
+      "producer": "-",
+      "eps": 5,
+      "genres": [
+        "Comedy",
+        "Romance"
       ],
       "category": "TV (New)"
     },
