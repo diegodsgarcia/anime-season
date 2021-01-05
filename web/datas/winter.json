@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-01-04",
+  "lastUpdate": "2021-01-05",
   "animes": [
     {
       "title": "",
@@ -287,6 +287,19 @@
     },
     {
       "title": "",
+      "description": "Lloyd is a novice adventurer whose dream is to discover \"true strength\" in the capital he's always admired, despite growing up with neighbors who always considered him weak. The story starts with him departing from his hometown, which just so happens to be located right next to...one of the most dangerous dungeons in the world?! Lloyd may think of himself as powerless, but when he goes to the city that serves as the starter town for adventurers, the difference between him and everyone else couldn't be starker! \n\n(Source: Yen Press, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1282/106599.jpg",
+      "date": "Jan 4, 2021, 22:00 (JST)",
+      "producer": "LIDENFILMS",
+      "eps": null,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "When a series of animal bodies that rot away after a single night begin appearing in a remote mountain village, Inugami, a detective from Tokyo who specializes in the occult, is called to investigate.\n\nWhile working the case, he befriends a strange boy who works in the field every day instead of going to school. Shunned by his peers and nicknamed \"Dorota-bou\" after a yokai that lives in the mud, he helps Inugami uncover the truth behind the killings—but supernatural forces are at work, and while Dorota-bou is just a nickname, it might not be the only thing about the boy that isn't human. \n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1258/108331.jpg",
       "date": "Jan 10, 2021, 22:00 (JST)",
@@ -317,31 +330,6 @@
     },
     {
       "title": "",
-      "description": "Reki, a high school sophomore and skater, is addicted to \"S,\" a highly secret and dangerous downhill skateboarding race that takes place in an abandoned mine. The skaters are especially wild about the \"beefs,\" or heated battles that erupt in the races.\n\nReki takes Langa, a transfer student returning to Japan after studying abroad, to the mine where the races are held. Langa, who has no skateboarding experience, finds himself pulled into the world of \"S\"... \n\n(Source: Aniplex US)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1264/110117.jpg",
-      "date": "Jan 10, 2021, 02:00 (JST)",
-      "producer": "Bones",
-      "eps": null,
-      "genres": [
-        "Sports"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Lloyd is a novice adventurer whose dream is to discover \"true strength\" in the capital he's always admired, despite growing up with neighbors who always considered him weak. The story starts with him departing from his hometown, which just so happens to be located right next to...one of the most dangerous dungeons in the world?! Lloyd may think of himself as powerless, but when he goes to the city that serves as the starter town for adventurers, the difference between him and everyone else couldn't be starker! \n\n(Source: Yen Press, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1282/106599.jpg",
-      "date": "Jan 4, 2021, 22:00 (JST)",
-      "producer": "LIDENFILMS",
-      "eps": null,
-      "genres": [
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Her first encounter with Toriko Nishina was on the Otherside after seeing \"that thing\" and nearly dying. Ever since that day, exhausted university student Sorawo Kamikoshi's life changed. In this Otherworld, full of mystery, which exists alongside our own, dangerous beings like the Kunekune and Hasshaku-sama that are spoken of in real ghost stories appear. For research, for profit, and to find an important person, Toriko and Sorao set foot into the abnormal.\n\n(Source: J-Novel Club, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1601/110081.jpg",
       "date": "Jan 4, 2021, 23:30 (JST)",
@@ -353,6 +341,18 @@
         "Mystery",
         "Fantasy",
         "Shoujo Ai"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Reki, a high school sophomore and skater, is addicted to \"S,\" a highly secret and dangerous downhill skateboarding race that takes place in an abandoned mine. The skaters are especially wild about the \"beefs,\" or heated battles that erupt in the races.\n\nReki takes Langa, a transfer student returning to Japan after studying abroad, to the mine where the races are held. Langa, who has no skateboarding experience, finds himself pulled into the world of \"S\"... \n\n(Source: Aniplex US)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1264/110117.jpg",
+      "date": "Jan 10, 2021, 02:00 (JST)",
+      "producer": "Bones",
+      "eps": null,
+      "genres": [
+        "Sports"
       ],
       "category": "TV (New)"
     },
@@ -442,12 +442,26 @@
     },
     {
       "title": "",
-      "description": "The anime will tell the story of high school students as they compete in groups in a unique form of figure skating called \"Skate-Leading.\"\n\n(Source: MAL News)\n\nEpisode 1 was streamed in advance on December 27, 2020 on Funimation. Regular broadcast began January 10, 2021.",
+      "description": "The anime will tell the story of high school students as they compete in groups in a unique form of figure skating called \"Skate-Leading.\"\n\n(Source: MAL News)\n\nThe series was streamed two weeks in advance of Japan's broadcast beginning on December 27, 2020 on Funimation, AnimeLab, and Wakanim. Regular broadcast began January 10, 2021.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1807/106481.jpg",
       "date": "Dec 27, 2020, 22:30 (JST)",
       "producer": "J.C.Staff",
       "eps": null,
       "genres": [
+        "Sports"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Second season of Uma Musume: Pretty Derby.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1417/110803.jpg",
+      "date": "Jan 5, 2021, 00:00 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
         "Sports"
       ],
       "category": "TV (New)"
@@ -483,15 +497,16 @@
     },
     {
       "title": "",
-      "description": "Second season of Uma Musume: Pretty Derby.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1417/110803.jpg",
-      "date": "Jan 5, 2021, 00:00 (JST)",
-      "producer": "-",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/110836.jpg",
+      "date": "Jan 12, 2021, 01:00 (JST)",
+      "producer": "CANDY BOX, Yostar Pictures",
       "eps": null,
       "genres": [
-        "Slice of Life",
         "Comedy",
-        "Sports"
+        "Military",
+        "Sci-Fi",
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -554,6 +569,18 @@
     },
     {
       "title": "",
+      "description": "Set five years after the mysterious disaster of a city's sudden disappearance, a group of girls fascinated by the \"Theatrical Material System\" using 3D holograms aims to brighten the stage during the city's post-apocalyptic recovery.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1438/110365.jpg",
+      "date": "Jan 5, 2021, 21:00 (JST)",
+      "producer": "Hoods Entertainment",
+      "eps": null,
+      "genres": [
+        "Music"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Third season of Yatogame-chan Kansatsu Nikki.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1739/109426.jpg",
       "date": "Jan 10, 2021, 21:54 (JST)",
@@ -569,10 +596,10 @@
     },
     {
       "title": "",
-      "description": "Set five years after the mysterious disaster of a city's sudden disappearance, a group of girls fascinated by the \"Theatrical Material System\" using 3D holograms aims to brighten the stage during the city's post-apocalyptic recovery.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1438/110365.jpg",
-      "date": "Jan 5, 2021, 21:00 (JST)",
-      "producer": "Hoods Entertainment",
+      "description": "To become an idol, I shed blood, sweat, and tears. Even so, I push on. I want to shine. I want to earn it. I want to become number one. I want to smile. I want to make my dreams come true. I want to look back at a sea of people. I want to be noticed. I want to find it. I want to overcome obstacles. I have only pride inside my chest.\n\nNo one is in the spotlight from the beginning. Everyone is weak. Only those who do not break will reach the highest peak to become an idol. This is the story of idols who face big dreams and harsh reality.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1940/109582.jpg",
+      "date": "Jan 10, 2021, 23:30 (JST)",
+      "producer": "Lerche",
       "eps": null,
       "genres": [
         "Music"
@@ -589,18 +616,6 @@
       "genres": [
         "Music",
         "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "To become an idol, I shed blood, sweat, and tears. Even so, I push on. I want to shine. I want to earn it. I want to become number one. I want to smile. I want to make my dreams come true. I want to look back at a sea of people. I want to be noticed. I want to find it. I want to overcome obstacles. I have only pride inside my chest.\n\nNo one is in the spotlight from the beginning. Everyone is weak. Only those who do not break will reach the highest peak to become an idol. This is the story of idols who face big dreams and harsh reality.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1940/109582.jpg",
-      "date": "Jan 10, 2021, 23:30 (JST)",
-      "producer": "Lerche",
-      "eps": null,
-      "genres": [
-        "Music"
       ],
       "category": "TV (New)"
     },
@@ -1389,18 +1404,6 @@
     },
     {
       "title": "",
-      "description": "The story centers around a cat who answers people's wishes and delivers happiness. (\"Tane\" and \"neko\" are the Japanese words for \"seed\" and \"cat,\" respectively.)\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/28900.jpg",
-      "date": "Mar 26, 2011",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "The gag anime takes place at a school for youkai and other supernatural beings. A vampire named Rakuru transfers to the school from the West, and she tries to change the school as the class representative.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1762/106451.jpg",
       "date": "Apr 7, 2020",
@@ -1409,6 +1412,18 @@
       "genres": [
         "Comedy",
         "Supernatural"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "The story centers around a cat who answers people's wishes and delivers happiness. (\"Tane\" and \"neko\" are the Japanese words for \"seed\" and \"cat,\" respectively.)\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/28900.jpg",
+      "date": "Mar 26, 2011",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1641,19 +1656,6 @@
     },
     {
       "title": "",
-      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
-      "date": "Dec 2, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Sports",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
       "date": "Jul 12, 2017",
@@ -1662,6 +1664,19 @@
       "genres": [
         "Kids",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
+      "date": "Dec 2, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Sports",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1682,6 +1697,18 @@
     },
     {
       "title": "",
+      "description": "Spin-off of Kichikujima with super deformed characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1352/109736.jpg",
+      "date": "Nov 18, 2020, 23:29 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "The anime will depict various vehicles as characters in the \"Mobile Land\" island. The protagonist Car-kun arrives at the island as a delivery worker. Through his deliveries, he gets to know the residents of Mobile Land, all while following traffic rules and having his deliveries stopped by the meddling Sabibi. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1612/106288.jpg",
       "date": "Apr 2, 2020, 17:20 (JST)",
@@ -1692,18 +1719,6 @@
         "Cars",
         "Comedy",
         "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "Spin-off of Kichikujima with super deformed characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1352/109736.jpg",
-      "date": "Nov 18, 2020, 23:29 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1932,6 +1947,20 @@
     },
     {
       "title": "",
+      "description": "The story begins with the peaceful daily life of schoolgirls—which suddenly breaks down when former schoolmates become zombies. The story follows the actions taken by the girls left behind on the school roof.\n\n(Source: ANN)\n\nA short special edit of the OVA, titled Alice in Deadly School Tokubetsu-ban: Ima, Stage no Maku ga Agaru (Alice in Deadly School Special Edit -The Stage Begins-), was broadcasted on January 4, 2021 as part of the New Year's special.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1614/110455.jpg",
+      "date": "Jan 4, 2021",
+      "producer": "Hoods Entertainment",
+      "eps": 1,
+      "genres": [
+        "Comedy",
+        "School",
+        "Shounen"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "",
       "description": "The July issue of Dear+ has announced that a series of manga serialized in the magazine will get anime adaptations in celebration of the magazine's 20th anniversary. These anime will be collected into an \"in motion\" animation series titled 6 Lovers.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/86278.jpg",
       "date": "Mar 20, 2021",
@@ -2109,6 +2138,22 @@
         "School",
         "Shounen",
         "Slice of Life"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
+      "description": "The film will be made up of two stories: \"Ishi Okoshi\" and \"Ayashiki Raihousha.\" In \"Ishi Okoshi,\" Natsume meets a small youkai called Mitsumi in a forest. Mitsumi is entrusted to wake up the divine youkai \"Iwatetsu\" from its deep slumber. Mitsumi weighs on Natsume's mind, so he sets out to help Mitsumi with his task.\n\nIn \"Ayashiki Raihousha,\" a mysterious visitor appears in front of Tanuma. Nearly every day, the visitor visits Tanuma, talks to him a little, and then leaves. Natsume, who knows the visitor is a youkai, worries for Tanuma, but Tanuma enjoys these exchanges with the youkai. The youkai means no harm, but Tanuma's health slowly starts to deteriorate.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1589/109656.jpg",
+      "date": "Jan 16, 2021",
+      "producer": "Shuka",
+      "eps": 2,
+      "genres": [
+        "Demons",
+        "Drama",
+        "Shoujo",
+        "Slice of Life",
+        "Supernatural"
       ],
       "category": "Movie"
     },
@@ -2306,51 +2351,6 @@
         "Fantasy"
       ],
       "category": "Special"
-    },
-    {
-      "title": "",
-      "description": "The film will be made up of two stories: \"Ishi Okoshi\" and \"Ayashiki Raihousha.\" In \"Ishi Okoshi,\" Natsume meets a small youkai called Mitsumi in a forest. Mitsumi is entrusted to wake up the divine youkai \"Iwatetsu\" from its deep slumber. Mitsumi weighs on Natsume's mind, so he sets out to help Mitsumi with his task.\n\nIn \"Ayashiki Raihousha,\" a mysterious visitor appears in front of Tanuma. Nearly every day, the visitor visits Tanuma, talks to him a little, and then leaves. Natsume, who knows the visitor is a youkai, worries for Tanuma, but Tanuma enjoys these exchanges with the youkai. The youkai means no harm, but Tanuma's health slowly starts to deteriorate.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1589/109656.jpg",
-      "date": "Jan 16, 2021",
-      "producer": "Shuka",
-      "eps": 2,
-      "genres": [
-        "Slice of Life",
-        "Demons",
-        "Supernatural",
-        "Drama",
-        "Shoujo"
-      ],
-      "category": "Unknown"
-    },
-    {
-      "title": "",
-      "description": "The story begins with the peaceful daily life of schoolgirls—which suddenly breaks down when former schoolmates become zombies. The story follows the actions taken by the girls left behind on the school roof.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1614/110455.jpg",
-      "date": "Jan 4, 2021",
-      "producer": "Hoods Entertainment",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "School",
-        "Shounen"
-      ],
-      "category": "Unknown"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/110836.jpg",
-      "date": "Jan 12, 2021",
-      "producer": "CANDY BOX, Yostar Pictures",
-      "eps": null,
-      "genres": [
-        "Military",
-        "Sci-Fi",
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "Unknown"
     },
     {
       "title": "",
