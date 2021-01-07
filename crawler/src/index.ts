@@ -1,6 +1,6 @@
 
 import { getSeason, getSeasonInfo, getSeasonImage, getSeasonsGenres, getCategory, formatEp, convertToJson, getDateNow } from './utils'
-import { listSeason } from './service/api'
+import { listSeason } from './utils/api'
 
 init()
 
@@ -13,7 +13,7 @@ async function init() {
     fall: 'fall',
   }
 
-  for (let prop in seasons) {
+  for (const prop in seasons) {
     const route = seasons[prop] === seasons.now ? '' : seasons[prop]
     const season = await listSeason(route)
     const seasonResult = formatSeasonAnimes(season)
@@ -23,7 +23,7 @@ async function init() {
 
 function formatSeasonAnimes($) {
   const season = getSeason($)
-  const titles = getSeasonInfo($, '.title-text')
+  const titles = getSeasonInfo($, '.link-title')
   const descriptions = getSeasonInfo($, '.preline')
   const imagesUrl = getSeasonImage($)
   const dates = getSeasonInfo($, '.remain-time')
