@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-01-06",
+  "lastUpdate": "2021-01-07",
   "animes": [
     {
       "title": "",
@@ -23,9 +23,9 @@
     },
     {
       "title": "",
-      "description": "Second season of Yakusoku no Neverland.",
+      "description": "Second season of Yakusoku no Neverland.\n\nEpisode 1 was streamed on January 7, 2021 on Amazon Prime. Regular broadcast began January 8, 2020.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1815/110626.jpg",
-      "date": "Jan 8, 2021, 01:25 (JST)",
+      "date": "Jan 7, 2021, 01:25 (JST)",
       "producer": "CloverWorks",
       "eps": null,
       "genres": [
@@ -97,9 +97,9 @@
     },
     {
       "title": "",
-      "description": "Second season of Beastars.\n\nEpisode 1 was streamed in advance on January 5, 2021 on Netflix Japan. Regular broadcast began January 7, 2021.",
+      "description": "Second season of Beastars.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1097/109646.jpg",
-      "date": "Jan 5, 2021, 00:55 (JST)",
+      "date": "Jan 7, 2021, 00:55 (JST)",
       "producer": "Orange",
       "eps": null,
       "genres": [
@@ -128,19 +128,6 @@
     },
     {
       "title": "",
-      "description": "Second season of Hataraku Saibou.\n\nThe episodes were streamed two days ahead of the Japanese broadcast on Funimation beginning on January 7, 2020. Regular broadcast began January 9, 2020.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1823/110914.jpg",
-      "date": "Jan 7, 2021, 23:30 (JST)",
-      "producer": "David Production",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Although admired at school for her amiability and academic prowess, high school student Kyouko Hori has been hiding another side of her. With her parents often away from home due to work, Hori has to look after her younger brother and do the housework, leaving no chance to socialize away from school.\n\nMeanwhile, Izumi Miyamura is seen as a brooding, glasses-wearing otaku. However, in reality, he is a gentle person inept at studying. Furthermore, he has nine piercings hidden behind his long hair and a tattoo along his back and left shoulder.\n\nBy sheer chance, Hori and Miyamura cross paths outside of school—neither looking as the other expects. These seemingly polar opposites become friends, sharing with each other a side they have never shown to anyone else.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1791/110336.jpg",
       "date": "Jan 10, 2021, 00:30 (JST)",
@@ -151,6 +138,19 @@
         "Comedy",
         "Romance",
         "School",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Second season of Hataraku Saibou.\n\nThe episodes were streamed two days ahead of the Japanese broadcast on Funimation beginning on January 7, 2020. Regular broadcast began January 9, 2020.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1823/110914.jpg",
+      "date": "Jan 7, 2021, 23:30 (JST)",
+      "producer": "David Production",
+      "eps": null,
+      "genres": [
+        "Comedy",
         "Shounen"
       ],
       "category": "TV (New)"
@@ -174,9 +174,9 @@
     },
     {
       "title": "",
-      "description": "Killed while saving a stranger from a traffic collision, a 34-year-old NEET is reincarnated into a world of magic as Rudeus Greyrat, a newborn baby. With knowledge, experience, and regrets from his previous life retained, Rudeus vows to lead a fulfilling life and not repeat his past mistakes.\n \nNow gifted with a tremendous amount of magical power as well as the mind of a grown adult, Rudeus is seen as a genius in the making by his new parents. Soon, he finds himself studying under powerful warriors, such as his swordsman father and a mage named Roxy Migurdia—all in order to hone his apparent talents. But despite his innocent exterior, Rudeus is still a perverted otaku, who uses his wealth of knowledge to make moves on women whom he could never make in his previous life.\n \n[Written by MAL Rewrite]",
+      "description": "Killed while saving a stranger from a traffic collision, a 34-year-old NEET is reincarnated into a world of magic as Rudeus Greyrat, a newborn baby. With knowledge, experience, and regrets from his previous life retained, Rudeus vows to lead a fulfilling life and not repeat his past mistakes.\n \nNow gifted with a tremendous amount of magical power as well as the mind of a grown adult, Rudeus is seen as a genius in the making by his new parents. Soon, he finds himself studying under powerful warriors, such as his swordsman father and a mage named Roxy Migurdia—all in order to hone his apparent talents. But despite his innocent exterior, Rudeus is still a perverted otaku, who uses his wealth of knowledge to make moves on women whom he could never make in his previous life.\n \n[Written by MAL Rewrite]\n\nEpisodes 1 and 2 were streamed on December 27, 2020 during a livestream event on Docomo Anime Store, Niconico, and the TOHO animation YouTube channel. Regular broadcast began January 11, 2020.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1117/110633.jpg",
-      "date": "Jan 11, 2021, 00:00 (JST)",
+      "date": "Dec 27, 2020, 00:00 (JST)",
       "producer": "Studio Bind",
       "eps": null,
       "genres": [
@@ -300,22 +300,6 @@
     },
     {
       "title": "",
-      "description": "When a series of animal bodies that rot away after a single night begin appearing in a remote mountain village, Inugami, a detective from Tokyo who specializes in the occult, is called to investigate.\n\nWhile working the case, he befriends a strange boy who works in the field every day instead of going to school. Shunned by his peers and nicknamed \"Dorota-bou\" after a yokai that lives in the mud, he helps Inugami uncover the truth behind the killings—but supernatural forces are at work, and while Dorota-bou is just a nickname, it might not be the only thing about the boy that isn't human. \n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1258/108331.jpg",
-      "date": "Jan 10, 2021, 22:00 (JST)",
-      "producer": "Ajia-Do",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Mystery",
-        "Demons",
-        "Supernatural",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Her first encounter with Toriko Nishina was on the Otherside after seeing \"that thing\" and nearly dying. Ever since that day, exhausted university student Sorawo Kamikoshi's life changed. In this Otherworld, full of mystery, which exists alongside our own, dangerous beings like the Kunekune and Hasshaku-sama that are spoken of in real ghost stories appear. For research, for profit, and to find an important person, Toriko and Sorao set foot into the abnormal.\n\n(Source: J-Novel Club, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1601/110081.jpg",
       "date": "Jan 4, 2021, 23:30 (JST)",
@@ -327,6 +311,22 @@
         "Mystery",
         "Fantasy",
         "Shoujo Ai"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "When a series of animal bodies that rot away after a single night begin appearing in a remote mountain village, Inugami, a detective from Tokyo who specializes in the occult, is called to investigate.\n\nWhile working the case, he befriends a strange boy who works in the field every day instead of going to school. Shunned by his peers and nicknamed \"Dorota-bou\" after a yokai that lives in the mud, he helps Inugami uncover the truth behind the killings—but supernatural forces are at work, and while Dorota-bou is just a nickname, it might not be the only thing about the boy that isn't human. \n\n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1258/108331.jpg",
+      "date": "Jan 10, 2021, 22:00 (JST)",
+      "producer": "Ajia-Do",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Demons",
+        "Supernatural",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -400,33 +400,6 @@
     },
     {
       "title": "",
-      "description": "A story of troubled girls, spun by screenwriter Shinji Nojima in the world of anime.\n\nLed by a mysterious voice while on a midnight stroll, 14-year-old girl Ai Ooto picks up an egg. The voice coaxes her: \"If you want to change the future, you only need to choose now. Now, believe in yourself and break the egg.\"\n\nWhat awaits Ai after the breaking of the egg...\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1507/110750.jpg",
-      "date": "Jan 13, 2021, 01:29 (JST)",
-      "producer": "CloverWorks",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Mitsugu Banba is a high school girl who finds meaning in donating blood. She frequently visits a blood bank to donate blood, despite being harshly treated by the nurse. One day, she encounters a beautiful girl who looks like she's from overseas at the blood bank. The pale girl looks like she's about to faint any minute, but then, she starts destroying the blood bank. The girl loses consciousness and Mitsugu takes her home... \n\n(Source: Official Website)\n\nThe regular airing starts 14.02.2021",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1796/110394.jpg",
-      "date": "Dec 18, 2020",
-      "producer": "Drive, Production I.G",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "School",
-        "Supernatural",
-        "Vampire"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Hortensia Saga is a medieval fantasy tale of war and chaos. Three years ago, the king was betrayed and murdered by one of his dukes who then rebuilt the kingdom into his own. But now, the original heir to the throne has secretly come of age. Hiding in the guise of a man, she and her loyal band begin the quest to save her homeland. \n\n(Source: Kotaku, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1043/110408.jpg",
       "date": "Jan 7, 2021",
@@ -437,6 +410,33 @@
         "Adventure",
         "Magic",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Mitsugu Banba is a high school girl who finds meaning in donating blood. She frequently visits a blood bank to donate blood, despite being harshly treated by the nurse. One day, she encounters a beautiful girl who looks like she's from overseas at the blood bank. The pale girl looks like she's about to faint any minute, but then, she starts destroying the blood bank. The girl loses consciousness and Mitsugu takes her home... \n\n(Source: Official Website)\n\nEpisode 1 was streamed on December 18, 2020 on YouTube. Regular broadcast began February 14, 2021.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1796/110394.jpg",
+      "date": "Dec 18, 2020",
+      "producer": "Drive, Production I.G",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Supernatural",
+        "Vampire",
+        "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "A story of troubled girls, spun by screenwriter Shinji Nojima in the world of anime.\n\nLed by a mysterious voice while on a midnight stroll, 14-year-old girl Ai Ooto picks up an egg. The voice coaxes her: \"If you want to change the future, you only need to choose now. Now, believe in yourself and break the egg.\"\n\nWhat awaits Ai after the breaking of the egg...\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1507/110750.jpg",
+      "date": "Jan 13, 2021, 01:29 (JST)",
+      "producer": "CloverWorks",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -457,7 +457,7 @@
       "description": "Second season of Uma Musume: Pretty Derby.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1417/110803.jpg",
       "date": "Jan 5, 2021, 00:00 (JST)",
-      "producer": "-",
+      "producer": "Studio Kai",
       "eps": null,
       "genres": [
         "Slice of Life",
@@ -581,6 +581,20 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1532/110186.jpg",
+      "date": "Jan 7, 2021, 00:00 (JST)",
+      "producer": "Studio A-CAT",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Military",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "To become an idol, I shed blood, sweat, and tears. Even so, I push on. I want to shine. I want to earn it. I want to become number one. I want to smile. I want to make my dreams come true. I want to look back at a sea of people. I want to be noticed. I want to find it. I want to overcome obstacles. I have only pride inside my chest.\n\nNo one is in the spotlight from the beginning. Everyone is weak. Only those who do not break will reach the highest peak to become an idol. This is the story of idols who face big dreams and harsh reality.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1940/109582.jpg",
       "date": "Jan 10, 2021, 23:30 (JST)",
@@ -594,7 +608,7 @@
     {
       "title": "",
       "description": "Third season of Yatogame-chan Kansatsu Nikki.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1739/109426.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1389/111080.jpg",
       "date": "Jan 10, 2021, 21:54 (JST)",
       "producer": "Creators in Pack, LEVELS",
       "eps": null,
@@ -621,15 +635,16 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1532/110186.jpg",
-      "date": "Jan 7, 2021, 00:00 (JST)",
-      "producer": "Studio A-CAT",
+      "description": "School begins at Étoile Vio School, where idol-hopeful students known as \"I-Chu\" will undergo training to become full-fledged idols. However, things are off to a strange start when the new students are given a speech from their bear principal?! The I-Chu work steadily toward their goals and ask, \"What is an idol?\" Each boy will learn to shine as they struggle to find their answer.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1148/110096.jpg",
+      "date": "Jan 6, 2021, 23:00 (JST)",
+      "producer": "Lay-duce",
       "eps": null,
       "genres": [
-        "Action",
-        "Military",
-        "Fantasy"
+        "Music",
+        "Slice of Life",
+        "Comedy",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -643,21 +658,6 @@
       "genres": [
         "Military",
         "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "School begins at Étoile Vio School, where idol-hopeful students known as \"I-Chu\" will undergo training to become full-fledged idols. However, things are off to a strange start when the new students are given a speech from their bear principal?! The I-Chu work steadily toward their goals and ask, \"What is an idol?\" Each boy will learn to shine as they struggle to find their answer.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1148/110096.jpg",
-      "date": "Jan 6, 2021, 23:00 (JST)",
-      "producer": "Lay-duce",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Slice of Life",
-        "Comedy",
-        "School"
       ],
       "category": "TV (New)"
     },
@@ -733,7 +733,7 @@
     {
       "title": "",
       "description": "The anime's production will use motion capture technology to capture the movements of the voice cast while simultaneously producing voice recordings. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1091/109508.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1962/111079.jpg",
       "date": "Jan 8, 2021",
       "producer": "Shin-Ei Animation",
       "eps": null,
@@ -803,22 +803,6 @@
     },
     {
       "title": "",
-      "description": "Following the successful end of the Fourth Shinobi World War, Konohagakure has been enjoying a period of peace, prosperity, and extraordinary technological advancement. This is all due to the efforts of the Allied Shinobi Forces and the village's Seventh Hokage, Naruto Uzumaki. Now resembling a modern metropolis, Konohagakure has changed, particularly the life of a shinobi. Under the watchful eye of Naruto and his old comrades, a new generation of shinobi has stepped up to learn the ways of the ninja.\n\nBoruto Uzumaki is often the center of attention as the son of the Seventh Hokage. Despite having inherited Naruto's boisterous and stubborn demeanor, Boruto is considered a prodigy and is able to unleash his potential with the help of supportive friends and family. Unfortunately, this has only worsened his arrogance and his desire to surpass Naruto which, along with his father's busy lifestyle, has strained their relationship. However, a sinister force brewing within the village may threaten Boruto's carefree life.\n\nNew friends and familiar faces join Boruto as a new story begins in Boruto: Naruto Next Generations.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/84460.jpg",
-      "date": "Apr 5, 2017, 17:30 (JST)",
-      "producer": "Studio Pierrot",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Super Power",
-        "Martial Arts",
-        "Shounen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom or the hospital, where he visits his bedridden grandfather. However, this leisurely lifestyle soon takes a turn for the strange when he unknowingly encounters a cursed item. Triggering a chain of supernatural occurrences, Yuuji finds himself suddenly thrust into the world of Curses—dreadful beings formed from human malice and negativity—after swallowing the said item, revealed to be a finger belonging to the demon Sukuna Ryoumen, the \"King of Curses.\"\n\nYuuji experiences first-hand the threat these Curses pose to society as he discovers his own newfound powers. Introduced to the Tokyo Metropolitan Jujutsu Technical High School, he begins to walk down a path from which he cannot return—the path of a Jujutsu sorcerer.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
       "date": "Oct 3, 2020, 01:25 (JST)",
@@ -829,6 +813,22 @@
         "Demons",
         "Supernatural",
         "School",
+        "Shounen"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Following the successful end of the Fourth Shinobi World War, Konohagakure has been enjoying a period of peace, prosperity, and extraordinary technological advancement. This is all due to the efforts of the Allied Shinobi Forces and the village's Seventh Hokage, Naruto Uzumaki. Now resembling a modern metropolis, Konohagakure has changed, particularly the life of a shinobi. Under the watchful eye of Naruto and his old comrades, a new generation of shinobi has stepped up to learn the ways of the ninja.\n\nBoruto Uzumaki is often the center of attention as the son of the Seventh Hokage. Despite having inherited Naruto's boisterous and stubborn demeanor, Boruto is considered a prodigy and is able to unleash his potential with the help of supportive friends and family. Unfortunately, this has only worsened his arrogance and his desire to surpass Naruto which, along with his father's busy lifestyle, has strained their relationship. However, a sinister force brewing within the village may threaten Boruto's carefree life.\n\nNew friends and familiar faces join Boruto as a new story begins in Boruto: Naruto Next Generations.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/84460.jpg",
+      "date": "Apr 5, 2017, 17:30 (JST)",
+      "producer": "Studio Pierrot",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Super Power",
+        "Martial Arts",
         "Shounen"
       ],
       "category": "TV (Continuing)"
@@ -2116,12 +2116,12 @@
       "eps": 1,
       "genres": [
         "Action",
+        "Sci-Fi",
         "Comedy",
-        "Drama",
         "Historical",
         "Parody",
+        "Drama",
         "Samurai",
-        "Sci-Fi",
         "Shounen"
       ],
       "category": "Movie"
