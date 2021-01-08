@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-01-07",
+  "lastUpdate": "2021-01-08",
   "animes": [
     {
       "title": "",
@@ -366,6 +366,20 @@
     },
     {
       "title": "",
+      "description": "Faceless shadow nobles living in a vast mansion, attended by living dolls who spend much of their time cleaning up the soot endlessly emitted by their mysterious masters.\n\nFollow the story of Emilyko, a young and cheerful living doll, as she learns her duties serving as the attendant for Kate Shadow-sama.\n\n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1048/109983.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "CloverWorks",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Supernatural",
+        "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "The story follows Shoutarou Futaba, a boy who's fascinated with men's rhythmic gymnastics and enrolled at the Soshukan High School to join the school's team. The story follows a team of unique seniors and Yoshiya Misato, a classmate who's famous in high school rhythmic gymnastics tournaments, who run together toward one goal.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1701/110076.jpg",
       "date": "Apr ??, 2021",
@@ -455,6 +469,20 @@
         "Space"
       ],
       "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "There are strange people in this world. If it is short, it will disappear for several days, and if it is long, it will disappear for hundreds of years. The name and personality changed, and suddenly appeared by someone's unexpected idea. Even though he is the most weird, he is loosely accepted and used by his boss. This is the story of such strange people.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1221/109913.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "Studio Deen",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Historical",
+        "Parody"
+      ],
+      "category": "ONA"
     },
     {
       "title": "",
@@ -625,20 +653,6 @@
         "Fantasy"
       ],
       "category": "Movie"
-    },
-    {
-      "title": "",
-      "description": "There are strange people in this world. If it is short, it will disappear for several days, and if it is long, it will disappear for hundreds of years. The name and personality changed, and suddenly appeared by someone's unexpected idea. Even though he is the most weird, he is loosely accepted and used by his boss. This is the story of such strange people.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1221/109913.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "Studio Deen",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Historical",
-        "Parody"
-      ],
-      "category": "Unknown"
     }
   ]
 }
