@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-01-08",
+  "lastUpdate": "2021-01-09",
   "animes": [
     {
       "title": "",
@@ -467,6 +467,19 @@
       "eps": null,
       "genres": [
         "Space"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1931/111107.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "School",
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
