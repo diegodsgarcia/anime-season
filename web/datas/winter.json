@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-01-12",
+  "lastUpdate": "2021-01-13",
   "animes": [
     {
       "title": "",
@@ -113,6 +113,20 @@
     },
     {
       "title": "",
+      "description": "Killed while saving a stranger from a traffic collision, a 34-year-old NEET is reincarnated into a world of magic as Rudeus Greyrat, a newborn baby. With knowledge, experience, and regrets from his previous life retained, Rudeus vows to lead a fulfilling life and not repeat his past mistakes.\n \nNow gifted with a tremendous amount of magical power as well as the mind of a grown adult, Rudeus is seen as a genius in the making by his new parents. Soon, he finds himself studying under powerful warriors, such as his swordsman father and a mage named Roxy Migurdia—all in order to hone his apparent talents. But despite his innocent exterior, Rudeus is still a perverted otaku, who uses his wealth of knowledge to make moves on women whom he could never make in his previous life.\n \n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1068/111129.jpg",
+      "date": "Jan 11, 2021, 00:00 (JST)",
+      "producer": "Studio Bind",
+      "eps": null,
+      "genres": [
+        "Drama",
+        "Magic",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Second season of Beastars.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1097/109646.jpg",
       "date": "Jan 7, 2021, 00:55 (JST)",
@@ -123,20 +137,6 @@
         "Psychological",
         "Drama",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Killed while saving a stranger from a traffic collision, a 34-year-old NEET is reincarnated into a world of magic as Rudeus Greyrat, a newborn baby. With knowledge, experience, and regrets from his previous life retained, Rudeus vows to lead a fulfilling life and not repeat his past mistakes.\n \nNow gifted with a tremendous amount of magical power as well as the mind of a grown adult, Rudeus is seen as a genius in the making by his new parents. Soon, he finds himself studying under powerful warriors, such as his swordsman father and a mage named Roxy Migurdia—all in order to hone his apparent talents. But despite his innocent exterior, Rudeus is still a perverted otaku, who uses his wealth of knowledge to make moves on women whom he could never make in his previous life.\n \n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1068/111129.jpg",
-      "date": "Jan 11, 2021, 00:00 (JST)",
-      "producer": "Studio Bind",
-      "eps": null,
-      "genres": [
-        "Drama",
-        "Magic",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -317,7 +317,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1601/110081.jpg",
       "date": "Jan 4, 2021, 23:30 (JST)",
       "producer": "Felix Film, LIDENFILMS",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Sci-Fi",
         "Adventure",
@@ -351,7 +351,9 @@
       "producer": "David Production",
       "eps": 12,
       "genres": [
+        "Slice of Life",
         "Sports",
+        "Drama",
         "School"
       ],
       "category": "TV (New)"
@@ -387,11 +389,25 @@
     },
     {
       "title": "",
+      "description": "A story of troubled girls, spun by screenwriter Shinji Nojima in the world of anime.\n\nLed by a mysterious voice while on a midnight stroll, 14-year-old girl Ai Ooto picks up an egg. The voice coaxes her: \"If you want to change the future, you only need to choose now. Now, believe in yourself and break the egg.\"\n\nWhat awaits Ai after the breaking of the egg...\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1507/110750.jpg",
+      "date": "Jan 13, 2021, 01:29 (JST)",
+      "producer": "CloverWorks",
+      "eps": 12,
+      "genres": [
+        "Psychological",
+        "Drama",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "The peaceful days of the very popular work Bungou Stray Dogs are here. The characters of the Armed Detective Agency and the Mafia are in miniature form?! Due to Atsushi and co. becoming cute, this is a different experience to the original work—a pleasant gag manga! \n\n(Source: Bungo Stray Dogs Wiki)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1368/110483.jpg",
       "date": "Jan 13, 2021, 00:30 (JST)",
       "producer": "Bones, Nomad",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Slice of Life",
         "Comedy",
@@ -426,18 +442,6 @@
         "Comedy",
         "Fantasy",
         "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "A story of troubled girls, spun by screenwriter Shinji Nojima in the world of anime.\n\nLed by a mysterious voice while on a midnight stroll, 14-year-old girl Ai Ooto picks up an egg. The voice coaxes her: \"If you want to change the future, you only need to choose now. Now, believe in yourself and break the egg.\"\n\nWhat awaits Ai after the breaking of the egg...\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1507/110750.jpg",
-      "date": "Jan 13, 2021, 01:29 (JST)",
-      "producer": "CloverWorks",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -492,7 +496,10 @@
       "producer": "J.C.Staff",
       "eps": null,
       "genres": [
-        "Sports"
+        "Comedy",
+        "Sports",
+        "Drama",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -512,6 +519,21 @@
     },
     {
       "title": "",
+      "description": "This is a slightly peculiar world where the shipgirls live in. A lively and enjoyable school life for girls from different factions will begin at the naval port of Azur Lane. Living out their lives to the fullest, these girls get into various shenanigans—slowly but surely!\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/110836.jpg",
+      "date": "Jan 12, 2021, 01:00 (JST)",
+      "producer": "CANDY BOX, Yostar Pictures",
+      "eps": 12,
+      "genres": [
+        "Military",
+        "Sci-Fi",
+        "Slice of Life",
+        "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Project Scard depicts the encounters and battles of those who have tattoos which possess the sealed powers of divine beasts and gods. The story is set in the Akatsuki Special Zone, a lawless zone in Tokyo.\n\n\"Helios\" are those who use the ability of the tattoos to protect the city, \"Artemis\" are committed to maintain security and control, whilst having a strong commercial motive, and the \"Public Security Special Service\" are Scard Staff of the metropolitan police department. They live through the turbulent days to keep on going.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1995/109124.jpg",
       "date": "Jan 9, 2021, 01:55 (JST)",
@@ -520,21 +542,6 @@
       "genres": [
         "Action",
         "Super Power"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/110836.jpg",
-      "date": "Jan 12, 2021, 01:00 (JST)",
-      "producer": "CANDY BOX, Yostar Pictures",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Military",
-        "Sci-Fi",
-        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -570,6 +577,18 @@
     },
     {
       "title": "",
+      "description": "To become an idol, I shed blood, sweat, and tears. Even so, I push on. I want to shine. I want to earn it. I want to become number one. I want to smile. I want to make my dreams come true. I want to look back at a sea of people. I want to be noticed. I want to find it. I want to overcome obstacles. I have only pride inside my chest.\n\nNo one is in the spotlight from the beginning. Everyone is weak. Only those who do not break will reach the highest peak to become an idol. This is the story of idols who face big dreams and harsh reality.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1940/109582.jpg",
+      "date": "Jan 10, 2021, 23:30 (JST)",
+      "producer": "Lerche",
+      "eps": 12,
+      "genres": [
+        "Music"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Set five years after the mysterious disaster of a city's sudden disappearance, a group of girls fascinated by the \"Theatrical Material System\" using 3D holograms aims to brighten the stage during the city's post-apocalyptic recovery.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1438/110365.jpg",
       "date": "Jan 5, 2021, 21:00 (JST)",
@@ -582,7 +601,7 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
+      "description": "In an unplanned field trip, Riko is transported to an alternate Japan where metal-based life forms known as Mimesis ravage the world. Only girls equipped with LBX armored weaponry can stand up to this scourge. Joined by four other displaced young women, Riko will have to adapt to save humanity. The hope of a planet now rests on these heavy metal soldiers who desire one wish—to return home again!\n\n(Source: Leoanime)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1532/110186.jpg",
       "date": "Jan 7, 2021, 00:00 (JST)",
       "producer": "Studio A-CAT",
@@ -591,18 +610,6 @@
         "Action",
         "Military",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "To become an idol, I shed blood, sweat, and tears. Even so, I push on. I want to shine. I want to earn it. I want to become number one. I want to smile. I want to make my dreams come true. I want to look back at a sea of people. I want to be noticed. I want to find it. I want to overcome obstacles. I have only pride inside my chest.\n\nNo one is in the spotlight from the beginning. Everyone is weak. Only those who do not break will reach the highest peak to become an idol. This is the story of idols who face big dreams and harsh reality.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1940/109582.jpg",
-      "date": "Jan 10, 2021, 23:30 (JST)",
-      "producer": "Lerche",
-      "eps": 12,
-      "genres": [
-        "Music"
       ],
       "category": "TV (New)"
     },
@@ -618,6 +625,21 @@
         "Slice of Life",
         "Comedy",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Third season of Yatogame-chan Kansatsu Nikki.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1389/111080.jpg",
+      "date": "Jan 10, 2021, 21:54 (JST)",
+      "producer": "Creators in Pack, LEVELS",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "School",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -644,21 +666,6 @@
       "genres": [
         "Game",
         "Psychological"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Third season of Yatogame-chan Kansatsu Nikki.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1389/111080.jpg",
-      "date": "Jan 10, 2021, 21:54 (JST)",
-      "producer": "Creators in Pack, LEVELS",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "School",
-        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -1958,6 +1965,18 @@
     },
     {
       "title": "",
+      "description": "Mini anime about the Fukui dialect, released on the Official Twitter.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1300/111150.jpg",
+      "date": "Jan 7, 2021",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1051/110891.jpg",
       "date": "Feb 7, 2021",
@@ -1969,6 +1988,18 @@
         "Fantasy",
         "Historical",
         "Martial Arts"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Mini anime where Kuroba introduces Mondai Town to Haijima, who has returned to Fukui for the first time in a long time, released on the official Twitter.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1280/111151.jpg",
+      "date": "Jan 9, 2021",
+      "producer": "-",
+      "eps": 10,
+      "genres": [
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2382,7 +2413,7 @@
       "title": "",
       "description": "Unaired episode 13 of Dogeza de Tanondemita.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1973/109541.jpg",
-      "date": "Jan 27, 2021",
+      "date": "Jan 12, 2021",
       "producer": "DMM pictures",
       "eps": 1,
       "genres": [
