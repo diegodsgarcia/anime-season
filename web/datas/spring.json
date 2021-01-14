@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-01-13",
+  "lastUpdate": "2021-01-14",
   "animes": [
     {
       "title": "",
@@ -186,7 +186,7 @@
       "title": "",
       "description": "At Granbell Kingdom, an abandoned amusement park, Shiki has lived his entire life among machines. But one day, Rebecca and her cat companion Happy appear at the park's front gates. Little do these newcomers know that this is the first human contact Granbell has had in a hundred years! \n\nAs Shiki stumbles his way into making new friends, his former neighbors stir at an opportunity for a robo-rebellion… And when his old homeland becomes too dangerous, Shiki must join Rebecca and Happy on their spaceship and escape into the boundless cosmos. \n\n(Source: Kodansha Comics)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1493/109463.jpg",
-      "date": "Apr ??, 2021, 00:55 (JST)",
+      "date": "Apr 11, 2021, 00:55 (JST)",
       "producer": "J.C.Staff",
       "eps": null,
       "genres": [
@@ -601,19 +601,6 @@
     },
     {
       "title": "",
-      "description": "\"Starlight\" - it's a distant star, long ago, and in the far future. Two girls, who were struck by the light of the stage in this play, exchanged their destinies.\n\n\"Two people's stars, waiting on stage.\"\n\nTo burn out ordinary fun and joy and fulfill our destinies. A destiny to become a blast furnace at just 5 years old... what a danger.\n\nEventually the two will meet again. One continued to stand on the stage of tragedy, the other jumped in, separated, jumped in, rewrote their destinies... and created a new chapter full of light.\n\nNo girl was burned and fell from the tower, nor was she imprisoned. Then... what is the end of that new chapter?\n\n\"Starlight\" is a story of an unknown author. Where does the light come from and where does it go? And who is \"starring\" in this story?\n\nI want to see it.\n\nHey -- Hanako Aishiro, a third-year student at Seisho Music Academy?\n\n(Source: Official website)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1880/111121.jpg",
-      "date": "May 21, 2021",
-      "producer": "Kinema Citrus",
-      "eps": 1,
-      "genres": [
-        "Music",
-        "School"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "",
       "description": "14-year-old Nozomi Onda has only one thing on her mind: playing beautiful soccer. There's just one problem: no matter how much she longs to participate in official matches, she'd have physically superior boys as opponents. But when a boy from her past confronts her on the street, she decides she can't wait any longer.\n\n(Source: Kodansha Comics)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1940/109075.jpg",
       "date": "Apr 1, 2021",
@@ -624,6 +611,19 @@
         "Romance",
         "School",
         "Shounen"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
+      "description": "\"Starlight\" - it's a distant star, long ago, and in the far future. Two girls, who were struck by the light of the stage in this play, exchanged their destinies.\n\n\"Two people's stars, waiting on stage.\"\n\nTo burn out ordinary fun and joy and fulfill our destinies. A destiny to become a blast furnace at just 5 years old... what a danger.\n\nEventually the two will meet again. One continued to stand on the stage of tragedy, the other jumped in, separated, jumped in, rewrote their destinies... and created a new chapter full of light.\n\nNo girl was burned and fell from the tower, nor was she imprisoned. Then... what is the end of that new chapter?\n\n\"Starlight\" is a story of an unknown author. Where does the light come from and where does it go? And who is \"starring\" in this story?\n\nI want to see it.\n\nHey -- Hanako Aishiro, a third-year student at Seisho Music Academy?\n\n(Source: Official website)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1880/111121.jpg",
+      "date": "May 21, 2021",
+      "producer": "Kinema Citrus",
+      "eps": 1,
+      "genres": [
+        "Music",
+        "School"
       ],
       "category": "Movie"
     },
