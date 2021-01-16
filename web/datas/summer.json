@@ -1,8 +1,22 @@
 {
   "season": "Summer",
   "year": "2021",
-  "lastUpdate": "2021-01-15",
+  "lastUpdate": "2021-01-16",
   "animes": [
+    {
+      "title": "",
+      "description": "Second season of Kobayashi-san Chi no Maid Dragon.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1777/108817.jpg",
+      "date": "Jul ??, 2021",
+      "producer": "Kyoto Animation",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
     {
       "title": "",
       "description": "Second half of Tensei shitara Slime Datta Ken 2nd Season.",
@@ -129,6 +143,18 @@
       "genres": [
         "Mecha",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Kukuru Misakino, an 18-year-old high school girl working in an aquarium, meets Fuuka Miyazawa, a former idol who lost her place in Tokyo and escaped. Fuuka will spend her days in the aquarium with her own thoughts in mind. However, the crisis of closing is approaching for the aquarium, as the girls explore their dreams and reality, loneliness and friends, bonds and conflicts.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1519/111174.jpg",
+      "date": "Jul ??, 2021",
+      "producer": "P.A. Works",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },

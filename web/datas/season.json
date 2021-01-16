@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-01-15",
+  "lastUpdate": "2021-01-16",
   "animes": [
     {
       "title": "",
@@ -43,7 +43,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1711/110614.jpg",
       "date": "Jan 14, 2021, 22:30 (JST)",
       "producer": "TMS Entertainment",
-      "eps": null,
+      "eps": 11,
       "genres": [
         "Sci-Fi",
         "Adventure",
@@ -81,13 +81,13 @@
     },
     {
       "title": "",
-      "description": "Second season of 5-toubun no Hanayome.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1775/109514.jpg",
-      "date": "Jan 8, 2021, 01:28 (JST)",
-      "producer": "Bibury Animation Studios",
-      "eps": 12,
+      "description": "Although admired at school for her amiability and academic prowess, high school student Kyouko Hori has been hiding another side of her. With her parents often away from home due to work, Hori has to look after her younger brother and do the housework, leaving no chance to socialize away from school.\n\nMeanwhile, Izumi Miyamura is seen as a brooding, glasses-wearing otaku. However, in reality, he is a gentle person inept at studying. Furthermore, he has nine piercings hidden behind his long hair and a tattoo along his back and left shoulder.\n\nBy sheer chance, Hori and Miyamura cross paths outside of school—neither looking as the other expects. These seemingly polar opposites become friends, sharing with each other a side they have never shown to anyone else.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1791/110336.jpg",
+      "date": "Jan 10, 2021, 00:30 (JST)",
+      "producer": "CloverWorks",
+      "eps": 13,
       "genres": [
-        "Harem",
+        "Slice of Life",
         "Comedy",
         "Romance",
         "School",
@@ -97,13 +97,13 @@
     },
     {
       "title": "",
-      "description": "Although admired at school for her amiability and academic prowess, high school student Kyouko Hori has been hiding another side of her. With her parents often away from home due to work, Hori has to look after her younger brother and do the housework, leaving no chance to socialize away from school.\n\nMeanwhile, Izumi Miyamura is seen as a brooding, glasses-wearing otaku. However, in reality, he is a gentle person inept at studying. Furthermore, he has nine piercings hidden behind his long hair and a tattoo along his back and left shoulder.\n\nBy sheer chance, Hori and Miyamura cross paths outside of school—neither looking as the other expects. These seemingly polar opposites become friends, sharing with each other a side they have never shown to anyone else.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1791/110336.jpg",
-      "date": "Jan 10, 2021, 00:30 (JST)",
-      "producer": "CloverWorks",
-      "eps": 13,
+      "description": "Second season of 5-toubun no Hanayome.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1775/109514.jpg",
+      "date": "Jan 8, 2021, 01:28 (JST)",
+      "producer": "Bibury Animation Studios",
+      "eps": 12,
       "genres": [
-        "Slice of Life",
+        "Harem",
         "Comedy",
         "Romance",
         "School",
@@ -201,6 +201,19 @@
     },
     {
       "title": "",
+      "description": "\"Healing magicians cannot fight alone.\"\n\nKeare, who was bound by this common knowledge, was exploited again and again by others. One day, he noticed what lay beyond healing magic, and was convinced that a healing magician was the strongest class. However, by the time he realized that potential, he was deprived of everything. Thus, he used healing magic on the world itself to go back four years, deciding to redo everything.\n\nThis is a heroic tale of one healing magician who became the strongest by using knowledge from his past life and healing magic. \n\n(Source: Novel Updates, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1301/110018.jpg",
+      "date": "Jan 13, 2021, 23:30 (JST)",
+      "producer": "TNK",
+      "eps": null,
+      "genres": [
+        "Ecchi",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "The world where the Hero and the Demon King continue to oppose each other. The grand magic from the Hero and the Demon King cross over worlds and exploded in the classroom of a certain high school.\n \nThe students who died in the explosion will be reincarnated in a different world. The protagonist, who has the lowest reputation in the class, was reincarnated into a spider. Nevertheless, she adapted quickly to the present condition with strong willpower.\n \nThis is a story of she who has become a spider trying whatever she can to live.\n \n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1609/110322.jpg",
       "date": "Jan 8, 2021, 21:30 (JST)",
@@ -209,19 +222,6 @@
       "genres": [
         "Adventure",
         "Comedy",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "\"Healing magicians cannot fight alone.\"\n\nKeare, who was bound by this common knowledge, was exploited again and again by others. One day, he noticed what lay beyond healing magic, and was convinced that a healing magician was the strongest class. However, by the time he realized that potential, he was deprived of everything. Thus, he used healing magic on the world itself to go back four years, deciding to redo everything.\n\nThis is a heroic tale of one healing magician who became the strongest by using knowledge from his past life and healing magic. \n\n(Source: Novel Updates, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1301/110018.jpg",
-      "date": "Jan 13, 2021, 23:30 (JST)",
-      "producer": "TNK",
-      "eps": null,
-      "genres": [
-        "Ecchi",
         "Fantasy"
       ],
       "category": "TV (New)"
@@ -327,6 +327,21 @@
     },
     {
       "title": "",
+      "description": "Junior high school student Kimichika Haijima moves back to his hometown, Fukui, after causing trouble in the Tokyo Junior High School volleyball club. There, he is reunited with his childhood friend, Yuni Kuroba, who possesses outstanding physical abilities, but is vulnerable under pressure. Haijima, with his overwhelming passion and talent for volleyball, forms an ace combination with Kuroba.\n\nThe two enroll at Seiin High School, where they join the volleyball club. Awaiting them are the 163 cm hot-blooded captain Shinichirou Oda, the talented and sharp-tongued vice-captain Misao Aoki and his third-year pair, and second-year students, including Akito Kanno, who is always wearing long sleeves due to his allergy to sunlight.\n\nThe newborn team breaks its former shell of weakness and becomes Fukui's rising star. This is a certain team's journey to victory, with a series of fascinating rivals standing in their way.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1596/108096.jpg",
+      "date": "Jan 8, 2021, 00:55 (JST)",
+      "producer": "David Production",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Sports",
+        "Drama",
+        "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Her first encounter with Toriko Nishina was on the Otherside after seeing \"that thing\" and nearly dying. Ever since that day, exhausted university student Sorawo Kamikoshi's life changed. In this Otherworld, full of mystery, which exists alongside our own, dangerous beings like the Kunekune and Hasshaku-sama that are spoken of in real ghost stories appear. For research, for profit, and to find an important person, Toriko and Sorao set foot into the abnormal.\n\n(Source: J-Novel Club, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1601/110081.jpg",
       "date": "Jan 4, 2021, 23:30 (JST)",
@@ -338,21 +353,6 @@
         "Mystery",
         "Fantasy",
         "Shoujo Ai"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Junior high school student Kimichika Haijima moves back to his hometown, Fukui, after causing trouble in the Tokyo Junior High School volleyball club. There, he is reunited with his childhood friend, Yuni Kuroba, who possesses outstanding physical abilities, but is vulnerable under pressure. Haijima, with his overwhelming passion and talent for volleyball, forms an ace combination with Kuroba.\n\nThe two enroll at Seiin High School, where they join the volleyball club. Awaiting them are the 163 cm hot-blooded captain Shinichirou Oda, the talented and sharp-tongued vice-captain Misao Aoki and his third-year pair, and second-year students, including Akito Kanno, who is always wearing long sleeves due to his allergy to sunlight.\n\nThe newborn team breaks its former shell of weakness and becomes Fukui's rising star. This is a certain team's journey to victory, with a series of fascinating rivals standing in their way.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1596/108096.jpg",
-      "date": "Jan 8, 2021, 00:55 (JST)",
-      "producer": "David Production",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Sports",
-        "Drama",
-        "School"
       ],
       "category": "TV (New)"
     },
@@ -738,6 +738,18 @@
     },
     {
       "title": "",
+      "description": "ABCiee is a bit klutzy and ditsy, but he's full of spunk and he starts his dream job at a TV station! This is a work comedy filled with all kinds of hijinks! \"I never knew it was so hard working at a TV station, ciee!\" Despite having to face the unknown rules of the TV business, unique coworkers, and guest stars who have very particular quirks, ABCiee takes them head on with his positivity. Work, love, family, whatever goes!! Please watch over ABCiee as he takes on the TV business.\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1548/110221.jpg",
+      "date": "Jan 7, 2021, 01:32 (JST)",
+      "producer": "Fanworks",
+      "eps": null,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1184/110907.jpg",
       "date": "Feb 28, 2021",
@@ -753,13 +765,13 @@
     },
     {
       "title": "",
-      "description": "ABCiee is a bit klutzy and ditsy, but he's full of spunk and he starts his dream job at a TV station! This is a work comedy filled with all kinds of hijinks! \"I never knew it was so hard working at a TV station, ciee!\" Despite having to face the unknown rules of the TV business, unique coworkers, and guest stars who have very particular quirks, ABCiee takes them head on with his positivity. Work, love, family, whatever goes!! Please watch over ABCiee as he takes on the TV business.\n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1548/110221.jpg",
-      "date": "Jan 7, 2021, 01:32 (JST)",
-      "producer": "Fanworks",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1529/110445.jpg",
+      "date": "Jan 5, 2021, 07:30 (JST)",
+      "producer": "Shin-Ei Animation",
       "eps": null,
       "genres": [
-        "Comedy"
+        "Kids"
       ],
       "category": "TV (New)"
     },
@@ -773,18 +785,6 @@
       "genres": [
         "Comedy",
         "Romance"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1529/110445.jpg",
-      "date": "Jan 5, 2021, 07:30 (JST)",
-      "producer": "Shin-Ei Animation",
-      "eps": null,
-      "genres": [
-        "Kids"
       ],
       "category": "TV (New)"
     },
@@ -2288,21 +2288,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1973/110449.jpg",
-      "date": "Mar 20, 2021",
-      "producer": "-",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Magic",
-        "Fantasy",
-        "Shoujo"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "",
       "description": "The new anime will tell an original story, featuring a match between the Hyoutei Academy Secondary Department led by Keigo Atobe and Rikkai University-Affiliated Middle School led by Seiichi Yukimura. The story was previously not depicted in the manga.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1277/110063.jpg",
       "date": "Feb 13, 2021",
@@ -2313,6 +2298,21 @@
         "Sports",
         "School",
         "Shounen"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1973/110449.jpg",
+      "date": "Mar 20, 2021",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Magic",
+        "Fantasy",
+        "Shoujo"
       ],
       "category": "Movie"
     },

@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-01-15",
+  "lastUpdate": "2021-01-16",
   "animes": [
     {
       "title": "",
@@ -392,6 +392,19 @@
     },
     {
       "title": "",
+      "description": "Second year high school student Koguma doesn't lead a very interesting life. She has no parents, and no friends nor hobbies to keep her daily life busy. One day, she acquires a second-hand Honda Super Cub motorcycle and rides it to school. As time goes by, not only does Koguma have a new adventurous life, but she also forges precious friendships thanks to her precious little motorcycle.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1776/111172.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "Studio Kai",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "The city of Tajimi, located in the southern part of Gifu Prefecture, Japan, is famous for Mino earthenware. The city is dotted with historical pottery producers and ceramic art museums. It has facilities where you can try your hand at making pottery, and many restaurants that serve food on Minoware dishes.\n\nThe story begins when a high school girl moves to a shopping street in Tajimi. Many encounters await her, friends, town folk, ceramic art, etc. What will she discover in a town famous for ceramic? \n\n(Source: Official Manga Website)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1683/111102.jpg",
       "date": "Apr ??, 2021",
@@ -485,6 +498,18 @@
     },
     {
       "title": "",
+      "description": "",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1689/111175.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "Wit Studio",
+      "eps": null,
+      "genres": [
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "There are strange people in this world. If it is short, it will disappear for several days, and if it is long, it will disappear for hundreds of years. The name and personality changed, and suddenly appeared by someone's unexpected idea. Even though he is the most weird, he is loosely accepted and used by his boss. This is the story of such strange people.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1221/109913.jpg",
       "date": "Apr ??, 2021",
@@ -540,6 +565,22 @@
         "School"
       ],
       "category": "OVA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1222/108354.jpg",
+      "date": "May 14, 2021",
+      "producer": "Polygon Pictures",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Space",
+        "Mecha",
+        "Seinen"
+      ],
+      "category": "Movie"
     },
     {
       "title": "",
