@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-01-17",
+  "lastUpdate": "2021-01-18",
   "animes": [
     {
       "title": "",
@@ -493,6 +493,18 @@
       "genres": [
         "School",
         "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "In a city which should be familiar, there is the feeling of something a little different.\n\nKotokawa is a taxi driver who lives an ordinary life, taxing some quirky customers around. A slightly eccentric stranger who has no relatives nor any relations with other people, Kotokawa's hobby is to listen to Rakugo on the radio before going to bed. For the time being, the only people he can consider as friends are his family doctor Gouriki, and his high school classmate Kakihana.\n\nKabasawa, a college student who wants a buzz, Shirakawa, a nurse who's hiding something, comedian group Homo Sapiens, who isn't selling well, the city hoodlum Dobu, and the rookie idol group Mystery Kiss—the conversations with these people, which should not have meant much, lead to a girl who disappeared.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1155/111177.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "OLM, P.I.C.S.",
+      "eps": null,
+      "genres": [
+        "Mystery"
       ],
       "category": "TV (New)"
     },

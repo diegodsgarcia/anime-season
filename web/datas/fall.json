@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-01-17",
+  "lastUpdate": "2021-01-18",
   "animes": [
     {
       "title": "",
@@ -117,7 +117,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1068/111129.jpg",
       "date": "Jan 11, 2021, 00:00 (JST)",
       "producer": "Studio Bind",
-      "eps": null,
+      "eps": 11,
       "genres": [
         "Drama",
         "Magic",
@@ -257,20 +257,6 @@
     },
     {
       "title": "",
-      "description": "Tomozaki is one of the best gamers in Japan, and in his opinion, the game of real life is one of the worst. No clear-cut rules for success, horribly balanced, and nothing makes sense. But then he meets a gamer who's just as good as him, and she offers to teach him a few exploits...\n\n(Source: Yen Press)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1120/109232.jpg",
-      "date": "Jan 8, 2021, 21:00 (JST)",
-      "producer": "Project No.9",
-      "eps": 12,
-      "genres": [
-        "Drama",
-        "Romance",
-        "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "When a series of animal bodies that rot away after a single night begin appearing in a remote mountain village, Inugami, a detective from Tokyo who specializes in the occult, is called to investigate.\n\nWhile working the case, he befriends a strange boy who works in the field every day instead of going to school. Shunned by his peers and nicknamed \"Dorota-bou\" after a yokai that lives in the mud, he helps Inugami uncover the truth behind the killings—but supernatural forces are at work, and while Dorota-bou is just a nickname, it might not be the only thing about the boy that isn't human. \n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1258/108331.jpg",
       "date": "Jan 10, 2021, 22:00 (JST)",
@@ -287,14 +273,15 @@
     },
     {
       "title": "",
-      "description": "Lloyd is a novice adventurer whose dream is to discover \"true strength\" in the capital he's always admired, despite growing up with neighbors who always considered him weak. The story starts with him departing from his hometown, which just so happens to be located right next to...one of the most dangerous dungeons in the world?! Lloyd may think of himself as powerless, but when he goes to the city that serves as the starter town for adventurers, the difference between him and everyone else couldn't be starker! \n\n(Source: Yen Press, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1282/106599.jpg",
-      "date": "Jan 4, 2021, 22:00 (JST)",
-      "producer": "LIDENFILMS",
+      "description": "Tomozaki is one of the best gamers in Japan, and in his opinion, the game of real life is one of the worst. No clear-cut rules for success, horribly balanced, and nothing makes sense. But then he meets a gamer who's just as good as him, and she offers to teach him a few exploits...\n\n(Source: Yen Press)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1120/109232.jpg",
+      "date": "Jan 8, 2021, 21:00 (JST)",
+      "producer": "Project No.9",
       "eps": 12,
       "genres": [
-        "Adventure",
-        "Fantasy"
+        "Drama",
+        "Romance",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -308,6 +295,19 @@
       "genres": [
         "Comedy",
         "Sports"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Lloyd is a novice adventurer whose dream is to discover \"true strength\" in the capital he's always admired, despite growing up with neighbors who always considered him weak. The story starts with him departing from his hometown, which just so happens to be located right next to...one of the most dangerous dungeons in the world?! Lloyd may think of himself as powerless, but when he goes to the city that serves as the starter town for adventurers, the difference between him and everyone else couldn't be starker! \n\n(Source: Yen Press, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1282/106599.jpg",
+      "date": "Jan 4, 2021, 22:00 (JST)",
+      "producer": "LIDENFILMS",
+      "eps": 12,
+      "genres": [
+        "Adventure",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -327,21 +327,6 @@
     },
     {
       "title": "",
-      "description": "Junior high school student Kimichika Haijima moves back to his hometown, Fukui, after causing trouble in the Tokyo Junior High School volleyball club. There, he is reunited with his childhood friend, Yuni Kuroba, who possesses outstanding physical abilities, but is vulnerable under pressure. Haijima, with his overwhelming passion and talent for volleyball, forms an ace combination with Kuroba.\n\nThe two enroll at Seiin High School, where they join the volleyball club. Awaiting them are the 163 cm hot-blooded captain Shinichirou Oda, the talented and sharp-tongued vice-captain Misao Aoki and his third-year pair, and second-year students, including Akito Kanno, who is always wearing long sleeves due to his allergy to sunlight.\n\nThe newborn team breaks its former shell of weakness and becomes Fukui's rising star. This is a certain team's journey to victory, with a series of fascinating rivals standing in their way.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1596/108096.jpg",
-      "date": "Jan 8, 2021, 00:55 (JST)",
-      "producer": "David Production",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Sports",
-        "Drama",
-        "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Her first encounter with Toriko Nishina was on the Otherside after seeing \"that thing\" and nearly dying. Ever since that day, exhausted university student Sorawo Kamikoshi's life changed. In this Otherworld, full of mystery, which exists alongside our own, dangerous beings like the Kunekune and Hasshaku-sama that are spoken of in real ghost stories appear. For research, for profit, and to find an important person, Toriko and Sorao set foot into the abnormal.\n\n(Source: J-Novel Club, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1601/110081.jpg",
       "date": "Jan 4, 2021, 23:30 (JST)",
@@ -353,6 +338,21 @@
         "Mystery",
         "Fantasy",
         "Shoujo Ai"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Junior high school student Kimichika Haijima moves back to his hometown, Fukui, after causing trouble in the Tokyo Junior High School volleyball club. There, he is reunited with his childhood friend, Yuni Kuroba, who possesses outstanding physical abilities, but is vulnerable under pressure. Haijima, with his overwhelming passion and talent for volleyball, forms an ace combination with Kuroba.\n\nThe two enroll at Seiin High School, where they join the volleyball club. Awaiting them are the 163 cm hot-blooded captain Shinichirou Oda, the talented and sharp-tongued vice-captain Misao Aoki and his third-year pair, and second-year students, including Akito Kanno, who is always wearing long sleeves due to his allergy to sunlight.\n\nThe newborn team breaks its former shell of weakness and becomes Fukui's rising star. This is a certain team's journey to victory, with a series of fascinating rivals standing in their way.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1596/108096.jpg",
+      "date": "Jan 8, 2021, 00:55 (JST)",
+      "producer": "David Production",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Sports",
+        "Drama",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -521,6 +521,19 @@
     },
     {
       "title": "",
+      "description": "Project Scard depicts the encounters and battles of those who have tattoos which possess the sealed powers of divine beasts and gods. The story is set in the Akatsuki Special Zone, a lawless zone in Tokyo.\n\n\"Helios\" are those who use the ability of the tattoos to protect the city, \"Artemis\" are committed to maintain security and control, whilst having a strong commercial motive, and the \"Public Security Special Service\" are Scard Staff of the metropolitan police department. They live through the turbulent days to keep on going.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1995/109124.jpg",
+      "date": "Jan 9, 2021, 01:55 (JST)",
+      "producer": "GoHands",
+      "eps": 13,
+      "genres": [
+        "Action",
+        "Super Power"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Second season of Uma Musume: Pretty Derby.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1417/110803.jpg",
       "date": "Jan 5, 2021, 00:00 (JST)",
@@ -530,19 +543,6 @@
         "Slice of Life",
         "Comedy",
         "Sports"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Project Scard depicts the encounters and battles of those who have tattoos which possess the sealed powers of divine beasts and gods. The story is set in the Akatsuki Special Zone, a lawless zone in Tokyo.\n\n\"Helios\" are those who use the ability of the tattoos to protect the city, \"Artemis\" are committed to maintain security and control, whilst having a strong commercial motive, and the \"Public Security Special Service\" are Scard Staff of the metropolitan police department. They live through the turbulent days to keep on going.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1995/109124.jpg",
-      "date": "Jan 9, 2021, 01:55 (JST)",
-      "producer": "GoHands",
-      "eps": 13,
-      "genres": [
-        "Action",
-        "Super Power"
       ],
       "category": "TV (New)"
     },
@@ -646,19 +646,6 @@
     },
     {
       "title": "",
-      "description": "\"All stars\" season of Show by Rock!! featuring all the bands from previous seasons.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1713/106712.jpg",
-      "date": "Jan 7, 2021, 22:00 (JST)",
-      "producer": "Kinema Citrus",
-      "eps": 12,
-      "genres": [
-        "Music",
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1779/110807.jpg",
       "date": "Jan 9, 2021, 00:30 (JST)",
@@ -667,6 +654,19 @@
       "genres": [
         "Game",
         "Psychological"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "\"All stars\" season of Show by Rock!! featuring all the bands from previous seasons.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1713/106712.jpg",
+      "date": "Jan 7, 2021, 22:00 (JST)",
+      "producer": "Kinema Citrus",
+      "eps": 12,
+      "genres": [
+        "Music",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -971,21 +971,6 @@
     },
     {
       "title": "",
-      "description": "Following the successful Sanyou campaign, the Qin army, including 1,000-Man Commander Li Xin, inches ever closer to fulfilling King Ying Zheng's dream of unifying China. With a major geographical foothold in the state of Wei now under its control, Qin sets its sights eastward toward the remaining warring states.\n\nMeanwhile Li Mu—an unparalleled strategist and the newly appointed prime minister of the state of Zhao—has taken advantage of Zhao's temporary truce with Qin to negotiate with the other states without interruption. Seemingly without warning, Ying Zheng receives news that armies from the states of Chu, Zhao, Wei, Han, Yan, and Qi have crossed into Qin territory. Realizing too late the purpose behind Li Mu's truce with Qin, Zheng quickly gathers his advisors to devise a plan to address the six-state coalition army on their doorstep. For the first time in history, the state of Qin faces complete destruction and must use every resource and strategy at their disposal to prevent themselves from being wiped off the map.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1723/109872.jpg",
-      "date": "Apr 6, 2020, 00:15 (JST)",
-      "producer": "Studio Signpost",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Historical",
-        "Military",
-        "Seinen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "It's been 100 years since King Kyle buried Ang Mundo. Now in a time of peace, the apprentice knight Kasel enjoys his life without worry. His fate begins to change, however, with news of demon appearances infesting the neighborhood. Guided by a wise man, Kasel finds friends he can rely on and sets off on his mission to seek a holy sword, capable of slaying his newfound enemies.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1885/109122.jpg",
       "date": "Oct 3, 2020, 01:23 (JST)",
@@ -996,6 +981,21 @@
         "Adventure",
         "Magic",
         "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Following the successful Sanyou campaign, the Qin army, including 1,000-Man Commander Li Xin, inches ever closer to fulfilling King Ying Zheng's dream of unifying China. With a major geographical foothold in the state of Wei now under its control, Qin sets its sights eastward toward the remaining warring states.\n\nMeanwhile Li Mu—an unparalleled strategist and the newly appointed prime minister of the state of Zhao—has taken advantage of Zhao's temporary truce with Qin to negotiate with the other states without interruption. Seemingly without warning, Ying Zheng receives news that armies from the states of Chu, Zhao, Wei, Han, Yan, and Qi have crossed into Qin territory. Realizing too late the purpose behind Li Mu's truce with Qin, Zheng quickly gathers his advisors to devise a plan to address the six-state coalition army on their doorstep. For the first time in history, the state of Qin faces complete destruction and must use every resource and strategy at their disposal to prevent themselves from being wiped off the map.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1723/109872.jpg",
+      "date": "Apr 6, 2020, 00:15 (JST)",
+      "producer": "Studio Signpost",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Historical",
+        "Military",
+        "Seinen"
       ],
       "category": "TV (Continuing)"
     },
@@ -1039,18 +1039,6 @@
         "Comedy",
         "Kids",
         "Shounen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "A new media mix project by Bushiroad.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1765/109713.jpg",
-      "date": "Oct 23, 2020, 23:00 (JST)",
-      "producer": "SANZIGEN",
-      "eps": null,
-      "genres": [
-        "Music"
       ],
       "category": "TV (Continuing)"
     },
