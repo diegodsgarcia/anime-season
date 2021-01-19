@@ -1,11 +1,11 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-01-18",
+  "lastUpdate": "2021-01-19",
   "animes": [
     {
       "title": "",
-      "description": "Gabi Braun and Falco Grice have been training their entire lives to inherit one of the seven titans under Marley's control and aid their nation in eradicating the Eldians on Paradis. However, just as all seems well for the two cadets, their peace is suddenly shaken by the arrival of Eren Yeager and the remaining members of the Survey Corps. \n\nHaving finally reached the Yeager family basement and learned about the dark history surrounding the titans, the Survey Corps have at long last found the answer they so desperately fought to uncover. With the truth now in their hands, the group set out for the world beyond the walls.\n\nIn Shingeki no Kyojin: The Final Season, two utterly different worlds collide as each party pursues their own agenda in the long-awaited conclusion to Paradis’ fight for freedom.\n\n[Written by MAL Rewrite]",
+      "description": "Gabi Braun and Falco Grice have been training their entire lives to inherit one of the seven titans under Marley's control and aid their nation in eradicating the Eldians on Paradis. However, just as all seems well for the two cadets, their peace is suddenly shaken by the arrival of Eren Yeager and the remaining members of the Survey Corps. \n\nHaving finally reached the Yeager family basement and learned about the dark history surrounding the titans, the Survey Corps have at long last found the answer they so desperately fought to uncover. With the truth now in their hands, the group set out for the world beyond the walls.\n\nIn Shingeki no Kyojin: The Final Season, two utterly different worlds collide as each party pursues their own agenda in the long-awaited conclusion to Paradis' fight for freedom.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg",
       "date": "Dec 7, 2020, 00:10 (JST)",
       "producer": "MAPPA",
@@ -175,7 +175,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1723/110185.jpg",
       "date": "Jan 13, 2021, 17:55 (JST)",
       "producer": "Studio Deen",
-      "eps": null,
+      "eps": 24,
       "genres": [
         "Action",
         "Adventure",
@@ -183,19 +183,6 @@
         "Magic",
         "Fantasy",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Alcohol, smoking, and stress—in the body subjected to these irritants, the cells responsible for maintaining life seem to fight a war that never ends. Due to a severe shortage of workers, Red Blood Cell AA2153 has to quickly learn to deliver oxygen and collect carbon dioxide, even in dangerous conditions. Meanwhile, White Blood Cell U-1196 has to do her part by dealing with germs and viruses during life-threatening situations. In the midst of these crises, they have to work together to keep the body healthy, despite not knowing if their sacrifices will be worthwhile.\n\nHataraku Saibou Black takes a different approach by showing the grittier side of the jobs our cells perform.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1837/110799.jpg",
-      "date": "Jan 10, 2021, 00:00 (JST)",
-      "producer": "LIDENFILMS",
-      "eps": 13,
-      "genres": [
-        "Action",
-        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -209,6 +196,19 @@
       "genres": [
         "Ecchi",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Alcohol, smoking, and stress—in the body subjected to these irritants, the cells responsible for maintaining life seem to fight a war that never ends. Due to a severe shortage of workers, Red Blood Cell AA2153 has to quickly learn to deliver oxygen and collect carbon dioxide, even in dangerous conditions. Meanwhile, White Blood Cell U-1196 has to do her part by dealing with germs and viruses during life-threatening situations. In the midst of these crises, they have to work together to keep the body healthy, despite not knowing if their sacrifices will be worthwhile.\n\nHataraku Saibou Black takes a different approach by showing the grittier side of the jobs our cells perform.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1837/110799.jpg",
+      "date": "Jan 10, 2021, 00:00 (JST)",
+      "producer": "LIDENFILMS",
+      "eps": 13,
+      "genres": [
+        "Action",
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -228,19 +228,6 @@
     },
     {
       "title": "",
-      "description": "Second season of Yuru Camp△.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1255/110636.jpg",
-      "date": "Jan 7, 2021, 23:00 (JST)",
-      "producer": "C-Station",
-      "eps": 13,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Noir is the son of a minor noble with very little to his name other than a job offer—which is canceled before he can even start his first day. He does possess one rare trait, though: the magical ability to consult with a great sage, even if using the skill gives him terrible headaches! Unsure of what his future holds, he accesses the sage for advice on how to move forward and is directed to a secret dungeon filled with rare beasts and magical items. It is here that Noir will train, compiling experience and wealth, until he's powerful enough to change his fate.\n\n(Source: Seven Seas Entertainment)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1266/109120.jpg",
       "date": "Jan 9, 2021, 02:25 (JST)",
@@ -252,6 +239,19 @@
         "Harem",
         "Ecchi",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Second season of Yuru Camp△.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1255/110636.jpg",
+      "date": "Jan 7, 2021, 23:00 (JST)",
+      "producer": "C-Station",
+      "eps": 13,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -694,6 +694,19 @@
         "Dementia",
         "Horror",
         "Supernatural"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Masaki Hinaoka, who grew up near the coast of Ooarai in Ibaraki Prefecture, meets a prince-like transfer student Shou Akitsuki before the summer break, who introduces him to the world of surfing. Through surfing, Masaki meets irreplaceable friends and experiences farewell as he becomes an adult. It is the beginning of a never-ending story of boys fascinated by the charm of surfing.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1834/111201.jpg",
+      "date": "Jan 12, 2021, 02:00 (JST)",
+      "producer": "Asahi Production",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Sports"
       ],
       "category": "TV (New)"
     },
@@ -1346,7 +1359,7 @@
       "description": "",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1276/104362.jpg",
       "date": "Dec 27, 2019, 18:25 (JST)",
-      "producer": "-",
+      "producer": "OLM",
       "eps": null,
       "genres": [
         "Comedy",
@@ -2002,6 +2015,18 @@
       "genres": [
         "Action",
         "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Mini Mashiro no Oto anime released on the official Twitter account.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1740/111206.jpg",
+      "date": "Jan 15, 2021",
+      "producer": "AQUA ARIS",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "ONA"
     },
