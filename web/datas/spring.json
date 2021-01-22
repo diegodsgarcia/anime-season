@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-01-21",
+  "lastUpdate": "2021-01-22",
   "animes": [
     {
       "title": "",
@@ -395,8 +395,8 @@
     },
     {
       "title": "",
-      "description": "The story follows Shoutarou Futaba, a boy who's fascinated with men's rhythmic gymnastics and enrolled at the Soshukan High School to join the school's team. The story follows a team of unique seniors and Yoshiya Misato, a classmate who's famous in high school rhythmic gymnastics tournaments, who run together toward one goal.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1701/110076.jpg",
+      "description": "The story follows Shoutarou Futaba, a boy who's fascinated with men's rhythmic gymnastics and enrolled at the Ao High School to join the school's team. The story follows a team of unique seniors and Yoshiya Misato, a classmate who's famous in high school rhythmic gymnastics tournaments, who run together toward one goal.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1613/111243.jpg",
       "date": "Apr ??, 2021",
       "producer": "Zexcs",
       "eps": null,
@@ -465,13 +465,13 @@
     {
       "title": "",
       "description": "",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1931/111107.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1117/111245.jpg",
       "date": "Apr ??, 2021",
       "producer": "-",
       "eps": null,
       "genres": [
-        "School",
-        "Slice of Life"
+        "Slice of Life",
+        "School"
       ],
       "category": "TV (New)"
     },
