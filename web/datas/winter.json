@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-01-23",
+  "lastUpdate": "2021-01-24",
   "animes": [
     {
       "title": "",
@@ -142,19 +142,6 @@
     },
     {
       "title": "",
-      "description": "Second season of Hataraku Saibou.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1823/110914.jpg",
-      "date": "Jan 9, 2021, 23:30 (JST)",
-      "producer": "David Production",
-      "eps": 8,
-      "genres": [
-        "Comedy",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "\"Healing magicians cannot fight alone.\"\n\nKeare, who was bound by this common knowledge, was exploited again and again by others. One day, he noticed what lay beyond healing magic, and was convinced that a healing magician was the strongest class. However, by the time he realized that potential, he was deprived of everything. Thus, he used healing magic on the world itself to go back four years, deciding to redo everything.\n\nThis is a heroic tale of one healing magician who became the strongest by using knowledge from his past life and healing magic. \n\n(Source: Novel Updates, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1301/110018.jpg",
       "date": "Jan 13, 2021, 23:30 (JST)",
@@ -163,6 +150,19 @@
       "genres": [
         "Ecchi",
         "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Second season of Hataraku Saibou.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1823/110914.jpg",
+      "date": "Jan 9, 2021, 23:30 (JST)",
+      "producer": "David Production",
+      "eps": 8,
+      "genres": [
+        "Comedy",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -244,6 +244,20 @@
     },
     {
       "title": "",
+      "description": "A story of troubled girls, spun by screenwriter Shinji Nojima in the world of anime.\n\nLed by a mysterious voice while on a midnight stroll, 14-year-old girl Ai Ooto picks up an egg. The voice coaxes her: \"If you want to change the future, you only need to choose now. Now, believe in yourself and break the egg.\"\n\nWhat awaits Ai after the breaking of the egg...\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1507/110750.jpg",
+      "date": "Jan 13, 2021, 01:29 (JST)",
+      "producer": "CloverWorks",
+      "eps": 12,
+      "genres": [
+        "Psychological",
+        "Drama",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "When a series of animal bodies that rot away after a single night begin appearing in a remote mountain village, Inugami, a detective from Tokyo who specializes in the occult, is called to investigate.\n\nWhile working the case, he befriends a strange boy who works in the field every day instead of going to school. Shunned by his peers and nicknamed \"Dorota-bou\" after a yokai that lives in the mud, he helps Inugami uncover the truth behind the killings—but supernatural forces are at work, and while Dorota-bou is just a nickname, it might not be the only thing about the boy that isn't human. \n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1258/108331.jpg",
       "date": "Jan 10, 2021, 22:00 (JST)",
@@ -260,15 +274,14 @@
     },
     {
       "title": "",
-      "description": "A story of troubled girls, spun by screenwriter Shinji Nojima in the world of anime.\n\nLed by a mysterious voice while on a midnight stroll, 14-year-old girl Ai Ooto picks up an egg. The voice coaxes her: \"If you want to change the future, you only need to choose now. Now, believe in yourself and break the egg.\"\n\nWhat awaits Ai after the breaking of the egg...\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1507/110750.jpg",
-      "date": "Jan 13, 2021, 01:29 (JST)",
-      "producer": "CloverWorks",
+      "description": "Reki, a high school sophomore and skater, is addicted to \"S,\" a highly secret and dangerous downhill skateboarding race that takes place in an abandoned mine. The skaters are especially wild about the \"beefs,\" or heated battles that erupt in the races.\n\nReki takes Langa, a transfer student returning to Japan after studying abroad, to the mine where the races are held. Langa, who has no skateboarding experience, finds himself pulled into the world of \"S\"... \n\n(Source: Aniplex US)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1264/110117.jpg",
+      "date": "Jan 10, 2021, 02:00 (JST)",
+      "producer": "Bones",
       "eps": 12,
       "genres": [
-        "Psychological",
-        "Drama",
-        "Fantasy"
+        "Comedy",
+        "Sports"
       ],
       "category": "TV (New)"
     },
@@ -282,19 +295,6 @@
       "genres": [
         "Slice of Life",
         "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Reki, a high school sophomore and skater, is addicted to \"S,\" a highly secret and dangerous downhill skateboarding race that takes place in an abandoned mine. The skaters are especially wild about the \"beefs,\" or heated battles that erupt in the races.\n\nReki takes Langa, a transfer student returning to Japan after studying abroad, to the mine where the races are held. Langa, who has no skateboarding experience, finds himself pulled into the world of \"S\"... \n\n(Source: Aniplex US)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1264/110117.jpg",
-      "date": "Jan 10, 2021, 02:00 (JST)",
-      "producer": "Bones",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "Sports"
       ],
       "category": "TV (New)"
     },
@@ -417,21 +417,6 @@
     },
     {
       "title": "",
-      "description": "Hortensia Saga is a medieval fantasy tale of war and chaos. Three years ago, the king was betrayed and murdered by one of his dukes who then rebuilt the kingdom into his own. But now, the original heir to the throne has secretly come of age. Hiding in the guise of a man, she and her loyal band begin the quest to save her homeland. \n\n(Source: Kotaku, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1043/110408.jpg",
-      "date": "Jan 7, 2021",
-      "producer": "LIDENFILMS",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Magic",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "\"In Heaven's Animal Design Department, designers create a variety of new animals daily while contending with the unreasonable requests of their client: God. This series answers questions such as, 'Why can’t unicorns exist?', 'What makes an animal taste delicious?', 'What’s the most powerful creature in the ocean?', and, 'Bird versus snake: who would win?'\" \n\n(Source: Kodansha Comics, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1816/109865.jpg",
       "date": "Jan 7, 2021, 23:30 (JST)",
@@ -442,6 +427,21 @@
         "Comedy",
         "Fantasy",
         "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Hortensia Saga is a medieval fantasy tale of war and chaos. Three years ago, the king was betrayed and murdered by one of his dukes who then rebuilt the kingdom into his own. But now, the original heir to the throne has secretly come of age. Hiding in the guise of a man, she and her loyal band begin the quest to save her homeland. \n\n(Source: Kotaku, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1043/110408.jpg",
+      "date": "Jan 7, 2021",
+      "producer": "LIDENFILMS",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Magic",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -534,6 +534,19 @@
     },
     {
       "title": "",
+      "description": "The story follows Rena Yukuhasahi, a reserved office lady and Ryouhei Hachiya, a businessman and fellow colleague. Yukuhasahi appears to be the most reserved girl in the company, but becomes a super beautiful woman when she dresses up. Flustered in the presence of her transformed self, Hachiya insists on taking her out, only to find themselves in front of a love hotel.\n\n(Source: MAL News)\n\nThe standard TV version of the anime debuted on January 4 at 1:00 a.m. on Tokyo MX, while the complete version streamed on the ComicFesta Anime Zone website.\n\nThis entry reflects standard TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/110273.jpg",
+      "date": "Jan 4, 2021, 01:00 (JST)",
+      "producer": "Studio Hokiboshi",
+      "eps": null,
+      "genres": [
+        "Romance",
+        "Ecchi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Second season of Uma Musume: Pretty Derby.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1417/110803.jpg",
       "date": "Jan 5, 2021, 00:00 (JST)",
@@ -543,19 +556,6 @@
         "Slice of Life",
         "Comedy",
         "Sports"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "The story follows Rena Yukuhasahi, a reserved office lady and Ryouhei Hachiya, a businessman and fellow colleague. Yukuhasahi appears to be the most reserved girl in the company, but becomes a super beautiful woman when she dresses up. Flustered in the presence of her transformed self, Hachiya insists on taking her out, only to find themselves in front of a love hotel.\n\n(Source: MAL News)\n\nThe standard TV version of the anime debuted on January 4 at 1:00 a.m. on Tokyo MX, while the complete version streamed on the ComicFesta Anime Zone website.\n\nThis entry reflects standard TV version of the anime.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/110273.jpg",
-      "date": "Jan 4, 2021, 01:00 (JST)",
-      "producer": "Studio Hokiboshi",
-      "eps": null,
-      "genres": [
-        "Romance",
-        "Ecchi"
       ],
       "category": "TV (New)"
     },
@@ -590,6 +590,19 @@
     },
     {
       "title": "",
+      "description": "Masaki Hinaoka, who grew up near the coast of Ooarai in Ibaraki Prefecture, meets a prince-like transfer student Shou Akitsuki before the summer break, who introduces him to the world of surfing. Through surfing, Masaki meets irreplaceable friends and experiences farewell as he becomes an adult. It is the beginning of a never-ending story of boys fascinated by the charm of surfing.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1834/111201.jpg",
+      "date": "Jan 12, 2021, 02:00 (JST)",
+      "producer": "Asahi Production",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Sports"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "In an unplanned field trip, Riko is transported to an alternate Japan where metal-based life forms known as Mimesis ravage the world. Only girls equipped with LBX armored weaponry can stand up to this scourge. Joined by four other displaced young women, Riko will have to adapt to save humanity. The hope of a planet now rests on these heavy metal soldiers who desire one wish—to return home again!\n\n(Source: Leoanime)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1532/110186.jpg",
       "date": "Jan 7, 2021, 00:00 (JST)",
@@ -599,19 +612,6 @@
         "Action",
         "Military",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Masaki Hinaoka, who grew up near the coast of Ooarai in Ibaraki Prefecture, meets a prince-like transfer student Shou Akitsuki before the summer break, who introduces him to the world of surfing. Through surfing, Masaki meets irreplaceable friends and experiences farewell as he becomes an adult. It is the beginning of a never-ending story of boys fascinated by the charm of surfing.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1834/111201.jpg",
-      "date": "Jan 12, 2021, 02:00 (JST)",
-      "producer": "Asahi Production",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Sports"
       ],
       "category": "TV (New)"
     },
@@ -1009,7 +1009,7 @@
     },
     {
       "title": "",
-      "description": "It's been 100 years since King Kyle buried Ang Mundo. Now in a time of peace, the apprentice knight Kasel enjoys his life without worry. His fate begins to change, however, with news of demon appearances infesting the neighborhood. Guided by a wise man, Kasel finds friends he can rely on and sets off on his mission to seek a holy sword, capable of slaying his newfound enemies.\n\n(Source: MAL News)",
+      "description": "Long ago, the king of Orvelia, Kyle, defeated the demon king Angmund and brought peace to the world. However, one hundred years later, demons have been sighted in the forests, threatening humanity once more. A scouting expedition is sent to verify the claim but only one member returns. Meanwhile, Riheet, the leader of a dark elf mercenary group, plots to take over Orvelia to exact revenge against the humans who forsook their race a century ago.\n\nThe knight apprentice Kasel, accompanied by the priestess Frey, sets out to rescue Clause, an old friend who went missing in the tragic mission. However, along the way,  Kasel discovers that he is the son of the revered King Kyle and the only one who can wield the Holy Sword Aea—the same sword that slew the demon king. To fulfill this destiny, the young knight must embark on a perilous quest, unseal the sword, and end the fear instilled by demons. As Kasel's journey to bring hope to humanity and Riheet's vow for vengeance intertwine, what fate could possibly await them?\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1885/109122.jpg",
       "date": "Oct 3, 2020, 01:23 (JST)",
       "producer": "Sunrise Beyond, OLM",
