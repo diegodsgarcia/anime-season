@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-01-24",
+  "lastUpdate": "2021-01-25",
   "animes": [
     {
       "title": "",
@@ -228,6 +228,20 @@
     },
     {
       "title": "",
+      "description": "A story of troubled girls, spun by screenwriter Shinji Nojima in the world of anime.\n\nLed by a mysterious voice while on a midnight stroll, 14-year-old girl Ai Ooto picks up an egg. The voice coaxes her: \"If you want to change the future, you only need to choose now. Now, believe in yourself and break the egg.\"\n\nWhat awaits Ai after the breaking of the egg...\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1507/110750.jpg",
+      "date": "Jan 13, 2021, 01:29 (JST)",
+      "producer": "CloverWorks",
+      "eps": 12,
+      "genres": [
+        "Psychological",
+        "Drama",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Noir is the son of a minor noble with very little to his name other than a job offer—which is canceled before he can even start his first day. He does possess one rare trait, though: the magical ability to consult with a great sage, even if using the skill gives him terrible headaches! Unsure of what his future holds, he accesses the sage for advice on how to move forward and is directed to a secret dungeon filled with rare beasts and magical items. It is here that Noir will train, compiling experience and wealth, until he's powerful enough to change his fate.\n\n(Source: Seven Seas Entertainment)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1266/109120.jpg",
       "date": "Jan 9, 2021, 02:25 (JST)",
@@ -238,20 +252,6 @@
         "Adventure",
         "Harem",
         "Ecchi",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "A story of troubled girls, spun by screenwriter Shinji Nojima in the world of anime.\n\nLed by a mysterious voice while on a midnight stroll, 14-year-old girl Ai Ooto picks up an egg. The voice coaxes her: \"If you want to change the future, you only need to choose now. Now, believe in yourself and break the egg.\"\n\nWhat awaits Ai after the breaking of the egg...\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1507/110750.jpg",
-      "date": "Jan 13, 2021, 01:29 (JST)",
-      "producer": "CloverWorks",
-      "eps": 12,
-      "genres": [
-        "Psychological",
-        "Drama",
         "Fantasy"
       ],
       "category": "TV (New)"
@@ -578,18 +578,6 @@
     },
     {
       "title": "",
-      "description": "To become an idol, I shed blood, sweat, and tears. Even so, I push on. I want to shine. I want to earn it. I want to become number one. I want to smile. I want to make my dreams come true. I want to look back at a sea of people. I want to be noticed. I want to find it. I want to overcome obstacles. I have only pride inside my chest.\n\nNo one is in the spotlight from the beginning. Everyone is weak. Only those who do not break will reach the highest peak to become an idol. This is the story of idols who face big dreams and harsh reality.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1940/109582.jpg",
-      "date": "Jan 10, 2021, 23:30 (JST)",
-      "producer": "Lerche",
-      "eps": 12,
-      "genres": [
-        "Music"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Masaki Hinaoka, who grew up near the coast of Ooarai in Ibaraki Prefecture, meets a prince-like transfer student Shou Akitsuki before the summer break, who introduces him to the world of surfing. Through surfing, Masaki meets irreplaceable friends and experiences farewell as he becomes an adult. It is the beginning of a never-ending story of boys fascinated by the charm of surfing.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1834/111201.jpg",
       "date": "Jan 12, 2021, 02:00 (JST)",
@@ -598,6 +586,18 @@
       "genres": [
         "Slice of Life",
         "Sports"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "To become an idol, I shed blood, sweat, and tears. Even so, I push on. I want to shine. I want to earn it. I want to become number one. I want to smile. I want to make my dreams come true. I want to look back at a sea of people. I want to be noticed. I want to find it. I want to overcome obstacles. I have only pride inside my chest.\n\nNo one is in the spotlight from the beginning. Everyone is weak. Only those who do not break will reach the highest peak to become an idol. This is the story of idols who face big dreams and harsh reality.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1940/109582.jpg",
+      "date": "Jan 10, 2021, 23:30 (JST)",
+      "producer": "Lerche",
+      "eps": 12,
+      "genres": [
+        "Music"
       ],
       "category": "TV (New)"
     },
@@ -1039,6 +1039,19 @@
     },
     {
       "title": "",
+      "description": "Third season of Osomatsu-san.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1511/109127.jpg",
+      "date": "Oct 13, 2020, 01:30 (JST)",
+      "producer": "Studio Pierrot",
+      "eps": 25,
+      "genres": [
+        "Comedy",
+        "Parody"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "In the ever-growing world of Duel Monsters, as duelists improve their skills and rise up the ranks, duels become increasingly complex. By adhering to strict rules, in addition to using and learning proven strategies, one can develop into a strong duelist. However, as a boy who loves inventions and discovering new possibilities, elementary school student Yuuga Oudou finds the current way of dueling predictable and rigid—in other words, boring.\n\nThus, he aims to craft a new path in dueling with his exhilarating new invention: Rush Duels. His ambition soon catches the attention of Tatsuhisa Kamijou, a fellow elementary school student, who brings him to a mysterious place in an attempt to discover the potential of the new system. \n\nWhile Yuuga aims to implement Rush Duels as the new dueling standard and overthrow the conventions of the game, he opens the door to his ultimate goal—to make dueling exciting again.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1148/106883.jpg",
       "date": "Apr 4, 2020, 07:30 (JST)",
@@ -1049,19 +1062,6 @@
         "Game",
         "Fantasy",
         "Shounen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "Third season of Osomatsu-san.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1511/109127.jpg",
-      "date": "Oct 13, 2020, 01:30 (JST)",
-      "producer": "Studio Pierrot",
-      "eps": 25,
-      "genres": [
-        "Comedy",
-        "Parody"
       ],
       "category": "TV (Continuing)"
     },
@@ -2064,6 +2064,19 @@
       "eps": null,
       "genres": [
         "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1947/111276.jpg",
+      "date": "Feb 6, 2021",
+      "producer": "Seven Stone Entertainment",
+      "eps": 26,
+      "genres": [
+        "Comedy",
+        "Historical"
       ],
       "category": "ONA"
     },
