@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2021",
-  "lastUpdate": "2021-01-26",
+  "lastUpdate": "2021-01-27",
   "animes": [
     {
       "title": "",
@@ -151,6 +151,18 @@
     },
     {
       "title": "",
+      "description": "Kukuru Misakino, an 18-year-old high school girl working in an aquarium, meets Fuuka Miyazawa, a former idol who lost her place in Tokyo and escaped. Fuuka will spend her days in the aquarium with her own thoughts in mind. However, the crisis of closing is approaching for the aquarium, as the girls explore their dreams and reality, loneliness and friends, bonds and conflicts.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1519/111174.jpg",
+      "date": "Jul ??, 2021",
+      "producer": "P.A. Works",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "The story takes place after 90 percent of humanity wiped out due to an invasion. Survivors live in a shelter where their lives are monitored, and memories of the invasion erased. Three teenagers from the shelter are chosen to pilot three machines that combine to form the Musashi robot, made out of a material named Megatronium alloy. The series will balance robot action with school life.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/3/81126.jpg",
       "date": "Jul ??, 2021",
@@ -164,13 +176,15 @@
     },
     {
       "title": "",
-      "description": "Kukuru Misakino, an 18-year-old high school girl working in an aquarium, meets Fuuka Miyazawa, a former idol who lost her place in Tokyo and escaped. Fuuka will spend her days in the aquarium with her own thoughts in mind. However, the crisis of closing is approaching for the aquarium, as the girls explore their dreams and reality, loneliness and friends, bonds and conflicts.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1519/111174.jpg",
+      "description": "Following the first season, Ryou and Souma—who revealed their feelings for each other—have finally started dating. When they thought their hearts and bodies were more deeply connected during their lovey dovey days, her ex-boyfriend Rei came to where they work. The three are reminded of their school days when their feelings grew apart. Ryou doesn't want to get involved, but he ends up teaming up with Rei.\n\n(Source: MAL News)\n\nThe complete edition with explicit scenes was distributed online via Comic Festa Anime Zone. The censored version was broadcast on Tokyo MX.\n\nThis database entry reflects censored TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1710/111289.jpg",
       "date": "Jul ??, 2021",
-      "producer": "P.A. Works",
+      "producer": "-",
       "eps": null,
       "genres": [
-        "Slice of Life"
+        "Comedy",
+        "Romance",
+        "Ecchi"
       ],
       "category": "TV (New)"
     },
