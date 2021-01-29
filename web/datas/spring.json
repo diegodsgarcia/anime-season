@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-01-28",
+  "lastUpdate": "2021-01-29",
   "animes": [
     {
       "title": "",
@@ -107,6 +107,22 @@
         "Fantasy",
         "School",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Second season of Megalo Box.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1615/111323.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "TMS Entertainment",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Slice of Life",
+        "Sports",
+        "Drama"
       ],
       "category": "TV (New)"
     },
@@ -590,6 +606,22 @@
         "Fantasy"
       ],
       "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1048/109935.jpg",
+      "date": "May 19, 2021",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Psychological",
+        "Romance",
+        "School",
+        "Seinen"
+      ],
+      "category": "OVA"
     },
     {
       "title": "",
