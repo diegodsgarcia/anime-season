@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-01-30",
+  "lastUpdate": "2021-01-31",
   "animes": [
     {
       "title": "",
@@ -541,7 +541,7 @@
       "description": "Set in a world of cruelty and heartbreak, Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu follows five young men who work at the mysterious \"Bar F\" and who offer to heal the hearts of their clients, wiping away their tears and causing smiles to bloom like flowers. They take no payment... aside from stealing their clients' hearts.\n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1117/111245.jpg",
       "date": "Apr ??, 2021",
-      "producer": "-",
+      "producer": "Studio Comet",
       "eps": null,
       "genres": [
         "Slice of Life",
@@ -622,6 +622,21 @@
         "Adventure",
         "Comedy",
         "Kids"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1952/111282.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
