@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-01-31",
+  "lastUpdate": "2021-02-01",
   "animes": [
     {
       "title": "",
@@ -111,7 +111,7 @@
     },
     {
       "title": "",
-      "description": "Second season of 5-toubun no Hanayome.",
+      "description": "Through their tutor Fuutarou Uesugi's diligent guidance, the Nakano quintuplets' academic performance shows signs of improvement, even if their path to graduation is still rocky. However, as they continue to cause various situations that delay any actual tutoring, Fuutarou becomes increasingly involved with their personal lives, further complicating their relationship with each other.\n\nOn another note, Fuutarou slowly begins to realize the existence of a possible connection between him and the past he believes to have shared with one of the five girls. With everyone's feelings beginning to develop and overlap, will they be able to keep their bond strictly to that of a teacher and his students—or will it mature into something else entirely?\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1775/109514.jpg",
       "date": "Jan 8, 2021, 01:28 (JST)",
       "producer": "Bibury Animation Studios",
@@ -246,13 +246,26 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1258/108331.jpg",
       "date": "Jan 10, 2021, 22:00 (JST)",
       "producer": "Ajia-Do",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Action",
         "Mystery",
         "Demons",
         "Supernatural",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Reki, a high school sophomore and skater, is addicted to \"S,\" a highly secret and dangerous downhill skateboarding race that takes place in an abandoned mine. The skaters are especially wild about the \"beefs,\" or heated battles that erupt in the races.\n\nReki takes Langa, a transfer student returning to Japan after studying abroad, to the mine where the races are held. Langa, who has no skateboarding experience, finds himself pulled into the world of \"S\"... \n\n(Source: Aniplex US)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1264/110117.jpg",
+      "date": "Jan 10, 2021, 02:00 (JST)",
+      "producer": "Bones",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Sports"
       ],
       "category": "TV (New)"
     },
@@ -274,19 +287,6 @@
     },
     {
       "title": "",
-      "description": "Reki, a high school sophomore and skater, is addicted to \"S,\" a highly secret and dangerous downhill skateboarding race that takes place in an abandoned mine. The skaters are especially wild about the \"beefs,\" or heated battles that erupt in the races.\n\nReki takes Langa, a transfer student returning to Japan after studying abroad, to the mine where the races are held. Langa, who has no skateboarding experience, finds himself pulled into the world of \"S\"... \n\n(Source: Aniplex US)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1264/110117.jpg",
-      "date": "Jan 10, 2021, 02:00 (JST)",
-      "producer": "Bones",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "Sports"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Fumiya Tomozaki is Japan's best player in the online game Attack Families, commonly known as \"Tackfam.\" Despite holding such a revered title, a lack of social skills and amiability causes him to fall short in his everyday high school life. Failing to have any friends, he blames the convoluted mechanics and unfair rules of life, forcing him to give up and proclaim himself a bottom-tier character in this \"game.\"\n\nAfter a fateful meeting with another top-tier Tackfam player, Fumiya is shocked to discover the player's true identity—Aoi Hinami, a popular, smart, and sociable classmate who is the complete opposite of himself. Aoi, surprised at how inept Fumiya is at everything besides Tackfam, decides to assist him in succeeding in what she calls the greatest game of them all. Through the gruesome ordeals of social interactions and relationships, Fumiya begins to advance tiers in the glorious game of life.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1120/109232.jpg",
       "date": "Jan 8, 2021, 21:00 (JST)",
@@ -296,19 +296,6 @@
         "Drama",
         "Romance",
         "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Second season of Yuru Camp△.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1255/110636.jpg",
-      "date": "Jan 7, 2021, 23:00 (JST)",
-      "producer": "C-Station",
-      "eps": 13,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -327,17 +314,14 @@
     },
     {
       "title": "",
-      "description": "The \"Otherworld\" is a vast and dangerous realm hidden from the knowledge of the common folk. It is also home to many creatures that threaten any human who dare visit it. To witness its desolate yet oddly absorbing environment, one must search for portals that could reside anywhere, from secret elevators to shrine entrances.\n\nAfter a fateful encounter with a horrendous Otherworld denizen, Sorao Kamikoshi ponders whether to keep going or give up in life. Meanwhile, Toriko Nishina scours the Otherworld in hopes of finding her friend Satsuki, who she believes is lost somewhere within the realm. \n\nWhen the two cross paths, friendship blossoms. In order to acquire as much information about this obscure dimension, the two travel back and forth from the real world to the other. Sorao and Toriko's bodies are soon influenced by the Otherworld, preparing them for the many horrors to come as both of them try to fulfill their goals.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1601/110081.jpg",
-      "date": "Jan 4, 2021, 23:30 (JST)",
-      "producer": "Felix Film, LIDENFILMS",
-      "eps": 12,
+      "description": "Second season of Yuru Camp△.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1255/110636.jpg",
+      "date": "Jan 7, 2021, 23:00 (JST)",
+      "producer": "C-Station",
+      "eps": 13,
       "genres": [
-        "Sci-Fi",
-        "Adventure",
-        "Mystery",
-        "Fantasy",
-        "Shoujo Ai"
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -353,6 +337,22 @@
         "Sports",
         "Drama",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "The \"Otherworld\" is a vast and dangerous realm hidden from the knowledge of the common folk. It is also home to many creatures that threaten any human who dare visit it. To witness its desolate yet oddly absorbing environment, one must search for portals that could reside anywhere, from secret elevators to shrine entrances.\n\nAfter a fateful encounter with a horrendous Otherworld denizen, Sorao Kamikoshi ponders whether to keep going or give up in life. Meanwhile, Toriko Nishina scours the Otherworld in hopes of finding her friend Satsuki, who she believes is lost somewhere within the realm. \n\nWhen the two cross paths, friendship blossoms. In order to acquire as much information about this obscure dimension, the two travel back and forth from the real world to the other. Sorao and Toriko's bodies are soon influenced by the Otherworld, preparing them for the many horrors to come as both of them try to fulfill their goals.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1601/110081.jpg",
+      "date": "Jan 4, 2021, 23:30 (JST)",
+      "producer": "Felix Film, LIDENFILMS",
+      "eps": 12,
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Mystery",
+        "Fantasy",
+        "Shoujo Ai"
       ],
       "category": "TV (New)"
     },
@@ -2057,18 +2057,6 @@
     },
     {
       "title": "",
-      "description": "Mini Mashiro no Oto anime released on the official Twitter account.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1740/111206.jpg",
-      "date": "Jan 15, 2021",
-      "producer": "AQUA ARIS",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1622/110784.jpg",
       "date": "Feb 8, 2021",
@@ -2079,6 +2067,18 @@
         "Historical",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Mini Mashiro no Oto anime released on the official Twitter account.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1740/111206.jpg",
+      "date": "Jan 15, 2021",
+      "producer": "AQUA ARIS",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2270,20 +2270,6 @@
     },
     {
       "title": "",
-      "description": "The film is set in London at the end of the 19th century and after the attempted assassination of the Imperial princess in the television anime. The Empire is increasing counter-spy actions in the wake of the incident, and finds Control, the Commonwealth group in charge of covert operations against the Empire, at unease and suspecting its spy within the royal family as a double agent. Control assigns their spy ring Dove with a new mission to extract a secondhand bookstore owner and deliver him to Commonwealth hands. Ange, Dorothy, and Chise successfully spring the bookstore owner from an Imperial prison. Control also assigns Dove to make contact with Bishop, their spy within the royal family, to ascertain their loyalties.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1367/107247.jpg",
-      "date": "Feb 11, 2021",
-      "producer": "Actas",
-      "eps": 1,
-      "genres": [
-        "Action",
-        "Mystery",
-        "Historical"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "",
       "description": "New Gintama movie.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1027/109706.jpg",
       "date": "Jan 8, 2021",
@@ -2298,6 +2284,20 @@
         "Drama",
         "Samurai",
         "Shounen"
+      ],
+      "category": "Movie"
+    },
+    {
+      "title": "",
+      "description": "The film is set in London at the end of the 19th century and after the attempted assassination of the Imperial princess in the television anime. The Empire is increasing counter-spy actions in the wake of the incident, and finds Control, the Commonwealth group in charge of covert operations against the Empire, at unease and suspecting its spy within the royal family as a double agent. Control assigns their spy ring Dove with a new mission to extract a secondhand bookstore owner and deliver him to Commonwealth hands. Ange, Dorothy, and Chise successfully spring the bookstore owner from an Imperial prison. Control also assigns Dove to make contact with Bishop, their spy within the royal family, to ascertain their loyalties.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1367/107247.jpg",
+      "date": "Feb 11, 2021",
+      "producer": "Actas",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Historical"
       ],
       "category": "Movie"
     },
