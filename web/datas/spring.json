@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-02-02",
+  "lastUpdate": "2021-02-03",
   "animes": [
     {
       "title": "",
@@ -37,6 +37,20 @@
     },
     {
       "title": "",
+      "description": "High schooler Hayase Nagatoro loves to spend her free time doing one thing, and that is to bully her Senpai! After Nagatoro and her friends stumble upon the aspiring artist's drawings, they find enjoyment in mercilessly bullying the timid Senpai. Nagatoro resolves to continue her cruel game and visits him daily so that she can force Senpai into doing whatever interests her at the time, especially if it makes him uncomfortable.\n\nSlightly aroused by and somewhat fearful of Nagatoro, Senpai is constantly roped into her antics as his interests, hobbies, appearance, and even personality are used against him as she entertains herself at his expense. As time goes on, Senpai realizes that he doesn't dislike Nagatoro's presence, and the two of them develop an uneasy friendship as one patiently puts up with the antics of the other.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/110097.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "Telecom Animation Film",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Romance"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "\"Dear diary... I got reincarnated as a slime.\"\n\nEven in another world, lives aren't always on the line. There's plenty of work to be done, from feeding the community and forging the items the community needs; as well as plenty of play ...and hijinks throughout! Join Rimuru and friends as they kick back and enjoy their daily lives. \n\n(Source: Kodansha Comics)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1992/106609.jpg",
       "date": "Apr ??, 2021",
@@ -47,20 +61,6 @@
         "Comedy",
         "Fantasy",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "High schooler Hayase Nagatoro loves to spend her free time doing one thing, and that is to bully her Senpai! After Nagatoro and her friends stumble upon the aspiring artist's drawings, they find enjoyment in mercilessly bullying the timid Senpai. Nagatoro resolves to continue her cruel game and visits him daily so that she can force Senpai into doing whatever interests her at the time, especially if it makes him uncomfortable.\n\nSlightly aroused by and somewhat fearful of Nagatoro, Senpai is constantly roped into her antics as his interests, hobbies, appearance, and even personality are used against him as she entertains herself at his expense. As time goes on, Senpai realizes that he doesn't dislike Nagatoro's presence, and the two of them develop an uneasy friendship as one patiently puts up with the antics of the other.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/110097.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "Telecom Animation Film",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Romance"
       ],
       "category": "TV (New)"
     },
@@ -129,22 +129,6 @@
     },
     {
       "title": "",
-      "description": "Second season of Megalo Box.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1615/111323.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "TMS Entertainment",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Slice of Life",
-        "Sports",
-        "Drama"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Shamans are extraordinary individuals with the ability to communicate with ghosts, spirits, and gods, which are invisible to ordinary people. The Shaman Fight—a prestigious tournament pitting shamans from all over the world against each other—is held every five hundred years, where the winner is crowned Shaman King. This title allows the current incumbent to call upon the Great Spirit and shape the world as they see fit.\n\nFinding himself late for class one night, Manta Oyamada, an ordinary middle school student, decides to take a shortcut through the local cemetery. Noticing him, a lone boy sitting on a gravestone invites Manta to stargaze with \"them.\" Realizing that \"them\" refers to the boy and his ghostly friends, Manta flees the terror. Later, the boy introduces himself as You Asakura, a Shaman-in-training, and demonstrates his powers by teaming up with the ghost of six-hundred-year-old samurai Amidamaru to save Manta from a group of thugs. You befriends Manta due to his ability to see spirits, and with the help of Amidamaru, they set out to accomplish You's goal of becoming the next Shaman King.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1733/110849.jpg",
       "date": "Apr ??, 2021",
@@ -162,14 +146,17 @@
     },
     {
       "title": "",
-      "description": "Suddenly dying from overwork, salarywoman Azusa Aizawa finds herself before an angel, who allows her to reincarnate into a new world as an immortal witch, where she spends her days killing slimes for money on an otherwise eternal vacation. But even the minimal experience points from slimes will add up after hundreds of years, and Azusa discovers that she accidentally reached the maximum level! Fearing that her strong abilities will attract work and force her back to a life of overexertion, she decides to hide her strength in order to preserve her peaceful lifestyle.\n\nDespite her efforts, tales of the max level \"Witch of the Plateau\" spread across the land, and a proud dragon named Raika shows up looking to test their strength against her. Even though Azusa defeats and befriends Raika, problems arise as both friends and foes come looking for the secluded witch. \n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1781/111456.jpg",
-      "date": "Apr 10, 2021, 21:00 (JST)",
-      "producer": "Revoroot",
+      "description": "Second season of Megalo Box.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1615/111323.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "TMS Entertainment",
       "eps": null,
       "genres": [
-        "Comedy",
-        "Fantasy"
+        "Action",
+        "Sci-Fi",
+        "Slice of Life",
+        "Sports",
+        "Drama"
       ],
       "category": "TV (New)"
     },
@@ -183,6 +170,19 @@
       "genres": [
         "Drama",
         "Romance"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Suddenly dying from overwork, salarywoman Azusa Aizawa finds herself before an angel, who allows her to reincarnate into a new world as an immortal witch, where she spends her days killing slimes for money on an otherwise eternal vacation. But even the minimal experience points from slimes will add up after hundreds of years, and Azusa discovers that she accidentally reached the maximum level! Fearing that her strong abilities will attract work and force her back to a life of overexertion, she decides to hide her strength in order to preserve her peaceful lifestyle.\n\nDespite her efforts, tales of the max level \"Witch of the Plateau\" spread across the land, and a proud dragon named Raika shows up looking to test their strength against her. Even though Azusa defeats and befriends Raika, problems arise as both friends and foes come looking for the secluded witch. \n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1781/111456.jpg",
+      "date": "Apr 10, 2021, 21:00 (JST)",
+      "producer": "Revoroot",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -386,20 +386,6 @@
     },
     {
       "title": "",
-      "description": "Shamisen is a traditional Japanese musical instrument that looks similar to a guitar. Teenager Sawamura Setsu's grandfather who raised him and his older brother Wakana, recently passed away. His grandfather was one of the greatest Shamisen players and the two siblings grew up listening to him play and learning to play the instrument.\n\nSince their grandfather's death, Setsu dropped out of high school, moved to Tokyo and has been drifting, not knowing what to do besides play his Shamisen. That's when his successful and rich mother, Umeko, storms into his life and tries to shape Setsu up. She enrolls him back into high school, but little does Setsu know that he is about to rediscover his passion for Shamisen. \n\n(Source: MU, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1865/108754.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "Shin-Ei Animation",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Drama",
-        "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Faceless shadow nobles living in a vast mansion, attended by living dolls who spend much of their time cleaning up the soot endlessly emitted by their mysterious masters.\n\nFollow the story of Emilyko, a young and cheerful living doll, as she learns her duties serving as the attendant for Kate Shadow-sama.\n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1048/109983.jpg",
       "date": "Apr ??, 2021",
@@ -409,6 +395,20 @@
         "Slice of Life",
         "Supernatural",
         "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Shamisen is a traditional Japanese musical instrument that looks similar to a guitar. Teenager Sawamura Setsu's grandfather who raised him and his older brother Wakana, recently passed away. His grandfather was one of the greatest Shamisen players and the two siblings grew up listening to him play and learning to play the instrument.\n\nSince their grandfather's death, Setsu dropped out of high school, moved to Tokyo and has been drifting, not knowing what to do besides play his Shamisen. That's when his successful and rich mother, Umeko, storms into his life and tries to shape Setsu up. She enrolls him back into high school, but little does Setsu know that he is about to rediscover his passion for Shamisen. \n\n(Source: MU, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1865/108754.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "Shin-Ei Animation",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Drama",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -440,6 +440,18 @@
     },
     {
       "title": "",
+      "description": "",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1689/111175.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "Wit Studio",
+      "eps": null,
+      "genres": [
+        "Sci-Fi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Mayumi Dojima, a second-year student at the exclusive Yubiwa Academy middle school, has lost something—a star she glimpsed just once, ten long years ago. But help is on the way, in the form of the unofficial, secretive, and thoroughly mysterious Pretty Boy Detective Club! Rumored to solve problems within the school (most of which they themselves might as well created) for reasons aesthetic rather than financial, these five gorgeous boys sweep Mayumi into their world of excitement, danger, and overwhelming beauty. \n\n(Source: Vertical, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1925/110172.jpg",
       "date": "Apr 11, 2021, 02:00 (JST)",
@@ -461,18 +473,6 @@
       "genres": [
         "Slice of Life",
         "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1689/111175.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "Wit Studio",
-      "eps": null,
-      "genres": [
-        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
@@ -521,6 +521,31 @@
     },
     {
       "title": "",
+      "description": "Set in a world of cruelty and heartbreak, Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu follows five young men who work at the mysterious \"Bar F\" and who offer to heal the hearts of their clients, wiping away their tears and causing smiles to bloom like flowers. They take no payment... aside from stealing their clients' hearts.\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1117/111245.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "Studio Comet",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "In a city which should be familiar, there is the feeling of something a little different.\n\nKotokawa is a taxi driver who lives an ordinary life, taxing some quirky customers around. A slightly eccentric stranger who has no relatives nor any relations with other people, Kotokawa's hobby is to listen to Rakugo on the radio before going to bed. For the time being, the only people he can consider as friends are his family doctor Gouriki, and his high school classmate Kakihana.\n\nKabasawa, a college student who wants a buzz, Shirakawa, a nurse who's hiding something, comedian group Homo Sapiens, who isn't selling well, the city hoodlum Dobu, and the rookie idol group Mystery Kiss—the conversations with these people, which should not have meant much, lead to a girl who disappeared.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1155/111177.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "OLM, P.I.C.S.",
+      "eps": null,
+      "genres": [
+        "Mystery"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1589/110753.jpg",
       "date": "Apr ??, 2021",
@@ -538,19 +563,6 @@
     },
     {
       "title": "",
-      "description": "Set in a world of cruelty and heartbreak, Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu follows five young men who work at the mysterious \"Bar F\" and who offer to heal the hearts of their clients, wiping away their tears and causing smiles to bloom like flowers. They take no payment... aside from stealing their clients' hearts.\n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1117/111245.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "Studio Comet",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Yu-yu is a boy living in Kanazawa, Kaga Province. He is 15 years old and in his third year of junior high school. He has the ability to sense the feelings of others, but he is troubled by the fact that he cannot say no when asked.\n\nOne day, Yu-yu could no longer stand going along with his sister's hobby, so he ran away from home. The one who saves him is Megumi Okura. Megumi invites Yu-yu to a nighttime amusement park called \"Wonder Hill\" where her friends hang out. At the amusement park, Yu-yu meets Megumi, Zakusa Ishikame, and Tomari Seto, members of \"Team Blackout,\" a group that meets to play Vanguard every night.\n\nTonight, a serious fight for the team's flag will take place. Blackout's leader, Danji Momoyama, and the mysterious and powerful fighter, Touya Ebata. As Yu-yu stares at them, the card fight is soon eroded into a world of images.\n\nThis is how Yu-yu encounters Vanguard, a world he has never seen before, and is drawn in by its powerful allure- making new friends along the way.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1904/111223.jpg",
       "date": "Apr 3, 2021, 08:00 (JST)",
@@ -559,18 +571,6 @@
       "genres": [
         "Action",
         "Game"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "In a city which should be familiar, there is the feeling of something a little different.\n\nKotokawa is a taxi driver who lives an ordinary life, taxing some quirky customers around. A slightly eccentric stranger who has no relatives nor any relations with other people, Kotokawa's hobby is to listen to Rakugo on the radio before going to bed. For the time being, the only people he can consider as friends are his family doctor Gouriki, and his high school classmate Kakihana.\n\nKabasawa, a college student who wants a buzz, Shirakawa, a nurse who's hiding something, comedian group Homo Sapiens, who isn't selling well, the city hoodlum Dobu, and the rookie idol group Mystery Kiss—the conversations with these people, which should not have meant much, lead to a girl who disappeared.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1155/111177.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "OLM, P.I.C.S.",
-      "eps": null,
-      "genres": [
-        "Mystery"
       ],
       "category": "TV (New)"
     },

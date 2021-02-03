@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2021",
-  "lastUpdate": "2021-02-02",
+  "lastUpdate": "2021-02-03",
   "animes": [
     {
       "title": "",
@@ -151,18 +151,6 @@
     },
     {
       "title": "",
-      "description": "Kukuru Misakino, an 18-year-old high school girl working in an aquarium, meets Fuuka Miyazawa, a former idol who lost her place in Tokyo and escaped. Fuuka will spend her days in the aquarium with her own thoughts in mind. However, the crisis of closing is approaching for the aquarium, as the girls explore their dreams and reality, loneliness and friends, bonds and conflicts.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1519/111174.jpg",
-      "date": "Jul ??, 2021",
-      "producer": "P.A. Works",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Kinji, who lacks any kind of work ethic, is a layabout in his modern life. One day, he finds himself transported to another world—but not in a grand fantasy of a hero welcomed with open arms. He's immediately shoved into a terrible job! Now enslaved by an evil mining company in a fantasy world, Kinji's about to really learn the meaning of hard work!\n\n(Source: Seven Seas Entertainment)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1357/111339.jpg",
       "date": "Jul ??, 2021",
@@ -176,14 +164,13 @@
     },
     {
       "title": "",
-      "description": "The story takes place after 90 percent of humanity wiped out due to an invasion. Survivors live in a shelter where their lives are monitored, and memories of the invasion erased. Three teenagers from the shelter are chosen to pilot three machines that combine to form the Musashi robot, made out of a material named Megatronium alloy. The series will balance robot action with school life.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/81126.jpg",
+      "description": "Kukuru Misakino, an 18-year-old high school girl working in an aquarium, meets Fuuka Miyazawa, a former idol who lost her place in Tokyo and escaped. Fuuka will spend her days in the aquarium with her own thoughts in mind. However, the crisis of closing is approaching for the aquarium, as the girls explore their dreams and reality, loneliness and friends, bonds and conflicts.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1519/111174.jpg",
       "date": "Jul ??, 2021",
-      "producer": "OLM",
+      "producer": "P.A. Works",
       "eps": null,
       "genres": [
-        "Mecha",
-        "School"
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
@@ -198,6 +185,19 @@
         "Comedy",
         "Romance",
         "Ecchi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "The story takes place after 90 percent of humanity wiped out due to an invasion. Survivors live in a shelter where their lives are monitored, and memories of the invasion erased. Three teenagers from the shelter are chosen to pilot three machines that combine to form the Musashi robot, made out of a material named Megatronium alloy. The series will balance robot action with school life.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/81126.jpg",
+      "date": "Jul ??, 2021",
+      "producer": "OLM",
+      "eps": null,
+      "genres": [
+        "Mecha",
+        "School"
       ],
       "category": "TV (New)"
     },
