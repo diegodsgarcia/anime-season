@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-02-03",
+  "lastUpdate": "2021-02-04",
   "animes": [
     {
       "title": "",
@@ -168,6 +168,20 @@
     },
     {
       "title": "",
+      "description": "Following the suicide of her best and only friend, Koito Nagase, Ai Ooto is left grappling with her new reality. With nothing left to live for, she follows the instructions of a mysterious entity and gets roped into purchasing an egg, or specifically, a Wonder Egg.\n\nUpon breaking the egg in a world that materializes during her sleep, Ai is tasked with saving people from the adversities that come their way. In doing so, she believes that she has moved one step closer to saving her best friend. With this dangerous yet tempting opportunity in the palms of her hands, Ai enters a place where she must recognize the relationship between other people's demons and her own.\n\nAs past trauma, unforgettable regrets, and innate fears hatch in the bizarre world of Wonder Egg Priority, a young girl discovers the different inner struggles tormenting humankind and rescues them from their worst fears.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1079/110751.jpg",
+      "date": "Jan 13, 2021, 01:29 (JST)",
+      "producer": "CloverWorks",
+      "eps": 12,
+      "genres": [
+        "Psychological",
+        "Drama",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Fourth season of Nanatsu no Taizai.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1320/111366.jpg",
       "date": "Jan 13, 2021, 17:55 (JST)",
@@ -180,20 +194,6 @@
         "Magic",
         "Fantasy",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Following the suicide of her best and only friend, Koito Nagase, Ai Ooto is left grappling with her new reality. With nothing left to live for, she follows the instructions of a mysterious entity and gets roped into purchasing an egg, or specifically, a Wonder Egg.\n\nUpon breaking the egg in a world that materializes during her sleep, Ai is tasked with saving people from the adversities that come their way. In doing so, she believes that she has moved one step closer to saving her best friend. With this dangerous yet tempting opportunity in the palms of her hands, Ai enters a place where she must recognize the relationship between other people's demons and her own.\n\nAs past trauma, unforgettable regrets, and innate fears hatch in the bizarre world of Wonder Egg Priority, a young girl discovers the different inner struggles tormenting humankind and rescues them from their worst fears.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1079/110751.jpg",
-      "date": "Jan 13, 2021, 01:29 (JST)",
-      "producer": "CloverWorks",
-      "eps": 12,
-      "genres": [
-        "Psychological",
-        "Drama",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -229,19 +229,6 @@
     },
     {
       "title": "",
-      "description": "Due to poor lifestyle choices, a certain human's body is in constant turmoil. With germs, bacteria, and foreign substances abound, the jobs of various cells become increasingly difficult and dangerous. As some of the unfortunate ones who matured in this chaotic environment, Sekkekkyuu AA2153 and Hakkekkyuu U-1196 strive to fulfill their duties—even if it means seeing many of their fellow cells lose their lives in duty.\n\nSet in an environment vastly different from its parent story, Hataraku Saibou Black portrays the cells' struggles as they try to maintain the body's health. However, the human's condition continues to deteriorate, and whether or not these efforts will amount to something concrete depends on the cells!\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1837/110799.jpg",
-      "date": "Jan 10, 2021, 00:00 (JST)",
-      "producer": "LIDENFILMS",
-      "eps": 13,
-      "genres": [
-        "Action",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Kohachi Inugami, a detective who specializes in the occult, arrives at a remote village in the Japanese countryside, tasked by a hostess at a local inn to investigate a string of incidents involving rotting and mutilated livestock corpses that have been appearing for seemingly no reason. While surveying, Inugami notices a peculiar young boy working in the fields. Evaded by his peers and called \"Dorotabou\" for his stench, the young farmhand is surprised that anybody would take an interest in him.\n\nInugami, piqued with curiosity, enlists Dorotabou in helping him with the investigation, despite scorned looks from the villagers. Unbeknownst to Dorotabou, this investigation will reveal a strange new world to him—one of the beast-like entities known as Kemono existing in tandem with humans—along with breathing new purpose into his previously empty life.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1258/108331.jpg",
       "date": "Jan 10, 2021, 22:00 (JST)",
@@ -253,6 +240,19 @@
         "Demons",
         "Supernatural",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Due to poor lifestyle choices, a certain human's body is in constant turmoil. With germs, bacteria, and foreign substances abound, the jobs of various cells become increasingly difficult and dangerous. As some of the unfortunate ones who matured in this chaotic environment, Sekkekkyuu AA2153 and Hakkekkyuu U-1196 strive to fulfill their duties—even if it means seeing many of their fellow cells lose their lives in duty.\n\nSet in an environment vastly different from its parent story, Hataraku Saibou Black portrays the cells' struggles as they try to maintain the body's health. However, the human's condition continues to deteriorate, and whether or not these efforts will amount to something concrete depends on the cells!\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1837/110799.jpg",
+      "date": "Jan 10, 2021, 00:00 (JST)",
+      "producer": "LIDENFILMS",
+      "eps": 13,
+      "genres": [
+        "Action",
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -328,7 +328,7 @@
     {
       "title": "",
       "description": "The \"Otherworld\" is a vast and dangerous realm hidden from the knowledge of the common folk. It is also home to many creatures that threaten any human who dare visit it. To witness its desolate yet oddly absorbing environment, one must search for portals that could reside anywhere, from secret elevators to shrine entrances.\n\nAfter a fateful encounter with a horrendous Otherworld denizen, Sorao Kamikoshi ponders whether to keep going or give up in life. Meanwhile, Toriko Nishina scours the Otherworld in hopes of finding her friend Satsuki, who she believes is lost somewhere within the realm. \n\nWhen the two cross paths, friendship blossoms. In order to acquire as much information about this obscure dimension, the two travel back and forth from the real world to the other. Sorao and Toriko's bodies are soon influenced by the Otherworld, preparing them for the many horrors to come as both of them try to fulfill their goals.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1601/110081.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1494/111515.jpg",
       "date": "Jan 4, 2021, 23:30 (JST)",
       "producer": "Felix Film, LIDENFILMS",
       "eps": 12,
@@ -389,7 +389,7 @@
     {
       "title": "",
       "description": "2014: Akira Natsume seems to almost have a phobia of electrical devices while also being very good at diagnosing them. He resolves to change himself for the better and get a girlfriend like his older brother did. ...But then Akira suddenly dies in an accident. 16 years later a special policewoman and her android partner retrieve and activate a highly advanced AI and superweapon called EX-ARM and put it into full control of their ship as a last resort. Turns out the AI is actually just Akira's brain!\n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1257/110345.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1809/111519.jpg",
       "date": "Jan 11, 2021, 01:05 (JST)",
       "producer": "Visual Flight",
       "eps": 12,
@@ -433,7 +433,7 @@
     {
       "title": "",
       "description": "Hortensia Saga is a medieval fantasy tale of war and chaos. Three years ago, the king was betrayed and murdered by one of his dukes who then rebuilt the kingdom into his own. But now, the original heir to the throne has secretly come of age. Hiding in the guise of a man, she and her loyal band begin the quest to save her homeland. \n\n(Source: Kotaku, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1043/110408.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1082/111511.jpg",
       "date": "Jan 7, 2021",
       "producer": "LIDENFILMS",
       "eps": 12,
@@ -630,7 +630,7 @@
     {
       "title": "",
       "description": "School begins at Étoile Vio School, where idol-hopeful students known as \"I-Chu\" will undergo training to become full-fledged idols. However, things are off to a strange start when the new students are given a speech from their bear principal?! The I-Chu work steadily toward their goals and ask, \"What is an idol?\" Each boy will learn to shine as they struggle to find their answer.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1148/110096.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1331/111516.jpg",
       "date": "Jan 6, 2021, 23:00 (JST)",
       "producer": "Lay-duce",
       "eps": null,
@@ -752,7 +752,7 @@
     {
       "title": "",
       "description": "The stage sets in a world where guinea pigs became cars.\n\nThe car that makes you relax, \"Molcar\".\n\nHaving big round eyes, curvy butt and speedy limbs, they always explore the world with their innocent faces.\n\nEven during traffic jams, you can be eased just by looking at the butt of that Molcar in front of you.\n\nEven when they cause trouble, their furry cuteness will somehow make you forgive them!?\n\nSurrounded by situations only met by cars, it's a Mol-animation filled with cure, friendship, adventure and furry actions!\n\n(Source: Muse Asia, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1529/110445.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1899/111488.jpg",
       "date": "Jan 5, 2021, 07:30 (JST)",
       "producer": "Shin-Ei Animation",
       "eps": null,
@@ -911,7 +911,7 @@
     {
       "title": "",
       "description": "Rika Furude and her group of friends live in the small mountain village of Hinamizawa; in June 1983, they welcome transfer student Keiichi Maebara into their ranks, making him the only boy in their group. After school, they have fun playing games and spending each day living their lives to the fullest. Despite this seemingly normal routine, Keiichi begins noticing strange behavior from his friends, who seem to be hiding the town's dark secrets from him.\n\nElsewhere, a certain person watches these increasingly unsettling events unfold and remembers all the times that this, and other similar stories, have played out. Using that knowledge, this person decides to fix these broken worlds. However, when certain variables change, the individual is faced with a horrifying realization: they have no idea what to expect or how to stop the impending tragedy.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1287/109031.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1716/111533.jpg",
       "date": "Oct 1, 2020, 23:30 (JST)",
       "producer": "Passione",
       "eps": 24,
@@ -1397,19 +1397,6 @@
     },
     {
       "title": "",
-      "description": "Fourth season of Kamiusagi Rope, events occur after the feature film. Airs on Mezamashi TV instead of the theaters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/72182.jpg",
-      "date": "Nov 16, 2012, 06:45 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Comedy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "Zenitendo is a mysterious candy store that only lucky people can reach. All the candy recommended by Beniko, the owner of the store, is perfectly suited to the buyer's troubles. However, it depends on whether the candy will be used or eaten correctly that it can bring happiness or misfortune.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1994/108212.jpg",
       "date": "Sep 8, 2020, 18:45 (JST)",
@@ -1418,6 +1405,19 @@
       "genres": [
         "Mystery",
         "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Fourth season of Kamiusagi Rope, events occur after the feature film. Airs on Mezamashi TV instead of the theaters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/72182.jpg",
+      "date": "Nov 16, 2012, 06:45 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -1935,6 +1935,18 @@
     },
     {
       "title": "",
+      "description": "Mini anime featuring chibi characters from Enen no Shouboutai, streamed on the official Twitter account.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/111255.jpg",
+      "date": "Jan 8, 2021",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Special episode of Tian Guan Ci Fu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1043/110306.jpg",
       "date": "Feb 16, 2021",
@@ -1944,18 +1956,6 @@
         "Historical",
         "Supernatural",
         "Drama"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Mini anime featuring chibi characters from Enen no Shouboutai, streamed on the official Twitter account.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/111255.jpg",
-      "date": "Jan 8, 2021",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy"
       ],
       "category": "ONA"
     },
