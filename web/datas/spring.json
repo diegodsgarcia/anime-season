@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-02-06",
+  "lastUpdate": "2021-02-07",
   "animes": [
     {
       "title": "",
@@ -622,6 +622,18 @@
         "Adventure",
         "Comedy",
         "Kids"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "The story follows the lives of three modern day dinosaurs as they share a room in the Dino-Shou (\"Dino Manor\") apartment building complex.\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1857/111015.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "TV (New)"
     },
