@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-02-07",
+  "lastUpdate": "2021-02-08",
   "animes": [
     {
       "title": "",
@@ -39,7 +39,7 @@
     },
     {
       "title": "",
-      "description": "Second season of Dr. Stone.",
+      "description": "Senkuu has made it his goal to bring back two million years of human achievement and revive the entirety of those turned to statues. However, one man stands in his way: Tsukasa Shishiou, who believes that only the fittest of those petrified should be revived.\n\nAs the snow melts and spring approaches, Senkuu and his allies in Ishigami Village finish the preparations for their attack on the Tsukasa Empire. With a reinvented cell phone model now at their disposal, the Kingdom of Science is ready to launch its newest scheme to recruit the sizable numbers of Tsukasa's army to their side. However, it is a race against time; for every day the Kingdom of Science spends perfecting their inventions, the empire rapidly grows in number.\n\nReuniting with old friends and gaining new allies, Senkuu and the Kingdom of Science must stop Tsukasa's forces in order to fulfill their goal of restoring humanity and all its creations. With the two sides each in pursuit of their ideal world, the Stone Wars have now begun!\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1711/110614.jpg",
       "date": "Jan 14, 2021, 22:30 (JST)",
       "producer": "TMS Entertainment",
@@ -140,7 +140,7 @@
     },
     {
       "title": "",
-      "description": "Second season of Beastars.",
+      "description": "\"Beastar\"—a title awarded to beasts who prove their excellence through fighting inequality to unite carnivores and herbivores in an anthropomorphic animal society. Cherryton Academy has gone five years without one such leader. However, following the murder of an alpaca within the school boundaries, the growing tension between the different species poses a greater need for a Beastar to ensure peace and harmony. \n\nWhen Louis, the prime candidate for this prestigious role, rejects the offer and leaves the academy, the student council declares to honor any student who captures the culprit of the aforementioned murder as Beastar. Meanwhile, Legoshi's sense of duty as a strong wolf who must protect the weak pushes him to investigate the incident. To further complicate his life, he struggles to manage his complex feelings for the white rabbit, Haru.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1097/109646.jpg",
       "date": "Jan 7, 2021, 00:55 (JST)",
       "producer": "Orange",
@@ -535,7 +535,7 @@
     {
       "title": "",
       "description": "Project Scard depicts the encounters and battles of those who have tattoos which possess the sealed powers of divine beasts and gods. The story is set in the Akatsuki Special Zone, a lawless zone in Tokyo.\n\n\"Helios\" are those who use the ability of the tattoos to protect the city, \"Artemis\" are committed to maintain security and control, whilst having a strong commercial motive, and the \"Public Security Special Service\" are Scard Staff of the metropolitan police department. They live through the turbulent days to keep on going.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1995/109124.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1239/111647.jpg",
       "date": "Jan 9, 2021, 01:55 (JST)",
       "producer": "GoHands",
       "eps": 13,
@@ -763,7 +763,7 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
+      "description": "The anime centers on Manatsu, who moves from her small island birthplace to a city and starts middle school. On the day she moves she meets a mermaid girl named Laura who is looking for the \"legendary warriors,\" the Precures. Laura's hometown, the mermaid country of Grand Ocean, has been attacked by the \"procrastination witch,\" who has stolen the country's \"motivation power.\"\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1184/110907.jpg",
       "date": "Feb 28, 2021",
       "producer": "Toei Animation",
@@ -2120,6 +2120,31 @@
         "Action",
         "Historical",
         "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Valentine's Day special for Kimetsu no Yaiba. The first three episodes will be released on Aniplex's official YouTube channel, while the fourth and final episode will be streamed during the Kimetsu Matsuri Online: Anime 2nd Anniversary Festival.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1167/111666.jpg",
+      "date": "Feb 14, 2021",
+      "producer": "-",
+      "eps": 4,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The story takes place in Lingshan, where a group of \"hopeless\" people are gathered on the earth. Most of them are poor, vicious, or extremely evil, abandoned by the society in Lingshan. This is where the fourth generation of Kuiba Mi Lin was born. \n\nThe Heavens struggled to find Kuiba to no avail. In order to eliminate Kuiba, the Heavens determined to blast Lingshan into the ground. Mi Lin rose from the predicament, and his spirit gradually awakened souls with flesh and blood in Lingshan. Mi Lin led the Lingshan Army to sweep across the world, against the Heavens, and became the overlord of the world.\n\n(Source: Tencent, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1558/111667.jpg",
+      "date": "Jan 17, 2021",
+      "producer": "Vasoon Animation",
+      "eps": 7,
+      "genres": [
+        "Adventure",
         "Fantasy"
       ],
       "category": "ONA"
