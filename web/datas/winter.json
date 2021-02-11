@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-02-10",
+  "lastUpdate": "2021-02-11",
   "animes": [
     {
       "title": "",
@@ -1731,19 +1731,6 @@
     },
     {
       "title": "",
-      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
-      "date": "Dec 2, 2015",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Sports",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "The anime will depict various vehicles as characters in the \"Mobile Land\" island. The protagonist Car-kun arrives at the island as a delivery worker. Through his deliveries, he gets to know the residents of Mobile Land, all while following traffic rules and having his deliveries stopped by the meddling Sabibi. \n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1612/106288.jpg",
       "date": "Apr 2, 2020, 17:20 (JST)",
@@ -1753,6 +1740,19 @@
         "Slice of Life",
         "Cars",
         "Comedy",
+        "Kids"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A young boy tries to become as strong of a sumo wrestler as his father.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
+      "date": "Dec 2, 2015",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Sports",
         "Kids"
       ],
       "category": "TV (Continuing)"
@@ -2045,19 +2045,6 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1094/110890.jpg",
-      "date": "Jan 22, 2021",
-      "producer": "-",
-      "eps": 10,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1622/110784.jpg",
       "date": "Feb 8, 2021",
       "producer": "Motion Magic",
@@ -2067,6 +2054,19 @@
         "Historical",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1094/110890.jpg",
+      "date": "Jan 22, 2021",
+      "producer": "-",
+      "eps": 10,
+      "genres": [
+        "Action",
+        "Drama"
       ],
       "category": "ONA"
     },
@@ -2250,18 +2250,6 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1266/109803.jpg",
-      "date": "Jan 5, 2021",
-      "producer": "T-Rex",
-      "eps": 1,
-      "genres": [
-        "Hentai"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1975/109799.jpg",
       "date": "Feb 5, 2021",
       "producer": "T-Rex",
@@ -2269,6 +2257,18 @@
       "genres": [
         "Hentai",
         "School"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1266/109803.jpg",
+      "date": "Jan 5, 2021",
+      "producer": "T-Rex",
+      "eps": 1,
+      "genres": [
+        "Hentai"
       ],
       "category": "OVA"
     },

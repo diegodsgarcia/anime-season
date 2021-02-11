@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-02-10",
+  "lastUpdate": "2021-02-11",
   "animes": [
     {
       "title": "",
@@ -81,15 +81,15 @@
     {
       "title": "",
       "description": "It, a mysterious immortal being, is sent to the Earth with no emotions nor identity. However, It is able to take the shape of those around that have a strong impetus.\n \nAt first, It is a sphere. Then, It imitates the form of a rock. As the temperature drops and snow falls atop the moss, It inherits the moss. When an injured, lone wolf comes limping by and lays down to die, It takes on the form of the animal. Finally, It gains consciousness and begins to traverse the empty tundra until It meets a boy.\n \nThe boy lives alone in a ghost town, which the adults abandoned long ago in search of the paradise said to exist far beyond the endless sea of white tundra. However, their efforts were for naught, and now the boy is in a critical state.\n \nAcquiring the form of the boy, It sets off on a never-ending journey, in search of new experiences, places, and people.\n \n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/105306.jpg",
-      "date": "Apr ??, 2021, 22:50 (JST)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/111757.jpg",
+      "date": "Apr 12, 2021, 22:50 (JST)",
       "producer": "Brain's Base",
       "eps": 20,
       "genres": [
         "Adventure",
+        "Supernatural",
         "Drama",
-        "Shounen",
-        "Supernatural"
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -373,7 +373,7 @@
     {
       "title": "",
       "description": "Faceless shadow nobles living in a vast mansion, attended by living dolls who spend much of their time cleaning up the soot endlessly emitted by their mysterious masters.\n\nFollow the story of Emilyko, a young and cheerful living doll, as she learns her duties serving as the attendant for Kate Shadow-sama.\n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1048/109983.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1085/111762.jpg",
       "date": "Apr ??, 2021",
       "producer": "CloverWorks",
       "eps": null,
@@ -576,6 +576,20 @@
     },
     {
       "title": "",
+      "description": "Set in alternate history Japan in 1931 and the 64th year of the Meiji era, the Tokugawa shogunate was never abolished and Emperor Meiji was never restored to power. The anime will follow the activities of \"Nue,\" an organization of shogunate executioners who enforce the government. The country has developed its own energy source, the \"dragon vein,\" and has achieved a unique development in which science and the Edo period are mixed.\n\nHowever, behind the glamorous city, the dissident organization Kuchinawa strives to overthrow the administration, while the Nue of the Tokugawa regime, who was entrusted with its extermination, are in conflict. Sawa Yukimura, whose family was killed when she was young, continues to search for Janome, the executioner of the Nue.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1525/111736.jpg",
+      "date": "Apr 7, 2021",
+      "producer": "Bakken Record",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Historical",
+        "Supernatural"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1272/111217.jpg",
       "date": "Apr ??, 2021",
@@ -603,7 +617,7 @@
       "title": "",
       "description": "It follows the daily life of Kotetsu-kun, who aspires to be an astronaut, and friends at the Animal Space Academy as they all pursue their dreams.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1017/109183.jpg",
-      "date": "Apr ??, 2021",
+      "date": "Apr 7, 2021, 18:45 (JST)",
       "producer": "Fanworks",
       "eps": null,
       "genres": [
@@ -614,8 +628,8 @@
     {
       "title": "",
       "description": "Sequel to Motto! Majime ni Fumajime Kaiketsu Zorori",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1536/110129.jpg",
-      "date": "Apr ??, 2021",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1341/111768.jpg",
+      "date": "Apr 2, 2021, 18:55 (JST)",
       "producer": "Ajia-Do",
       "eps": null,
       "genres": [
@@ -661,20 +675,6 @@
       "eps": null,
       "genres": [
         "Kids"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Set in alternate history Japan in 1931 and the 64th year of the Meiji era, the Tokugawa shogunate was never abolished and Emperor Meiji was never restored to power. The anime will follow the activities of \"Nue,\" an organization of shogunate executioners who enforce the government. The country has developed its own energy source, the \"dragon vein,\" and has achieved a unique development in which science and the Edo period are mixed.\n\nHowever, behind the glamorous city, the dissident organization Kuchinawa strives to overthrow the administration, while the Nue of the Tokugawa regime, who was entrusted with its extermination, are in conflict. Sawa Yukimura, whose family was killed when she was young, continues to search for Janome, the executioner of the Nue.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1525/111736.jpg",
-      "date": "Apr 7, 2021",
-      "producer": "Bakken Record",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Historical",
-        "Supernatural"
       ],
       "category": "TV (New)"
     },
