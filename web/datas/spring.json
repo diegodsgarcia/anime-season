@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-02-11",
+  "lastUpdate": "2021-02-12",
   "animes": [
     {
       "title": "",
@@ -386,20 +386,6 @@
     },
     {
       "title": "",
-      "description": "When a dragon fails to live up to the fearsome standards set for him, his family kicks him out. He embarks on a quest to find a new home, but soon finds that life on the road is no place for a cowardly beast of legend. In a fantasy world full of elves, dwarves, and other mythical creatures, where everyone wants a piece of him—literally!—the frustrations of house-hunting reach a whole new level.\n\n(Source: Seven Seas Entertainment)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1549/110231.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "Signal.MD",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Shamisen is a traditional Japanese musical instrument that looks similar to a guitar. Teenager Sawamura Setsu's grandfather who raised him and his older brother Wakana, recently passed away. His grandfather was one of the greatest Shamisen players and the two siblings grew up listening to him play and learning to play the instrument.\n\nSince their grandfather's death, Setsu dropped out of high school, moved to Tokyo and has been drifting, not knowing what to do besides play his Shamisen. That's when his successful and rich mother, Umeko, storms into his life and tries to shape Setsu up. She enrolls him back into high school, but little does Setsu know that he is about to rediscover his passion for Shamisen. \n\n(Source: MU, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1841/111554.jpg",
       "date": "Apr 3, 2021",
@@ -409,6 +395,20 @@
         "Music",
         "Drama",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "When a dragon fails to live up to the fearsome standards set for him, his family kicks him out. He embarks on a quest to find a new home, but soon finds that life on the road is no place for a cowardly beast of legend. In a fantasy world full of elves, dwarves, and other mythical creatures, where everyone wants a piece of him—literally!—the frustrations of house-hunting reach a whole new level.\n\n(Source: Seven Seas Entertainment)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1549/110231.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "Signal.MD",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -563,19 +563,6 @@
     },
     {
       "title": "",
-      "description": "Yu-yu is a boy living in Kanazawa, Kaga Province. He is 15 years old and in his third year of junior high school. He has the ability to sense the feelings of others, but he is troubled by the fact that he cannot say no when asked.\n\nOne day, Yu-yu could no longer stand going along with his sister's hobby, so he ran away from home. The one who saves him is Megumi Okura. Megumi invites Yu-yu to a nighttime amusement park called \"Wonder Hill\" where her friends hang out. At the amusement park, Yu-yu meets Megumi, Zakusa Ishikame, and Tomari Seto, members of \"Team Blackout,\" a group that meets to play Vanguard every night.\n\nTonight, a serious fight for the team's flag will take place. Blackout's leader, Danji Momoyama, and the mysterious and powerful fighter, Touya Ebata. As Yu-yu stares at them, the card fight is soon eroded into a world of images.\n\nThis is how Yu-yu encounters Vanguard, a world he has never seen before, and is drawn in by its powerful allure- making new friends along the way.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1904/111223.jpg",
-      "date": "Apr 3, 2021, 08:00 (JST)",
-      "producer": "Kinema Citrus",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Game"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Set in alternate history Japan in 1931 and the 64th year of the Meiji era, the Tokugawa shogunate was never abolished and Emperor Meiji was never restored to power. The anime will follow the activities of \"Nue,\" an organization of shogunate executioners who enforce the government. The country has developed its own energy source, the \"dragon vein,\" and has achieved a unique development in which science and the Edo period are mixed.\n\nHowever, behind the glamorous city, the dissident organization Kuchinawa strives to overthrow the administration, while the Nue of the Tokugawa regime, who was entrusted with its extermination, are in conflict. Sawa Yukimura, whose family was killed when she was young, continues to search for Janome, the executioner of the Nue.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1525/111736.jpg",
       "date": "Apr 7, 2021",
@@ -585,6 +572,19 @@
         "Action",
         "Historical",
         "Supernatural"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Yu-yu is a boy living in Kanazawa, Kaga Province. He is 15 years old and in his third year of junior high school. He has the ability to sense the feelings of others, but he is troubled by the fact that he cannot say no when asked.\n\nOne day, Yu-yu could no longer stand going along with his sister's hobby, so he ran away from home. The one who saves him is Megumi Okura. Megumi invites Yu-yu to a nighttime amusement park called \"Wonder Hill\" where her friends hang out. At the amusement park, Yu-yu meets Megumi, Zakusa Ishikame, and Tomari Seto, members of \"Team Blackout,\" a group that meets to play Vanguard every night.\n\nTonight, a serious fight for the team's flag will take place. Blackout's leader, Danji Momoyama, and the mysterious and powerful fighter, Touya Ebata. As Yu-yu stares at them, the card fight is soon eroded into a world of images.\n\nThis is how Yu-yu encounters Vanguard, a world he has never seen before, and is drawn in by its powerful allure- making new friends along the way.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1904/111223.jpg",
+      "date": "Apr 3, 2021, 08:00 (JST)",
+      "producer": "Kinema Citrus",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Game"
       ],
       "category": "TV (New)"
     },
