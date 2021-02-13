@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-02-12",
+  "lastUpdate": "2021-02-13",
   "animes": [
     {
       "title": "",
@@ -53,19 +53,6 @@
     },
     {
       "title": "",
-      "description": "Second season of Tensei shitara Slime Datta Ken.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1271/109841.jpg",
-      "date": "Jan 12, 2021, 23:00 (JST)",
-      "producer": "8bit",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "On the surface, the thought of Kyouko Hori and Izumi Miyamura getting along would be the last thing in people's minds. After all, Hori has a perfect combination of beauty and brains, while Miyamura appears meek and distant to his fellow classmates. However, a fateful meeting between the two lays both of their hidden selves bare. Even though she is popular at school, Hori has little time to socialize with her friends due to housework. On the other hand, Miyamura lives under the noses of his peers, his body bearing secret tattoos and piercings that make him look like a gentle delinquent.\n\nHaving opposite personalities yet sharing odd similarities, the two quickly become friends and often spend time together in Hori's home. As they both emerge from their shells, they share with each other a side of themselves concealed from the outside world.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1791/110336.jpg",
       "date": "Jan 10, 2021, 00:30 (JST)",
@@ -77,6 +64,19 @@
         "Romance",
         "School",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Second season of Tensei shitara Slime Datta Ken.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1271/109841.jpg",
+      "date": "Jan 12, 2021, 23:00 (JST)",
+      "producer": "8bit",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -803,6 +803,19 @@
     },
     {
       "title": "",
+      "description": "Shion and Rui are the dream team when it comes to hitting on women. Tonight was going to be another night of hooking up with girls for Shion, but he ended up taking a strange drug. When he woke up... he'd turned into a girl?! Rui came looking for Shion, but didn't recognize him, and started hitting on him...\n\n(Source: Suiseisha, translated)\n\nEpisode 1 of the standard TV version of the anime was streamed on February 11, 2021 via the ComicFesta Anime Zone website. Regular broadcast began on April 5 at 1:00 a.m. on Toyko MX, while the complete, uncensored version was streamed on the ComicFesta Anime Zone website.\n\nThis entry reflects standard TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1267/111801.jpg",
+      "date": "Feb 11, 2021, 01:00 (JST)",
+      "producer": "Irawias",
+      "eps": null,
+      "genres": [
+        "Romance",
+        "Shounen Ai"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1102/111039.jpg",
       "date": "Dec 29, 2020, 01:05 (JST)",
@@ -823,19 +836,6 @@
       "eps": 50,
       "genres": [
         "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Shion and Rui are the dream team when it comes to hitting on women. Tonight was going to be another night of hooking up with girls for Shion, but he ended up taking a strange drug. When he woke up... he'd turned into a girl?! Rui came looking for Shion, but didn't recognize him, and started hitting on him...\n\n(Source: Suiseisha, translated)\n\nEpisode 1 of the standard TV version of the anime was streamed on February 11, 2021 via the ComicFesta Anime Zone website. Regular broadcast began on April 5 at 1:00 a.m. on Toyko MX, while the complete, uncensored version was streamed on the ComicFesta Anime Zone website.\n\nThis entry reflects standard TV version of the anime.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1267/111801.jpg",
-      "date": "Feb 11, 2021, 01:00 (JST)",
-      "producer": "Irawias",
-      "eps": null,
-      "genres": [
-        "Romance",
-        "Shounen Ai"
       ],
       "category": "TV (New)"
     },
@@ -1502,6 +1502,18 @@
     },
     {
       "title": "",
+      "description": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
+      "date": "Jan 6, 2020, 00:30 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1117/106742.jpg",
       "date": "Apr 5, 2020, 08:30 (JST)",
@@ -1512,18 +1524,6 @@
         "Adventure",
         "Comedy",
         "Shounen"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
-      "date": "Jan 6, 2020, 00:30 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -2085,6 +2085,19 @@
     },
     {
       "title": "",
+      "description": "The story takes place in Lingshan, where a group of \"hopeless\" people are gathered on the earth. Most of them are poor, vicious, or extremely evil, abandoned by the society in Lingshan. This is where the fourth generation of Kuiba Mi Lin was born. \n\nThe Heavens struggled to find Kuiba to no avail. In order to eliminate Kuiba, the Heavens determined to blast Lingshan into the ground. Mi Lin rose from the predicament, and his spirit gradually awakened souls with flesh and blood in Lingshan. Mi Lin led the Lingshan Army to sweep across the world, against the Heavens, and became the overlord of the world.\n\n(Source: Tencent, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1558/111667.jpg",
+      "date": "Jan 17, 2021",
+      "producer": "Vasoon Animation",
+      "eps": 7,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1729/111278.jpg",
       "date": "Jan 28, 2021",
@@ -2105,19 +2118,6 @@
       "eps": null,
       "genres": [
         "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "The story takes place in Lingshan, where a group of \"hopeless\" people are gathered on the earth. Most of them are poor, vicious, or extremely evil, abandoned by the society in Lingshan. This is where the fourth generation of Kuiba Mi Lin was born. \n\nThe Heavens struggled to find Kuiba to no avail. In order to eliminate Kuiba, the Heavens determined to blast Lingshan into the ground. Mi Lin rose from the predicament, and his spirit gradually awakened souls with flesh and blood in Lingshan. Mi Lin led the Lingshan Army to sweep across the world, against the Heavens, and became the overlord of the world.\n\n(Source: Tencent, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1558/111667.jpg",
-      "date": "Jan 17, 2021",
-      "producer": "Vasoon Animation",
-      "eps": 7,
-      "genres": [
-        "Adventure",
-        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2541,6 +2541,22 @@
         "Comedy",
         "Ecchi",
         "Fantasy"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "",
+      "description": "Recap of the first season of Yakusoku no Neverland and the first five episodes of season two.",
+      "imageUrl": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "date": "Feb 12, 2021",
+      "producer": "CloverWorks",
+      "eps": 1,
+      "genres": [
+        "Mystery",
+        "Psychological",
+        "Supernatural",
+        "Thriller",
+        "Shounen"
       ],
       "category": "Special"
     }
