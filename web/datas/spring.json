@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-02-13",
+  "lastUpdate": "2021-02-14",
   "animes": [
     {
       "title": "",
@@ -372,20 +372,6 @@
     },
     {
       "title": "",
-      "description": "Faceless shadow nobles living in a vast mansion, attended by living dolls who spend much of their time cleaning up the soot endlessly emitted by their mysterious masters.\n\nFollow the story of Emilyko, a young and cheerful living doll, as she learns her duties serving as the attendant for Kate Shadow-sama.\n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1085/111762.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "CloverWorks",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Supernatural",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Shamisen is a traditional Japanese musical instrument that looks similar to a guitar. Teenager Sawamura Setsu's grandfather who raised him and his older brother Wakana, recently passed away. His grandfather was one of the greatest Shamisen players and the two siblings grew up listening to him play and learning to play the instrument.\n\nSince their grandfather's death, Setsu dropped out of high school, moved to Tokyo and has been drifting, not knowing what to do besides play his Shamisen. That's when his successful and rich mother, Umeko, storms into his life and tries to shape Setsu up. She enrolls him back into high school, but little does Setsu know that he is about to rediscover his passion for Shamisen. \n\n(Source: MU, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1841/111554.jpg",
       "date": "Apr 3, 2021",
@@ -395,6 +381,20 @@
         "Music",
         "Drama",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Faceless shadow nobles living in a vast mansion, attended by living dolls who spend much of their time cleaning up the soot endlessly emitted by their mysterious masters.\n\nFollow the story of Emilyko, a young and cheerful living doll, as she learns her duties serving as the attendant for Kate Shadow-sama.\n\n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1085/111762.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "CloverWorks",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Supernatural",
+        "Seinen"
       ],
       "category": "TV (New)"
     },
@@ -546,19 +546,6 @@
     },
     {
       "title": "",
-      "description": "Set in a world of cruelty and heartbreak, Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu follows five young men who work at the mysterious \"Bar F\" and who offer to heal the hearts of their clients, wiping away their tears and causing smiles to bloom like flowers. They take no payment... aside from stealing their clients' hearts.\n\n(Source: Crunchyroll)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1117/111245.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "Studio Comet",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Set in alternate history Japan in 1931 and the 64th year of the Meiji era, the Tokugawa shogunate was never abolished and Emperor Meiji was never restored to power. The anime will follow the activities of \"Nue,\" an organization of shogunate executioners who enforce the government. The country has developed its own energy source, the \"dragon vein,\" and has achieved a unique development in which science and the Edo period are mixed.\n\nHowever, behind the glamorous city, the dissident organization Kuchinawa strives to overthrow the administration, while the Nue of the Tokugawa regime, who was entrusted with its extermination, are in conflict. Sawa Yukimura, whose family was killed when she was young, continues to search for Janome, the executioner of the Nue.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1525/111736.jpg",
       "date": "Apr 7, 2021",
@@ -568,6 +555,19 @@
         "Action",
         "Historical",
         "Supernatural"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Set in a world of cruelty and heartbreak, Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu follows five young men who work at the mysterious \"Bar F\" and who offer to heal the hearts of their clients, wiping away their tears and causing smiles to bloom like flowers. They take no payment... aside from stealing their clients' hearts.\n\n(Source: Crunchyroll)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1117/111245.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "Studio Comet",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -688,6 +688,18 @@
       "eps": null,
       "genres": [
         "Kids"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "A clear summer sky spreads over the Hoshinomiya Girls' High School. This story begins with the belated start of school life for Hinako Shirai, who has just recovered from a leg injury due to a tragic accident. The magical sisters Yuzu and Lime bestowed her with a special power to become a \"Reflector.\" Hinako transforms into the magical Reflector form and protects the world from devastating forces for the sake of the world, and her own dream that she thought she had to give up on.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1545/111861.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "J.C.Staff",
+      "eps": null,
+      "genres": [
+        "Magic"
       ],
       "category": "TV (New)"
     },
