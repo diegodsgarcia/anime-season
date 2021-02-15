@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-02-14",
+  "lastUpdate": "2021-02-15",
   "animes": [
     {
       "title": "",
@@ -203,20 +203,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1688/107418.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "Trigger",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Mecha"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "At Granbell Kingdom, an abandoned amusement park, Shiki has lived his entire life among machines. But one day, Rebecca and her cat companion Happy appear at the park's front gates. Little do these newcomers know that this is the first human contact Granbell has had in a hundred years! \n\nAs Shiki stumbles his way into making new friends, his former neighbors stir at an opportunity for a robo-rebellion… And when his old homeland becomes too dangerous, Shiki must join Rebecca and Happy on their spaceship and escape into the boundless cosmos. \n\n(Source: Kodansha Comics)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1028/111526.jpg",
       "date": "Apr 11, 2021, 00:55 (JST)",
@@ -229,6 +215,20 @@
         "Comedy",
         "Fantasy",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1688/107418.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "Trigger",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Mecha"
       ],
       "category": "TV (New)"
     },
@@ -534,18 +534,6 @@
     },
     {
       "title": "",
-      "description": "In a city which should be familiar, there is the feeling of something a little different.\n\nKotokawa is a taxi driver who lives an ordinary life, taxing some quirky customers around. A slightly eccentric stranger who has no relatives nor any relations with other people, Kotokawa's hobby is to listen to Rakugo on the radio before going to bed. For the time being, the only people he can consider as friends are his family doctor Gouriki, and his high school classmate Kakihana.\n\nKabasawa, a college student who wants a buzz, Shirakawa, a nurse who's hiding something, comedian group Homo Sapiens, who isn't selling well, the city hoodlum Dobu, and the rookie idol group Mystery Kiss—the conversations with these people, which should not have meant much, lead to a girl who disappeared.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1155/111177.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "OLM, P.I.C.S.",
-      "eps": null,
-      "genres": [
-        "Mystery"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Set in alternate history Japan in 1931 and the 64th year of the Meiji era, the Tokugawa shogunate was never abolished and Emperor Meiji was never restored to power. The anime will follow the activities of \"Nue,\" an organization of shogunate executioners who enforce the government. The country has developed its own energy source, the \"dragon vein,\" and has achieved a unique development in which science and the Edo period are mixed.\n\nHowever, behind the glamorous city, the dissident organization Kuchinawa strives to overthrow the administration, while the Nue of the Tokugawa regime, who was entrusted with its extermination, are in conflict. Sawa Yukimura, whose family was killed when she was young, continues to search for Janome, the executioner of the Nue.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1525/111736.jpg",
       "date": "Apr 7, 2021",
@@ -555,6 +543,18 @@
         "Action",
         "Historical",
         "Supernatural"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "In a city which should be familiar, there is the feeling of something a little different.\n\nKotokawa is a taxi driver who lives an ordinary life, taxing some quirky customers around. A slightly eccentric stranger who has no relatives nor any relations with other people, Kotokawa's hobby is to listen to Rakugo on the radio before going to bed. For the time being, the only people he can consider as friends are his family doctor Gouriki, and his high school classmate Kakihana.\n\nKabasawa, a college student who wants a buzz, Shirakawa, a nurse who's hiding something, comedian group Homo Sapiens, who isn't selling well, the city hoodlum Dobu, and the rookie idol group Mystery Kiss—the conversations with these people, which should not have meant much, lead to a girl who disappeared.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1155/111177.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "OLM, P.I.C.S.",
+      "eps": null,
+      "genres": [
+        "Mystery"
       ],
       "category": "TV (New)"
     },
@@ -640,6 +640,21 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1159/111981.jpg",
+      "date": "Apr 4, 2021, 08:30 (JST)",
+      "producer": "Brain's Base, Shogakukan Music & Digital Entertainment",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Sequel to Motto! Majime ni Fumajime Kaiketsu Zorori",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1341/111768.jpg",
       "date": "Apr 2, 2021, 18:55 (JST)",
@@ -649,21 +664,6 @@
         "Adventure",
         "Comedy",
         "Kids"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1952/111282.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Shounen"
       ],
       "category": "TV (New)"
     },
