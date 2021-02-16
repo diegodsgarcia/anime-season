@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2021",
-  "lastUpdate": "2021-02-15",
+  "lastUpdate": "2021-02-16",
   "animes": [
     {
       "title": "",
@@ -211,6 +211,19 @@
       "genres": [
         "Mecha",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "\"I'm going to live for myself!\"\n\nThe greatest assassin on Earth knew only how to live as a tool for his employers—until they stopped letting him live. Reborn by the grace of a goddess into a world of swords and sorcery, he's offered a chance to do things differently this time around, but there's a catch...He has to eliminate a super-powerful hero who will bring about the end of the world unless he is stopped.\n\nNow known as Lugh Tuatha Dé, the master assassin certainly has his hands full, particularly because of all the beautiful girls who constantly surround him. Lugh may have been an incomparable killer, but how will he fare against foes with powerful magic? \n\n(Source: Yen Press)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1526/112007.jpg",
+      "date": "Jul ??, 2021",
+      "producer": "SILVER LINK., Studio Palette",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
