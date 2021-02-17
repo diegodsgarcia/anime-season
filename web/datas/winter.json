@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-02-16",
+  "lastUpdate": "2021-02-17",
   "animes": [
     {
       "title": "",
@@ -73,7 +73,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1271/109841.jpg",
       "date": "Jan 12, 2021, 23:00 (JST)",
       "producer": "8bit",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Comedy",
         "Fantasy"
@@ -374,20 +374,6 @@
     },
     {
       "title": "",
-      "description": "Renge, Natsumi, Komari and former big-city-girl Hotaru live a quiet life in the Japanese countryside, but things get a lot more exciting when newcomer Akane Shinoda moves into the house next door to the Koshigaya family!\n\n(Source: HIDIVE)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1033/111540.jpg",
-      "date": "Jan 11, 2021, 01:35 (JST)",
-      "producer": "SILVER LINK.",
-      "eps": 12,
-      "genres": [
-        "Slice of Life",
-        "Comedy",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "2014: Akira Natsume seems to almost have a phobia of electrical devices while also being very good at diagnosing them. He resolves to change himself for the better and get a girlfriend like his older brother did. ...But then Akira suddenly dies in an accident. 16 years later a special policewoman and her android partner retrieve and activate a highly advanced AI and superweapon called EX-ARM and put it into full control of their ship as a last resort. Turns out the AI is actually just Akira's brain!\n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1809/111519.jpg",
       "date": "Jan 11, 2021, 01:05 (JST)",
@@ -397,6 +383,20 @@
         "Action",
         "Sci-Fi",
         "Ecchi",
+        "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Renge, Natsumi, Komari and former big-city-girl Hotaru live a quiet life in the Japanese countryside, but things get a lot more exciting when newcomer Akane Shinoda moves into the house next door to the Koshigaya family!\n\n(Source: HIDIVE)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1033/111540.jpg",
+      "date": "Jan 11, 2021, 01:35 (JST)",
+      "producer": "SILVER LINK.",
+      "eps": 12,
+      "genres": [
+        "Slice of Life",
+        "Comedy",
         "Seinen"
       ],
       "category": "TV (New)"
@@ -726,6 +726,18 @@
     },
     {
       "title": "",
+      "description": "The stage sets in a world where guinea pigs became cars.\n\nThe car that makes you relax, \"Molcar\".\n\nHaving big round eyes, curvy butt and speedy limbs, they always explore the world with their innocent faces.\n\nEven during traffic jams, you can be eased just by looking at the butt of that Molcar in front of you.\n\nEven when they cause trouble, their furry cuteness will somehow make you forgive them!?\n\nSurrounded by situations only met by cars, it's a Mol-animation filled with cure, friendship, adventure and furry actions!\n\n(Source: Muse Asia, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1899/111488.jpg",
+      "date": "Jan 5, 2021, 07:30 (JST)",
+      "producer": "Shin-Ei Animation",
+      "eps": null,
+      "genres": [
+        "Kids"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Sequel of Shin Chuuka Ichiban.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1503/109131.jpg",
       "date": "Jan 11, 2021, 01:10 (JST)",
@@ -734,18 +746,6 @@
       "genres": [
         "Comedy",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "The stage sets in a world where guinea pigs became cars.\n\nThe car that makes you relax, \"Molcar\".\n\nHaving big round eyes, curvy butt and speedy limbs, they always explore the world with their innocent faces.\n\nEven during traffic jams, you can be eased just by looking at the butt of that Molcar in front of you.\n\nEven when they cause trouble, their furry cuteness will somehow make you forgive them!?\n\nSurrounded by situations only met by cars, it's a Mol-animation filled with cure, friendship, adventure and furry actions!\n\n(Source: Muse Asia, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1899/111488.jpg",
-      "date": "Jan 5, 2021, 07:30 (JST)",
-      "producer": "Shin-Ei Animation",
-      "eps": null,
-      "genres": [
-        "Kids"
       ],
       "category": "TV (New)"
     },
@@ -776,6 +776,19 @@
     },
     {
       "title": "",
+      "description": "Aired within the D4DJ Photon Maiden TV program.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1730/111368.jpg",
+      "date": "Feb 5, 2021, 23:00 (JST)",
+      "producer": "DMM.futureworks, W-Toon Studio",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "The anime centers on Manatsu, who moves from her small island birthplace to a city and starts middle school. On the day she moves she meets a mermaid girl named Laura who is looking for the \"legendary warriors,\" the Precures. Laura's hometown, the mermaid country of Grand Ocean, has been attacked by the \"procrastination witch,\" who has stolen the country's \"motivation power.\"\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1184/110907.jpg",
       "date": "Feb 28, 2021",
@@ -786,19 +799,6 @@
         "Magic",
         "Fantasy",
         "Shoujo"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Aired within the D4DJ Photon Maiden TV program.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1730/111368.jpg",
-      "date": "Feb 5, 2021, 23:00 (JST)",
-      "producer": "DMM.futureworks, W-Toon Studio",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -2017,6 +2017,21 @@
     },
     {
       "title": "",
+      "description": "The new anime will tell an original story, featuring a match between the Hyoutei Academy Secondary Department led by Keigo Atobe and Rikkai University-Affiliated Middle School led by Seiichi Yukimura. The story was previously not depicted in the manga.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1277/110063.jpg",
+      "date": "Feb 13, 2021",
+      "producer": "M.S.C, Studio Kai",
+      "eps": 2,
+      "genres": [
+        "Game",
+        "Sports",
+        "School",
+        "Shounen"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Mini anime where Kuroba introduces Monshiro Town to Haijima, who has returned to Fukui for the first time in a while, released on the official Twitter.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1280/111151.jpg",
       "date": "Jan 9, 2021",
@@ -2455,21 +2470,6 @@
         "Slice of Life",
         "Comedy",
         "School"
-      ],
-      "category": "Movie"
-    },
-    {
-      "title": "",
-      "description": "The new anime will tell an original story, featuring a match between the Hyoutei Academy Secondary Department led by Keigo Atobe and Rikkai University-Affiliated Middle School led by Seiichi Yukimura. The story was previously not depicted in the manga.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1277/110063.jpg",
-      "date": "Feb 13, 2021",
-      "producer": "M.S.C, Studio Kai",
-      "eps": 1,
-      "genres": [
-        "Game",
-        "Sports",
-        "School",
-        "Shounen"
       ],
       "category": "Movie"
     },

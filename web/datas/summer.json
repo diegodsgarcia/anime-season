@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2021",
-  "lastUpdate": "2021-02-16",
+  "lastUpdate": "2021-02-17",
   "animes": [
     {
       "title": "",
@@ -136,13 +136,14 @@
     },
     {
       "title": "",
-      "description": "Second season of Tsukipro The Animation.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1799/110107.jpg",
+      "description": "Kinji, who lacks any kind of work ethic, is a layabout in his modern life. One day, he finds himself transported to another world—but not in a grand fantasy of a hero welcomed with open arms. He's immediately shoved into a terrible job! Now enslaved by an evil mining company in a fantasy world, Kinji's about to really learn the meaning of hard work!\n\n(Source: Seven Seas Entertainment)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1357/111339.jpg",
       "date": "Jul ??, 2021",
-      "producer": "-",
+      "producer": "SILVER LINK.",
       "eps": null,
       "genres": [
-        "Music"
+        "Comedy",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -164,14 +165,13 @@
     },
     {
       "title": "",
-      "description": "Kinji, who lacks any kind of work ethic, is a layabout in his modern life. One day, he finds himself transported to another world—but not in a grand fantasy of a hero welcomed with open arms. He's immediately shoved into a terrible job! Now enslaved by an evil mining company in a fantasy world, Kinji's about to really learn the meaning of hard work!\n\n(Source: Seven Seas Entertainment)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1357/111339.jpg",
+      "description": "Second season of Tsukipro The Animation.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1799/110107.jpg",
       "date": "Jul ??, 2021",
-      "producer": "SILVER LINK.",
+      "producer": "-",
       "eps": null,
       "genres": [
-        "Comedy",
-        "Fantasy"
+        "Music"
       ],
       "category": "TV (New)"
     },
