@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-02-17",
+  "lastUpdate": "2021-02-18",
   "animes": [
     {
       "title": "",
@@ -672,19 +672,6 @@
     },
     {
       "title": "",
-      "description": "\"All stars\" season of Show by Rock!! featuring all the bands from previous seasons.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1713/106712.jpg",
-      "date": "Jan 7, 2021, 22:00 (JST)",
-      "producer": "Kinema Citrus",
-      "eps": 12,
-      "genres": [
-        "Music",
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Countries all over the world formed an alliance to counter the emerging enemy of mankind \"Neuroi,\" whom only girls with special powers could counter. However, the Neuroi never appeared. Instead of fighting, the witches spend their days idly. This time following not only unit 501, but also unit 502 known as \"Brave Witches!\" The 2nd volume of the comical daily drama of the witches who do not fight Neuroi begins!\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1132/110412.jpg",
       "date": "Jan 13, 2021, 00:45 (JST)",
@@ -692,6 +679,19 @@
       "eps": 12,
       "genres": [
         "Military",
+        "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "\"All stars\" season of Show by Rock!! featuring all the bands from previous seasons.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1713/106712.jpg",
+      "date": "Jan 7, 2021, 22:00 (JST)",
+      "producer": "Kinema Citrus",
+      "eps": 12,
+      "genres": [
+        "Music",
         "Comedy"
       ],
       "category": "TV (New)"
@@ -1038,7 +1038,7 @@
     {
       "title": "",
       "description": "Following the successful Sanyou campaign, the Qin army, including 1,000-Man Commander Li Xin, inches ever closer to fulfilling King Ying Zheng's dream of unifying China. With a major geographical foothold in the state of Wei now under its control, Qin sets its sights eastward toward the remaining warring states.\n\nMeanwhile Li Mu—an unparalleled strategist and the newly appointed prime minister of the state of Zhao—has taken advantage of Zhao's temporary truce with Qin to negotiate with the other states without interruption. Seemingly without warning, Ying Zheng receives news that armies from the states of Chu, Zhao, Wei, Han, Yan, and Qi have crossed into Qin territory. Realizing too late the purpose behind Li Mu's truce with Qin, Zheng quickly gathers his advisors to devise a plan to address the six-state coalition army on their doorstep. For the first time in history, the state of Qin faces complete destruction and must use every resource and strategy at their disposal to prevent themselves from being wiped off the map.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1723/109872.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1443/111830.jpg",
       "date": "Apr 6, 2020, 00:15 (JST)",
       "producer": "Studio Signpost",
       "eps": null,
@@ -1232,7 +1232,7 @@
     {
       "title": "",
       "description": "One night, a Star of Life falls down the chimney of a bakery nestled deep in the forest, causing the dough in the oven to come to life. The dough becomes Anpanman, a superhero made of anpan (a sweet roll with bean jam filling). Together with his friends, Anpanman fights his rival Baikinman and helps the malnourished. \n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1/1960.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1902/111797.jpg",
       "date": "Oct 3, 1988, 16:20 (JST)",
       "producer": "TMS Entertainment",
       "eps": null,
@@ -1908,6 +1908,23 @@
     },
     {
       "title": "",
+      "description": "Second season of B: The Beginning.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/93194.jpg",
+      "date": "Mar 18, 2021",
+      "producer": "Production I.G",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Police",
+        "Psychological",
+        "Supernatural",
+        "Thriller"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Valentine's Day special for Kimetsu no Yaiba. The first three episodes will be released on Aniplex's official YouTube channel, while the fourth and final episode will be streamed during the Kimetsu Matsuri Online: Anime 2nd Anniversary Festival.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1167/111666.jpg",
       "date": "Feb 14, 2021",
@@ -1948,18 +1965,6 @@
     },
     {
       "title": "",
-      "description": "Mini anime featuring chibi characters from Enen no Shouboutai, streamed on the official Twitter account.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/111255.jpg",
-      "date": "Jan 8, 2021",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Special episode of Tian Guan Ci Fu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1043/110306.jpg",
       "date": "Feb 16, 2021",
@@ -1969,6 +1974,18 @@
         "Historical",
         "Supernatural",
         "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Mini anime featuring chibi characters from Enen no Shouboutai, streamed on the official Twitter account.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1339/111255.jpg",
+      "date": "Jan 8, 2021",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2303,7 +2320,7 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1166/110367.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1078/111891.jpg",
       "date": "Jan 29, 2021",
       "producer": "-",
       "eps": null,
