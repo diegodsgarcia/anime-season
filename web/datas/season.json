@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-02-18",
+  "lastUpdate": "2021-02-19",
   "animes": [
     {
       "title": "",
@@ -131,7 +131,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1301/110018.jpg",
       "date": "Jan 13, 2021, 23:30 (JST)",
       "producer": "TNK",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Ecchi",
         "Fantasy"
@@ -328,7 +328,7 @@
     {
       "title": "",
       "description": "Junior high school student Kimichika Haijima moves back to his hometown, Fukui, after causing trouble in the Tokyo Junior High School volleyball club. There, he is reunited with his childhood friend, Yuni Kuroba, who possesses outstanding physical abilities, but is vulnerable under pressure. Haijima, with his overwhelming passion and talent for volleyball, forms an ace combination with Kuroba.\n\nThe two enroll at Seiin High School, where they join the volleyball club. Awaiting them are the 163 cm hot-blooded captain Shinichirou Oda, the talented and sharp-tongued vice-captain Misao Aoki and his third-year pair, and second-year students, including Akito Kanno, who is always wearing long sleeves due to his allergy to sunlight.\n\nThe newborn team breaks its former shell of weakness and becomes Fukui's rising star. This is a certain team's journey to victory, with a series of fascinating rivals standing in their way.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1596/108096.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1907/110083.jpg",
       "date": "Jan 8, 2021, 00:55 (JST)",
       "producer": "David Production",
       "eps": 12,
@@ -575,7 +575,7 @@
     {
       "title": "",
       "description": "To become an idol, I shed blood, sweat, and tears. Even so, I push on. I want to shine. I want to earn it. I want to become number one. I want to smile. I want to make my dreams come true. I want to look back at a sea of people. I want to be noticed. I want to find it. I want to overcome obstacles. I have only pride inside my chest.\n\nNo one is in the spotlight from the beginning. Everyone is weak. Only those who do not break will reach the highest peak to become an idol. This is the story of idols who face big dreams and harsh reality.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1050/111296.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1025/111962.jpg",
       "date": "Jan 10, 2021, 23:30 (JST)",
       "producer": "Lerche",
       "eps": 12,
@@ -816,6 +816,18 @@
     },
     {
       "title": "",
+      "description": "The story centers on the everyday life of the cats Suna and Manu, who live in a desert — a desert made of sugar instead of sand.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1208/111257.jpg",
+      "date": "Feb 14, 2021, 03:20 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": 50,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1102/111039.jpg",
       "date": "Dec 29, 2020, 01:05 (JST)",
@@ -824,18 +836,6 @@
       "genres": [
         "Comedy",
         "Romance"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "The story centers on the everyday life of the cats Suna and Manu, who live in a desert — a desert made of sugar instead of sand.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1208/111257.jpg",
-      "date": "Feb 14, 2021, 03:20 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": 50,
-      "genres": [
-        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -1909,7 +1909,7 @@
     {
       "title": "",
       "description": "Second season of B: The Beginning.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1594/93194.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1409/112177.jpg",
       "date": "Mar 18, 2021",
       "producer": "Production I.G",
       "eps": 12,

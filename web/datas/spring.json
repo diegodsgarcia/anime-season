@@ -1,12 +1,12 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-02-18",
+  "lastUpdate": "2021-02-19",
   "animes": [
     {
       "title": "",
       "description": "Fifth season of Boku no Hero Academia.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1502/109585.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1193/111970.jpg",
       "date": "Mar 27, 2021, 17:30 (JST)",
       "producer": "Bones",
       "eps": null,
@@ -442,7 +442,7 @@
       "title": "",
       "description": "The story follows Shoutarou Futaba, a boy who's fascinated with men's rhythmic gymnastics and enrolled at the Ao High School to join the school's team. The story follows a team of unique seniors and Yoshiya Misato, a classmate who's famous in high school rhythmic gymnastics tournaments, who run together toward one goal.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1613/111243.jpg",
-      "date": "Apr ??, 2021",
+      "date": "Apr 9, 2021, 00:55 (JST)",
       "producer": "Zexcs",
       "eps": null,
       "genres": [
@@ -534,18 +534,6 @@
     },
     {
       "title": "",
-      "description": "In a city which should be familiar, there is the feeling of something a little different.\n\nKotokawa is a taxi driver who lives an ordinary life, taxing some quirky customers around. A slightly eccentric stranger who has no relatives nor any relations with other people, Kotokawa's hobby is to listen to Rakugo on the radio before going to bed. For the time being, the only people he can consider as friends are his family doctor Gouriki, and his high school classmate Kakihana.\n\nKabasawa, a college student who wants a buzz, Shirakawa, a nurse who's hiding something, comedian group Homo Sapiens, who isn't selling well, the city hoodlum Dobu, and the rookie idol group Mystery Kiss—the conversations with these people, which should not have meant much, lead to a girl who disappeared.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1155/111177.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "OLM, P.I.C.S.",
-      "eps": null,
-      "genres": [
-        "Mystery"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Set in alternate history Japan in 1931 and the 64th year of the Meiji era, the Tokugawa shogunate was never abolished and Emperor Meiji was never restored to power. The anime will follow the activities of \"Nue,\" an organization of shogunate executioners who enforce the government. The country has developed its own energy source, the \"dragon vein,\" and has achieved a unique development in which science and the Edo period are mixed.\n\nHowever, behind the glamorous city, the dissident organization Kuchinawa strives to overthrow the administration, while the Nue of the Tokugawa regime, who was entrusted with its extermination, are in conflict. Sawa Yukimura, whose family was killed when she was young, continues to search for Janome, the executioner of the Nue.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1525/111736.jpg",
       "date": "Apr 7, 2021",
@@ -555,6 +543,18 @@
         "Action",
         "Historical",
         "Supernatural"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "In a city which should be familiar, there is the feeling of something a little different.\n\nKotokawa is a taxi driver who lives an ordinary life, taxing some quirky customers around. A slightly eccentric stranger who has no relatives nor any relations with other people, Kotokawa's hobby is to listen to Rakugo on the radio before going to bed. For the time being, the only people he can consider as friends are his family doctor Gouriki, and his high school classmate Kakihana.\n\nKabasawa, a college student who wants a buzz, Shirakawa, a nurse who's hiding something, comedian group Homo Sapiens, who isn't selling well, the city hoodlum Dobu, and the rookie idol group Mystery Kiss—the conversations with these people, which should not have meant much, lead to a girl who disappeared.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1155/111177.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "OLM, P.I.C.S.",
+      "eps": null,
+      "genres": [
+        "Mystery"
       ],
       "category": "TV (New)"
     },
