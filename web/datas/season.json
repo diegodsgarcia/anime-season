@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-02-19",
+  "lastUpdate": "2021-02-20",
   "animes": [
     {
       "title": "",
@@ -816,18 +816,6 @@
     },
     {
       "title": "",
-      "description": "The story centers on the everyday life of the cats Suna and Manu, who live in a desert — a desert made of sugar instead of sand.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1208/111257.jpg",
-      "date": "Feb 14, 2021, 03:20 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": 50,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1102/111039.jpg",
       "date": "Dec 29, 2020, 01:05 (JST)",
@@ -836,6 +824,18 @@
       "genres": [
         "Comedy",
         "Romance"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "The story centers on the everyday life of the cats Suna and Manu, who live in a desert — a desert made of sugar instead of sand.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1208/111257.jpg",
+      "date": "Feb 14, 2021, 03:20 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": 50,
+      "genres": [
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -1798,18 +1798,6 @@
     },
     {
       "title": "",
-      "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
-      "date": "Mar 28, 2011, 08:24 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "A gag anime about foods in a refrigerator. The anime airs within the Oha Suta children's morning TV program and will receive a simultaneous manga serialization by Kazumata Oguri.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1884/95217.jpg",
       "date": "Oct 1, 2018, 07:05 (JST)",
@@ -1819,6 +1807,18 @@
         "Comedy",
         "Kids",
         "Parody"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A minute long children's anime that follows 3 siblings. Two brothers who are rectangular and circular shaped, and a sister who is triangluar shaped. They have unique personalities and foster growth and discovery through their play time.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
+      "date": "Mar 28, 2011, 08:24 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -1852,19 +1852,6 @@
     },
     {
       "title": "",
-      "description": "Koyan, the Origami Ninja, came to Earth from his planet Origamio to find the magical stone \"Hapiton\" that has the ability to make people happy. On the way, he was joined by childhood friend Namin anda new friend Lublin. One day, a villain called Evilrun appeared. Evilrun has a black hole in her stomach and tries to inhale anything. Every time an event happens, Evilrun gets in the way of Koyan and friends. But what Evilrun's aim is remains a mystery...",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1860/106477.jpg",
-      "date": "Apr 7, 2020, 07:30 (JST)",
-      "producer": "Directions",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "The story centers on the Seven Gods of Fortune in Japanese mythology as they reside on Awaji Island in Hyogo. In the shorts' story, the Seven Gods of Fortune slack in their duties in heaven, and Susanoo-no-Mikoto banishes them to Awaji Island. In order to return to the heavenly realm, they must help bring happiness to humans and rebuild their virtue. The outcast gods reluctantly grant human wishes and accumulate points in their \"god phones\" to be able to return to heaven. They aim to perform good deeds on particularly auspicious days to maximize point accumulation. Despite their best efforts at accumulating virtue, sometimes the Seven Gods of Fortune end up bringing misfortune to humans. When they fail, they lose points, further prolonging their stay on Awaji Island.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1860/109576.jpg",
       "date": "Oct 5, 2020, 07:30 (JST)",
@@ -1874,6 +1861,19 @@
         "Comedy",
         "Kids",
         "Supernatural"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Koyan, the Origami Ninja, came to Earth from his planet Origamio to find the magical stone \"Hapiton\" that has the ability to make people happy. On the way, he was joined by childhood friend Namin anda new friend Lublin. One day, a villain called Evilrun appeared. Evilrun has a black hole in her stomach and tries to inhale anything. Every time an event happens, Evilrun gets in the way of Koyan and friends. But what Evilrun's aim is remains a mystery...",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1860/106477.jpg",
+      "date": "Apr 7, 2020, 07:30 (JST)",
+      "producer": "Directions",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -2104,19 +2104,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1094/110890.jpg",
-      "date": "Jan 22, 2021",
-      "producer": "-",
-      "eps": 10,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "The story takes place in Lingshan, where a group of \"hopeless\" people are gathered on the earth. Most of them are poor, vicious, or extremely evil, abandoned by the society in Lingshan. This is where the fourth generation of Kuiba Mi Lin was born. \n\nThe Heavens struggled to find Kuiba to no avail. In order to eliminate Kuiba, the Heavens determined to blast Lingshan into the ground. Mi Lin rose from the predicament, and his spirit gradually awakened souls with flesh and blood in Lingshan. Mi Lin led the Lingshan Army to sweep across the world, against the Heavens, and became the overlord of the world.\n\n(Source: Tencent, translated)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1558/111667.jpg",
       "date": "Jan 17, 2021",
@@ -2125,6 +2112,19 @@
       "genres": [
         "Adventure",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1094/110890.jpg",
+      "date": "Jan 22, 2021",
+      "producer": "-",
+      "eps": 10,
+      "genres": [
+        "Action",
+        "Drama"
       ],
       "category": "ONA"
     },
@@ -2191,6 +2191,20 @@
       "genres": [
         "Comedy",
         "Historical"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The anime is set in the fictional Geso ward in Tokyo, a school city where an app called \"AICis\" is becoming popular. Those who get the app are given supernatural powers, which they use to pursue their own selfish desires, leading to many occurrences of violence and other incidents. The story focuses on a group of detectives who solve cases related to power wielders.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1199/112305.jpg",
+      "date": "Feb 13, 2021",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Mystery",
+        "Supernatural",
+        "School"
       ],
       "category": "ONA"
     },
