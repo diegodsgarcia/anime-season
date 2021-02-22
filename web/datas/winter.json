@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-02-21",
+  "lastUpdate": "2021-02-22",
   "animes": [
     {
       "title": "",
@@ -69,19 +69,6 @@
     },
     {
       "title": "",
-      "description": "Second season of Tensei shitara Slime Datta Ken.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1271/109841.jpg",
-      "date": "Jan 12, 2021, 23:00 (JST)",
-      "producer": "8bit",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Second half of Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1132/110666.jpg",
       "date": "Jan 6, 2021, 22:30 (JST)",
@@ -91,6 +78,19 @@
         "Psychological",
         "Drama",
         "Thriller",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Second season of Tensei shitara Slime Datta Ken.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1271/109841.jpg",
+      "date": "Jan 12, 2021, 23:00 (JST)",
+      "producer": "8bit",
+      "eps": 12,
+      "genres": [
+        "Comedy",
         "Fantasy"
       ],
       "category": "TV (New)"
@@ -1624,6 +1624,18 @@
     },
     {
       "title": "",
+      "description": "Spin-off of Kichikujima with super deformed characters.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1352/109736.jpg",
+      "date": "Nov 18, 2020, 23:29 (JST)",
+      "producer": "Kachidoki Studio",
+      "eps": null,
+      "genres": [
+        "Comedy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "Stop-motion animation about robots; though mainly focusing on Pulta a white square robot.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/70637.jpg",
       "date": "Apr 4, 1995",
@@ -1634,18 +1646,6 @@
         "Comedy",
         "Kids",
         "Mecha"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "Spin-off of Kichikujima with super deformed characters.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1352/109736.jpg",
-      "date": "Nov 18, 2020, 23:29 (JST)",
-      "producer": "Kachidoki Studio",
-      "eps": null,
-      "genres": [
-        "Comedy"
       ],
       "category": "TV (Continuing)"
     },
@@ -2073,6 +2073,24 @@
     },
     {
       "title": "",
+      "description": "Fourth season of Doupo Cangqiong.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1887/112452.jpg",
+      "date": "Mar 28, 2021",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Demons",
+        "Supernatural",
+        "Romance",
+        "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Yan Wushi had walked a path full of blood and corpses. He did not believe in the good nature of humanity. Even more so, he did not believe that there could be someone with great kindness and sense of justice, who would be so considerate of others without asking anything in return. One day, Shen Qiao, who was the sect leader of Mount Xuandu, the number one Daoist sect under the heavens, was challenged to a duel but somehow fell off the cliff. Yan Wushi happened to pass by down there. Seeing Shen Qiao who was seriously injured to the point of dying, he suddenly came up with a perfect idea… After thousands of autumns, who could stay eternal?\n\n(Source: Novel Updates)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1917/112024.jpg",
       "date": "Feb 8, 2021",
@@ -2133,7 +2151,7 @@
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1729/111278.jpg",
       "date": "Jan 28, 2021",
-      "producer": "-",
+      "producer": "Soyep",
       "eps": 60,
       "genres": [
         "Action",
@@ -2183,19 +2201,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1947/111276.jpg",
-      "date": "Feb 6, 2021",
-      "producer": "Seven Stone Entertainment",
-      "eps": 26,
-      "genres": [
-        "Comedy",
-        "Historical"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "The anime is set in the fictional Geso ward in Tokyo, a school city where an app called \"AICis\" is becoming popular. Those who get the app are given supernatural powers, which they use to pursue their own selfish desires, leading to many occurrences of violence and other incidents. The story focuses on a group of detectives who solve cases related to power wielders.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1199/112305.jpg",
       "date": "Feb 13, 2021",
@@ -2210,6 +2215,32 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1947/111276.jpg",
+      "date": "Feb 6, 2021",
+      "producer": "Seven Stone Entertainment",
+      "eps": 26,
+      "genres": [
+        "Comedy",
+        "Historical"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1773/112028.jpg",
+      "date": "Feb 14, 2021",
+      "producer": "-",
+      "eps": 16,
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "A one-minute concept animation that exists within the same world as Summer Ghost.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1388/112416.jpg",
       "date": "Feb 18, 2021",
@@ -2218,6 +2249,44 @@
       "genres": [
         "Music",
         "Drama"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "An unnamed girl appears in a school. She traverses through a cyberpunk version of the town of Sasebo, collecting lanterns while being pursued by an ominous figure.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1650/112507.jpg",
+      "date": "Feb 12, 2021",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Sci-Fi",
+        "Mystery"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1664/112449.jpg",
+      "date": "Feb 17, 2021",
+      "producer": "Ruo Hong Culture",
+      "eps": 40,
+      "genres": [
+        "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The story follows an office worker Mitsuki who is more devoted to her work than her own personal grooming. She decides to improve her appearance when she discovers that her boss Watanabe is leaving.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1592/112485.jpg",
+      "date": "Feb 8, 2021",
+      "producer": "GEEK TOYS",
+      "eps": 1,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2601,6 +2670,19 @@
         "Comedy",
         "Ecchi",
         "Fantasy"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/111820.jpg",
+      "date": "Feb 11, 2021",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "Special"
     }
