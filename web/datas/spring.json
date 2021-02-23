@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-02-22",
+  "lastUpdate": "2021-02-23",
   "animes": [
     {
       "title": "",
@@ -22,8 +22,8 @@
     {
       "title": "",
       "description": "Second season of Isekai Maou to Shoukan Shoujo no Dorei Majutsu.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1207/111793.jpg",
-      "date": "Apr ??, 2021",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1987/112516.jpg",
+      "date": "Apr 9, 2021, 01:28 (JST)",
       "producer": "Okuruto Noboru, Tezuka Productions",
       "eps": null,
       "genres": [
@@ -372,20 +372,6 @@
     },
     {
       "title": "",
-      "description": "Faceless shadow nobles living in a vast mansion, attended by living dolls who spend much of their time cleaning up the soot endlessly emitted by their mysterious masters.\n\nFollow the story of Emilyko, a young and cheerful living doll, as she learns her duties serving as the attendant for Kate Shadow-sama.\n\n(Source: MU)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1085/111762.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "CloverWorks",
-      "eps": null,
-      "genres": [
-        "Slice of Life",
-        "Supernatural",
-        "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Shamisen is a traditional Japanese musical instrument that looks similar to a guitar. Teenager Sawamura Setsu's grandfather who raised him and his older brother Wakana, recently passed away. His grandfather was one of the greatest Shamisen players and the two siblings grew up listening to him play and learning to play the instrument.\n\nSince their grandfather's death, Setsu dropped out of high school, moved to Tokyo and has been drifting, not knowing what to do besides play his Shamisen. That's when his successful and rich mother, Umeko, storms into his life and tries to shape Setsu up. She enrolls him back into high school, but little does Setsu know that he is about to rediscover his passion for Shamisen. \n\n(Source: MU, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1841/111554.jpg",
       "date": "Apr 3, 2021",
@@ -395,6 +381,20 @@
         "Music",
         "Drama",
         "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Faceless shadow nobles living in a vast mansion, attended by living dolls who spend much of their time cleaning up the soot endlessly emitted by their mysterious masters.\n\nFollow the story of Emilyko, a young and cheerful living doll, as she learns her duties serving as the attendant for Kate Shadow-sama.\n\n(Source: MU)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1085/111762.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "CloverWorks",
+      "eps": null,
+      "genres": [
+        "Slice of Life",
+        "Supernatural",
+        "Seinen"
       ],
       "category": "TV (New)"
     },

@@ -1,7 +1,7 @@
 {
   "season": "Summer",
   "year": "2021",
-  "lastUpdate": "2021-02-22",
+  "lastUpdate": "2021-02-23",
   "animes": [
     {
       "title": "",
@@ -92,6 +92,20 @@
         "Demons",
         "Fantasy",
         "Seinen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "A new television anime series for the Love Live! franchise was announced by animation studio Sunrise on January 28, 2020. The tagline for the new anime reads, \"Watashi wo Kanaeru Monogatari. Hello!!! Love Live!\"\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1852/112574.jpg",
+      "date": "Jul ??, 2021",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Slice of Life",
+        "School"
       ],
       "category": "TV (New)"
     },
