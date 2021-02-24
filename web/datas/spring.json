@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-02-23",
+  "lastUpdate": "2021-02-24",
   "animes": [
     {
       "title": "",
@@ -66,20 +66,6 @@
     },
     {
       "title": "",
-      "description": "Second Season of Zombieland Saga.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1998/110999.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "MAPPA",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Comedy",
-        "Supernatural"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "It, a mysterious immortal being, is sent to the Earth with no emotions nor identity. However, It is able to take the shape of those around that have a strong impetus.\n \nAt first, It is a sphere. Then, It imitates the form of a rock. As the temperature drops and snow falls atop the moss, It inherits the moss. When an injured, lone wolf comes limping by and lays down to die, It takes on the form of the animal. Finally, It gains consciousness and begins to traverse the empty tundra until It meets a boy.\n \nThe boy lives alone in a ghost town, which the adults abandoned long ago in search of the paradise said to exist far beyond the endless sea of white tundra. However, their efforts were for naught, and now the boy is in a critical state.\n \nAcquiring the form of the boy, It sets off on a never-ending journey, in search of new experiences, places, and people.\n \n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/111757.jpg",
       "date": "Apr 12, 2021, 22:50 (JST)",
@@ -90,6 +76,20 @@
         "Supernatural",
         "Drama",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Second Season of Zombieland Saga.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1998/110999.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "MAPPA",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Comedy",
+        "Supernatural"
       ],
       "category": "TV (New)"
     },
@@ -319,6 +319,18 @@
     },
     {
       "title": "",
+      "description": "First-year high schooler Tatsuya Yoigoshi, the former ace of a junior high school soccer team who has come to dislike sports, receives an invitation to join the Kabaddi club. Initially mocking the idea of Kabaddi, he takes an interest after watching an intense competition akin to martial arts at a practice session.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1753/112004.jpg",
+      "date": "Apr 3, 2021, 01:23 (JST)",
+      "producer": "TMS Entertainment",
+      "eps": null,
+      "genres": [
+        "Sports"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Always bring a gun to a sword fight!\n\nWith world domination nearly in their grasp, the Supreme Leaders of the Kisaragi Corporation—an underground criminal group turned evil megacorp—have decided to try their hands at interstellar conquest. A quick dice roll nominates their chief operative, Combat Agent Six, to be the one to explore an alien planet...and the first thing he does when he gets there is change the sacred incantation for a holy ritual to the most embarrassing thing he can think of.\n\nBut evil deeds are business as usual for Kisaragi operatives, so if Six wants a promotion and a raise, he'll have to work much harder than that! For starters, he'll have to do something about the other group of villains on the planet, who are calling themselves the \"Demon Lord's Army\" or whatever. After all, this world doesn't need two evil organizations! \n\n(Source: Yen Press, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1623/111021.jpg",
       "date": "Apr ??, 2021",
@@ -333,25 +345,27 @@
     },
     {
       "title": "",
-      "description": "First-year high schooler Tatsuya Yoigoshi, the former ace of a junior high school soccer team who has come to dislike sports, receives an invitation to join the Kabaddi club. Initially mocking the idea of Kabaddi, he takes an interest after watching an intense competition akin to martial arts at a practice session.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1753/112004.jpg",
-      "date": "Apr 3, 2021, 01:23 (JST)",
-      "producer": "TMS Entertainment",
-      "eps": null,
+      "description": "This series features an original story, which depicts the young geniuses Mei Kamino, a female researcher, and Yun Arikawa, a male engineer, as they take on an unprecedented threat with their companions. When danger comes up from the depths, only young geniuses Mei, Yun, and their team can face the threat in Godzilla Singular Point! \n\n(Source: Netflix)\n\nEach episode was released one week in advance of the TV broadcast.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1828/112581.jpg",
+      "date": "Mar 25, 2021",
+      "producer": "Bones, Orange",
+      "eps": 13,
       "genres": [
-        "Sports"
+        "Action"
       ],
       "category": "TV (New)"
     },
     {
       "title": "",
-      "description": "This series features an original story, which depicts the young geniuses Mei Kamino, a female researcher, and Yun Arikawa, a male engineer, as they take on an unprecedented threat with their companions. When danger comes up from the depths, only young geniuses Mei, Yun, and their team can face the threat in Godzilla Singular Point! \n\n(Source: Netflix)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1017/109966.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "Bones, Orange",
+      "description": "Shamisen is a traditional Japanese musical instrument that looks similar to a guitar. Teenager Sawamura Setsu's grandfather who raised him and his older brother Wakana, recently passed away. His grandfather was one of the greatest Shamisen players and the two siblings grew up listening to him play and learning to play the instrument.\n\nSince their grandfather's death, Setsu dropped out of high school, moved to Tokyo and has been drifting, not knowing what to do besides play his Shamisen. That's when his successful and rich mother, Umeko, storms into his life and tries to shape Setsu up. She enrolls him back into high school, but little does Setsu know that he is about to rediscover his passion for Shamisen. \n\n(Source: MU, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1841/111554.jpg",
+      "date": "Apr 3, 2021",
+      "producer": "Shin-Ei Animation",
       "eps": null,
       "genres": [
-        "Action"
+        "Music",
+        "Drama",
+        "School"
       ],
       "category": "TV (New)"
     },
@@ -367,20 +381,6 @@
         "Game",
         "Comedy",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Shamisen is a traditional Japanese musical instrument that looks similar to a guitar. Teenager Sawamura Setsu's grandfather who raised him and his older brother Wakana, recently passed away. His grandfather was one of the greatest Shamisen players and the two siblings grew up listening to him play and learning to play the instrument.\n\nSince their grandfather's death, Setsu dropped out of high school, moved to Tokyo and has been drifting, not knowing what to do besides play his Shamisen. That's when his successful and rich mother, Umeko, storms into his life and tries to shape Setsu up. She enrolls him back into high school, but little does Setsu know that he is about to rediscover his passion for Shamisen. \n\n(Source: MU, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1841/111554.jpg",
-      "date": "Apr 3, 2021",
-      "producer": "Shin-Ei Animation",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Drama",
-        "School"
       ],
       "category": "TV (New)"
     },
@@ -428,18 +428,6 @@
     },
     {
       "title": "",
-      "description": "",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1689/111175.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "Wit Studio",
-      "eps": null,
-      "genres": [
-        "Sci-Fi"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "The story follows Shoutarou Futaba, a boy who's fascinated with men's rhythmic gymnastics and enrolled at the Ao High School to join the school's team. The story follows a team of unique seniors and Yoshiya Misato, a classmate who's famous in high school rhythmic gymnastics tournaments, who run together toward one goal.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1613/111243.jpg",
       "date": "Apr 9, 2021, 00:55 (JST)",
@@ -452,14 +440,13 @@
     },
     {
       "title": "",
-      "description": "Mayumi Dojima, a second-year student at the exclusive Yubiwa Academy middle school, has lost something—a star she glimpsed just once, ten long years ago. But help is on the way, in the form of the unofficial, secretive, and thoroughly mysterious Pretty Boy Detective Club! Rumored to solve problems within the school (most of which they themselves might as well created) for reasons aesthetic rather than financial, these five gorgeous boys sweep Mayumi into their world of excitement, danger, and overwhelming beauty. \n\n(Source: Vertical, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1925/110172.jpg",
-      "date": "Apr 11, 2021, 02:00 (JST)",
-      "producer": "Shaft",
+      "description": "",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1689/111175.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "Wit Studio",
       "eps": null,
       "genres": [
-        "Mystery",
-        "School"
+        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
@@ -474,6 +461,19 @@
         "Action",
         "Historical",
         "Supernatural"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Mayumi Dojima, a second-year student at the exclusive Yubiwa Academy middle school, has lost something—a star she glimpsed just once, ten long years ago. But help is on the way, in the form of the unofficial, secretive, and thoroughly mysterious Pretty Boy Detective Club! Rumored to solve problems within the school (most of which they themselves might as well created) for reasons aesthetic rather than financial, these five gorgeous boys sweep Mayumi into their world of excitement, danger, and overwhelming beauty. \n\n(Source: Vertical, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1925/110172.jpg",
+      "date": "Apr 11, 2021, 02:00 (JST)",
+      "producer": "Shaft",
+      "eps": null,
+      "genres": [
+        "Mystery",
+        "School"
       ],
       "category": "TV (New)"
     },
