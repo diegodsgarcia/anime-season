@@ -1,12 +1,12 @@
 {
   "season": "Summer",
   "year": "2021",
-  "lastUpdate": "2021-02-24",
+  "lastUpdate": "2021-02-25",
   "animes": [
     {
       "title": "",
       "description": "Second season of Kobayashi-san Chi no Maid Dragon.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1777/108817.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1759/112402.jpg",
       "date": "Jul ??, 2021",
       "producer": "Kyoto Animation",
       "eps": null,
@@ -163,6 +163,18 @@
     },
     {
       "title": "",
+      "description": "Kukuru Misakino, an 18-year-old high school girl working in an aquarium, meets Fuuka Miyazawa, a former idol who lost her place in Tokyo and escaped. Fuuka will spend her days in the aquarium with her own thoughts in mind. However, the crisis of closing is approaching for the aquarium, as the girls explore their dreams and reality, loneliness and friends, bonds and conflicts.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1519/111174.jpg",
+      "date": "Jul ??, 2021",
+      "producer": "P.A. Works",
+      "eps": null,
+      "genres": [
+        "Slice of Life"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "The story follows the Kirihara brothers who from a young age were incarcerated in a secure scientific facility due to their supernatural powers, having escaped after the barrier that was preventing them malfunctions. The story also follows the Kuroki brothers who are trying to chase the Kirihara brothers.\n\n(Source: MAL News)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1148/110090.jpg",
       "date": "Jul ??, 2021",
@@ -191,13 +203,14 @@
     },
     {
       "title": "",
-      "description": "Kukuru Misakino, an 18-year-old high school girl working in an aquarium, meets Fuuka Miyazawa, a former idol who lost her place in Tokyo and escaped. Fuuka will spend her days in the aquarium with her own thoughts in mind. However, the crisis of closing is approaching for the aquarium, as the girls explore their dreams and reality, loneliness and friends, bonds and conflicts.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1519/111174.jpg",
+      "description": "\"I'm going to live for myself!\"\n\nThe greatest assassin on Earth knew only how to live as a tool for his employers—until they stopped letting him live. Reborn by the grace of a goddess into a world of swords and sorcery, he's offered a chance to do things differently this time around, but there's a catch...He has to eliminate a super-powerful hero who will bring about the end of the world unless he is stopped.\n\nNow known as Lugh Tuatha Dé, the master assassin certainly has his hands full, particularly because of all the beautiful girls who constantly surround him. Lugh may have been an incomparable killer, but how will he fare against foes with powerful magic? \n\n(Source: Yen Press)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1526/112007.jpg",
       "date": "Jul ??, 2021",
-      "producer": "P.A. Works",
+      "producer": "SILVER LINK., Studio Palette",
       "eps": null,
       "genres": [
-        "Slice of Life"
+        "Action",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -225,19 +238,6 @@
       "genres": [
         "Mecha",
         "School"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "\"I'm going to live for myself!\"\n\nThe greatest assassin on Earth knew only how to live as a tool for his employers—until they stopped letting him live. Reborn by the grace of a goddess into a world of swords and sorcery, he's offered a chance to do things differently this time around, but there's a catch...He has to eliminate a super-powerful hero who will bring about the end of the world unless he is stopped.\n\nNow known as Lugh Tuatha Dé, the master assassin certainly has his hands full, particularly because of all the beautiful girls who constantly surround him. Lugh may have been an incomparable killer, but how will he fare against foes with powerful magic? \n\n(Source: Yen Press)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1526/112007.jpg",
-      "date": "Jul ??, 2021",
-      "producer": "SILVER LINK., Studio Palette",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
