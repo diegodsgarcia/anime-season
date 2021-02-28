@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-02-27",
+  "lastUpdate": "2021-02-28",
   "animes": [
     {
       "title": "",
@@ -47,6 +47,7 @@
       "genres": [
         "Sci-Fi",
         "Adventure",
+        "Comedy",
         "Shounen"
       ],
       "category": "TV (New)"
@@ -281,6 +282,7 @@
       "eps": 13,
       "genres": [
         "Action",
+        "Drama",
         "Seinen"
       ],
       "category": "TV (New)"
@@ -519,6 +521,19 @@
     },
     {
       "title": "",
+      "description": "The story follows Rena Yukuhasahi, a reserved office lady and Ryouhei Hachiya, a businessman and fellow colleague. Yukuhasahi appears to be the most reserved girl in the company, but becomes a super beautiful woman when she dresses up. Flustered in the presence of her transformed self, Hachiya insists on taking her out, only to find themselves in front of a love hotel.\n\n(Source: MAL News)\n\nThe standard TV version of the anime debuted on January 4 at 1:00 a.m. on Tokyo MX, while the complete version streamed on the ComicFesta Anime Zone website.\n\nThis entry reflects standard TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/110273.jpg",
+      "date": "Jan 4, 2021, 01:00 (JST)",
+      "producer": "Studio Hokiboshi",
+      "eps": 8,
+      "genres": [
+        "Romance",
+        "Ecchi"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "This is a slightly peculiar world where the shipgirls live in. A lively and enjoyable school life for girls from different factions will begin at the naval port of Azur Lane. Living out their lives to the fullest, these girls get into various shenanigans—slowly but surely!\n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1709/111543.jpg",
       "date": "Jan 12, 2021, 01:00 (JST)",
@@ -529,19 +544,6 @@
         "Sci-Fi",
         "Slice of Life",
         "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "The story follows Rena Yukuhasahi, a reserved office lady and Ryouhei Hachiya, a businessman and fellow colleague. Yukuhasahi appears to be the most reserved girl in the company, but becomes a super beautiful woman when she dresses up. Flustered in the presence of her transformed self, Hachiya insists on taking her out, only to find themselves in front of a love hotel.\n\n(Source: MAL News)\n\nThe standard TV version of the anime debuted on January 4 at 1:00 a.m. on Tokyo MX, while the complete version streamed on the ComicFesta Anime Zone website.\n\nThis entry reflects standard TV version of the anime.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/110273.jpg",
-      "date": "Jan 4, 2021, 01:00 (JST)",
-      "producer": "Studio Hokiboshi",
-      "eps": 8,
-      "genres": [
-        "Romance",
-        "Ecchi"
       ],
       "category": "TV (New)"
     },
@@ -1728,20 +1730,6 @@
     },
     {
       "title": "",
-      "description": "The series follows a young girl named Shina who hopes to become the world's best DJ, and is interested in new sounds. Shina explores a mysterious world filled with Otoppe, strange creatures capable of unique sounds.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
-      "date": "Apr 3, 2017, 08:40 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Kids",
-        "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
       "date": "Apr 8, 2020, 06:45 (JST)",
@@ -1752,6 +1740,20 @@
         "Parody",
         "Kids",
         "Samurai"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "The series follows a young girl named Shina who hopes to become the world's best DJ, and is interested in new sounds. Shina explores a mysterious world filled with Otoppe, strange creatures capable of unique sounds.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
+      "date": "Apr 3, 2017, 08:40 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Kids",
+        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -2148,19 +2150,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1094/110890.jpg",
-      "date": "Jan 22, 2021",
-      "producer": "-",
-      "eps": 10,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "The anime is set in the fictional Geso ward in Tokyo, a school city where an app called \"AICis\" is becoming popular. Those who get the app are given supernatural powers, which they use to pursue their own selfish desires, leading to many occurrences of violence and other incidents. The story focuses on a group of detectives who solve cases related to power wielders.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1199/112305.jpg",
       "date": "Feb 13, 2021",
@@ -2170,6 +2159,19 @@
         "Mystery",
         "Supernatural",
         "School"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1094/110890.jpg",
+      "date": "Jan 22, 2021",
+      "producer": "-",
+      "eps": 10,
+      "genres": [
+        "Action",
+        "Drama"
       ],
       "category": "ONA"
     },
@@ -2300,6 +2302,21 @@
       "eps": 1,
       "genres": [
         "Slice of Life"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Second season of Wo Shi Da Shen Shan.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1016/112909.jpg",
+      "date": "Feb 25, 2021",
+      "producer": "CG Year",
+      "eps": 16,
+      "genres": [
+        "Action",
+        "Martial Arts",
+        "Fantasy",
+        "Shounen"
       ],
       "category": "ONA"
     },

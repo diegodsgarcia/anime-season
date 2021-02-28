@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-02-27",
+  "lastUpdate": "2021-02-28",
   "animes": [
     {
       "title": "",
@@ -68,7 +68,7 @@
       "title": "",
       "description": "Second Season of Zombieland Saga.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1998/110999.jpg",
-      "date": "Apr ??, 2021",
+      "date": "Apr 9, 2021, 00:00 (JST)",
       "producer": "MAPPA",
       "eps": null,
       "genres": [
@@ -306,6 +306,19 @@
     },
     {
       "title": "",
+      "description": "Neku Sakuraba, a 15-year-old boy with a hobby for music and graffiti, wakes up in what seems to be the Shibuya shopping district of Tokyo, Japan. With no idea why he's there, he opens his hand to realize he is holding a strange black pin. After flipping it with his hand, the thoughts of the people surrounding him begins to flow into his head at once. Surprised, Neku discovers he is able to read the minds of others and assumes it has something to do with the black pin he is holding.\n\nA cell phone starts to ring in his pocket, and he can't tell whether it is his or not. A text message appears: \"Reach 104. You have 60 minutes. Fail, and face erasure. -The Reapers.\" After discovering he can't delete the message, a timer of 60 minutes imprints onto his right hand. Neku is in Shibuya to play the \"Reapers' Game,\" which spans a total of seven days. All Players of the Reapers' Game have a black pin with a skull embedded on it.\n\n(Source: Wikipedia, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1016/111566.jpg",
+      "date": "Apr 10, 2021, 02:25 (JST)",
+      "producer": "domerica, Shin-Ei Animation",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Always bring a gun to a sword fight!\n\nWith world domination nearly in their grasp, the Supreme Leaders of the Kisaragi Corporation—an underground criminal group turned evil megacorp—have decided to try their hands at interstellar conquest. A quick dice roll nominates their chief operative, Combat Agent Six, to be the one to explore an alien planet...and the first thing he does when he gets there is change the sacred incantation for a holy ritual to the most embarrassing thing he can think of.\n\nBut evil deeds are business as usual for Kisaragi operatives, so if Six wants a promotion and a raise, he'll have to work much harder than that! For starters, he'll have to do something about the other group of villains on the planet, who are calling themselves the \"Demon Lord's Army\" or whatever. After all, this world doesn't need two evil organizations! \n\n(Source: Yen Press, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1623/111021.jpg",
       "date": "Apr ??, 2021",
@@ -315,19 +328,6 @@
         "Action",
         "Comedy",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Neku Sakuraba, a 15-year-old boy with a hobby for music and graffiti, wakes up in what seems to be the Shibuya shopping district of Tokyo, Japan. With no idea why he's there, he opens his hand to realize he is holding a strange black pin. After flipping it with his hand, the thoughts of the people surrounding him begins to flow into his head at once. Surprised, Neku discovers he is able to read the minds of others and assumes it has something to do with the black pin he is holding.\n\nA cell phone starts to ring in his pocket, and he can't tell whether it is his or not. A text message appears: \"Reach 104. You have 60 minutes. Fail, and face erasure. -The Reapers.\" After discovering he can't delete the message, a timer of 60 minutes imprints onto his right hand. Neku is in Shibuya to play the \"Reapers' Game,\" which spans a total of seven days. All Players of the Reapers' Game have a black pin with a skull embedded on it.\n\n(Source: Wikipedia, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1016/111566.jpg",
-      "date": "Apr 10, 2021, 02:25 (JST)",
-      "producer": "domerica, Shin-Ei Animation",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure"
       ],
       "category": "TV (New)"
     },
@@ -345,6 +345,18 @@
     },
     {
       "title": "",
+      "description": "This series features an original story, which depicts the young geniuses Mei Kamino, a female researcher, and Yun Arikawa, a male engineer, as they take on an unprecedented threat with their companions. When danger comes up from the depths, only young geniuses Mei, Yun, and their team can face the threat in Godzilla Singular Point! \n\n(Source: Netflix)\n\nEach episode was released one week in advance of the TV broadcast beginning on March 25, 2021. Regular TV broadcast began on April 1, 2021.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1828/112581.jpg",
+      "date": "Mar 25, 2021",
+      "producer": "Bones, Orange",
+      "eps": 13,
+      "genres": [
+        "Action"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Faceless shadow nobles living in a vast mansion, attended by living dolls who spend much of their time cleaning up the soot endlessly emitted by their mysterious masters.\n\nFollow the story of Emilyko, a young and cheerful living doll, as she learns her duties serving as the attendant for Kate Shadow-sama.\n\n(Source: MU)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1085/111762.jpg",
       "date": "Apr ??, 2021",
@@ -354,18 +366,6 @@
         "Slice of Life",
         "Supernatural",
         "Seinen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "This series features an original story, which depicts the young geniuses Mei Kamino, a female researcher, and Yun Arikawa, a male engineer, as they take on an unprecedented threat with their companions. When danger comes up from the depths, only young geniuses Mei, Yun, and their team can face the threat in Godzilla Singular Point! \n\n(Source: Netflix)\n\nEach episode was released one week in advance of the TV broadcast.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1828/112581.jpg",
-      "date": "Mar 25, 2021",
-      "producer": "Bones, Orange",
-      "eps": 13,
-      "genres": [
-        "Action"
       ],
       "category": "TV (New)"
     },
@@ -400,15 +400,13 @@
     },
     {
       "title": "",
-      "description": "When a dragon fails to live up to the fearsome standards set for him, his family kicks him out. He embarks on a quest to find a new home, but soon finds that life on the road is no place for a cowardly beast of legend. In a fantasy world full of elves, dwarves, and other mythical creatures, where everyone wants a piece of him—literally!—the frustrations of house-hunting reach a whole new level.\n\n(Source: Seven Seas Entertainment)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1549/110231.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "Signal.MD",
+      "description": "",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1689/111175.jpg",
+      "date": "Apr 3, 2021, 23:30 (JST)",
+      "producer": "Wit Studio",
       "eps": null,
       "genres": [
-        "Comedy",
-        "Fantasy",
-        "Shounen"
+        "Sci-Fi"
       ],
       "category": "TV (New)"
     },
@@ -428,13 +426,15 @@
     },
     {
       "title": "",
-      "description": "",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1689/111175.jpg",
+      "description": "When a dragon fails to live up to the fearsome standards set for him, his family kicks him out. He embarks on a quest to find a new home, but soon finds that life on the road is no place for a cowardly beast of legend. In a fantasy world full of elves, dwarves, and other mythical creatures, where everyone wants a piece of him—literally!—the frustrations of house-hunting reach a whole new level.\n\n(Source: Seven Seas Entertainment)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1549/110231.jpg",
       "date": "Apr ??, 2021",
-      "producer": "Wit Studio",
+      "producer": "Signal.MD",
       "eps": null,
       "genres": [
-        "Sci-Fi"
+        "Comedy",
+        "Fantasy",
+        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -605,6 +605,19 @@
     },
     {
       "title": "",
+      "description": "A clear summer sky spreads over the Hoshinomiya Girls' High School. This story begins with the belated start of school life for Hinako Shirai, who has just recovered from a leg injury due to a tragic accident. The magical sisters Yuzu and Lime bestowed her with a special power to become a \"Reflector.\" Hinako transforms into the magical Reflector form and protects the world from devastating forces for the sake of the world, and her own dream that she thought she had to give up on.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1545/111861.jpg",
+      "date": "Apr 10, 2021, 01:55 (JST)",
+      "producer": "J.C.Staff",
+      "eps": null,
+      "genres": [
+        "Magic",
+        "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Yu-yu is a boy living in Kanazawa, Kaga Province. He is 15 years old and in his third year of junior high school. He has the ability to sense the feelings of others, but he is troubled by the fact that he cannot say no when asked.\n\nOne day, Yu-yu could no longer stand going along with his sister's hobby, so he ran away from home. The one who saves him is Megumi Okura. Megumi invites Yu-yu to a nighttime amusement park called \"Wonder Hill\" where her friends hang out. At the amusement park, Yu-yu meets Megumi, Zakusa Ishikame, and Tomari Seto, members of \"Team Blackout,\" a group that meets to play Vanguard every night.\n\nTonight, a serious fight for the team's flag will take place. Blackout's leader, Danji Momoyama, and the mysterious and powerful fighter, Touya Ebata. As Yu-yu stares at them, the card fight is soon eroded into a world of images.\n\nThis is how Yu-yu encounters Vanguard, a world he has never seen before, and is drawn in by its powerful allure- making new friends along the way.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1904/111223.jpg",
       "date": "Apr 3, 2021, 08:00 (JST)",
@@ -613,18 +626,6 @@
       "genres": [
         "Action",
         "Game"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "A clear summer sky spreads over the Hoshinomiya Girls' High School. This story begins with the belated start of school life for Hinako Shirai, who has just recovered from a leg injury due to a tragic accident. The magical sisters Yuzu and Lime bestowed her with a special power to become a \"Reflector.\" Hinako transforms into the magical Reflector form and protects the world from devastating forces for the sake of the world, and her own dream that she thought she had to give up on.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1545/111861.jpg",
-      "date": "Apr 10, 2021, 01:55 (JST)",
-      "producer": "J.C.Staff",
-      "eps": null,
-      "genres": [
-        "Magic"
       ],
       "category": "TV (New)"
     },
