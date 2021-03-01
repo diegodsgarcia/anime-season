@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-02-28",
+  "lastUpdate": "2021-03-01",
   "animes": [
     {
       "title": "",
@@ -674,19 +674,6 @@
     },
     {
       "title": "",
-      "description": "Countries all over the world formed an alliance to counter the emerging enemy of mankind \"Neuroi,\" whom only girls with special powers could counter. However, the Neuroi never appeared. Instead of fighting, the witches spend their days idly. This time following not only unit 501, but also unit 502 known as \"Brave Witches!\" The 2nd volume of the comical daily drama of the witches who do not fight Neuroi begins!\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1132/110412.jpg",
-      "date": "Jan 13, 2021, 00:45 (JST)",
-      "producer": "Acca effe, Giga Production",
-      "eps": 12,
-      "genres": [
-        "Military",
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "\"All stars\" season of Show by Rock!! featuring all the bands from previous seasons.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1713/106712.jpg",
       "date": "Jan 7, 2021, 22:00 (JST)",
@@ -694,6 +681,19 @@
       "eps": 12,
       "genres": [
         "Music",
+        "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Countries all over the world formed an alliance to counter the emerging enemy of mankind \"Neuroi,\" whom only girls with special powers could counter. However, the Neuroi never appeared. Instead of fighting, the witches spend their days idly. This time following not only unit 501, but also unit 502 known as \"Brave Witches!\" The 2nd volume of the comical daily drama of the witches who do not fight Neuroi begins!\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1132/110412.jpg",
+      "date": "Jan 13, 2021, 00:45 (JST)",
+      "producer": "Acca effe, Giga Production",
+      "eps": 12,
+      "genres": [
+        "Military",
         "Comedy"
       ],
       "category": "TV (New)"
@@ -1853,20 +1853,6 @@
     },
     {
       "title": "",
-      "description": "A prequel to Cogimyun covering her life at flour school before she runs her grandfather's apartment complex. Episodes air within the \"Millenia Girl\" live action program and then get released for a limited time later in the day on Sanrio's official YouTube channel.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1755/105960.jpg",
-      "date": "Jan 31, 2020, 01:25 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Fantasy",
-        "Kids",
-        "School"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "The story centers on the Seven Gods of Fortune in Japanese mythology as they reside on Awaji Island in Hyogo. In the shorts' story, the Seven Gods of Fortune slack in their duties in heaven, and Susanoo-no-Mikoto banishes them to Awaji Island. In order to return to the heavenly realm, they must help bring happiness to humans and rebuild their virtue. The outcast gods reluctantly grant human wishes and accumulate points in their \"god phones\" to be able to return to heaven. They aim to perform good deeds on particularly auspicious days to maximize point accumulation. Despite their best efforts at accumulating virtue, sometimes the Seven Gods of Fortune end up bringing misfortune to humans. When they fail, they lose points, further prolonging their stay on Awaji Island.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1860/109576.jpg",
       "date": "Oct 5, 2020, 07:30 (JST)",
@@ -1876,6 +1862,20 @@
         "Comedy",
         "Kids",
         "Supernatural"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "A prequel to Cogimyun covering her life at flour school before she runs her grandfather's apartment complex. Episodes air within the \"Millenia Girl\" live action program and then get released for a limited time later in the day on Sanrio's official YouTube channel.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1755/105960.jpg",
+      "date": "Jan 31, 2020, 01:25 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Fantasy",
+        "Kids",
+        "School"
       ],
       "category": "TV (Continuing)"
     },
@@ -2135,16 +2135,13 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1051/110891.jpg",
-      "date": "Jan 31, 2021",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1773/112028.jpg",
+      "date": "Feb 14, 2021",
       "producer": "-",
-      "eps": 4,
+      "eps": 16,
       "genres": [
-        "Action",
-        "Adventure",
-        "Historical",
-        "Martial Arts",
-        "Fantasy"
+        "Fantasy",
+        "Romance"
       ],
       "category": "ONA"
     },
@@ -2165,6 +2162,22 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1051/110891.jpg",
+      "date": "Jan 31, 2021",
+      "producer": "-",
+      "eps": 4,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Historical",
+        "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1094/110890.jpg",
       "date": "Jan 22, 2021",
       "producer": "-",
@@ -2172,19 +2185,6 @@
       "genres": [
         "Action",
         "Drama"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1773/112028.jpg",
-      "date": "Feb 14, 2021",
-      "producer": "-",
-      "eps": 16,
-      "genres": [
-        "Fantasy",
-        "Romance"
       ],
       "category": "ONA"
     },
