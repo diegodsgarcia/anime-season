@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-03-01",
+  "lastUpdate": "2021-03-02",
   "animes": [
     {
       "title": "",
@@ -780,7 +780,7 @@
       "title": "",
       "description": "The anime centers on Manatsu, who moves from her small island birthplace to a city and starts middle school. On the day she moves she meets a mermaid girl named Laura who is looking for the \"legendary warriors,\" the Precures. Laura's hometown, the mermaid country of Grand Ocean, has been attacked by the \"procrastination witch,\" who has stolen the country's \"motivation power.\"\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1184/110907.jpg",
-      "date": "Feb 28, 2021",
+      "date": "Feb 28, 2021, 08:30 (JST)",
       "producer": "Toei Animation",
       "eps": null,
       "genres": [
@@ -1717,6 +1717,20 @@
     },
     {
       "title": "",
+      "description": "The series follows a young girl named Shina who hopes to become the world's best DJ, and is interested in new sounds. Shina explores a mysterious world filled with Otoppe, strange creatures capable of unique sounds.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
+      "date": "Apr 3, 2017, 08:40 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Kids",
+        "Fantasy"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "Fairies living in a fluffy forest, where both flowers and trees are fluffy. Follow a witch's trouble-maker apprentices Pui Pui and Muu Muu.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88145.jpg",
       "date": "Jul 12, 2017",
@@ -1740,20 +1754,6 @@
         "Parody",
         "Kids",
         "Samurai"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "The series follows a young girl named Shina who hopes to become the world's best DJ, and is interested in new sounds. Shina explores a mysterious world filled with Otoppe, strange creatures capable of unique sounds.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
-      "date": "Apr 3, 2017, 08:40 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Kids",
-        "Fantasy"
       ],
       "category": "TV (Continuing)"
     },
@@ -2064,18 +2064,6 @@
     },
     {
       "title": "",
-      "description": "Mini anime where Kuroba introduces Monshiro Town to Haijima, who has returned to Fukui for the first time in a while, released on the official Twitter.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1280/111151.jpg",
-      "date": "Jan 9, 2021",
-      "producer": "-",
-      "eps": 10,
-      "genres": [
-        "Comedy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Yan Wushi had walked a path full of blood and corpses. He did not believe in the good nature of humanity. Even more so, he did not believe that there could be someone with great kindness and sense of justice, who would be so considerate of others without asking anything in return. One day, Shen Qiao, who was the sect leader of Mount Xuandu, the number one Daoist sect under the heavens, was challenged to a duel but somehow fell off the cliff. Yan Wushi happened to pass by down there. Seeing Shen Qiao who was seriously injured to the point of dying, he suddenly came up with a perfect idea… After thousands of autumns, who could stay eternal?\n\n(Source: Novel Updates)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1917/112024.jpg",
       "date": "Feb 8, 2021",
@@ -2086,6 +2074,18 @@
         "Historical",
         "Martial Arts",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Mini anime where Kuroba introduces Monshiro Town to Haijima, who has returned to Fukui for the first time in a while, released on the official Twitter.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1280/111151.jpg",
+      "date": "Jan 9, 2021",
+      "producer": "-",
+      "eps": 10,
+      "genres": [
+        "Comedy"
       ],
       "category": "ONA"
     },
@@ -2134,19 +2134,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1773/112028.jpg",
-      "date": "Feb 14, 2021",
-      "producer": "-",
-      "eps": 16,
-      "genres": [
-        "Fantasy",
-        "Romance"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "The anime is set in the fictional Geso ward in Tokyo, a school city where an app called \"AICis\" is becoming popular. Those who get the app are given supernatural powers, which they use to pursue their own selfish desires, leading to many occurrences of violence and other incidents. The story focuses on a group of detectives who solve cases related to power wielders.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1199/112305.jpg",
       "date": "Feb 13, 2021",
@@ -2156,6 +2143,19 @@
         "Mystery",
         "Supernatural",
         "School"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1773/112028.jpg",
+      "date": "Feb 14, 2021",
+      "producer": "-",
+      "eps": 16,
+      "genres": [
+        "Fantasy",
+        "Romance"
       ],
       "category": "ONA"
     },
@@ -2295,18 +2295,6 @@
     },
     {
       "title": "",
-      "description": "The story follows an office worker Mitsuki who is more devoted to her work than her own personal grooming. She decides to improve her appearance when she discovers that her boss Watanabe is leaving.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1592/112485.jpg",
-      "date": "Feb 8, 2021",
-      "producer": "GEEK TOYS",
-      "eps": 1,
-      "genres": [
-        "Slice of Life"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Second season of Wo Shi Da Shen Shan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1016/112909.jpg",
       "date": "Feb 25, 2021",
@@ -2317,6 +2305,18 @@
         "Martial Arts",
         "Fantasy",
         "Shounen"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The story follows an office worker Mitsuki who is more devoted to her work than her own personal grooming. She decides to improve her appearance when she discovers that her boss Watanabe is leaving.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1592/112485.jpg",
+      "date": "Feb 8, 2021",
+      "producer": "GEEK TOYS",
+      "eps": 1,
+      "genres": [
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2338,18 +2338,18 @@
       "title": "",
       "description": "The July issue of Dear+ has announced that a series of manga serialized in the magazine will get anime adaptations in celebration of the magazine's 20th anniversary. These anime will be collected into an \"in motion\" animation series titled 6 Lovers.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/86278.jpg",
-      "date": "Mar 20, 2021",
+      "date": "Feb 27, 2021",
       "producer": "-",
       "eps": null,
       "genres": [
+        "Slice of Life",
         "Comedy",
+        "Supernatural",
         "Drama",
         "Romance",
         "School",
-        "Shounen Ai",
-        "Slice of Life",
-        "Supernatural",
-        "Yaoi"
+        "Yaoi",
+        "Shounen Ai"
       ],
       "category": "OVA"
     },
@@ -2382,6 +2382,19 @@
     {
       "title": "",
       "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1975/109799.jpg",
+      "date": "Feb 5, 2021",
+      "producer": "T-Rex",
+      "eps": 4,
+      "genres": [
+        "Hentai",
+        "School"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1651/93298.jpg",
       "date": "Jan 19, 2021",
       "producer": "-",
@@ -2391,19 +2404,6 @@
         "Comedy",
         "Police",
         "Seinen"
-      ],
-      "category": "OVA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1975/109799.jpg",
-      "date": "Feb 5, 2021",
-      "producer": "T-Rex",
-      "eps": 4,
-      "genres": [
-        "Hentai",
-        "School"
       ],
       "category": "OVA"
     },
