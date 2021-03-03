@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-03-02",
+  "lastUpdate": "2021-03-03",
   "animes": [
     {
       "title": "",
@@ -170,6 +170,19 @@
     },
     {
       "title": "",
+      "description": "High school student Reki Kyan is passionate about one thing: skateboarding. When night falls, he heads to \"S,\" an illegal underground race inside a mine where skaters compete in highly dangerous situations. After a loss that results in his skateboard being destroyed and his arm being broken, Reki is now incapable of practicing at all.\n\nWhile working, Reki runs into his new classmate, Langa Hasegawa, a half-Canadian and half-Japanese boy with no skateboarding experience whatsoever. Langa is in desperate need of money. After they both visit \"S\" when tasked by Reki's boss, they get into trouble and are forced into a bet that requires Langa to skate in a race. However, the mysterious transfer student holds a trump card that Reki is unaware of, one which might help him win the race in the most unexpected way.\n\n[Written by MAL Rewrite]",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1264/110117.jpg",
+      "date": "Jan 10, 2021, 02:00 (JST)",
+      "producer": "Bones",
+      "eps": 12,
+      "genres": [
+        "Comedy",
+        "Sports"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Fifth season of Nanatsu no Taizai.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1011/111551.jpg",
       "date": "Jan 13, 2021, 17:55 (JST)",
@@ -182,19 +195,6 @@
         "Magic",
         "Fantasy",
         "Shounen"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "High school student Reki Kyan is passionate about one thing: skateboarding. When night falls, he heads to \"S,\" an illegal underground race inside a mine where skaters compete in highly dangerous situations. After a loss that results in his skateboard being destroyed and his arm being broken, Reki is now incapable of practicing at all.\n\nWhile working, Reki runs into his new classmate, Langa Hasegawa, a half-Canadian and half-Japanese boy with no skateboarding experience whatsoever. Langa is in desperate need of money. After they both visit \"S\" when tasked by Reki's boss, they get into trouble and are forced into a bet that requires Langa to skate in a race. However, the mysterious transfer student holds a trump card that Reki is unaware of, one which might help him win the race in the most unexpected way.\n\n[Written by MAL Rewrite]",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1264/110117.jpg",
-      "date": "Jan 10, 2021, 02:00 (JST)",
-      "producer": "Bones",
-      "eps": 12,
-      "genres": [
-        "Comedy",
-        "Sports"
       ],
       "category": "TV (New)"
     },
@@ -521,19 +521,6 @@
     },
     {
       "title": "",
-      "description": "The story follows Rena Yukuhasahi, a reserved office lady and Ryouhei Hachiya, a businessman and fellow colleague. Yukuhasahi appears to be the most reserved girl in the company, but becomes a super beautiful woman when she dresses up. Flustered in the presence of her transformed self, Hachiya insists on taking her out, only to find themselves in front of a love hotel.\n\n(Source: MAL News)\n\nThe standard TV version of the anime debuted on January 4 at 1:00 a.m. on Tokyo MX, while the complete version streamed on the ComicFesta Anime Zone website.\n\nThis entry reflects standard TV version of the anime.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/110273.jpg",
-      "date": "Jan 4, 2021, 01:00 (JST)",
-      "producer": "Studio Hokiboshi",
-      "eps": 8,
-      "genres": [
-        "Romance",
-        "Ecchi"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "This is a slightly peculiar world where the shipgirls live in. A lively and enjoyable school life for girls from different factions will begin at the naval port of Azur Lane. Living out their lives to the fullest, these girls get into various shenanigans—slowly but surely!\n\n(Source: Crunchyroll)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1709/111543.jpg",
       "date": "Jan 12, 2021, 01:00 (JST)",
@@ -544,6 +531,19 @@
         "Sci-Fi",
         "Slice of Life",
         "Comedy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "The story follows Rena Yukuhasahi, a reserved office lady and Ryouhei Hachiya, a businessman and fellow colleague. Yukuhasahi appears to be the most reserved girl in the company, but becomes a super beautiful woman when she dresses up. Flustered in the presence of her transformed self, Hachiya insists on taking her out, only to find themselves in front of a love hotel.\n\n(Source: MAL News)\n\nThe standard TV version of the anime debuted on January 4 at 1:00 a.m. on Tokyo MX, while the complete version streamed on the ComicFesta Anime Zone website.\n\nThis entry reflects standard TV version of the anime.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/110273.jpg",
+      "date": "Jan 4, 2021, 01:00 (JST)",
+      "producer": "Studio Hokiboshi",
+      "eps": 8,
+      "genres": [
+        "Romance",
+        "Ecchi"
       ],
       "category": "TV (New)"
     },
@@ -1717,6 +1717,21 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
+      "date": "Apr 8, 2020, 06:45 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Historical",
+        "Parody",
+        "Kids",
+        "Samurai"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "The series follows a young girl named Shina who hopes to become the world's best DJ, and is interested in new sounds. Shina explores a mysterious world filled with Otoppe, strange creatures capable of unique sounds.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
       "date": "Apr 3, 2017, 08:40 (JST)",
@@ -1739,21 +1754,6 @@
       "genres": [
         "Kids",
         "Fantasy"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
-      "date": "Apr 8, 2020, 06:45 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Historical",
-        "Parody",
-        "Kids",
-        "Samurai"
       ],
       "category": "TV (Continuing)"
     },
@@ -1853,20 +1853,6 @@
     },
     {
       "title": "",
-      "description": "The story centers on the Seven Gods of Fortune in Japanese mythology as they reside on Awaji Island in Hyogo. In the shorts' story, the Seven Gods of Fortune slack in their duties in heaven, and Susanoo-no-Mikoto banishes them to Awaji Island. In order to return to the heavenly realm, they must help bring happiness to humans and rebuild their virtue. The outcast gods reluctantly grant human wishes and accumulate points in their \"god phones\" to be able to return to heaven. They aim to perform good deeds on particularly auspicious days to maximize point accumulation. Despite their best efforts at accumulating virtue, sometimes the Seven Gods of Fortune end up bringing misfortune to humans. When they fail, they lose points, further prolonging their stay on Awaji Island.\n\n(Source: ANN)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1860/109576.jpg",
-      "date": "Oct 5, 2020, 07:30 (JST)",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids",
-        "Supernatural"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "A prequel to Cogimyun covering her life at flour school before she runs her grandfather's apartment complex. Episodes air within the \"Millenia Girl\" live action program and then get released for a limited time later in the day on Sanrio's official YouTube channel.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1755/105960.jpg",
       "date": "Jan 31, 2020, 01:25 (JST)",
@@ -1876,6 +1862,20 @@
         "Fantasy",
         "Kids",
         "School"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "The story centers on the Seven Gods of Fortune in Japanese mythology as they reside on Awaji Island in Hyogo. In the shorts' story, the Seven Gods of Fortune slack in their duties in heaven, and Susanoo-no-Mikoto banishes them to Awaji Island. In order to return to the heavenly realm, they must help bring happiness to humans and rebuild their virtue. The outcast gods reluctantly grant human wishes and accumulate points in their \"god phones\" to be able to return to heaven. They aim to perform good deeds on particularly auspicious days to maximize point accumulation. Despite their best efforts at accumulating virtue, sometimes the Seven Gods of Fortune end up bringing misfortune to humans. When they fail, they lose points, further prolonging their stay on Awaji Island.\n\n(Source: ANN)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1860/109576.jpg",
+      "date": "Oct 5, 2020, 07:30 (JST)",
+      "producer": "-",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids",
+        "Supernatural"
       ],
       "category": "TV (Continuing)"
     },
@@ -2134,6 +2134,19 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1773/112028.jpg",
+      "date": "Feb 14, 2021",
+      "producer": "-",
+      "eps": 16,
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "The anime is set in the fictional Geso ward in Tokyo, a school city where an app called \"AICis\" is becoming popular. Those who get the app are given supernatural powers, which they use to pursue their own selfish desires, leading to many occurrences of violence and other incidents. The story focuses on a group of detectives who solve cases related to power wielders.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1199/112305.jpg",
       "date": "Feb 13, 2021",
@@ -2143,19 +2156,6 @@
         "Mystery",
         "Supernatural",
         "School"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1773/112028.jpg",
-      "date": "Feb 14, 2021",
-      "producer": "-",
-      "eps": 16,
-      "genres": [
-        "Fantasy",
-        "Romance"
       ],
       "category": "ONA"
     },
@@ -2282,19 +2282,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1664/112449.jpg",
-      "date": "Feb 17, 2021",
-      "producer": "Ruo Hong Culture",
-      "eps": 40,
-      "genres": [
-        "Martial Arts",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Second season of Wo Shi Da Shen Shan.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1016/112909.jpg",
       "date": "Feb 25, 2021",
@@ -2305,6 +2292,19 @@
         "Martial Arts",
         "Fantasy",
         "Shounen"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1664/112449.jpg",
+      "date": "Feb 17, 2021",
+      "producer": "Ruo Hong Culture",
+      "eps": 40,
+      "genres": [
+        "Martial Arts",
+        "Fantasy"
       ],
       "category": "ONA"
     },
