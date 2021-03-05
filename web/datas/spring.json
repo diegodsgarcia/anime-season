@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-03-04",
+  "lastUpdate": "2021-03-05",
   "animes": [
     {
       "title": "",
@@ -66,20 +66,6 @@
     },
     {
       "title": "",
-      "description": "Second Season of Zombieland Saga.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1998/110999.jpg",
-      "date": "Apr 9, 2021, 00:00 (JST)",
-      "producer": "MAPPA",
-      "eps": null,
-      "genres": [
-        "Music",
-        "Comedy",
-        "Supernatural"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "It, a mysterious immortal being, is sent to the Earth with no emotions nor identity. However, It is able to take the shape of those around that have a strong impetus.\n \nAt first, It is a sphere. Then, It imitates the form of a rock. As the temperature drops and snow falls atop the moss, It inherits the moss. When an injured, lone wolf comes limping by and lays down to die, It takes on the form of the animal. Finally, It gains consciousness and begins to traverse the empty tundra until It meets a boy.\n \nThe boy lives alone in a ghost town, which the adults abandoned long ago in search of the paradise said to exist far beyond the endless sea of white tundra. However, their efforts were for naught, and now the boy is in a critical state.\n \nAcquiring the form of the boy, It sets off on a never-ending journey, in search of new experiences, places, and people.\n \n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1134/111757.jpg",
       "date": "Apr 12, 2021, 22:50 (JST)",
@@ -90,6 +76,20 @@
         "Supernatural",
         "Drama",
         "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Second Season of Zombieland Saga.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1998/110999.jpg",
+      "date": "Apr 9, 2021, 00:00 (JST)",
+      "producer": "MAPPA",
+      "eps": null,
+      "genres": [
+        "Music",
+        "Comedy",
+        "Supernatural"
       ],
       "category": "TV (New)"
     },
@@ -359,28 +359,15 @@
     },
     {
       "title": "",
-      "description": "In an unexpected turn of events, dull high school student Hiro Yuuki obtains the full dive role-playing game Kiwame Quest. Created by the best of technology, the game claims to take \"reality to its extremes,\" from stunning graphics, NPCs' behavior, to the scent of vegetation, and even the sensation of wind brushing against the skin—everything was the result of an ultimate workmanship.\n\nExcept, the game is a little too realistic and messy to clear. Kiwame Quest features over ten quadrillion flags and reflects the players' real-life physical abilities in the game. Being hit in the game also hurts in real life and slash wounds take days to heal.\n\nThe only reward here is the sense of accomplishment. Conquer the most stressful game in history that can't be played casually!\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1709/110555.jpg",
-      "date": "Apr ??, 2021",
-      "producer": "ENGI",
+      "description": "Set in alternate history Japan in 1931 and the 64th year of the Meiji era, the Tokugawa shogunate was never abolished and Emperor Meiji was never restored to power. The anime will follow the activities of \"Nue,\" an organization of shogunate executioners who enforce the government. The country has developed its own energy source, the \"dragon vein,\" and has achieved a unique development in which science and the Edo period are mixed.\n\nHowever, behind the glamorous city, the dissident organization Kuchinawa strives to overthrow the administration, while the Nue of the Tokugawa regime, who was entrusted with its extermination, are in conflict. Sawa Yukimura, whose family was killed when she was young, continues to search for Janome, the executioner of the Nue.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1525/111736.jpg",
+      "date": "Apr 7, 2021",
+      "producer": "Bakken Record",
       "eps": null,
       "genres": [
         "Action",
-        "Game",
-        "Comedy",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "This series features an original story, which depicts the young geniuses Mei Kamino, a female researcher, and Yun Arikawa, a male engineer, as they take on an unprecedented threat with their companions. When danger comes up from the depths, only young geniuses Mei, Yun, and their team can face the threat in Godzilla Singular Point! \n\n(Source: Netflix)\n\nEach episode was released one week in advance of the TV broadcast beginning on March 25, 2021. Regular TV broadcast began on April 1, 2021.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1828/112581.jpg",
-      "date": "Mar 25, 2021",
-      "producer": "Bones, Orange",
-      "eps": 13,
-      "genres": [
-        "Action"
+        "Historical",
+        "Supernatural"
       ],
       "category": "TV (New)"
     },
@@ -400,15 +387,28 @@
     },
     {
       "title": "",
-      "description": "Set in alternate history Japan in 1931 and the 64th year of the Meiji era, the Tokugawa shogunate was never abolished and Emperor Meiji was never restored to power. The anime will follow the activities of \"Nue,\" an organization of shogunate executioners who enforce the government. The country has developed its own energy source, the \"dragon vein,\" and has achieved a unique development in which science and the Edo period are mixed.\n\nHowever, behind the glamorous city, the dissident organization Kuchinawa strives to overthrow the administration, while the Nue of the Tokugawa regime, who was entrusted with its extermination, are in conflict. Sawa Yukimura, whose family was killed when she was young, continues to search for Janome, the executioner of the Nue.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1525/111736.jpg",
-      "date": "Apr 7, 2021",
-      "producer": "Bakken Record",
+      "description": "This series features an original story, which depicts the young geniuses Mei Kamino, a female researcher, and Yun Arikawa, a male engineer, as they take on an unprecedented threat with their companions. When danger comes up from the depths, only young geniuses Mei, Yun, and their team can face the threat in Godzilla Singular Point! \n\n(Source: Netflix)\n\nEach episode was released one week in advance of the TV broadcast beginning on March 25, 2021. Regular TV broadcast began on April 1, 2021.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1828/112581.jpg",
+      "date": "Mar 25, 2021",
+      "producer": "Bones, Orange",
+      "eps": 13,
+      "genres": [
+        "Action"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "In an unexpected turn of events, dull high school student Hiro Yuuki obtains the full dive role-playing game Kiwame Quest. Created by the best of technology, the game claims to take \"reality to its extremes,\" from stunning graphics, NPCs' behavior, to the scent of vegetation, and even the sensation of wind brushing against the skin—everything was the result of an ultimate workmanship.\n\nExcept, the game is a little too realistic and messy to clear. Kiwame Quest features over ten quadrillion flags and reflects the players' real-life physical abilities in the game. Being hit in the game also hurts in real life and slash wounds take days to heal.\n\nThe only reward here is the sense of accomplishment. Conquer the most stressful game in history that can't be played casually!\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1709/110555.jpg",
+      "date": "Apr ??, 2021",
+      "producer": "ENGI",
       "eps": null,
       "genres": [
         "Action",
-        "Historical",
-        "Supernatural"
+        "Game",
+        "Comedy",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },

@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-03-04",
+  "lastUpdate": "2021-03-05",
   "animes": [
     {
       "title": "",
@@ -2677,19 +2677,6 @@
     },
     {
       "title": "",
-      "description": "A summary of season one of Tensei shitara Slime Datta Ken with some extra content leading into season two.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1670/111154.jpg",
-      "date": "Jan 5, 2021",
-      "producer": "8bit",
-      "eps": 1,
-      "genres": [
-        "Fantasy",
-        "Shounen"
-      ],
-      "category": "Special"
-    },
-    {
-      "title": "",
       "description": "Recap of the first season of Yakusoku no Neverland and the first five episodes of season two.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1097/111813.jpg",
       "date": "Feb 12, 2021",
@@ -2700,6 +2687,19 @@
         "Psychological",
         "Supernatural",
         "Thriller",
+        "Shounen"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "",
+      "description": "A summary of season one of Tensei shitara Slime Datta Ken with some extra content leading into season two.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1670/111154.jpg",
+      "date": "Jan 5, 2021",
+      "producer": "8bit",
+      "eps": 1,
+      "genres": [
+        "Fantasy",
         "Shounen"
       ],
       "category": "Special"
