@@ -1,7 +1,7 @@
 {
   "season": "Winter",
   "year": "2021",
-  "lastUpdate": "2021-03-06",
+  "lastUpdate": "2021-03-07",
   "animes": [
     {
       "title": "",
@@ -229,22 +229,6 @@
     },
     {
       "title": "",
-      "description": "Third season of Log Horizon.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1510/108026.jpg",
-      "date": "Jan 13, 2021, 19:25 (JST)",
-      "producer": "Studio Deen",
-      "eps": 12,
-      "genres": [
-        "Action",
-        "Game",
-        "Adventure",
-        "Magic",
-        "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Despite his noble title, Noir Starga is at the bottom of the social hierarchy. Because of this, his fellow nobles oppress him and treat him like garbage. However, he possesses a rare yet powerful ability to communicate with the Great Sage, an oracle who grants Noir the answer to absolutely anything.\n\nAfter failing to secure a job as a librarian, Noir decides to join the Hero Academy. He knows he must become stronger to enter the institution. The Great Sage advises him to explore a hidden dungeon deep within the mountains. There, Noir meets Olivia Servant, a beautiful yet enchained maiden trapped within the labyrinth. Olivia bestows upon Noir a set of ridiculously powerful skills that grants him virtually total control over reality. Naturally, there is a catch—every time Noir attempts to use his powers, his life points decrease, putting his life at risk. To replenish his energy, he must give in to worldly pleasures such as kissing his childhood friend!\n\nWith his newfound powers, Noir begins his journey as a student in the Hero Academy, meeting new acquaintances and helping them through the dire situations ahead.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1634/111433.jpg",
       "date": "Jan 9, 2021, 02:25 (JST)",
@@ -255,6 +239,22 @@
         "Adventure",
         "Harem",
         "Ecchi",
+        "Fantasy"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Third season of Log Horizon.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1510/108026.jpg",
+      "date": "Jan 13, 2021, 19:25 (JST)",
+      "producer": "Studio Deen",
+      "eps": 12,
+      "genres": [
+        "Action",
+        "Game",
+        "Adventure",
+        "Magic",
         "Fantasy"
       ],
       "category": "TV (New)"
@@ -659,19 +659,6 @@
     },
     {
       "title": "",
-      "description": "\"All stars\" season of Show by Rock!! featuring all the bands from previous seasons.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1713/106712.jpg",
-      "date": "Jan 7, 2021, 22:00 (JST)",
-      "producer": "Kinema Citrus",
-      "eps": 12,
-      "genres": [
-        "Music",
-        "Comedy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
       "description": "Eighth season of Yami Shibai.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1311/110392.jpg",
       "date": "Jan 11, 2021, 03:05 (JST)",
@@ -681,6 +668,19 @@
         "Dementia",
         "Horror",
         "Supernatural"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "\"All stars\" season of Show by Rock!! featuring all the bands from previous seasons.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1713/106712.jpg",
+      "date": "Jan 7, 2021, 22:00 (JST)",
+      "producer": "Kinema Citrus",
+      "eps": 12,
+      "genres": [
+        "Music",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -1489,19 +1489,6 @@
     },
     {
       "title": "",
-      "description": "Story about Kappa with flowers on their heads.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/90503.jpg",
-      "date": "Mar 29, 2010",
-      "producer": "OLM, Xebec",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1117/106742.jpg",
       "date": "Apr 5, 2020, 08:30 (JST)",
@@ -1512,6 +1499,19 @@
         "Adventure",
         "Comedy",
         "Shounen"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
+      "description": "Story about Kappa with flowers on their heads.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/90503.jpg",
+      "date": "Mar 29, 2010",
+      "producer": "OLM, Xebec",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Kids"
       ],
       "category": "TV (Continuing)"
     },
@@ -2119,6 +2119,32 @@
     },
     {
       "title": "",
+      "description": "Original specials aired exclusively on pay-per-view dTV channel.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1994/113273.jpg",
+      "date": "Mar 13, 2021",
+      "producer": "Studio Pierrot",
+      "eps": 3,
+      "genres": [
+        "Comedy",
+        "Parody"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "Original specials aired exclusively on pay-per-view dTV channel.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1068/111880.jpg",
+      "date": "Feb 13, 2021",
+      "producer": "Studio Pierrot",
+      "eps": 3,
+      "genres": [
+        "Comedy",
+        "Parody"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1773/112028.jpg",
       "date": "Feb 14, 2021",
@@ -2175,27 +2201,16 @@
     },
     {
       "title": "",
-      "description": "Original specials aired exclusively on pay-per-view dTV channel.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1994/113273.jpg",
-      "date": "Mar 13, 2021",
-      "producer": "Studio Pierrot",
-      "eps": 3,
+      "description": "In the whole world there lays twelve paths to climb the Tower of God, and in legends these twelve pathways leads toward legendary road of immortality. However these paths in the Tower of God, are far too long, without end.\n\nIn ancient times there once were many types of martial art, sadly the world underwent terrible changes, and only three were left: Flame, Dragon and Star Martial Arts. Generations of experts of those three martial arts are searching for road of immortality.\n\nStar Martial Arts practitioner on his journey of lifetime, with young beauties on the side, plans to become Highest God.\n\n(Source: Novelupdates)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1883/111365.jpg",
+      "date": "Jan 28, 2021",
+      "producer": "Ruo Hong Culture",
+      "eps": 40,
       "genres": [
-        "Comedy",
-        "Parody"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Original specials aired exclusively on pay-per-view dTV channel.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1068/111880.jpg",
-      "date": "Feb 13, 2021",
-      "producer": "Studio Pierrot",
-      "eps": 3,
-      "genres": [
-        "Comedy",
-        "Parody"
+        "Action",
+        "Historical",
+        "Martial Arts",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2214,28 +2229,14 @@
     },
     {
       "title": "",
-      "description": "In the whole world there lays twelve paths to climb the Tower of God, and in legends these twelve pathways leads toward legendary road of immortality. However these paths in the Tower of God, are far too long, without end.\n\nIn ancient times there once were many types of martial art, sadly the world underwent terrible changes, and only three were left: Flame, Dragon and Star Martial Arts. Generations of experts of those three martial arts are searching for road of immortality.\n\nStar Martial Arts practitioner on his journey of lifetime, with young beauties on the side, plans to become Highest God.\n\n(Source: Novelupdates)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1883/111365.jpg",
-      "date": "Jan 28, 2021",
-      "producer": "Ruo Hong Culture",
-      "eps": 40,
+      "description": "A one-minute concept animation that exists within the same world as Summer Ghost.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1388/112416.jpg",
+      "date": "Feb 18, 2021",
+      "producer": "Flat Studio",
+      "eps": 1,
       "genres": [
-        "Action",
-        "Historical",
-        "Martial Arts",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "Mini Mashiro no Oto anime released on the official Twitter account.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1740/111206.jpg",
-      "date": "Jan 15, 2021",
-      "producer": "AQUA ARIS",
-      "eps": null,
-      "genres": [
-        "Slice of Life"
+        "Music",
+        "Drama"
       ],
       "category": "ONA"
     },
@@ -2254,14 +2255,13 @@
     },
     {
       "title": "",
-      "description": "A one-minute concept animation that exists within the same world as Summer Ghost.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1388/112416.jpg",
-      "date": "Feb 18, 2021",
-      "producer": "Flat Studio",
-      "eps": 1,
+      "description": "Mini Mashiro no Oto anime released on the official Twitter account.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1740/111206.jpg",
+      "date": "Jan 15, 2021",
+      "producer": "AQUA ARIS",
+      "eps": null,
       "genres": [
-        "Music",
-        "Drama"
+        "Slice of Life"
       ],
       "category": "ONA"
     },
@@ -2489,6 +2489,20 @@
       "eps": 2,
       "genres": [
         "Hentai"
+      ],
+      "category": "OVA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1236/113306.jpg",
+      "date": "Mar 5, 2021",
+      "producer": "-",
+      "eps": 1,
+      "genres": [
+        "Action",
+        "Cars",
+        "Sports"
       ],
       "category": "OVA"
     },
