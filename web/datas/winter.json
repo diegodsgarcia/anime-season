@@ -2216,19 +2216,6 @@
     },
     {
       "title": "",
-      "description": "A one-minute concept animation that exists within the same world as Summer Ghost.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1388/112416.jpg",
-      "date": "Feb 18, 2021",
-      "producer": "Flat Studio",
-      "eps": 1,
-      "genres": [
-        "Music",
-        "Drama"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1729/111278.jpg",
       "date": "Jan 28, 2021",
@@ -2237,6 +2224,19 @@
       "genres": [
         "Action",
         "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "A one-minute concept animation that exists within the same world as Summer Ghost.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1388/112416.jpg",
+      "date": "Feb 18, 2021",
+      "producer": "Flat Studio",
+      "eps": 1,
+      "genres": [
+        "Music",
+        "Drama"
       ],
       "category": "ONA"
     },
