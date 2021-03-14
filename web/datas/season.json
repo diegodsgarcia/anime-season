@@ -159,7 +159,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1097/109646.jpg",
       "date": "Jan 7, 2021, 00:55 (JST)",
       "producer": "Orange",
-      "eps": null,
+      "eps": 12,
       "genres": [
         "Slice of Life",
         "Psychological",
@@ -590,7 +590,7 @@
     },
     {
       "title": "",
-      "description": "Set five years after the mysterious disaster of a city's sudden disappearance, a group of girls fascinated by the \"Theatrical Material System\" using 3D holograms aims to brighten the stage during the city's post-apocalyptic recovery.\n\n(Source: MAL News)",
+      "description": "Set five years after the mysterious disaster of a city's sudden disappearance, a group of girls fascinated by the \"Theatrical Material System\" using 3D holograms aims to brighten the stage during the city's post-apocalyptic recovery.\n\n(Source: MAL News)\n\nThe BD Box containing all twelve episodes was released on March 3, 2021. Regular broadcast ended on March 29, 2021.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1195/111544.jpg",
       "date": "Jan 5, 2021, 21:00 (JST)",
       "producer": "Hoods Entertainment",
@@ -1006,6 +1006,21 @@
     },
     {
       "title": "",
+      "description": "A long time ago, there was a valiant swordsman who came to be known simply as \"the hero.\" There was a demon who has caused people suffering. The hero and his companions arrived to challenge the demon to a battle and by combining their powers, the battle was brought swift conclusion. With no one around to cause trouble, the island became a quiet place where everyone could live together in peace.\n\nSeveral years later, the demon is revived. Our present-day protagonist, Dai, lives on a remote island in the southern seas and dreams of becoming a great hero. When he hears about the demon's revival, Dai and his friends take it upon themselves to stop him and the evil force that revived him. Along the way, Dai discovers the identity of \"the hero,\" the truth behind the evil force who revived the demon, and Dai's own hidden powers that surface in times of peril.\n\n(Source: MU, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1499/109126.jpg",
+      "date": "Oct 3, 2020, 09:30 (JST)",
+      "producer": "Toei Animation",
+      "eps": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Shounen"
+      ],
+      "category": "TV (Continuing)"
+    },
+    {
+      "title": "",
       "description": "In the year 2020, technology is everywhere. Every digital device around the world is connected by a singular network where data travels. Unbeknownst to humans, this network has become home to life forms known as \"Digimon.\"\n\nFifth-grader Taichi Yagami is preparing for summer camp when strange occurrences begin in Tokyo; certain electronic systems have started going haywire. When he discovers that his sister and mother are trapped on an unstoppable train, he rushes to the nearby station. Suddenly, Taichi is transported to another world where he meets a strange creature by the name of Agumon, who somehow already knows his name. Taichi also receives a strange device called a \"Digivice,\" which allows him to communicate with the undigitized world.\n\nTaichi discovers he is in the \"Network,\" and virus-like Digimon are attacking the areas that maintain Tokyo’s electronic systems. It is up to Taichi and his new partner Agumon to stop these cyberattacks before the whole world is threatened by the actions of mischievous Digimon.\n\n[Written by MAL Rewrite]",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1745/105558.jpg",
       "date": "Apr 5, 2020, 09:00 (JST)",
@@ -1017,21 +1032,6 @@
         "Comedy",
         "Fantasy",
         "Kids"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "A long time ago, there was a valiant swordsman who came to be known simply as \"the hero.\" There was a demon who has caused people suffering. The hero and his companions arrived to challenge the demon to a battle and by combining their powers, the battle was brought swift conclusion. With no one around to cause trouble, the island became a quiet place where everyone could live together in peace.\n\nSeveral years later, the demon is revived. Our present-day protagonist, Dai, lives on a remote island in the southern seas and dreams of becoming a great hero. When he hears about the demon's revival, Dai and his friends take it upon themselves to stop him and the evil force that revived him. Along the way, Dai discovers the identity of \"the hero,\" the truth behind the evil force who revived the demon, and Dai's own hidden powers that surface in times of peril.\n\n(Source: MU, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1499/109126.jpg",
-      "date": "Oct 3, 2020, 09:30 (JST)",
-      "producer": "Toei Animation",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Shounen"
       ],
       "category": "TV (Continuing)"
     },
@@ -2132,19 +2132,6 @@
     },
     {
       "title": "",
-      "description": "The story takes place in Lingshan, where a group of \"hopeless\" people are gathered on the earth. Most of them are poor, vicious, or extremely evil, abandoned by the society in Lingshan. This is where the fourth generation of Kuiba Mi Lin was born. \n\nThe Heavens struggled to find Kuiba to no avail. In order to eliminate Kuiba, the Heavens determined to blast Lingshan into the ground. Mi Lin rose from the predicament, and his spirit gradually awakened souls with flesh and blood in Lingshan. Mi Lin led the Lingshan Army to sweep across the world, against the Heavens, and became the overlord of the world.\n\n(Source: Tencent, translated)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1558/111667.jpg",
-      "date": "Jan 17, 2021",
-      "producer": "Vasoon Animation",
-      "eps": 7,
-      "genres": [
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "The anime is set in the fictional Geso ward in Tokyo, a school city where an app called \"AICis\" is becoming popular. Those who get the app are given supernatural powers, which they use to pursue their own selfish desires, leading to many occurrences of violence and other incidents. The story focuses on a group of detectives who solve cases related to power wielders.\n\n(Source: ANN)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1199/112305.jpg",
       "date": "Feb 13, 2021",
@@ -2154,6 +2141,19 @@
         "Mystery",
         "Supernatural",
         "School"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "The story takes place in Lingshan, where a group of \"hopeless\" people are gathered on the earth. Most of them are poor, vicious, or extremely evil, abandoned by the society in Lingshan. This is where the fourth generation of Kuiba Mi Lin was born. \n\nThe Heavens struggled to find Kuiba to no avail. In order to eliminate Kuiba, the Heavens determined to blast Lingshan into the ground. Mi Lin rose from the predicament, and his spirit gradually awakened souls with flesh and blood in Lingshan. Mi Lin led the Lingshan Army to sweep across the world, against the Heavens, and became the overlord of the world.\n\n(Source: Tencent, translated)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1558/111667.jpg",
+      "date": "Jan 17, 2021",
+      "producer": "Vasoon Animation",
+      "eps": 7,
+      "genres": [
+        "Adventure",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2308,19 +2308,6 @@
     },
     {
       "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1664/112449.jpg",
-      "date": "Feb 17, 2021",
-      "producer": "Ruo Hong Culture",
-      "eps": 40,
-      "genres": [
-        "Martial Arts",
-        "Fantasy"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
       "description": "Fourth season of Fei Ren Zai.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/113241.jpg",
       "date": "Feb 3, 2021",
@@ -2330,6 +2317,19 @@
         "Slice of Life",
         "Comedy",
         "Supernatural"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1664/112449.jpg",
+      "date": "Feb 17, 2021",
+      "producer": "Ruo Hong Culture",
+      "eps": 40,
+      "genres": [
+        "Martial Arts",
+        "Fantasy"
       ],
       "category": "ONA"
     },
@@ -2769,6 +2769,19 @@
         "Comedy",
         "Ecchi",
         "Fantasy"
+      ],
+      "category": "Special"
+    },
+    {
+      "title": "",
+      "description": "Recap of the first 9 episodes of SK∞.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1682/113409.jpg",
+      "date": "Mar 14, 2021",
+      "producer": "Bones",
+      "eps": 1,
+      "genres": [
+        "Comedy",
+        "Sports"
       ],
       "category": "Special"
     },
