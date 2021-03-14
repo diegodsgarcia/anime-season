@@ -1,7 +1,7 @@
 {
   "season": "Spring",
   "year": "2021",
-  "lastUpdate": "2021-03-13",
+  "lastUpdate": "2021-03-14",
   "animes": [
     {
       "title": "",
@@ -98,7 +98,7 @@
       "description": "Final season of Fruits Basket.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1803/113269.jpg",
       "date": "Apr 6, 2021, 01:30 (JST)",
-      "producer": "-",
+      "producer": "TMS Entertainment",
       "eps": null,
       "genres": [
         "Slice of Life",
@@ -107,23 +107,6 @@
         "Drama",
         "Romance",
         "Shoujo"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Second season of Mairimashita! Iruma-kun.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1727/113068.jpg",
-      "date": "Apr 17, 2021, 17:35 (JST)",
-      "producer": "Bandai Namco Pictures",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Demons",
-        "Supernatural",
-        "Fantasy",
-        "School",
-        "Shounen"
       ],
       "category": "TV (New)"
     },
@@ -140,6 +123,23 @@
         "Comedy",
         "Super Power",
         "Supernatural",
+        "Shounen"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
+      "description": "Second season of Mairimashita! Iruma-kun.",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1727/113068.jpg",
+      "date": "Apr 17, 2021, 17:35 (JST)",
+      "producer": "Bandai Namco Pictures",
+      "eps": null,
+      "genres": [
+        "Comedy",
+        "Demons",
+        "Supernatural",
+        "Fantasy",
+        "School",
         "Shounen"
       ],
       "category": "TV (New)"
@@ -250,6 +250,19 @@
     },
     {
       "title": "",
+      "description": "The Republic of San Magnolia.\n\nFor a long time, this country has been besieged by its neighbor, the Giadian Empire, which created a series of unmanned drones called the Legion. After years of painstaking research, the Republic finally developed autonomous drones of their own, turning the one-sided struggle into a war without casualties—or at least, that's what the government claims.\n\nIn truth, there is no such thing as a bloodless war. Beyond the fortified walls protecting the eighty-five Republic territories lies the \"nonexistent\" Eighty-Sixth Sector. The young men and women of this forsaken land are branded the Eighty-Six and, stripped of their humanity, pilot the \"unmanned\" weapons into battle...\n\nShinn directs the actions of a detachment of young Eighty-Sixers while on the battlefield. Lena is a \"handler\" who commands the detachment from the remote rear with the help of special communication.\n\nThe farewell story of the severe and sad struggle of these two begins! \n\n(Source: MU, Yen Press; edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1293/113293.jpg",
+      "date": "Apr 11, 2021, 00:00 (JST)",
+      "producer": "A-1 Pictures",
+      "eps": null,
+      "genres": [
+        "Sci-Fi",
+        "Drama"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "(No synopsis yet.)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1688/107418.jpg",
       "date": "Apr 2, 2021, 22:00 (JST)",
@@ -264,14 +277,15 @@
     },
     {
       "title": "",
-      "description": "The Republic of San Magnolia.\n\nFor a long time, this country has been besieged by its neighbor, the Giadian Empire, which created a series of unmanned drones called the Legion. After years of painstaking research, the Republic finally developed autonomous drones of their own, turning the one-sided struggle into a war without casualties—or at least, that's what the government claims.\n\nIn truth, there is no such thing as a bloodless war. Beyond the fortified walls protecting the eighty-five Republic territories lies the \"nonexistent\" Eighty-Sixth Sector. The young men and women of this forsaken land are branded the Eighty-Six and, stripped of their humanity, pilot the \"unmanned\" weapons into battle...\n\nShinn directs the actions of a detachment of young Eighty-Sixers while on the battlefield. Lena is a \"handler\" who commands the detachment from the remote rear with the help of special communication.\n\nThe farewell story of the severe and sad struggle of these two begins! \n\n(Source: MU, Yen Press; edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1293/113293.jpg",
-      "date": "Apr 11, 2021, 00:00 (JST)",
-      "producer": "A-1 Pictures",
+      "description": "Always bring a gun to a sword fight!\n\nWith world domination nearly in their grasp, the Supreme Leaders of the Kisaragi Corporation—an underground criminal group turned evil megacorp—have decided to try their hands at interstellar conquest. A quick dice roll nominates their chief operative, Combat Agent Six, to be the one to explore an alien planet...and the first thing he does when he gets there is change the sacred incantation for a holy ritual to the most embarrassing thing he can think of.\n\nBut evil deeds are business as usual for Kisaragi operatives, so if Six wants a promotion and a raise, he'll have to work much harder than that! For starters, he'll have to do something about the other group of villains on the planet, who are calling themselves the \"Demon Lord's Army\" or whatever. After all, this world doesn't need two evil organizations! \n\n(Source: Yen Press, edited)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1623/111021.jpg",
+      "date": "Apr 4, 2021, 21:00 (JST)",
+      "producer": "J.C.Staff",
       "eps": null,
       "genres": [
-        "Sci-Fi",
-        "Drama"
+        "Action",
+        "Comedy",
+        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -285,20 +299,6 @@
       "genres": [
         "Comedy",
         "Romance"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "Always bring a gun to a sword fight!\n\nWith world domination nearly in their grasp, the Supreme Leaders of the Kisaragi Corporation—an underground criminal group turned evil megacorp—have decided to try their hands at interstellar conquest. A quick dice roll nominates their chief operative, Combat Agent Six, to be the one to explore an alien planet...and the first thing he does when he gets there is change the sacred incantation for a holy ritual to the most embarrassing thing he can think of.\n\nBut evil deeds are business as usual for Kisaragi operatives, so if Six wants a promotion and a raise, he'll have to work much harder than that! For starters, he'll have to do something about the other group of villains on the planet, who are calling themselves the \"Demon Lord's Army\" or whatever. After all, this world doesn't need two evil organizations! \n\n(Source: Yen Press, edited)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1623/111021.jpg",
-      "date": "Apr 4, 2021, 21:00 (JST)",
-      "producer": "J.C.Staff",
-      "eps": null,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Fantasy"
       ],
       "category": "TV (New)"
     },
@@ -560,6 +560,19 @@
     },
     {
       "title": "",
+      "description": "A clear summer sky spreads over the Hoshinomiya Girls' High School. This story begins with the belated start of school life for Hinako Shirai, who has just recovered from a leg injury due to a tragic accident. The magical sisters Yuzu and Lime bestowed her with a special power to become a \"Reflector.\" Hinako transforms into the magical Reflector form and protects the world from devastating forces for the sake of the world, and her own dream that she thought she had to give up on.\n\n(Source: MAL News)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1545/111861.jpg",
+      "date": "Apr 10, 2021, 01:55 (JST)",
+      "producer": "J.C.Staff",
+      "eps": null,
+      "genres": [
+        "Magic",
+        "School"
+      ],
+      "category": "TV (New)"
+    },
+    {
+      "title": "",
       "description": "Seven Knights Revolution: Eiyuu no Keishousha is set in a world where eons ago valiant heroes fought against the forces of \"Destruction.\" While their deeds passed into legend, the power of these heroes was later inherited by \"successors\" who fought to protect the world. One day, Faria, a successor of the Seven Knights, saves an ordinary boy named Nemo from the forces of Destruction.\n\nDuring the ensuing battle, Nemo summons the power of a hero and becomes a successor as well. However, Nemo's hero is a stranger that is unknown to history, and so an epic journey where the past and present collide begins. \n\n(Source: Crunchyroll, edited)",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1552/112017.jpg",
       "date": "Apr ??, 2021",
@@ -570,19 +583,6 @@
         "Adventure",
         "Magic",
         "Fantasy"
-      ],
-      "category": "TV (New)"
-    },
-    {
-      "title": "",
-      "description": "A clear summer sky spreads over the Hoshinomiya Girls' High School. This story begins with the belated start of school life for Hinako Shirai, who has just recovered from a leg injury due to a tragic accident. The magical sisters Yuzu and Lime bestowed her with a special power to become a \"Reflector.\" Hinako transforms into the magical Reflector form and protects the world from devastating forces for the sake of the world, and her own dream that she thought she had to give up on.\n\n(Source: MAL News)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1545/111861.jpg",
-      "date": "Apr 10, 2021, 01:55 (JST)",
-      "producer": "J.C.Staff",
-      "eps": null,
-      "genres": [
-        "Magic",
-        "School"
       ],
       "category": "TV (New)"
     },
