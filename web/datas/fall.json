@@ -512,10 +512,10 @@
       "producer": "CANDY BOX, Yostar Pictures",
       "eps": 12,
       "genres": [
-        "Comedy",
         "Military",
         "Sci-Fi",
-        "Slice of Life"
+        "Slice of Life",
+        "Comedy"
       ],
       "category": "TV (New)"
     },
@@ -1398,7 +1398,7 @@
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1276/104362.jpg",
       "date": "Dec 27, 2019, 18:25 (JST)",
       "producer": "OLM",
-      "eps": null,
+      "eps": 63,
       "genres": [
         "Comedy",
         "Demons",
@@ -1819,20 +1819,6 @@
         "Comedy",
         "Kids",
         "Parody"
-      ],
-      "category": "TV (Continuing)"
-    },
-    {
-      "title": "",
-      "description": "Second season of Lalalacoco.",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1354/107937.jpg",
-      "date": "Jul 6, 2020",
-      "producer": "-",
-      "eps": null,
-      "genres": [
-        "Comedy",
-        "Kids",
-        "Slice of Life"
       ],
       "category": "TV (Continuing)"
     },
@@ -2308,6 +2294,19 @@
     },
     {
       "title": "",
+      "description": "(No synopsis yet.)",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1664/112449.jpg",
+      "date": "Feb 17, 2021",
+      "producer": "Ruo Hong Culture",
+      "eps": 40,
+      "genres": [
+        "Martial Arts",
+        "Fantasy"
+      ],
+      "category": "ONA"
+    },
+    {
+      "title": "",
       "description": "Fourth season of Fei Ren Zai.",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/113241.jpg",
       "date": "Feb 3, 2021",
@@ -2317,19 +2316,6 @@
         "Slice of Life",
         "Comedy",
         "Supernatural"
-      ],
-      "category": "ONA"
-    },
-    {
-      "title": "",
-      "description": "(No synopsis yet.)",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1664/112449.jpg",
-      "date": "Feb 17, 2021",
-      "producer": "Ruo Hong Culture",
-      "eps": 40,
-      "genres": [
-        "Martial Arts",
-        "Fantasy"
       ],
       "category": "ONA"
     },
