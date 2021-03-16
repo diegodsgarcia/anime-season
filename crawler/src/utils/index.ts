@@ -43,13 +43,7 @@ function getCategory($) {
 
 function formatEp(ep) {
   const [number] = ep.split(' ')
-  const result = Number(number)
-
-  if (!Number.isNaN(result)) {
-    return Number(number)
-  } else {
-    return null
-  }
+  return Number(number)
 }
 
 function convertToJson(animes, fileName) {
