@@ -29,6 +29,7 @@ function formatSeasonAnimes($) {
   const dates = getSeasonInfo($, '.remain-time')
   const producers = getSeasonInfo($, '.producer')
   const eps = getSeasonInfo($, '.eps').map(formatEp)
+  const scores = getSeasonInfo($, '.score-label')
   const genres = getSeasonsGenres($)
   const categories = getCategory($)
 
@@ -42,6 +43,7 @@ function formatSeasonAnimes($) {
       date: dates[i],
       producer: producers[i],
       eps: eps[i],
+      score: scores[i],
       genres: genres[i],
       category: categories[i],
     })),
