@@ -22,7 +22,7 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-      - run: cd crawler && npm install && npm start
+      - run: cd crawler && npm install && npm build && npm start
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: EndBug/add-and-commit@v4
